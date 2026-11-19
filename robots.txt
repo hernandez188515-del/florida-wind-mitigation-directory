@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hernandez188515-del.github.io/florida-wind-mitigation-directory/sitemap.xml
