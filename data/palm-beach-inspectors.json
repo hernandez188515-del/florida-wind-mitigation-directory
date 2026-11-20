@@ -1,0 +1,4845 @@
+{
+  "source": {
+    "agency": "Florida Department of Business and Professional Regulation",
+    "professionPage": "https://www2.myfloridalicense.com/home-inspectors/public-records/",
+    "file": "https://www2.myfloridalicense.com/sto/file_download/extracts/lic04home.csv",
+    "readme": "https://www2.myfloridalicense.com/sto/documents/readme.pdf",
+    "downloaded": "2026-11-19",
+    "timezone": "America/New_York",
+    "sha256": "9e692086a719f4c2dbc4d24c293f5ae8aa7a4ddd06cc5eb1e9c487f857ca3678",
+    "bytes": 1624454,
+    "filters": "Occupation HI; Primary Status C (Current); Secondary Status A (Active); County Code 60 (Palm Beach). Street addresses omitted. Rows whose city is predominantly coded to another county in the statewide file are listed separately.",
+    "statewideCurrentActiveHI": 7816,
+    "palmBeachCountyCode60": 482,
+    "palmBeachInTable": 478,
+    "flaggedCityMismatch": 4
+  },
+  "inspectors": [
+    {
+      "name": "CORNELL, RICHARD STANLEY",
+      "city": "Atlantis",
+      "zip": "33462",
+      "license": "HI467",
+      "licenseNumber": "0000467",
+      "status": "Current / Active",
+      "licensed": "10/19/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ALTMAN, HAGAI",
+      "city": "Boca Raton",
+      "zip": "33498",
+      "license": "HI6550",
+      "licenseNumber": "0006550",
+      "status": "Current / Active",
+      "licensed": "06/20/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ANDREW, STEVEN ALAN",
+      "city": "Boca Raton",
+      "zip": "33428",
+      "license": "HI4079",
+      "licenseNumber": "0004079",
+      "status": "Current / Active",
+      "licensed": "03/31/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ANTONOV, MAXIM",
+      "city": "Boca Raton",
+      "zip": "33434",
+      "license": "HI13984",
+      "licenseNumber": "0013984",
+      "status": "Current / Active",
+      "licensed": "06/23/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ASCANO, JUAN RAMON",
+      "city": "Boca Raton",
+      "zip": "33433",
+      "license": "HI6958",
+      "licenseNumber": "0006958",
+      "status": "Current / Active",
+      "licensed": "07/03/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BAR CHAIM, BARAK",
+      "city": "Boca Raton",
+      "zip": "33433",
+      "license": "HI18989",
+      "licenseNumber": "0018989",
+      "status": "Current / Active",
+      "licensed": "08/07/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BARON, GREGORY D JR",
+      "city": "Boca Raton",
+      "zip": "33486",
+      "license": "HI1919",
+      "licenseNumber": "0001919",
+      "status": "Current / Active",
+      "licensed": "02/23/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BARRA, GERARD",
+      "city": "Boca Raton",
+      "zip": "33487",
+      "license": "HI2382",
+      "licenseNumber": "0002382",
+      "status": "Current / Active",
+      "licensed": "03/03/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BAS, ALEXANDER",
+      "city": "Boca Raton",
+      "zip": "33428",
+      "license": "HI9706",
+      "licenseNumber": "0009706",
+      "status": "Current / Active",
+      "licensed": "06/27/2016",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BRUSCO, JOSEPH MICHAEL",
+      "city": "Boca Raton",
+      "zip": "33496",
+      "license": "HI18226",
+      "licenseNumber": "0018226",
+      "status": "Current / Active",
+      "licensed": "08/18/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BURTON, CHRISTOPHER",
+      "city": "Boca Raton",
+      "zip": "33434",
+      "license": "HI11375",
+      "licenseNumber": "0011375",
+      "status": "Current / Active",
+      "licensed": "08/15/2018",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CAMPBELL, DAVID",
+      "city": "Boca Raton",
+      "zip": "33433",
+      "license": "HI14279",
+      "licenseNumber": "0014279",
+      "status": "Current / Active",
+      "licensed": "09/09/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CASELLA, MICHAEL",
+      "city": "Boca Raton",
+      "zip": "33498",
+      "license": "HI432",
+      "licenseNumber": "0000432",
+      "status": "Current / Active",
+      "licensed": "10/14/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CHRISTIE, RHETT H",
+      "city": "Boca Raton",
+      "zip": "33431",
+      "license": "HI4764",
+      "licenseNumber": "0004764",
+      "status": "Current / Active",
+      "licensed": "09/01/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CHUSID, ROBERT",
+      "city": "Boca Raton",
+      "zip": "33433",
+      "license": "HI13687",
+      "licenseNumber": "0013687",
+      "status": "Current / Active",
+      "licensed": "04/08/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CLINE, ROBERT J",
+      "city": "Boca Raton",
+      "zip": "33487",
+      "license": "HI9549",
+      "licenseNumber": "0009549",
+      "status": "Current / Active",
+      "licensed": "04/05/2016",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "COLANDREA, ANTHONY",
+      "city": "Boca Raton",
+      "zip": "33487",
+      "license": "HI7999",
+      "licenseNumber": "0007999",
+      "status": "Current / Active",
+      "licensed": "09/30/2013",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CONDON, ANTHONY ROBERT",
+      "city": "Boca Raton",
+      "zip": "33433",
+      "license": "HI12917",
+      "licenseNumber": "0012917",
+      "status": "Current / Active",
+      "licensed": "08/11/2020",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "COURCHENE, PAUL LUC",
+      "city": "Boca Raton",
+      "zip": "33487",
+      "license": "HI6324",
+      "licenseNumber": "0006324",
+      "status": "Current / Active",
+      "licensed": "06/07/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "DAUGHERTY, THOMAS WILLIAM",
+      "city": "Boca Raton",
+      "zip": "33433",
+      "license": "HI4997",
+      "licenseNumber": "0004997",
+      "status": "Current / Active",
+      "licensed": "11/03/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "DOMVILLE, MARK",
+      "city": "Boca Raton",
+      "zip": "33498",
+      "license": "HI17847",
+      "licenseNumber": "0017847",
+      "status": "Current / Active",
+      "licensed": "03/03/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "DUVAL, CHARLES F",
+      "city": "Boca Raton",
+      "zip": "33486",
+      "license": "HI8087",
+      "licenseNumber": "0008087",
+      "status": "Current / Active",
+      "licensed": "12/06/2013",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ESTEVEZ, CHADD",
+      "city": "Boca Raton",
+      "zip": "33431",
+      "license": "HI16990",
+      "licenseNumber": "0016990",
+      "status": "Current / Active",
+      "licensed": "02/15/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "FELDI, JOSEPH A",
+      "city": "Boca Raton",
+      "zip": "33431",
+      "license": "HI990",
+      "licenseNumber": "0000990",
+      "status": "Current / Active",
+      "licensed": "01/07/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "FINGER, LOTHAR",
+      "city": "Boca Raton",
+      "zip": "33496",
+      "license": "HI18240",
+      "licenseNumber": "0018240",
+      "status": "Current / Active",
+      "licensed": "08/21/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "FORERO, IVAN A",
+      "city": "Boca Raton",
+      "zip": "33433",
+      "license": "HI425",
+      "licenseNumber": "0000425",
+      "status": "Current / Active",
+      "licensed": "10/13/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "GARRIDO, CRISTHIAN ALAIN",
+      "city": "Boca Raton",
+      "zip": "33433",
+      "license": "HI10932",
+      "licenseNumber": "0010932",
+      "status": "Current / Active",
+      "licensed": "03/07/2018",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "GAUTREAUX, HECTOR",
+      "city": "Boca Raton",
+      "zip": "33433",
+      "license": "HI6192",
+      "licenseNumber": "0006192",
+      "status": "Current / Active",
+      "licensed": "05/24/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "GEORGARAS, STAVROS STANLEY III",
+      "city": "Boca Raton",
+      "zip": "33428",
+      "license": "HI18172",
+      "licenseNumber": "0018172",
+      "status": "Current / Active",
+      "licensed": "07/14/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HEFFNER, HARALD MANFRED",
+      "city": "Boca Raton",
+      "zip": "33433",
+      "license": "HI5031",
+      "licenseNumber": "0005031",
+      "status": "Current / Active",
+      "licensed": "11/10/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ILCHERT, RICHARD J.",
+      "city": "Boca Raton",
+      "zip": "33432",
+      "license": "HI6968",
+      "licenseNumber": "0006968",
+      "status": "Current / Active",
+      "licensed": "07/03/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "JIHA, JACQUES MARIE",
+      "city": "Boca Raton",
+      "zip": "33434",
+      "license": "HI14540",
+      "licenseNumber": "0014540",
+      "status": "Current / Active",
+      "licensed": "11/19/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "KORNGOLD, BEN A",
+      "city": "Boca Raton",
+      "zip": "33433",
+      "license": "HI15572",
+      "licenseNumber": "0015572",
+      "status": "Current / Active",
+      "licensed": "09/16/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "KRAWIEC, ERIC",
+      "city": "Boca Raton",
+      "zip": "33486",
+      "license": "HI12612",
+      "licenseNumber": "0012612",
+      "status": "Current / Active",
+      "licensed": "03/06/2020",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "KUENZLER, ROBERT PASQUALE",
+      "city": "Boca Raton",
+      "zip": "33431",
+      "license": "HI12156",
+      "licenseNumber": "0012156",
+      "status": "Current / Active",
+      "licensed": "07/30/2019",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "LANGUIRAND, JOSEPH WINTERHAWK",
+      "city": "Boca Raton",
+      "zip": "33486",
+      "license": "HI19033",
+      "licenseNumber": "0019033",
+      "status": "Current / Active",
+      "licensed": "08/27/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "LAURENT, GREG JAMAL",
+      "city": "Boca Raton",
+      "zip": "33496",
+      "license": "HI14573",
+      "licenseNumber": "0014573",
+      "status": "Current / Active",
+      "licensed": "11/24/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "LEUCUTA, GEORGE L",
+      "city": "Boca Raton",
+      "zip": "33433",
+      "license": "HI1267",
+      "licenseNumber": "0001267",
+      "status": "Current / Active",
+      "licensed": "01/31/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "LEVINE, PAUL J",
+      "city": "Boca Raton",
+      "zip": "33428",
+      "license": "HI3857",
+      "licenseNumber": "0003857",
+      "status": "Current / Active",
+      "licensed": "03/24/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "LEVY, ABRAHAM",
+      "city": "Boca Raton",
+      "zip": "33498",
+      "license": "HI15676",
+      "licenseNumber": "0015676",
+      "status": "Current / Active",
+      "licensed": "10/20/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "LOVERDE, THOMAS SALVATORE",
+      "city": "Boca Raton",
+      "zip": "33496",
+      "license": "HI9208",
+      "licenseNumber": "0009208",
+      "status": "Current / Active",
+      "licensed": "10/19/2015",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MACLAREN, DANIEL",
+      "city": "Boca Raton",
+      "zip": "33498",
+      "license": "HI18636",
+      "licenseNumber": "0018636",
+      "status": "Current / Active",
+      "licensed": "03/17/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MANNING, GREGORY D",
+      "city": "Boca Raton",
+      "zip": "33486",
+      "license": "HI423",
+      "licenseNumber": "0000423",
+      "status": "Current / Active",
+      "licensed": "10/13/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MARTINEZ, OSCAR ALFREDO",
+      "city": "Boca Raton",
+      "zip": "33428",
+      "license": "HI9020",
+      "licenseNumber": "0009020",
+      "status": "Current / Active",
+      "licensed": "07/24/2015",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MCNEAL, KEITH S",
+      "city": "Boca Raton",
+      "zip": "33428",
+      "license": "HI6310",
+      "licenseNumber": "0006310",
+      "status": "Current / Active",
+      "licensed": "06/06/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MENEZES, JOSE ANGELO",
+      "city": "Boca Raton",
+      "zip": "33428",
+      "license": "HI9467",
+      "licenseNumber": "0009467",
+      "status": "Current / Active",
+      "licensed": "03/01/2016",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "METZGER, ANDREW THOMAS",
+      "city": "Boca Raton",
+      "zip": "33428",
+      "license": "HI16870",
+      "licenseNumber": "0016870",
+      "status": "Current / Active",
+      "licensed": "01/04/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MEYER, ROBERT P",
+      "city": "Boca Raton",
+      "zip": "33433",
+      "license": "HI7341",
+      "licenseNumber": "0007341",
+      "status": "Current / Active",
+      "licensed": "07/16/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MILLIGAN, MATTHEW JON",
+      "city": "Boca Raton",
+      "zip": "33433",
+      "license": "HI16996",
+      "licenseNumber": "0016996",
+      "status": "Current / Active",
+      "licensed": "02/16/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MOHAMMED, IDREECE",
+      "city": "Boca Raton",
+      "zip": "33433",
+      "license": "HI3302",
+      "licenseNumber": "0003302",
+      "status": "Current / Active",
+      "licensed": "03/15/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MOOKLAL, KRISTINA",
+      "city": "Boca Raton",
+      "zip": "33486",
+      "license": "HI516",
+      "licenseNumber": "0000516",
+      "status": "Current / Active",
+      "licensed": "10/27/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MORENO ORTIZ, CARLOS PATRICIO",
+      "city": "Boca Raton",
+      "zip": "33431",
+      "license": "HI19161",
+      "licenseNumber": "0019161",
+      "status": "Current / Active",
+      "licensed": "10/28/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MORONE, PATRICK STEVEN",
+      "city": "Boca Raton",
+      "zip": "33431",
+      "license": "HI4932",
+      "licenseNumber": "0004932",
+      "status": "Current / Active",
+      "licensed": "10/18/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "NELSON, JARED ERNEST",
+      "city": "Boca Raton",
+      "zip": "33428",
+      "license": "HI8418",
+      "licenseNumber": "0008418",
+      "status": "Current / Active",
+      "licensed": "07/09/2014",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "NIXON, MARK PETER",
+      "city": "Boca Raton",
+      "zip": "33431",
+      "license": "HI6080",
+      "licenseNumber": "0006080",
+      "status": "Current / Active",
+      "licensed": "05/10/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "NOVAK, MICHAEL MAX",
+      "city": "Boca Raton",
+      "zip": "33428",
+      "license": "HI12253",
+      "licenseNumber": "0012253",
+      "status": "Current / Active",
+      "licensed": "09/16/2019",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "OGILBEE, WILLIAM ROGER",
+      "city": "Boca Raton",
+      "zip": "33487",
+      "license": "HI6320",
+      "licenseNumber": "0006320",
+      "status": "Current / Active",
+      "licensed": "06/07/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ORTIZ LUZURIAGA, DANIEL HERNAN",
+      "city": "Boca Raton",
+      "zip": "33433",
+      "license": "HI18919",
+      "licenseNumber": "0018919",
+      "status": "Current / Active",
+      "licensed": "07/13/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "PALA, JOHN P",
+      "city": "Boca Raton",
+      "zip": "33431",
+      "license": "HI7581",
+      "licenseNumber": "0007581",
+      "status": "Current / Active",
+      "licensed": "10/02/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "PARANSKY, IGOR",
+      "city": "Boca Raton",
+      "zip": "33428",
+      "license": "HI18137",
+      "licenseNumber": "0018137",
+      "status": "Current / Active",
+      "licensed": "06/30/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "PARDO, CRISTOBAL",
+      "city": "Boca Raton",
+      "zip": "33431",
+      "license": "HI1649",
+      "licenseNumber": "0001649",
+      "status": "Current / Active",
+      "licensed": "02/16/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "PONTILLO, ALEXANDER",
+      "city": "Boca Raton",
+      "zip": "33431",
+      "license": "HI14149",
+      "licenseNumber": "0014149",
+      "status": "Current / Active",
+      "licensed": "08/10/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "RIBEIRO, DAVID",
+      "city": "Boca Raton",
+      "zip": "33498",
+      "license": "HI8903",
+      "licenseNumber": "0008903",
+      "status": "Current / Active",
+      "licensed": "05/15/2015",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "RIBEIRO, PHILLIP",
+      "city": "Boca Raton",
+      "zip": "33498",
+      "license": "HI13355",
+      "licenseNumber": "0013355",
+      "status": "Current / Active",
+      "licensed": "01/08/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "RILEY, JAMIE JAY",
+      "city": "Boca Raton",
+      "zip": "33496",
+      "license": "HI9195",
+      "licenseNumber": "0009195",
+      "status": "Current / Active",
+      "licensed": "10/08/2015",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ROCHA, SERGIO LIMA",
+      "city": "Boca Raton",
+      "zip": "33433",
+      "license": "HI9580",
+      "licenseNumber": "0009580",
+      "status": "Current / Active",
+      "licensed": "04/20/2016",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "RODRIGUEZ, JOSE LUIS",
+      "city": "Boca Raton",
+      "zip": "33421",
+      "license": "HI18652",
+      "licenseNumber": "0018652",
+      "status": "Current / Active",
+      "licensed": "03/25/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ROGOFF, VICTOR",
+      "city": "Boca Raton",
+      "zip": "33486",
+      "license": "HI18142",
+      "licenseNumber": "0018142",
+      "status": "Current / Active",
+      "licensed": "07/01/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "RUBIN, STEVEN BRUCE",
+      "city": "Boca Raton",
+      "zip": "33487",
+      "license": "HI1480",
+      "licenseNumber": "0001480",
+      "status": "Current / Active",
+      "licensed": "02/10/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "RUGGIERI, MARC J",
+      "city": "Boca Raton",
+      "zip": "33434",
+      "license": "HI10790",
+      "licenseNumber": "0010790",
+      "status": "Current / Active",
+      "licensed": "12/26/2017",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SESSOMS, LEE WALTER",
+      "city": "Boca Raton",
+      "zip": "33432",
+      "license": "HI5641",
+      "licenseNumber": "0005641",
+      "status": "Current / Active",
+      "licensed": "03/20/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SMITH, ALEXANDER PETERSON III",
+      "city": "Boca Raton",
+      "zip": "33486",
+      "license": "HI17877",
+      "licenseNumber": "0017877",
+      "status": "Current / Active",
+      "licensed": "03/12/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SPENCE, MATT LAMPERT",
+      "city": "Boca Raton",
+      "zip": "33486",
+      "license": "HI864",
+      "licenseNumber": "0000864",
+      "status": "Current / Active",
+      "licensed": "12/21/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "STRANO, JEROME",
+      "city": "Boca Raton",
+      "zip": "33431",
+      "license": "HI4757",
+      "licenseNumber": "0004757",
+      "status": "Current / Active",
+      "licensed": "08/31/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "STRANO, MICHAEL",
+      "city": "Boca Raton",
+      "zip": "33496",
+      "license": "HI9693",
+      "licenseNumber": "0009693",
+      "status": "Current / Active",
+      "licensed": "06/21/2016",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SUFRIN, DOVID LEIVI",
+      "city": "Boca Raton",
+      "zip": "33487",
+      "license": "HI6722",
+      "licenseNumber": "0006722",
+      "status": "Current / Active",
+      "licensed": "06/26/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "TAJALLI, RAHIM",
+      "city": "Boca Raton",
+      "zip": "33433",
+      "license": "HI7182",
+      "licenseNumber": "0007182",
+      "status": "Current / Active",
+      "licensed": "07/09/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "TAYLOR, CAMERON JERMAINE",
+      "city": "Boca Raton",
+      "zip": "33428",
+      "license": "HI13710",
+      "licenseNumber": "0013710",
+      "status": "Current / Active",
+      "licensed": "04/13/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "TAYLOR, GROSSETT A JR",
+      "city": "Boca Raton",
+      "zip": "33498",
+      "license": "HI1084",
+      "licenseNumber": "0001084",
+      "status": "Current / Active",
+      "licensed": "01/18/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "TAYLOR, JORDAN TYRESE",
+      "city": "Boca Raton",
+      "zip": "33428",
+      "license": "HI13724",
+      "licenseNumber": "0013724",
+      "status": "Current / Active",
+      "licensed": "04/16/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "TESHER, LAWRENCE K",
+      "city": "Boca Raton",
+      "zip": "33486",
+      "license": "HI2492",
+      "licenseNumber": "0002492",
+      "status": "Current / Active",
+      "licensed": "03/03/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "WALLS, BRADLEY MICHAEL",
+      "city": "Boca Raton",
+      "zip": "33498",
+      "license": "HI8185",
+      "licenseNumber": "0008185",
+      "status": "Current / Active",
+      "licensed": "02/20/2014",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "WIECZOREK, MARK DOUGLAS",
+      "city": "Boca Raton",
+      "zip": "33496",
+      "license": "HI12339",
+      "licenseNumber": "0012339",
+      "status": "Current / Active",
+      "licensed": "10/28/2019",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "WINTER, JEFFREY FRANK",
+      "city": "Boca Raton",
+      "zip": "33486",
+      "license": "HI2065",
+      "licenseNumber": "0002065",
+      "status": "Current / Active",
+      "licensed": "02/25/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "WOJCICCHON, FABIAN EUGENIO",
+      "city": "Boca Raton",
+      "zip": "33433",
+      "license": "HI5160",
+      "licenseNumber": "0005160",
+      "status": "Current / Active",
+      "licensed": "12/21/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "WOMER, ERIC SCOTT",
+      "city": "Boca Raton",
+      "zip": "33498",
+      "license": "HI10441",
+      "licenseNumber": "0010441",
+      "status": "Current / Active",
+      "licensed": "06/22/2017",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "WRIGHT, STEVEN",
+      "city": "Boca Raton",
+      "zip": "33487",
+      "license": "HI4609",
+      "licenseNumber": "0004609",
+      "status": "Current / Active",
+      "licensed": "07/11/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "YASUDA, EDUARDO H",
+      "city": "Boca Raton",
+      "zip": "33428",
+      "license": "HI13341",
+      "licenseNumber": "0013341",
+      "status": "Current / Active",
+      "licensed": "01/05/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ZAMBRANO, MARIO",
+      "city": "Boca Raton",
+      "zip": "33433",
+      "license": "HI16665",
+      "licenseNumber": "0016665",
+      "status": "Current / Active",
+      "licensed": "09/28/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ZUSSMAN, YAIR",
+      "city": "Boca Raton",
+      "zip": "33431",
+      "license": "HI11861",
+      "licenseNumber": "0011861",
+      "status": "Current / Active",
+      "licensed": "03/11/2019",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ANDRES, RAUL",
+      "city": "Boynton Beach",
+      "zip": "33473",
+      "license": "HI14632",
+      "licenseNumber": "0014632",
+      "status": "Current / Active",
+      "licensed": "12/13/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BERGHELL, MICHAEL ROBERT",
+      "city": "Boynton Beach",
+      "zip": "33436",
+      "license": "HI13623",
+      "licenseNumber": "0013623",
+      "status": "Current / Active",
+      "licensed": "03/19/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BLAKE, HUSANI A",
+      "city": "Boynton Beach",
+      "zip": "33437",
+      "license": "HI18351",
+      "licenseNumber": "0018351",
+      "status": "Current / Active",
+      "licensed": "10/09/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CABALLERO, JOEY EMILIO",
+      "city": "Boynton Beach",
+      "zip": "33472",
+      "license": "HI137",
+      "licenseNumber": "0000137",
+      "status": "Current / Active",
+      "licensed": "08/11/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CARHART, JASON B",
+      "city": "Boynton Beach",
+      "zip": "33473",
+      "license": "HI13339",
+      "licenseNumber": "0013339",
+      "status": "Current / Active",
+      "licensed": "01/04/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CARTWRIGHT, BRADLEY WAYDE",
+      "city": "Boynton Beach",
+      "zip": "33472",
+      "license": "HI8014",
+      "licenseNumber": "0008014",
+      "status": "Current / Active",
+      "licensed": "10/14/2013",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "COHEN, BARRY",
+      "city": "Boynton Beach",
+      "zip": "33435",
+      "license": "HI17154",
+      "licenseNumber": "0017154",
+      "status": "Current / Active",
+      "licensed": "04/12/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CULLISON, JOSHUA DONN",
+      "city": "Boynton Beach",
+      "zip": "33472",
+      "license": "HI17633",
+      "licenseNumber": "0017633",
+      "status": "Current / Active",
+      "licensed": "11/04/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "DELORME , LENCE",
+      "city": "Boynton Beach",
+      "zip": "33435",
+      "license": "HI18395",
+      "licenseNumber": "0018395",
+      "status": "Current / Active",
+      "licensed": "11/04/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "DOMOND, DOROTHEA RENEE",
+      "city": "Boynton Beach",
+      "zip": "33435",
+      "license": "HI4299",
+      "licenseNumber": "0004299",
+      "status": "Current / Active",
+      "licensed": "04/11/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "DOYLE, KEVIN MICHAEL",
+      "city": "Boynton Beach",
+      "zip": "33436",
+      "license": "HI6346",
+      "licenseNumber": "0006346",
+      "status": "Current / Active",
+      "licensed": "06/07/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ESTHEMA, WEENDELL",
+      "city": "Boynton Beach",
+      "zip": "33435",
+      "license": "HI15307",
+      "licenseNumber": "0015307",
+      "status": "Current / Active",
+      "licensed": "06/24/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "FLENNIKEN, TERRY W",
+      "city": "Boynton Beach",
+      "zip": "33473",
+      "license": "HI11764",
+      "licenseNumber": "0011764",
+      "status": "Current / Active",
+      "licensed": "01/29/2019",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "FRANCO DE LA ROSA, ELIAN DAVID",
+      "city": "Boynton Beach",
+      "zip": "33436",
+      "license": "HI19041",
+      "licenseNumber": "0019041",
+      "status": "Current / Active",
+      "licensed": "09/01/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "GARZON, HAROLD ALFONSO",
+      "city": "Boynton Beach",
+      "zip": "33426",
+      "license": "HI15918",
+      "licenseNumber": "0015918",
+      "status": "Current / Active",
+      "licensed": "02/03/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HAGEY, FRED",
+      "city": "Boynton Beach",
+      "zip": "33437",
+      "license": "HI596",
+      "licenseNumber": "0000596",
+      "status": "Current / Active",
+      "licensed": "11/08/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HIBBITTS, STEFAN JAMES",
+      "city": "Boynton Beach",
+      "zip": "33437",
+      "license": "HI12808",
+      "licenseNumber": "0012808",
+      "status": "Current / Active",
+      "licensed": "06/20/2020",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HURTADO, GABRIEL ALEJANDRO",
+      "city": "Boynton Beach",
+      "zip": "33474",
+      "license": "HI552",
+      "licenseNumber": "0000552",
+      "status": "Current / Active",
+      "licensed": "11/01/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "IRVING, KELVIN A",
+      "city": "Boynton Beach",
+      "zip": "33473",
+      "license": "HI2845",
+      "licenseNumber": "0002845",
+      "status": "Current / Active",
+      "licensed": "03/08/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "KARDOS, RICHARD",
+      "city": "Boynton Beach",
+      "zip": "33426",
+      "license": "HI9882",
+      "licenseNumber": "0009882",
+      "status": "Current / Active",
+      "licensed": "09/28/2016",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "KOREN, GIL",
+      "city": "Boynton Beach",
+      "zip": "33472",
+      "license": "HI11391",
+      "licenseNumber": "0011391",
+      "status": "Current / Active",
+      "licensed": "08/21/2018",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "LEON, VICTOR",
+      "city": "Boynton Beach",
+      "zip": "33437",
+      "license": "HI18211",
+      "licenseNumber": "0018211",
+      "status": "Current / Active",
+      "licensed": "08/07/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "LOHBERG, CHRISTOPHER",
+      "city": "Boynton Beach",
+      "zip": "33436",
+      "license": "HI10514",
+      "licenseNumber": "0010514",
+      "status": "Current / Active",
+      "licensed": "07/21/2017",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "LONGO, JAMES D",
+      "city": "Boynton Beach",
+      "zip": "33426",
+      "license": "HI2209",
+      "licenseNumber": "0002209",
+      "status": "Current / Active",
+      "licensed": "03/01/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "LUZINCOURT, DON JOHN",
+      "city": "Boynton Beach",
+      "zip": "33426",
+      "license": "HI9598",
+      "licenseNumber": "0009598",
+      "status": "Current / Active",
+      "licensed": "04/29/2016",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MAHARAJ, SASHI LESTER",
+      "city": "Boynton Beach",
+      "zip": "33436",
+      "license": "HI2125",
+      "licenseNumber": "0002125",
+      "status": "Current / Active",
+      "licensed": "02/28/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MALIN, KEITH",
+      "city": "Boynton Beach",
+      "zip": "33436",
+      "license": "HI9429",
+      "licenseNumber": "0009429",
+      "status": "Current / Active",
+      "licensed": "02/15/2016",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MANSEAU, MICHAEL HENRY DAVID",
+      "city": "Boynton Beach",
+      "zip": "33436",
+      "license": "HI18621",
+      "licenseNumber": "0018621",
+      "status": "Current / Active",
+      "licensed": "03/11/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MAZO, ANDREW M",
+      "city": "Boynton Beach",
+      "zip": "33473",
+      "license": "HI2325",
+      "licenseNumber": "0002325",
+      "status": "Current / Active",
+      "licensed": "03/02/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ONTANEDA JR, MIGUEL FRANCISCO",
+      "city": "Boynton Beach",
+      "zip": "33472",
+      "license": "HI12742",
+      "licenseNumber": "0012742",
+      "status": "Current / Active",
+      "licensed": "05/14/2020",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "PEREIRA, GUSTAVO SOARES",
+      "city": "Boynton Beach",
+      "zip": "33436",
+      "license": "HI16471",
+      "licenseNumber": "0016471",
+      "status": "Current / Active",
+      "licensed": "08/04/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "PIQUANT, TECHLET",
+      "city": "Boynton Beach",
+      "zip": "33436",
+      "license": "HI13179",
+      "licenseNumber": "0013179",
+      "status": "Current / Active",
+      "licensed": "11/13/2020",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ROBICHAUD, ROGER ROLAND JR",
+      "city": "Boynton Beach",
+      "zip": "33436",
+      "license": "HI514",
+      "licenseNumber": "0000514",
+      "status": "Current / Active",
+      "licensed": "10/26/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ROSA, JUAN",
+      "city": "Boynton Beach",
+      "zip": "33436",
+      "license": "HI17435",
+      "licenseNumber": "0017435",
+      "status": "Current / Active",
+      "licensed": "08/08/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ROWLAND, RICHARD CHILDS",
+      "city": "Boynton Beach",
+      "zip": "33435",
+      "license": "HI1394",
+      "licenseNumber": "0001394",
+      "status": "Current / Active",
+      "licensed": "02/07/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SALINAS, MICHAEL ANTHONY",
+      "city": "Boynton Beach",
+      "zip": "33436",
+      "license": "HI1259",
+      "licenseNumber": "0001259",
+      "status": "Current / Active",
+      "licensed": "01/31/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SCULLY, TRACY JO",
+      "city": "Boynton Beach",
+      "zip": "33436",
+      "license": "HI14506",
+      "licenseNumber": "0014506",
+      "status": "Current / Active",
+      "licensed": "11/12/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SERVIDIO, BENJAMIN T",
+      "city": "Boynton Beach",
+      "zip": "33426",
+      "license": "HI13303",
+      "licenseNumber": "0013303",
+      "status": "Current / Active",
+      "licensed": "12/16/2020",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SWEATT, JAMES",
+      "city": "Boynton Beach",
+      "zip": "33436",
+      "license": "HI13380",
+      "licenseNumber": "0013380",
+      "status": "Current / Active",
+      "licensed": "01/15/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "TERRY, CHRISTOPHER ALEXANDER",
+      "city": "Boynton Beach",
+      "zip": "33436",
+      "license": "HI13974",
+      "licenseNumber": "0013974",
+      "status": "Current / Active",
+      "licensed": "06/22/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "VELEZ, JONATHAN STEPHEN",
+      "city": "Boynton Beach",
+      "zip": "33437",
+      "license": "HI10762",
+      "licenseNumber": "0010762",
+      "status": "Current / Active",
+      "licensed": "12/07/2017",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "WAHL, MARK HOWARD",
+      "city": "Boynton Beach",
+      "zip": "33437",
+      "license": "HI3",
+      "licenseNumber": "0000003",
+      "status": "Current / Active",
+      "licensed": "07/12/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "WILKINS, ALPHONSO C",
+      "city": "Boynton Beach",
+      "zip": "33435",
+      "license": "HI13959",
+      "licenseNumber": "0013959",
+      "status": "Current / Active",
+      "licensed": "06/17/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ZAVODNICK, ALAN",
+      "city": "Boynton Beach",
+      "zip": "33437",
+      "license": "HI5205",
+      "licenseNumber": "0005205",
+      "status": "Current / Active",
+      "licensed": "01/06/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ZIEMAK, JENNIFER",
+      "city": "Boynton Beach",
+      "zip": "33436",
+      "license": "HI13916",
+      "licenseNumber": "0013916",
+      "status": "Current / Active",
+      "licensed": "06/03/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BAUMGARTEN, TODD ANDREW",
+      "city": "Briny Breezes",
+      "zip": "33435",
+      "license": "HI12159",
+      "licenseNumber": "0012159",
+      "status": "Current / Active",
+      "licensed": "07/31/2019",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ALTIERI, THOMAS",
+      "city": "Delray Beach",
+      "zip": "33446",
+      "license": "HI16188",
+      "licenseNumber": "0016188",
+      "status": "Current / Active",
+      "licensed": "04/27/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BECKERMAN, MARK A",
+      "city": "Delray Beach",
+      "zip": "33484",
+      "license": "HI1843",
+      "licenseNumber": "0001843",
+      "status": "Current / Active",
+      "licensed": "02/22/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BERMUDEZ, OSVALDO DE JESUS",
+      "city": "Delray Beach",
+      "zip": "33445",
+      "license": "HI1428",
+      "licenseNumber": "0001428",
+      "status": "Current / Active",
+      "licensed": "02/09/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BIANCHINI, MICHAEL J",
+      "city": "Delray Beach",
+      "zip": "33444",
+      "license": "HI7399",
+      "licenseNumber": "0007399",
+      "status": "Current / Active",
+      "licensed": "07/24/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BRONNER, JOHN P",
+      "city": "Delray Beach",
+      "zip": "33446",
+      "license": "HI14846",
+      "licenseNumber": "0014846",
+      "status": "Current / Active",
+      "licensed": "02/17/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BRYANT, MICHAEL E",
+      "city": "Delray Beach",
+      "zip": "33445",
+      "license": "HI7830",
+      "licenseNumber": "0007830",
+      "status": "Current / Active",
+      "licensed": "05/23/2013",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "EAKIN, BRYAN ALLEN",
+      "city": "Delray Beach",
+      "zip": "33445",
+      "license": "HI9526",
+      "licenseNumber": "0009526",
+      "status": "Current / Active",
+      "licensed": "03/25/2016",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "FELDMAN, BARRY MARTIN",
+      "city": "Delray Beach",
+      "zip": "33484",
+      "license": "HI906",
+      "licenseNumber": "0000906",
+      "status": "Current / Active",
+      "licensed": "12/27/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "FELDMAN, SETH MICHAEL",
+      "city": "Delray Beach",
+      "zip": "33484",
+      "license": "HI1274",
+      "licenseNumber": "0001274",
+      "status": "Current / Active",
+      "licensed": "01/31/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "FUCHSMAN, KENNETH",
+      "city": "Delray Beach",
+      "zip": "33446",
+      "license": "HI10876",
+      "licenseNumber": "0010876",
+      "status": "Current / Active",
+      "licensed": "02/09/2018",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "GERWIG, MARIANN",
+      "city": "Delray Beach",
+      "zip": "33444",
+      "license": "HI7363",
+      "licenseNumber": "0007363",
+      "status": "Current / Active",
+      "licensed": "07/17/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "GRENADIER, JOSEPH S",
+      "city": "Delray Beach",
+      "zip": "33484",
+      "license": "HI1539",
+      "licenseNumber": "0001539",
+      "status": "Current / Active",
+      "licensed": "02/14/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "GUTTUSO, JOHN PAUL",
+      "city": "Delray Beach",
+      "zip": "33445",
+      "license": "HI7594",
+      "licenseNumber": "0007594",
+      "status": "Current / Active",
+      "licensed": "10/11/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HIMELWRIGHT, DOMINIQUE F",
+      "city": "Delray Beach",
+      "zip": "33445",
+      "license": "HI17950",
+      "licenseNumber": "0017950",
+      "status": "Current / Active",
+      "licensed": "04/17/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "KILBY, CLARK RICHARD",
+      "city": "Delray Beach",
+      "zip": "33484",
+      "license": "HI6491",
+      "licenseNumber": "0006491",
+      "status": "Current / Active",
+      "licensed": "06/18/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "LALLIER, LETICIA M",
+      "city": "Delray Beach",
+      "zip": "33445",
+      "license": "HI6475",
+      "licenseNumber": "0006475",
+      "status": "Current / Active",
+      "licensed": "06/15/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "LEONARD, WARREN",
+      "city": "Delray Beach",
+      "zip": "33445",
+      "license": "HI16306",
+      "licenseNumber": "0016306",
+      "status": "Current / Active",
+      "licensed": "06/09/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MANNING, JAMES KIRK",
+      "city": "Delray Beach",
+      "zip": "33445",
+      "license": "HI9793",
+      "licenseNumber": "0009793",
+      "status": "Current / Active",
+      "licensed": "08/10/2016",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MAYER, CHARLES",
+      "city": "Delray Beach",
+      "zip": "33445",
+      "license": "HI17904",
+      "licenseNumber": "0017904",
+      "status": "Current / Active",
+      "licensed": "03/31/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MORGAN, CARLTON WASHINGTON",
+      "city": "Delray Beach",
+      "zip": "33446",
+      "license": "HI10070",
+      "licenseNumber": "0010070",
+      "status": "Current / Active",
+      "licensed": "01/05/2017",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MOURA, GABRIELLE S",
+      "city": "Delray Beach",
+      "zip": "33445",
+      "license": "HI1442",
+      "licenseNumber": "0001442",
+      "status": "Current / Active",
+      "licensed": "02/09/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "PAEZ, EDUARDO",
+      "city": "Delray Beach",
+      "zip": "33484",
+      "license": "HI5344",
+      "licenseNumber": "0005344",
+      "status": "Current / Active",
+      "licensed": "02/03/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "PETERSON, BRENT ALAN",
+      "city": "Delray Beach",
+      "zip": "33445",
+      "license": "HI7936",
+      "licenseNumber": "0007936",
+      "status": "Current / Active",
+      "licensed": "08/28/2013",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "RAPKIN, JESSE F",
+      "city": "Delray Beach",
+      "zip": "33445",
+      "license": "HI11780",
+      "licenseNumber": "0011780",
+      "status": "Current / Active",
+      "licensed": "02/06/2019",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "RIVERA, RENATO SEBASTIAN",
+      "city": "Delray Beach",
+      "zip": "33484",
+      "license": "HI17746",
+      "licenseNumber": "0017746",
+      "status": "Current / Active",
+      "licensed": "01/06/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ROTHBERG, GREGORY SCOTT",
+      "city": "Delray Beach",
+      "zip": "33446",
+      "license": "HI508",
+      "licenseNumber": "0000508",
+      "status": "Current / Active",
+      "licensed": "10/26/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SADOWSKI, DOMINICK",
+      "city": "Delray Beach",
+      "zip": "33483",
+      "license": "HI18604",
+      "licenseNumber": "0018604",
+      "status": "Current / Active",
+      "licensed": "03/03/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SCALISE, DAVID KENNETH",
+      "city": "Delray Beach",
+      "zip": "33446",
+      "license": "HI8164",
+      "licenseNumber": "0008164",
+      "status": "Current / Active",
+      "licensed": "02/07/2014",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SCHAPIRO , JASON MARC",
+      "city": "Delray Beach",
+      "zip": "33446",
+      "license": "HI17542",
+      "licenseNumber": "0017542",
+      "status": "Current / Active",
+      "licensed": "09/20/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "TARMAN, JAMES DANIEL",
+      "city": "Delray Beach",
+      "zip": "33444",
+      "license": "HI15721",
+      "licenseNumber": "0015721",
+      "status": "Current / Active",
+      "licensed": "11/08/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "TROPNAS, RINALDI LAMARRE",
+      "city": "Delray Beach",
+      "zip": "33445",
+      "license": "HI12854",
+      "licenseNumber": "0012854",
+      "status": "Current / Active",
+      "licensed": "07/10/2020",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "VASQUEZ, VINCENT JR",
+      "city": "Delray Beach",
+      "zip": "33444",
+      "license": "HI11858",
+      "licenseNumber": "0011858",
+      "status": "Current / Active",
+      "licensed": "03/11/2019",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "WAITE, ADAM EDWARD",
+      "city": "Delray Beach",
+      "zip": "33445",
+      "license": "HI595",
+      "licenseNumber": "0000595",
+      "status": "Current / Active",
+      "licensed": "11/08/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "LOVEJOY, BRENDA KAYE",
+      "city": "Glen Ridge",
+      "zip": "33506",
+      "license": "HI14608",
+      "licenseNumber": "0014608",
+      "status": "Current / Active",
+      "licensed": "12/07/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ABREU, NOMAR",
+      "city": "Greenacres",
+      "zip": "33415",
+      "license": "HI14602",
+      "licenseNumber": "0014602",
+      "status": "Current / Active",
+      "licensed": "12/06/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BROWN, HOWARD",
+      "city": "Greenacres",
+      "zip": "33413",
+      "license": "HI11357",
+      "licenseNumber": "0011357",
+      "status": "Current / Active",
+      "licensed": "08/08/2018",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MAXI, MAX E",
+      "city": "Greenacres",
+      "zip": "33415",
+      "license": "HI17795",
+      "licenseNumber": "0017795",
+      "status": "Current / Active",
+      "licensed": "02/06/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "TRYNISZEWSKI, PIOTR",
+      "city": "Haverhill",
+      "zip": "33417",
+      "license": "HI1921",
+      "licenseNumber": "0001921",
+      "status": "Current / Active",
+      "licensed": "02/23/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BACHINSKI, CHRISTOPHER CARROLL",
+      "city": "Jupiter",
+      "zip": "33458",
+      "license": "HI16512",
+      "licenseNumber": "0016512",
+      "status": "Current / Active",
+      "licensed": "08/15/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BAILEY, JUSTIN MICHAEL",
+      "city": "Jupiter",
+      "zip": "33458",
+      "license": "HI18711",
+      "licenseNumber": "0018711",
+      "status": "Current / Active",
+      "licensed": "04/20/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BARBACCIA, BRAD",
+      "city": "Jupiter",
+      "zip": "33458",
+      "license": "HI18995",
+      "licenseNumber": "0018995",
+      "status": "Current / Active",
+      "licensed": "08/11/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BOYKIN, NOAH I",
+      "city": "Jupiter",
+      "zip": "33458",
+      "license": "HI18401",
+      "licenseNumber": "0018401",
+      "status": "Current / Active",
+      "licensed": "11/07/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BRASFIELD, COREY",
+      "city": "Jupiter",
+      "zip": "33469",
+      "license": "HI11072",
+      "licenseNumber": "0011072",
+      "status": "Current / Active",
+      "licensed": "04/23/2018",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CAHUR, JONATHAN DANIEL",
+      "city": "Jupiter",
+      "zip": "33458",
+      "license": "HI11144",
+      "licenseNumber": "0011144",
+      "status": "Current / Active",
+      "licensed": "05/15/2018",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CATHCART, THOMAS JOSEPH JR",
+      "city": "Jupiter",
+      "zip": "33478",
+      "license": "HI18259",
+      "licenseNumber": "0018259",
+      "status": "Current / Active",
+      "licensed": "08/27/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CHATZ, BRETT LANCE",
+      "city": "Jupiter",
+      "zip": "33458",
+      "license": "HI18586",
+      "licenseNumber": "0018586",
+      "status": "Current / Active",
+      "licensed": "02/23/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CONDILL, TOBIAS JASON",
+      "city": "Jupiter",
+      "zip": "33477",
+      "license": "HI7998",
+      "licenseNumber": "0007998",
+      "status": "Current / Active",
+      "licensed": "09/30/2013",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CREWS, RICHARD C",
+      "city": "Jupiter",
+      "zip": "33478",
+      "license": "HI13169",
+      "licenseNumber": "0013169",
+      "status": "Current / Active",
+      "licensed": "11/13/2020",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "DE OREO, BRYAN JOHN",
+      "city": "Jupiter",
+      "zip": "33458",
+      "license": "HI7272",
+      "licenseNumber": "0007272",
+      "status": "Current / Active",
+      "licensed": "07/10/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "DELANEY, TIMOTHY JOSEPH",
+      "city": "Jupiter",
+      "zip": "33468",
+      "license": "HI7991",
+      "licenseNumber": "0007991",
+      "status": "Current / Active",
+      "licensed": "09/25/2013",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "DOLIN, KENNETH MICHAEL",
+      "city": "Jupiter",
+      "zip": "33478",
+      "license": "HI59",
+      "licenseNumber": "0000059",
+      "status": "Current / Active",
+      "licensed": "07/27/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "DZIAK, MICHAEL",
+      "city": "Jupiter",
+      "zip": "33458",
+      "license": "HI18728",
+      "licenseNumber": "0018728",
+      "status": "Current / Active",
+      "licensed": "04/23/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "FONTANETTA, MICHAEL JAMES III",
+      "city": "Jupiter",
+      "zip": "33478",
+      "license": "HI14058",
+      "licenseNumber": "0014058",
+      "status": "Current / Active",
+      "licensed": "07/14/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "FONTI, MICHAEL",
+      "city": "Jupiter",
+      "zip": "33477",
+      "license": "HI17503",
+      "licenseNumber": "0017503",
+      "status": "Current / Active",
+      "licensed": "09/04/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "GAVIN, ERIC D",
+      "city": "Jupiter",
+      "zip": "33458",
+      "license": "HI4623",
+      "licenseNumber": "0004623",
+      "status": "Current / Active",
+      "licensed": "07/13/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "GLOWACKI, DONALD JAMES III",
+      "city": "Jupiter",
+      "zip": "33478",
+      "license": "HI6331",
+      "licenseNumber": "0006331",
+      "status": "Current / Active",
+      "licensed": "06/07/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HARBUR, ALEXANDER W",
+      "city": "Jupiter",
+      "zip": "33458",
+      "license": "HI1289",
+      "licenseNumber": "0001289",
+      "status": "Current / Active",
+      "licensed": "02/01/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HATCH, ROBERT G",
+      "city": "Jupiter",
+      "zip": "33478",
+      "license": "HI9734",
+      "licenseNumber": "0009734",
+      "status": "Current / Active",
+      "licensed": "07/19/2016",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HERNANDEZ, STEVEN ADOLFO",
+      "city": "Jupiter",
+      "zip": "33458",
+      "license": "HI9198",
+      "licenseNumber": "0009198",
+      "status": "Current / Active",
+      "licensed": "10/09/2015",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HOFFMAN, ANDREA LEAH",
+      "city": "Jupiter",
+      "zip": "33458",
+      "license": "HI5842",
+      "licenseNumber": "0005842",
+      "status": "Current / Active",
+      "licensed": "04/12/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "JACKSON, WALTER WISMER",
+      "city": "Jupiter",
+      "zip": "33477",
+      "license": "HI7057",
+      "licenseNumber": "0007057",
+      "status": "Current / Active",
+      "licensed": "07/05/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "KAHLERT, HERBERT FRITZ",
+      "city": "Jupiter",
+      "zip": "33458",
+      "license": "HI6102",
+      "licenseNumber": "0006102",
+      "status": "Current / Active",
+      "licensed": "05/15/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "KENT, THOMAS",
+      "city": "Jupiter",
+      "zip": "33458",
+      "license": "HI19047",
+      "licenseNumber": "0019047",
+      "status": "Current / Active",
+      "licensed": "09/03/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "KOTELNIKOV, MAKSIM",
+      "city": "Jupiter",
+      "zip": "33458",
+      "license": "HI17632",
+      "licenseNumber": "0017632",
+      "status": "Current / Active",
+      "licensed": "11/04/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "KOYL, ADAM MICHAEL IVAN",
+      "city": "Jupiter",
+      "zip": "33458",
+      "license": "HI3648",
+      "licenseNumber": "0003648",
+      "status": "Current / Active",
+      "licensed": "03/21/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "LAP, PERRY EMMET",
+      "city": "Jupiter",
+      "zip": "33458",
+      "license": "HI4070",
+      "licenseNumber": "0004070",
+      "status": "Current / Active",
+      "licensed": "03/31/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "LODEESEN, ANDREW C",
+      "city": "Jupiter",
+      "zip": "33458",
+      "license": "HI2386",
+      "licenseNumber": "0002386",
+      "status": "Current / Active",
+      "licensed": "03/03/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MABIE, DANIEL ALAN",
+      "city": "Jupiter",
+      "zip": "33458",
+      "license": "HI18467",
+      "licenseNumber": "0018467",
+      "status": "Current / Active",
+      "licensed": "12/10/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MCDERMOTT, ROSS",
+      "city": "Jupiter",
+      "zip": "33458",
+      "license": "HI13442",
+      "licenseNumber": "0013442",
+      "status": "Current / Active",
+      "licensed": "02/04/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MORALES, MICHAEL",
+      "city": "Jupiter",
+      "zip": "33458",
+      "license": "HI8898",
+      "licenseNumber": "0008898",
+      "status": "Current / Active",
+      "licensed": "05/14/2015",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MYERS, GEORGE W",
+      "city": "Jupiter",
+      "zip": "33458",
+      "license": "HI3505",
+      "licenseNumber": "0003505",
+      "status": "Current / Active",
+      "licensed": "03/17/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "PAJARES, JOHN",
+      "city": "Jupiter",
+      "zip": "33478",
+      "license": "HI5667",
+      "licenseNumber": "0005667",
+      "status": "Current / Active",
+      "licensed": "03/22/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "PAPA, LORENZO",
+      "city": "Jupiter",
+      "zip": "33458",
+      "license": "HI15582",
+      "licenseNumber": "0015582",
+      "status": "Current / Active",
+      "licensed": "09/19/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "PEARSON, BRUCE MICHAEL",
+      "city": "Jupiter",
+      "zip": "33458",
+      "license": "HI2860",
+      "licenseNumber": "0002860",
+      "status": "Current / Active",
+      "licensed": "03/08/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ROSE, KEVIN JOEL",
+      "city": "Jupiter",
+      "zip": "33458",
+      "license": "HI842",
+      "licenseNumber": "0000842",
+      "status": "Current / Active",
+      "licensed": "12/20/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ROWLEY, TODD BENNETT",
+      "city": "Jupiter",
+      "zip": "33478",
+      "license": "HI9559",
+      "licenseNumber": "0009559",
+      "status": "Current / Active",
+      "licensed": "04/11/2016",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "RYPMA, ANTHONY",
+      "city": "Jupiter",
+      "zip": "33478",
+      "license": "HI14263",
+      "licenseNumber": "0014263",
+      "status": "Current / Active",
+      "licensed": "09/07/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SKELTON, JASON LANIUS",
+      "city": "Jupiter",
+      "zip": "33478",
+      "license": "HI7169",
+      "licenseNumber": "0007169",
+      "status": "Current / Active",
+      "licensed": "07/09/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "STEFFEN, VINCENT M",
+      "city": "Jupiter",
+      "zip": "33458",
+      "license": "HI9718",
+      "licenseNumber": "0009718",
+      "status": "Current / Active",
+      "licensed": "07/07/2016",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SVANE, KEITH PAUL",
+      "city": "Jupiter",
+      "zip": "33458",
+      "license": "HI7751",
+      "licenseNumber": "0007751",
+      "status": "Current / Active",
+      "licensed": "03/20/2013",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "TRAPASSO, KYLE ABRAHAM",
+      "city": "Jupiter",
+      "zip": "33458",
+      "license": "HI16988",
+      "licenseNumber": "0016988",
+      "status": "Current / Active",
+      "licensed": "02/14/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "TRAPASSO, MICHAEL T",
+      "city": "Jupiter",
+      "zip": "33458",
+      "license": "HI10573",
+      "licenseNumber": "0010573",
+      "status": "Current / Active",
+      "licensed": "08/15/2017",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "WALTER, JAMES A",
+      "city": "Jupiter",
+      "zip": "33478",
+      "license": "HI5958",
+      "licenseNumber": "0005958",
+      "status": "Current / Active",
+      "licensed": "04/26/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "WATKISS, MATTHEW ROBERT",
+      "city": "Jupiter",
+      "zip": "33458",
+      "license": "HI9205",
+      "licenseNumber": "0009205",
+      "status": "Current / Active",
+      "licensed": "10/15/2015",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "WHETSTONE, BRENNAN",
+      "city": "Jupiter",
+      "zip": "33458",
+      "license": "HI18525",
+      "licenseNumber": "0018525",
+      "status": "Current / Active",
+      "licensed": "01/22/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "DRY, TODD WILSON",
+      "city": "Lake Park",
+      "zip": "33403",
+      "license": "HI6430",
+      "licenseNumber": "0006430",
+      "status": "Current / Active",
+      "licensed": "06/14/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MEDE, ZACHARY",
+      "city": "Lake Park",
+      "zip": "33403",
+      "license": "HI18823",
+      "licenseNumber": "0018823",
+      "status": "Current / Active",
+      "licensed": "06/03/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ADAMS, JOHN HENRY III",
+      "city": "Lake Worth",
+      "zip": "33467",
+      "license": "HI6666",
+      "licenseNumber": "0006666",
+      "status": "Current / Active",
+      "licensed": "06/25/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "AKINRIN, GBOLAHAN AUSTIN",
+      "city": "Lake Worth",
+      "zip": "33463",
+      "license": "HI6955",
+      "licenseNumber": "0006955",
+      "status": "Current / Active",
+      "licensed": "07/03/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ALM, ANTHONY ALAN",
+      "city": "Lake Worth",
+      "zip": "33467",
+      "license": "HI4210",
+      "licenseNumber": "0004210",
+      "status": "Current / Active",
+      "licensed": "04/05/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BOHANNON, MICHAEL DAVID",
+      "city": "Lake Worth",
+      "zip": "33463",
+      "license": "HI16003",
+      "licenseNumber": "0016003",
+      "status": "Current / Active",
+      "licensed": "03/09/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BOHL, MICHAEL",
+      "city": "Lake Worth",
+      "zip": "33467",
+      "license": "HI15778",
+      "licenseNumber": "0015778",
+      "status": "Current / Active",
+      "licensed": "12/01/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BRUNELLE, RICHARD",
+      "city": "Lake Worth",
+      "zip": "33467",
+      "license": "HI1395",
+      "licenseNumber": "0001395",
+      "status": "Current / Active",
+      "licensed": "02/07/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CAGNEY, JOHN",
+      "city": "Lake Worth",
+      "zip": "33467",
+      "license": "HI12619",
+      "licenseNumber": "0012619",
+      "status": "Current / Active",
+      "licensed": "03/09/2020",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CAJUSTE, JIMMY",
+      "city": "Lake Worth",
+      "zip": "33463",
+      "license": "HI18509",
+      "licenseNumber": "0018509",
+      "status": "Current / Active",
+      "licensed": "01/09/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CAPPELLO, ROBERT",
+      "city": "Lake Worth",
+      "zip": "33463",
+      "license": "HI20",
+      "licenseNumber": "0000020",
+      "status": "Current / Active",
+      "licensed": "07/16/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CATANZARO, ALEX",
+      "city": "Lake Worth",
+      "zip": "33462",
+      "license": "HI9978",
+      "licenseNumber": "0009978",
+      "status": "Current / Active",
+      "licensed": "11/14/2016",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CINTRON, CLIFF",
+      "city": "Lake Worth",
+      "zip": "33461",
+      "license": "HI11696",
+      "licenseNumber": "0011696",
+      "status": "Current / Active",
+      "licensed": "12/28/2018",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "COLLINS, MICHAEL STERLING",
+      "city": "Lake Worth",
+      "zip": "33460",
+      "license": "HI9379",
+      "licenseNumber": "0009379",
+      "status": "Current / Active",
+      "licensed": "01/22/2016",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CORNELIUS, TIMOTHY W",
+      "city": "Lake Worth",
+      "zip": "33467",
+      "license": "HI10758",
+      "licenseNumber": "0010758",
+      "status": "Current / Active",
+      "licensed": "12/07/2017",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "DACEUS, SAMUS",
+      "city": "Lake Worth",
+      "zip": "33467",
+      "license": "HI18407",
+      "licenseNumber": "0018407",
+      "status": "Current / Active",
+      "licensed": "11/10/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "DIPAULI, CARLOS DOMINGO",
+      "city": "Lake Worth",
+      "zip": "33463",
+      "license": "HI6601",
+      "licenseNumber": "0006601",
+      "status": "Current / Active",
+      "licensed": "06/21/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ELLIS, SCOTT",
+      "city": "Lake Worth",
+      "zip": "33467",
+      "license": "HI11459",
+      "licenseNumber": "0011459",
+      "status": "Current / Active",
+      "licensed": "09/20/2018",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "FLERI, MATTHEW GILBERT",
+      "city": "Lake Worth",
+      "zip": "33463",
+      "license": "HI8159",
+      "licenseNumber": "0008159",
+      "status": "Current / Active",
+      "licensed": "02/06/2014",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "GOLDMAN, MICHAEL SCOTT",
+      "city": "Lake Worth",
+      "zip": "33463",
+      "license": "HI5989",
+      "licenseNumber": "0005989",
+      "status": "Current / Active",
+      "licensed": "05/02/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "GUARINO, CHRISTOPHER W",
+      "city": "Lake Worth",
+      "zip": "33467",
+      "license": "HI9504",
+      "licenseNumber": "0009504",
+      "status": "Current / Active",
+      "licensed": "03/14/2016",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "GUERINO, RICHARD",
+      "city": "Lake Worth",
+      "zip": "33463",
+      "license": "HI9313",
+      "licenseNumber": "0009313",
+      "status": "Current / Active",
+      "licensed": "12/10/2015",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HABER, ANTHONY ALEXANDER",
+      "city": "Lake Worth",
+      "zip": "33467",
+      "license": "HI13790",
+      "licenseNumber": "0013790",
+      "status": "Current / Active",
+      "licensed": "04/30/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HUGHES , CLIFFORD MICHAEL",
+      "city": "Lake Worth",
+      "zip": "33467",
+      "license": "HI15480",
+      "licenseNumber": "0015480",
+      "status": "Current / Active",
+      "licensed": "08/24/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HURTADO, ELIO MARIANO",
+      "city": "Lake Worth",
+      "zip": "33467",
+      "license": "HI7907",
+      "licenseNumber": "0007907",
+      "status": "Current / Active",
+      "licensed": "08/07/2013",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ILLOBRE, RICKY JOSEPH",
+      "city": "Lake Worth",
+      "zip": "33467",
+      "license": "HI3839",
+      "licenseNumber": "0003839",
+      "status": "Current / Active",
+      "licensed": "03/24/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "JACQUES LOUIS, THIERRY ERNEST",
+      "city": "Lake Worth",
+      "zip": "33463",
+      "license": "HI13539",
+      "licenseNumber": "0013539",
+      "status": "Current / Active",
+      "licensed": "03/02/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "JENNESS, RYAN",
+      "city": "Lake Worth",
+      "zip": "33462",
+      "license": "HI18000",
+      "licenseNumber": "0018000",
+      "status": "Current / Active",
+      "licensed": "05/06/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "KACZWARA, JASON T",
+      "city": "Lake Worth",
+      "zip": "33467",
+      "license": "HI15066",
+      "licenseNumber": "0015066",
+      "status": "Current / Active",
+      "licensed": "04/19/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "KONZE, ANTHONY ALBERT",
+      "city": "Lake Worth",
+      "zip": "33460",
+      "license": "HI10784",
+      "licenseNumber": "0010784",
+      "status": "Current / Active",
+      "licensed": "12/21/2017",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "LAHEY, ROBERT",
+      "city": "Lake Worth",
+      "zip": "33463",
+      "license": "HI12003",
+      "licenseNumber": "0012003",
+      "status": "Current / Active",
+      "licensed": "05/15/2019",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "LIST, MICHAEL I",
+      "city": "Lake Worth",
+      "zip": "33467",
+      "license": "HI8155",
+      "licenseNumber": "0008155",
+      "status": "Current / Active",
+      "licensed": "02/04/2014",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "LOPEZ, NICHOLAS RAMON",
+      "city": "Lake Worth",
+      "zip": "33467",
+      "license": "HI8765",
+      "licenseNumber": "0008765",
+      "status": "Current / Active",
+      "licensed": "03/03/2015",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MAKILA, TOM",
+      "city": "Lake Worth",
+      "zip": "33461",
+      "license": "HI15080",
+      "licenseNumber": "0015080",
+      "status": "Current / Active",
+      "licensed": "04/22/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MCCABE, DAVID A",
+      "city": "Lake Worth",
+      "zip": "33460",
+      "license": "HI901",
+      "licenseNumber": "0000901",
+      "status": "Current / Active",
+      "licensed": "12/27/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MENDES, HEMERSON",
+      "city": "Lake Worth",
+      "zip": "33467",
+      "license": "HI15542",
+      "licenseNumber": "0015542",
+      "status": "Current / Active",
+      "licensed": "09/09/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MONCADA, ERIK",
+      "city": "Lake Worth",
+      "zip": "33463",
+      "license": "HI19059",
+      "licenseNumber": "0019059",
+      "status": "Current / Active",
+      "licensed": "09/09/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MORIN, DAVID",
+      "city": "Lake Worth",
+      "zip": "33467",
+      "license": "HI16475",
+      "licenseNumber": "0016475",
+      "status": "Current / Active",
+      "licensed": "08/04/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MORISSAINT, SERGE",
+      "city": "Lake Worth",
+      "zip": "33467",
+      "license": "HI609",
+      "licenseNumber": "0000609",
+      "status": "Current / Active",
+      "licensed": "11/10/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "NELSON, SEAN ANTHONY",
+      "city": "Lake Worth",
+      "zip": "33467",
+      "license": "HI10264",
+      "licenseNumber": "0010264",
+      "status": "Current / Active",
+      "licensed": "03/30/2017",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "PASKACH, MARK",
+      "city": "Lake Worth",
+      "zip": "33463",
+      "license": "HI15672",
+      "licenseNumber": "0015672",
+      "status": "Current / Active",
+      "licensed": "10/19/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "PUERTA, SANDRA E",
+      "city": "Lake Worth",
+      "zip": "33467",
+      "license": "HI4033",
+      "licenseNumber": "0004033",
+      "status": "Current / Active",
+      "licensed": "03/30/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "RODRIGUEZ, DONNIS",
+      "city": "Lake Worth",
+      "zip": "33463",
+      "license": "HI12118",
+      "licenseNumber": "0012118",
+      "status": "Current / Active",
+      "licensed": "07/09/2019",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SALDIVAR, TEDDY",
+      "city": "Lake Worth",
+      "zip": "33467",
+      "license": "HI13547",
+      "licenseNumber": "0013547",
+      "status": "Current / Active",
+      "licensed": "03/04/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SEUSS, GEORGE RANDALL",
+      "city": "Lake Worth",
+      "zip": "33461",
+      "license": "HI11676",
+      "licenseNumber": "0011676",
+      "status": "Current / Active",
+      "licensed": "12/17/2018",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SHAPIRO, HAL JOSH",
+      "city": "Lake Worth",
+      "zip": "33467",
+      "license": "HI6970",
+      "licenseNumber": "0006970",
+      "status": "Current / Active",
+      "licensed": "07/03/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SIMON, MICHAEL JOEL",
+      "city": "Lake Worth",
+      "zip": "33467",
+      "license": "HI754",
+      "licenseNumber": "0000754",
+      "status": "Current / Active",
+      "licensed": "12/06/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SOUSA, ALFRED JASON",
+      "city": "Lake Worth",
+      "zip": "33463",
+      "license": "HI17349",
+      "licenseNumber": "0017349",
+      "status": "Current / Active",
+      "licensed": "06/28/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "STEWART, JASON M",
+      "city": "Lake Worth",
+      "zip": "33463",
+      "license": "HI9447",
+      "licenseNumber": "0009447",
+      "status": "Current / Active",
+      "licensed": "02/22/2016",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SULLIVAN, MATTHEW THOMAS",
+      "city": "Lake Worth",
+      "zip": "33467",
+      "license": "HI13832",
+      "licenseNumber": "0013832",
+      "status": "Current / Active",
+      "licensed": "05/13/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SZAFARYN, MARK H",
+      "city": "Lake Worth",
+      "zip": "33460",
+      "license": "HI6988",
+      "licenseNumber": "0006988",
+      "status": "Current / Active",
+      "licensed": "07/03/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "TARMAN, MARK C.",
+      "city": "Lake Worth",
+      "zip": "33463",
+      "license": "HI8808",
+      "licenseNumber": "0008808",
+      "status": "Current / Active",
+      "licensed": "03/31/2015",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "VALENTINE, JASON",
+      "city": "Lake Worth",
+      "zip": "33467",
+      "license": "HI13518",
+      "licenseNumber": "0013518",
+      "status": "Current / Active",
+      "licensed": "02/23/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "VILLESCAZ, GEORGE P",
+      "city": "Lake Worth",
+      "zip": "33467",
+      "license": "HI13068",
+      "licenseNumber": "0013068",
+      "status": "Current / Active",
+      "licensed": "09/30/2020",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "YOUNG, ROBERT A",
+      "city": "Lake Worth",
+      "zip": "33467",
+      "license": "HI14567",
+      "licenseNumber": "0014567",
+      "status": "Current / Active",
+      "licensed": "11/23/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "KULICHENKO, GLEB",
+      "city": "Lake Worth Beach",
+      "zip": "33461",
+      "license": "HI15539",
+      "licenseNumber": "0015539",
+      "status": "Current / Active",
+      "licensed": "09/08/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MIGLIACCI, RICHARD",
+      "city": "Lake Worth Beach",
+      "zip": "33460",
+      "license": "HI18331",
+      "licenseNumber": "0018331",
+      "status": "Current / Active",
+      "licensed": "09/30/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "NEMETH, JOSHUA JOSEPH",
+      "city": "Lake Worth Beach",
+      "zip": "33460",
+      "license": "HI14348",
+      "licenseNumber": "0014348",
+      "status": "Current / Active",
+      "licensed": "09/24/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "PACE, JUSTIN JONATHAN",
+      "city": "Lake Worth Beach",
+      "zip": "33460",
+      "license": "HI9948",
+      "licenseNumber": "0009948",
+      "status": "Current / Active",
+      "licensed": "11/01/2016",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "PYKE, RYAN",
+      "city": "Lake Worth Beach",
+      "zip": "33460",
+      "license": "HI11470",
+      "licenseNumber": "0011470",
+      "status": "Current / Active",
+      "licensed": "09/25/2018",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "VITAS, BOJAN",
+      "city": "Lake Worth Beach",
+      "zip": "33460",
+      "license": "HI13478",
+      "licenseNumber": "0013478",
+      "status": "Current / Active",
+      "licensed": "02/12/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BURKE, DANIEL",
+      "city": "Lantana",
+      "zip": "33462",
+      "license": "HI10471",
+      "licenseNumber": "0010471",
+      "status": "Current / Active",
+      "licensed": "07/03/2017",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "GONZALEZ, JAIME FRANCISCO",
+      "city": "Lantana",
+      "zip": "33462",
+      "license": "HI14551",
+      "licenseNumber": "0014551",
+      "status": "Current / Active",
+      "licensed": "11/22/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "WOZNIAK, TYLER MICHAEL",
+      "city": "Lantana",
+      "zip": "33462",
+      "license": "HI10289",
+      "licenseNumber": "0010289",
+      "status": "Current / Active",
+      "licensed": "04/13/2017",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BURK, LAWRENCE ALAN",
+      "city": "Loxahatchee",
+      "zip": "33470",
+      "license": "HI7317",
+      "licenseNumber": "0007317",
+      "status": "Current / Active",
+      "licensed": "07/11/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BYRD, GREGORY TYRONE SR",
+      "city": "Loxahatchee",
+      "zip": "33470",
+      "license": "HI16474",
+      "licenseNumber": "0016474",
+      "status": "Current / Active",
+      "licensed": "08/04/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "DAVIS, WILLIAM JAMES",
+      "city": "Loxahatchee",
+      "zip": "33470",
+      "license": "HI6726",
+      "licenseNumber": "0006726",
+      "status": "Current / Active",
+      "licensed": "06/27/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "EDISON, ERIK KRISTIAN",
+      "city": "Loxahatchee",
+      "zip": "33470",
+      "license": "HI15100",
+      "licenseNumber": "0015100",
+      "status": "Current / Active",
+      "licensed": "04/27/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ESCOBAR-APESS, GERARDO ELPIDIO",
+      "city": "Loxahatchee",
+      "zip": "33470",
+      "license": "HI16860",
+      "licenseNumber": "0016860",
+      "status": "Current / Active",
+      "licensed": "12/28/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "FELDMAN, MARC SCOTT",
+      "city": "Loxahatchee",
+      "zip": "33470",
+      "license": "HI4898",
+      "licenseNumber": "0004898",
+      "status": "Current / Active",
+      "licensed": "10/10/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "FERNANDEZ, ROLANDO",
+      "city": "Loxahatchee",
+      "zip": "33470",
+      "license": "HI6021",
+      "licenseNumber": "0006021",
+      "status": "Current / Active",
+      "licensed": "05/04/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "GOOLSBY, PATRICK WILLIAM",
+      "city": "Loxahatchee",
+      "zip": "33470",
+      "license": "HI15828",
+      "licenseNumber": "0015828",
+      "status": "Current / Active",
+      "licensed": "12/27/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "GUSCOTT, MAX",
+      "city": "Loxahatchee",
+      "zip": "33470",
+      "license": "HI13130",
+      "licenseNumber": "0013130",
+      "status": "Current / Active",
+      "licensed": "11/03/2020",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HINES, STEVEN JAMES",
+      "city": "Loxahatchee",
+      "zip": "33470",
+      "license": "HI5901",
+      "licenseNumber": "0005901",
+      "status": "Current / Active",
+      "licensed": "04/19/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "JONES, SCOTT ALAN",
+      "city": "Loxahatchee",
+      "zip": "33470",
+      "license": "HI8444",
+      "licenseNumber": "0008444",
+      "status": "Current / Active",
+      "licensed": "07/31/2014",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "LAMONICA, STEPHEN",
+      "city": "Loxahatchee",
+      "zip": "33470",
+      "license": "HI1086",
+      "licenseNumber": "0001086",
+      "status": "Current / Active",
+      "licensed": "01/18/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "LAWRENCE, MICHAEL CRAIG",
+      "city": "Loxahatchee",
+      "zip": "33470",
+      "license": "HI9697",
+      "licenseNumber": "0009697",
+      "status": "Current / Active",
+      "licensed": "06/22/2016",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MORALES, HECTOR A",
+      "city": "Loxahatchee",
+      "zip": "33470",
+      "license": "HI14227",
+      "licenseNumber": "0014227",
+      "status": "Current / Active",
+      "licensed": "08/26/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "OLVERA LASCANO, JUAN CARLOS",
+      "city": "Loxahatchee",
+      "zip": "33470",
+      "license": "HI19189",
+      "licenseNumber": "0019189",
+      "status": "Current / Active",
+      "licensed": "11/10/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "RODRIGUEZ, RICARDO",
+      "city": "Loxahatchee",
+      "zip": "33470",
+      "license": "HI16658",
+      "licenseNumber": "0016658",
+      "status": "Current / Active",
+      "licensed": "09/27/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "STEVENS, JOBY WILLIAM",
+      "city": "Loxahatchee",
+      "zip": "33470",
+      "license": "HI17284",
+      "licenseNumber": "0017284",
+      "status": "Current / Active",
+      "licensed": "06/05/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "WARD, CHARLES S",
+      "city": "Loxahatchee",
+      "zip": "33470",
+      "license": "HI6280",
+      "licenseNumber": "0006280",
+      "status": "Current / Active",
+      "licensed": "06/01/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BRUNO, JAMES L",
+      "city": "North Palm Beach",
+      "zip": "33408",
+      "license": "HI17742",
+      "licenseNumber": "0017742",
+      "status": "Current / Active",
+      "licensed": "01/06/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "COLLOMB, MATTHEW RYAN",
+      "city": "North Palm Beach",
+      "zip": "33408",
+      "license": "HI12727",
+      "licenseNumber": "0012727",
+      "status": "Current / Active",
+      "licensed": "05/07/2020",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MAIZEL, MARVIN",
+      "city": "North Palm Beach",
+      "zip": "33408",
+      "license": "HI681",
+      "licenseNumber": "0000681",
+      "status": "Current / Active",
+      "licensed": "11/24/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "PAISLEY, JAMES",
+      "city": "North Palm Beach",
+      "zip": "33408",
+      "license": "HI7450",
+      "licenseNumber": "0007450",
+      "status": "Current / Active",
+      "licensed": "08/02/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SAAVEDRA, MARC",
+      "city": "North Palm Beach",
+      "zip": "33408",
+      "license": "HI14639",
+      "licenseNumber": "0014639",
+      "status": "Current / Active",
+      "licensed": "12/15/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "STEBBINS, ED",
+      "city": "North Palm Beach",
+      "zip": "33408",
+      "license": "HI4439",
+      "licenseNumber": "0004439",
+      "status": "Current / Active",
+      "licensed": "05/05/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "TREVINO, DAVID ANTHONY",
+      "city": "North Palm Beach",
+      "zip": "33408",
+      "license": "HI3126",
+      "licenseNumber": "0003126",
+      "status": "Current / Active",
+      "licensed": "03/11/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "VARGA, FERENC STEPHEN",
+      "city": "Ocean Ridge",
+      "zip": "33435",
+      "license": "HI6141",
+      "licenseNumber": "0006141",
+      "status": "Current / Active",
+      "licensed": "05/17/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "AKS, STEPHEN DAVID",
+      "city": "Palm Beach Gardens",
+      "zip": "33410",
+      "license": "HI4928",
+      "licenseNumber": "0004928",
+      "status": "Current / Active",
+      "licensed": "10/17/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BAILEY, GRAHAM WILLIAM",
+      "city": "Palm Beach Gardens",
+      "zip": "33418",
+      "license": "HI1087",
+      "licenseNumber": "0001087",
+      "status": "Current / Active",
+      "licensed": "01/18/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BOMAR, TERRY WAYNE II",
+      "city": "Palm Beach Gardens",
+      "zip": "33418",
+      "license": "HI9505",
+      "licenseNumber": "0009505",
+      "status": "Current / Active",
+      "licensed": "03/14/2016",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BOYDEN, MATTHEW PAUL",
+      "city": "Palm Beach Gardens",
+      "zip": "33410",
+      "license": "HI7552",
+      "licenseNumber": "0007552",
+      "status": "Current / Active",
+      "licensed": "09/07/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "COMERT, TANJU",
+      "city": "Palm Beach Gardens",
+      "zip": "33418",
+      "license": "HI6490",
+      "licenseNumber": "0006490",
+      "status": "Current / Active",
+      "licensed": "06/18/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "COOPER, JACKIE WILLIAM JR",
+      "city": "Palm Beach Gardens",
+      "zip": "33418",
+      "license": "HI6858",
+      "licenseNumber": "0006858",
+      "status": "Current / Active",
+      "licensed": "07/02/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "COUGHLIN, THOMAS A",
+      "city": "Palm Beach Gardens",
+      "zip": "33412",
+      "license": "HI12026",
+      "licenseNumber": "0012026",
+      "status": "Current / Active",
+      "licensed": "05/23/2019",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "DEMENNA, GREGORY",
+      "city": "Palm Beach Gardens",
+      "zip": "33418",
+      "license": "HI15123",
+      "licenseNumber": "0015123",
+      "status": "Current / Active",
+      "licensed": "05/03/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "FOWLER, GEORGE R JR",
+      "city": "Palm Beach Gardens",
+      "zip": "33418",
+      "license": "HI1922",
+      "licenseNumber": "0001922",
+      "status": "Current / Active",
+      "licensed": "02/23/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "GJERTSEN, DARRICK RYAN",
+      "city": "Palm Beach Gardens",
+      "zip": "33410",
+      "license": "HI16796",
+      "licenseNumber": "0016796",
+      "status": "Current / Active",
+      "licensed": "11/29/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "GONZALEZ, ALFREDO",
+      "city": "Palm Beach Gardens",
+      "zip": "33418",
+      "license": "HI11104",
+      "licenseNumber": "0011104",
+      "status": "Current / Active",
+      "licensed": "05/02/2018",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "JEFFREYS, JUSTIN DANIEL",
+      "city": "Palm Beach Gardens",
+      "zip": "33418",
+      "license": "HI13899",
+      "licenseNumber": "0013899",
+      "status": "Current / Active",
+      "licensed": "05/28/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "LEON, GILBERTO",
+      "city": "Palm Beach Gardens",
+      "zip": "33410",
+      "license": "HI18373",
+      "licenseNumber": "0018373",
+      "status": "Current / Active",
+      "licensed": "10/17/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MADRAVAZAKIS, BRIAN JAMES",
+      "city": "Palm Beach Gardens",
+      "zip": "33410",
+      "license": "HI6525",
+      "licenseNumber": "0006525",
+      "status": "Current / Active",
+      "licensed": "06/20/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MARINO, GLENN JOHN",
+      "city": "Palm Beach Gardens",
+      "zip": "33418",
+      "license": "HI10604",
+      "licenseNumber": "0010604",
+      "status": "Current / Active",
+      "licensed": "08/31/2017",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MOORE, MICHAEL T",
+      "city": "Palm Beach Gardens",
+      "zip": "33410",
+      "license": "HI14232",
+      "licenseNumber": "0014232",
+      "status": "Current / Active",
+      "licensed": "08/27/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MULFORD, WALTER EMERSON JR",
+      "city": "Palm Beach Gardens",
+      "zip": "33418",
+      "license": "HI3502",
+      "licenseNumber": "0003502",
+      "status": "Current / Active",
+      "licensed": "03/17/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "NOWAK, SCOTT EDWARD",
+      "city": "Palm Beach Gardens",
+      "zip": "33410",
+      "license": "HI14434",
+      "licenseNumber": "0014434",
+      "status": "Current / Active",
+      "licensed": "10/21/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "PEREZ, JOEL S",
+      "city": "Palm Beach Gardens",
+      "zip": "33410",
+      "license": "HI643",
+      "licenseNumber": "0000643",
+      "status": "Current / Active",
+      "licensed": "11/17/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "RAFFA, EUGENE DOMINIC",
+      "city": "Palm Beach Gardens",
+      "zip": "33410",
+      "license": "HI4313",
+      "licenseNumber": "0004313",
+      "status": "Current / Active",
+      "licensed": "04/12/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "RAMOS, RICHARD",
+      "city": "Palm Beach Gardens",
+      "zip": "33418",
+      "license": "HI7888",
+      "licenseNumber": "0007888",
+      "status": "Current / Active",
+      "licensed": "07/22/2013",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "RAYRAT, JOHN P",
+      "city": "Palm Beach Gardens",
+      "zip": "33418",
+      "license": "HI12529",
+      "licenseNumber": "0012529",
+      "status": "Current / Active",
+      "licensed": "01/31/2020",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "RIGOLI, DAN",
+      "city": "Palm Beach Gardens",
+      "zip": "33412",
+      "license": "HI16700",
+      "licenseNumber": "0016700",
+      "status": "Current / Active",
+      "licensed": "10/17/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "RODRIGUEZ, OMAR",
+      "city": "Palm Beach Gardens",
+      "zip": "33418",
+      "license": "HI17635",
+      "licenseNumber": "0017635",
+      "status": "Current / Active",
+      "licensed": "11/05/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ROMERO, NELSON IVAN",
+      "city": "Palm Beach Gardens",
+      "zip": "33418",
+      "license": "HI16732",
+      "licenseNumber": "0016732",
+      "status": "Current / Active",
+      "licensed": "11/02/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SEIDL, CARLOS",
+      "city": "Palm Beach Gardens",
+      "zip": "33418",
+      "license": "HI16218",
+      "licenseNumber": "0016218",
+      "status": "Current / Active",
+      "licensed": "05/09/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "STAGE, CHRISTOPHER",
+      "city": "Palm Beach Gardens",
+      "zip": "33418",
+      "license": "HI10530",
+      "licenseNumber": "0010530",
+      "status": "Current / Active",
+      "licensed": "07/27/2017",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "VANDENBRAAK, BRIAN VINCENT",
+      "city": "Palm Beach Gardens",
+      "zip": "33410",
+      "license": "HI7897",
+      "licenseNumber": "0007897",
+      "status": "Current / Active",
+      "licensed": "07/26/2013",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "VANDERWEERT, EDWARD",
+      "city": "Palm Beach Gardens",
+      "zip": "33418",
+      "license": "HI10336",
+      "licenseNumber": "0010336",
+      "status": "Current / Active",
+      "licensed": "05/05/2017",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "WILSON, MICHAEL RANDOLPH",
+      "city": "Palm Beach Gardens",
+      "zip": "33418",
+      "license": "HI17488",
+      "licenseNumber": "0017488",
+      "status": "Current / Active",
+      "licensed": "08/27/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MESA, RAFAEL",
+      "city": "Palm Springs",
+      "zip": "33461",
+      "license": "HI10795",
+      "licenseNumber": "0010795",
+      "status": "Current / Active",
+      "licensed": "12/27/2017",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "PAMPILLO, ENRIQUE ANTONIO",
+      "city": "Palm Springs",
+      "zip": "33461",
+      "license": "HI12910",
+      "licenseNumber": "0012910",
+      "status": "Current / Active",
+      "licensed": "08/10/2020",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "RODRIGUEZ , YAIMET DE LA CARIDAD",
+      "city": "Palm Springs",
+      "zip": "33461",
+      "license": "HI16492",
+      "licenseNumber": "0016492",
+      "status": "Current / Active",
+      "licensed": "08/08/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "RUSSUM, KEEGAN",
+      "city": "Palm Springs",
+      "zip": "33461",
+      "license": "HI18421",
+      "licenseNumber": "0018421",
+      "status": "Current / Active",
+      "licensed": "11/13/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "STOCCHI, NICOLO",
+      "city": "Palm Springs",
+      "zip": "33461",
+      "license": "HI16644",
+      "licenseNumber": "0016644",
+      "status": "Current / Active",
+      "licensed": "09/21/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ARIAS, GREGORY JONATHAN",
+      "city": "Riviera Beach",
+      "zip": "33404",
+      "license": "HI7927",
+      "licenseNumber": "0007927",
+      "status": "Current / Active",
+      "licensed": "08/20/2013",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BERGMAN, GREGORY E",
+      "city": "Riviera Beach",
+      "zip": "33404",
+      "license": "HI14465",
+      "licenseNumber": "0014465",
+      "status": "Current / Active",
+      "licensed": "10/27/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CHARLES, CURTIS DAVID",
+      "city": "Riviera Beach",
+      "zip": "33404",
+      "license": "HI6850",
+      "licenseNumber": "0006850",
+      "status": "Current / Active",
+      "licensed": "07/02/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "GRIFFITH, MARK JEFFRY",
+      "city": "Riviera Beach",
+      "zip": "33404",
+      "license": "HI6418",
+      "licenseNumber": "0006418",
+      "status": "Current / Active",
+      "licensed": "06/13/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HUNT, WESTLEY",
+      "city": "Riviera Beach",
+      "zip": "33404",
+      "license": "HI17173",
+      "licenseNumber": "0017173",
+      "status": "Current / Active",
+      "licensed": "04/18/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "JARVIS, JESSICA",
+      "city": "Riviera Beach",
+      "zip": "33404",
+      "license": "HI17055",
+      "licenseNumber": "0017055",
+      "status": "Current / Active",
+      "licensed": "03/06/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "LEWIS, KENNETH",
+      "city": "Riviera Beach",
+      "zip": "33404",
+      "license": "HI3580",
+      "licenseNumber": "0003580",
+      "status": "Current / Active",
+      "licensed": "03/18/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MCMAHON, DAVID PATRICK",
+      "city": "Riviera Beach",
+      "zip": "33404",
+      "license": "HI11436",
+      "licenseNumber": "0011436",
+      "status": "Current / Active",
+      "licensed": "09/12/2018",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SMITH, OSBORN E JR",
+      "city": "Riviera Beach",
+      "zip": "33404",
+      "license": "HI11026",
+      "licenseNumber": "0011026",
+      "status": "Current / Active",
+      "licensed": "04/09/2018",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BILLINGS, JOSEPH EDWARD",
+      "city": "Royal Palm Beach",
+      "zip": "33411",
+      "license": "HI8637",
+      "licenseNumber": "0008637",
+      "status": "Current / Active",
+      "licensed": "12/15/2014",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CASTANEDA, CARLOS",
+      "city": "Royal Palm Beach",
+      "zip": "33411",
+      "license": "HI2138",
+      "licenseNumber": "0002138",
+      "status": "Current / Active",
+      "licensed": "03/01/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "GORDON, MYRICK O",
+      "city": "Royal Palm Beach",
+      "zip": "33411",
+      "license": "HI13526",
+      "licenseNumber": "0013526",
+      "status": "Current / Active",
+      "licensed": "02/26/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "LABARBERA, CHRISTOPHER LYLE",
+      "city": "Royal Palm Beach",
+      "zip": "33411",
+      "license": "HI11342",
+      "licenseNumber": "0011342",
+      "status": "Current / Active",
+      "licensed": "08/03/2018",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MARQUEZ CARDENAS, YARID",
+      "city": "Royal Palm Beach",
+      "zip": "33414",
+      "license": "HI17885",
+      "licenseNumber": "0017885",
+      "status": "Current / Active",
+      "licensed": "03/18/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "POZO, JOSE L SR.",
+      "city": "Royal Palm Beach",
+      "zip": "33411",
+      "license": "HI16530",
+      "licenseNumber": "0016530",
+      "status": "Current / Active",
+      "licensed": "08/18/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "RILEY, ROBERT",
+      "city": "Royal Palm Beach",
+      "zip": "33411",
+      "license": "HI14977",
+      "licenseNumber": "0014977",
+      "status": "Current / Active",
+      "licensed": "03/22/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ROBINSON, COREY DESHAWN SR",
+      "city": "Royal Palm Beach",
+      "zip": "33411",
+      "license": "HI9794",
+      "licenseNumber": "0009794",
+      "status": "Current / Active",
+      "licensed": "08/10/2016",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "RODRIGUEZ REYES, ALEXIS E",
+      "city": "Royal Palm Beach",
+      "zip": "33411",
+      "license": "HI19121",
+      "licenseNumber": "0019121",
+      "status": "Current / Active",
+      "licensed": "10/05/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "RUIZ, GUILLERMO",
+      "city": "Royal Palm Beach",
+      "zip": "33411",
+      "license": "HI13351",
+      "licenseNumber": "0013351",
+      "status": "Current / Active",
+      "licensed": "01/06/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SCOTT, WILLIAM KENNETH",
+      "city": "Royal Palm Beach",
+      "zip": "33414",
+      "license": "HI3928",
+      "licenseNumber": "0003928",
+      "status": "Current / Active",
+      "licensed": "03/28/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SHIPLEY, BRENDEN",
+      "city": "Royal Palm Beach",
+      "zip": "33414",
+      "license": "HI15555",
+      "licenseNumber": "0015555",
+      "status": "Current / Active",
+      "licensed": "09/13/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SHIPLEY, BRIAN WALTER",
+      "city": "Royal Palm Beach",
+      "zip": "33414",
+      "license": "HI12726",
+      "licenseNumber": "0012726",
+      "status": "Current / Active",
+      "licensed": "05/06/2020",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SMITH, RICHARD TOBIN III",
+      "city": "Royal Palm Beach",
+      "zip": "33411",
+      "license": "HI8663",
+      "licenseNumber": "0008663",
+      "status": "Current / Active",
+      "licensed": "01/05/2015",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "THOMAS, ALBERT",
+      "city": "Royal Palm Beach",
+      "zip": "33411",
+      "license": "HI16557",
+      "licenseNumber": "0016557",
+      "status": "Current / Active",
+      "licensed": "08/25/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ANDERSON, MICHAEL SHAWN",
+      "city": "Tequesta",
+      "zip": "33469",
+      "license": "HI3615",
+      "licenseNumber": "0003615",
+      "status": "Current / Active",
+      "licensed": "03/18/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CANNON, JOSEPH J",
+      "city": "Tequesta",
+      "zip": "33469",
+      "license": "HI4944",
+      "licenseNumber": "0004944",
+      "status": "Current / Active",
+      "licensed": "10/19/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "COOMBS, RONALD ALAN JR",
+      "city": "Tequesta",
+      "zip": "33469",
+      "license": "HI9736",
+      "licenseNumber": "0009736",
+      "status": "Current / Active",
+      "licensed": "07/20/2016",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "EVANS, CHARLES M",
+      "city": "Tequesta",
+      "zip": "33469",
+      "license": "HI18037",
+      "licenseNumber": "0018037",
+      "status": "Current / Active",
+      "licensed": "05/23/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "NUQUIST, RYAN SCOTT",
+      "city": "Tequesta",
+      "zip": "33469",
+      "license": "HI3946",
+      "licenseNumber": "0003946",
+      "status": "Current / Active",
+      "licensed": "03/28/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SPINELLI, THEODORE",
+      "city": "Tequesta",
+      "zip": "33469",
+      "license": "HI3577",
+      "licenseNumber": "0003577",
+      "status": "Current / Active",
+      "licensed": "03/18/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BATISTA, MAITE",
+      "city": "Wellington",
+      "zip": "33414",
+      "license": "HI13751",
+      "licenseNumber": "0013751",
+      "status": "Current / Active",
+      "licensed": "04/21/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CACOPARDO, RICHARD JAMES",
+      "city": "Wellington",
+      "zip": "33414",
+      "license": "HI593",
+      "licenseNumber": "0000593",
+      "status": "Current / Active",
+      "licensed": "11/08/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CARROLL, NICHOLAS A",
+      "city": "Wellington",
+      "zip": "33414",
+      "license": "HI13742",
+      "licenseNumber": "0013742",
+      "status": "Current / Active",
+      "licensed": "04/20/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "COSENTINO, JOSEPH MICHAEL JR",
+      "city": "Wellington",
+      "zip": "33414",
+      "license": "HI962",
+      "licenseNumber": "0000962",
+      "status": "Current / Active",
+      "licensed": "12/30/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "DIPRIMA, MICHAEL EDWARD JR",
+      "city": "Wellington",
+      "zip": "33414",
+      "license": "HI5090",
+      "licenseNumber": "0005090",
+      "status": "Current / Active",
+      "licensed": "11/30/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "DONOGHUE, JOEL",
+      "city": "Wellington",
+      "zip": "33414",
+      "license": "HI13212",
+      "licenseNumber": "0013212",
+      "status": "Current / Active",
+      "licensed": "11/20/2020",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "DOWNEY, DANIEL ALLAN",
+      "city": "Wellington",
+      "zip": "33414",
+      "license": "HI12013",
+      "licenseNumber": "0012013",
+      "status": "Current / Active",
+      "licensed": "05/20/2019",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "DUMAIS, JESSICA",
+      "city": "Wellington",
+      "zip": "33414",
+      "license": "HI14781",
+      "licenseNumber": "0014781",
+      "status": "Current / Active",
+      "licensed": "02/04/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "FRANCIS, MICHAEL MAKRAM",
+      "city": "Wellington",
+      "zip": "33414",
+      "license": "HI1014",
+      "licenseNumber": "0001014",
+      "status": "Current / Active",
+      "licensed": "01/10/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "LEES, DAVID THOMAS",
+      "city": "Wellington",
+      "zip": "33414",
+      "license": "HI8696",
+      "licenseNumber": "0008696",
+      "status": "Current / Active",
+      "licensed": "01/27/2015",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MARBRY, WILLIAM MICHAEL JR",
+      "city": "Wellington",
+      "zip": "33414",
+      "license": "HI1102",
+      "licenseNumber": "0001102",
+      "status": "Current / Active",
+      "licensed": "01/19/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MCALLISTER, MARK ALLEN",
+      "city": "Wellington",
+      "zip": "33449",
+      "license": "HI2035",
+      "licenseNumber": "0002035",
+      "status": "Current / Active",
+      "licensed": "02/25/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ODONNELL, DAVID CHARLES",
+      "city": "Wellington",
+      "zip": "33411",
+      "license": "HI7958",
+      "licenseNumber": "0007958",
+      "status": "Current / Active",
+      "licensed": "09/12/2013",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "PANCIONE, CHRISTOPHER",
+      "city": "Wellington",
+      "zip": "33414",
+      "license": "HI10752",
+      "licenseNumber": "0010752",
+      "status": "Current / Active",
+      "licensed": "12/04/2017",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SPERRAZZA, CHARLES R",
+      "city": "Wellington",
+      "zip": "33414",
+      "license": "HI2604",
+      "licenseNumber": "0002604",
+      "status": "Current / Active",
+      "licensed": "03/04/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "STEITZ, JOHN R",
+      "city": "Wellington",
+      "zip": "33414",
+      "license": "HI1471",
+      "licenseNumber": "0001471",
+      "status": "Current / Active",
+      "licensed": "02/10/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "TOLLETT, BRENT ZACK",
+      "city": "Wellington",
+      "zip": "33411",
+      "license": "HI14008",
+      "licenseNumber": "0014008",
+      "status": "Current / Active",
+      "licensed": "06/30/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "VASQUEZ, JUAN C",
+      "city": "Wellington",
+      "zip": "33414",
+      "license": "HI10676",
+      "licenseNumber": "0010676",
+      "status": "Current / Active",
+      "licensed": "10/16/2017",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "WEILER, SEAN",
+      "city": "Wellington",
+      "zip": "33414",
+      "license": "HI11816",
+      "licenseNumber": "0011816",
+      "status": "Current / Active",
+      "licensed": "02/19/2019",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ZAKARIAN, MICHAEL",
+      "city": "Wellington",
+      "zip": "33414",
+      "license": "HI16941",
+      "licenseNumber": "0016941",
+      "status": "Current / Active",
+      "licensed": "01/29/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ZIMMELMAN, STUART",
+      "city": "Wellington",
+      "zip": "33414",
+      "license": "HI9760",
+      "licenseNumber": "0009760",
+      "status": "Current / Active",
+      "licensed": "07/30/2016",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ACOSTA, LAZARO DAVID",
+      "city": "West Palm Beach",
+      "zip": "33406",
+      "license": "HI16490",
+      "licenseNumber": "0016490",
+      "status": "Current / Active",
+      "licensed": "08/08/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ALONSO, RENE",
+      "city": "West Palm Beach",
+      "zip": "33407",
+      "license": "HI6949",
+      "licenseNumber": "0006949",
+      "status": "Current / Active",
+      "licensed": "07/03/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "AQUI, ALLOY RUDY",
+      "city": "West Palm Beach",
+      "zip": "33411",
+      "license": "HI14694",
+      "licenseNumber": "0014694",
+      "status": "Current / Active",
+      "licensed": "01/06/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ARAGON, MARVIN STEVENS",
+      "city": "West Palm Beach",
+      "zip": "33415",
+      "license": "HI17196",
+      "licenseNumber": "0017196",
+      "status": "Current / Active",
+      "licensed": "04/30/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ARTT, HARRY R.",
+      "city": "West Palm Beach",
+      "zip": "33411",
+      "license": "HI17410",
+      "licenseNumber": "0017410",
+      "status": "Current / Active",
+      "licensed": "07/30/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BRITO, BRIAN ELLIOTT",
+      "city": "West Palm Beach",
+      "zip": "33412",
+      "license": "HI4769",
+      "licenseNumber": "0004769",
+      "status": "Current / Active",
+      "licensed": "09/02/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CAINO , ALEJANDRO",
+      "city": "West Palm Beach",
+      "zip": "33415",
+      "license": "HI18774",
+      "licenseNumber": "0018774",
+      "status": "Current / Active",
+      "licensed": "05/11/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CERTO, EIRIK A",
+      "city": "West Palm Beach",
+      "zip": "33407",
+      "license": "HI17339",
+      "licenseNumber": "0017339",
+      "status": "Current / Active",
+      "licensed": "06/26/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CHRZANOWSKI, BRIAN A",
+      "city": "West Palm Beach",
+      "zip": "33406",
+      "license": "HI4168",
+      "licenseNumber": "0004168",
+      "status": "Current / Active",
+      "licensed": "04/04/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "COLLIER, SCOTT ALLEN",
+      "city": "West Palm Beach",
+      "zip": "33411",
+      "license": "HI5500",
+      "licenseNumber": "0005500",
+      "status": "Current / Active",
+      "licensed": "02/29/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "COLLINS, JOSEPH A III",
+      "city": "West Palm Beach",
+      "zip": "33411",
+      "license": "HI1363",
+      "licenseNumber": "0001363",
+      "status": "Current / Active",
+      "licensed": "02/04/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "COLODNY, RUSSELL",
+      "city": "West Palm Beach",
+      "zip": "33412",
+      "license": "HI1944",
+      "licenseNumber": "0001944",
+      "status": "Current / Active",
+      "licensed": "02/23/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "COMBS, DEBBIE",
+      "city": "West Palm Beach",
+      "zip": "33412",
+      "license": "HI1203",
+      "licenseNumber": "0001203",
+      "status": "Current / Active",
+      "licensed": "01/27/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CORDOBA, JOSE GILBERTO",
+      "city": "West Palm Beach",
+      "zip": "33412",
+      "license": "HI4801",
+      "licenseNumber": "0004801",
+      "status": "Current / Active",
+      "licensed": "09/14/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "DAVIS, BRADFORD JAY",
+      "city": "West Palm Beach",
+      "zip": "33411",
+      "license": "HI3701",
+      "licenseNumber": "0003701",
+      "status": "Current / Active",
+      "licensed": "03/22/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "DIAZ, ANAIS LI",
+      "city": "West Palm Beach",
+      "zip": "33411",
+      "license": "HI14443",
+      "licenseNumber": "0014443",
+      "status": "Current / Active",
+      "licensed": "10/22/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "DIBENEDETTO, JUDITH A",
+      "city": "West Palm Beach",
+      "zip": "33412",
+      "license": "HI7116",
+      "licenseNumber": "0007116",
+      "status": "Current / Active",
+      "licensed": "07/06/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "DUBOY, NICHOLAS ANTONIO",
+      "city": "West Palm Beach",
+      "zip": "33406",
+      "license": "HI12776",
+      "licenseNumber": "0012776",
+      "status": "Current / Active",
+      "licensed": "06/05/2020",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ESTIME, RAHMSLEY",
+      "city": "West Palm Beach",
+      "zip": "33413",
+      "license": "HI18085",
+      "licenseNumber": "0018085",
+      "status": "Current / Active",
+      "licensed": "06/09/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "EVES, ISAAC",
+      "city": "West Palm Beach",
+      "zip": "33411",
+      "license": "HI14297",
+      "licenseNumber": "0014297",
+      "status": "Current / Active",
+      "licensed": "09/13/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "FARLEY, JONATHAN MATTHEW",
+      "city": "West Palm Beach",
+      "zip": "33406",
+      "license": "HI17902",
+      "licenseNumber": "0017902",
+      "status": "Current / Active",
+      "licensed": "03/28/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "FEIJOO, ERNEL",
+      "city": "West Palm Beach",
+      "zip": "33411",
+      "license": "HI12165",
+      "licenseNumber": "0012165",
+      "status": "Current / Active",
+      "licensed": "08/05/2019",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "FERNANDEZ, FABIAN IVAN",
+      "city": "West Palm Beach",
+      "zip": "33406",
+      "license": "HI7640",
+      "licenseNumber": "0007640",
+      "status": "Current / Active",
+      "licensed": "11/13/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "GOUBRAN, NADER MEDHAT",
+      "city": "West Palm Beach",
+      "zip": "33413",
+      "license": "HI1118",
+      "licenseNumber": "0001118",
+      "status": "Current / Active",
+      "licensed": "01/19/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "GUNN, ROBERT B",
+      "city": "West Palm Beach",
+      "zip": "33417",
+      "license": "HI2303",
+      "licenseNumber": "0002303",
+      "status": "Current / Active",
+      "licensed": "03/02/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HALSTEAD, PILAR AURORA",
+      "city": "West Palm Beach",
+      "zip": "33411",
+      "license": "HI3062",
+      "licenseNumber": "0003062",
+      "status": "Current / Active",
+      "licensed": "03/10/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HALSTEAD, PRESTON LEE",
+      "city": "West Palm Beach",
+      "zip": "33411",
+      "license": "HI549",
+      "licenseNumber": "0000549",
+      "status": "Current / Active",
+      "licensed": "11/01/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HOFSTRAND, PATRICE ANNE",
+      "city": "West Palm Beach",
+      "zip": "33412",
+      "license": "HI2147",
+      "licenseNumber": "0002147",
+      "status": "Current / Active",
+      "licensed": "03/01/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HOSTETLER, RONALD C",
+      "city": "West Palm Beach",
+      "zip": "33409",
+      "license": "HI3444",
+      "licenseNumber": "0003444",
+      "status": "Current / Active",
+      "licensed": "03/16/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "JADUNANDAN, UMESH JONATHAN",
+      "city": "West Palm Beach",
+      "zip": "33401",
+      "license": "HI5558",
+      "licenseNumber": "0005558",
+      "status": "Current / Active",
+      "licensed": "03/08/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "JEAN-CHARLES, WILFRANDE",
+      "city": "West Palm Beach",
+      "zip": "33406",
+      "license": "HI17861",
+      "licenseNumber": "0017861",
+      "status": "Current / Active",
+      "licensed": "03/05/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "JEAN-GILLES, JONATHAN",
+      "city": "West Palm Beach",
+      "zip": "33411",
+      "license": "HI14523",
+      "licenseNumber": "0014523",
+      "status": "Current / Active",
+      "licensed": "11/16/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "JOHNSON, THOMAS MARK",
+      "city": "West Palm Beach",
+      "zip": "33407",
+      "license": "HI5937",
+      "licenseNumber": "0005937",
+      "status": "Current / Active",
+      "licensed": "04/24/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "KING, KURT",
+      "city": "West Palm Beach",
+      "zip": "33412",
+      "license": "HI13320",
+      "licenseNumber": "0013320",
+      "status": "Current / Active",
+      "licensed": "12/23/2020",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "KUMPULAINEN, LUKAS",
+      "city": "West Palm Beach",
+      "zip": "33405",
+      "license": "HI15474",
+      "licenseNumber": "0015474",
+      "status": "Current / Active",
+      "licensed": "08/22/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "KUMPULAINEN, RAIMO JUHANI",
+      "city": "West Palm Beach",
+      "zip": "33405",
+      "license": "HI12371",
+      "licenseNumber": "0012371",
+      "status": "Current / Active",
+      "licensed": "11/06/2019",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "LATOUR, VALERY",
+      "city": "West Palm Beach",
+      "zip": "33412",
+      "license": "HI15448",
+      "licenseNumber": "0015448",
+      "status": "Current / Active",
+      "licensed": "08/15/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "LEE, PAUL",
+      "city": "West Palm Beach",
+      "zip": "33411",
+      "license": "HI10327",
+      "licenseNumber": "0010327",
+      "status": "Current / Active",
+      "licensed": "05/01/2017",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "LITTLE, JOHN P III",
+      "city": "West Palm Beach",
+      "zip": "33404",
+      "license": "HI5514",
+      "licenseNumber": "0005514",
+      "status": "Current / Active",
+      "licensed": "03/02/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "LLOYD, TOBY W",
+      "city": "West Palm Beach",
+      "zip": "33411",
+      "license": "HI1623",
+      "licenseNumber": "0001623",
+      "status": "Current / Active",
+      "licensed": "02/16/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "LOPEZ, ALFONSO",
+      "city": "West Palm Beach",
+      "zip": "33417",
+      "license": "HI5102",
+      "licenseNumber": "0005102",
+      "status": "Current / Active",
+      "licensed": "11/30/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "LUGONES, NORLAN B",
+      "city": "West Palm Beach",
+      "zip": "33415",
+      "license": "HI5487",
+      "licenseNumber": "0005487",
+      "status": "Current / Active",
+      "licensed": "02/28/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MADRINAN RIVAS, ANGELA MARIA",
+      "city": "West Palm Beach",
+      "zip": "33415",
+      "license": "HI18222",
+      "licenseNumber": "0018222",
+      "status": "Current / Active",
+      "licensed": "08/14/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MALONEY, THOMAS PATRICK",
+      "city": "West Palm Beach",
+      "zip": "33415",
+      "license": "HI17004",
+      "licenseNumber": "0017004",
+      "status": "Current / Active",
+      "licensed": "02/20/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MANGOLI, SANJEEV H",
+      "city": "West Palm Beach",
+      "zip": "33411",
+      "license": "HI6326",
+      "licenseNumber": "0006326",
+      "status": "Current / Active",
+      "licensed": "06/07/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MENDEZ, CHRISTOPHER",
+      "city": "West Palm Beach",
+      "zip": "33413",
+      "license": "HI15714",
+      "licenseNumber": "0015714",
+      "status": "Current / Active",
+      "licensed": "11/07/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "NEGRIN, OSMIL",
+      "city": "West Palm Beach",
+      "zip": "33406",
+      "license": "HI4089",
+      "licenseNumber": "0004089",
+      "status": "Current / Active",
+      "licensed": "03/31/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "NELSON, MICHAEL SHAWN",
+      "city": "West Palm Beach",
+      "zip": "33413",
+      "license": "HI5992",
+      "licenseNumber": "0005992",
+      "status": "Current / Active",
+      "licensed": "05/02/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "NUNEZ, WILLIAM DIEGO",
+      "city": "West Palm Beach",
+      "zip": "33413",
+      "license": "HI10175",
+      "licenseNumber": "0010175",
+      "status": "Current / Active",
+      "licensed": "02/20/2017",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ORELLANA, EDGAR F JR",
+      "city": "West Palm Beach",
+      "zip": "33415",
+      "license": "HI17743",
+      "licenseNumber": "0017743",
+      "status": "Current / Active",
+      "licensed": "01/06/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "OROZCO, MIGUEL ANGEL",
+      "city": "West Palm Beach",
+      "zip": "33406",
+      "license": "HI1551",
+      "licenseNumber": "0001551",
+      "status": "Current / Active",
+      "licensed": "02/14/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "PETERMAN, CHET A",
+      "city": "West Palm Beach",
+      "zip": "33415",
+      "license": "HI8110",
+      "licenseNumber": "0008110",
+      "status": "Current / Active",
+      "licensed": "12/19/2013",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "PUNCHES, CHARLES ALLEN",
+      "city": "West Palm Beach",
+      "zip": "33417",
+      "license": "HI3560",
+      "licenseNumber": "0003560",
+      "status": "Current / Active",
+      "licensed": "03/18/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "REYES, CHRISTOPHER JEFFREY",
+      "city": "West Palm Beach",
+      "zip": "33406",
+      "license": "HI15783",
+      "licenseNumber": "0015783",
+      "status": "Current / Active",
+      "licensed": "12/02/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "RODRIGUEZ, DENNIS",
+      "city": "West Palm Beach",
+      "zip": "33409",
+      "license": "HI15260",
+      "licenseNumber": "0015260",
+      "status": "Current / Active",
+      "licensed": "06/14/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "RODRIGUEZ, NEY N",
+      "city": "West Palm Beach",
+      "zip": "33413",
+      "license": "HI12263",
+      "licenseNumber": "0012263",
+      "status": "Current / Active",
+      "licensed": "09/20/2019",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "RONDON GONZALEZ, NESTOR ANDRES",
+      "city": "West Palm Beach",
+      "zip": "33407",
+      "license": "HI17035",
+      "licenseNumber": "0017035",
+      "status": "Current / Active",
+      "licensed": "02/28/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ROUNTREE, ROBERT",
+      "city": "West Palm Beach",
+      "zip": "33411",
+      "license": "HI12927",
+      "licenseNumber": "0012927",
+      "status": "Current / Active",
+      "licensed": "08/14/2020",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "RUBINO, ROBERT PAUL",
+      "city": "West Palm Beach",
+      "zip": "33412",
+      "license": "HI7365",
+      "licenseNumber": "0007365",
+      "status": "Current / Active",
+      "licensed": "07/17/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SAAVEDRA, JOSE DANIEL",
+      "city": "West Palm Beach",
+      "zip": "33409",
+      "license": "HI7257",
+      "licenseNumber": "0007257",
+      "status": "Current / Active",
+      "licensed": "07/10/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SHAW, JAMES III",
+      "city": "West Palm Beach",
+      "zip": "33401",
+      "license": "HI8822",
+      "licenseNumber": "0008822",
+      "status": "Current / Active",
+      "licensed": "04/06/2015",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SPAULDING, DEVIN CHARLES",
+      "city": "West Palm Beach",
+      "zip": "33409",
+      "license": "HI8293",
+      "licenseNumber": "0008293",
+      "status": "Current / Active",
+      "licensed": "04/22/2014",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SPAULDING, EVERTON H",
+      "city": "West Palm Beach",
+      "zip": "33412",
+      "license": "HI13555",
+      "licenseNumber": "0013555",
+      "status": "Current / Active",
+      "licensed": "03/05/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "STEPANEK, TIMOTHY ANDREW",
+      "city": "West Palm Beach",
+      "zip": "33418",
+      "license": "HI7389",
+      "licenseNumber": "0007389",
+      "status": "Current / Active",
+      "licensed": "07/20/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SYCK, MICHAEL JASON",
+      "city": "West Palm Beach",
+      "zip": "33407",
+      "license": "HI16284",
+      "licenseNumber": "0016284",
+      "status": "Current / Active",
+      "licensed": "05/31/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "TARMAN, TIMOTHY CHRISTIAN",
+      "city": "West Palm Beach",
+      "zip": "33401",
+      "license": "HI19154",
+      "licenseNumber": "0019154",
+      "status": "Current / Active",
+      "licensed": "10/22/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "THORN, JOHN PATRICK",
+      "city": "West Palm Beach",
+      "zip": "33405",
+      "license": "HI12014",
+      "licenseNumber": "0012014",
+      "status": "Current / Active",
+      "licensed": "05/20/2019",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "TOLESKI, STEVEN ANDREW",
+      "city": "West Palm Beach",
+      "zip": "33415",
+      "license": "HI6216",
+      "licenseNumber": "0006216",
+      "status": "Current / Active",
+      "licensed": "05/29/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "VANEGAS, CARLOS A",
+      "city": "West Palm Beach",
+      "zip": "33415",
+      "license": "HI19120",
+      "licenseNumber": "0019120",
+      "status": "Current / Active",
+      "licensed": "10/05/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "VAUGHN, JEFFREY E JR",
+      "city": "West Palm Beach",
+      "zip": "33417",
+      "license": "HI17697",
+      "licenseNumber": "0017697",
+      "status": "Current / Active",
+      "licensed": "12/04/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "VILA, SUSANNAH",
+      "city": "West Palm Beach",
+      "zip": "33407",
+      "license": "HI18136",
+      "licenseNumber": "0018136",
+      "status": "Current / Active",
+      "licensed": "06/30/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "VILORIO, CARLOS",
+      "city": "West Palm Beach",
+      "zip": "33415",
+      "license": "HI9279",
+      "licenseNumber": "0009279",
+      "status": "Current / Active",
+      "licensed": "11/19/2015",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "WINGATE, TIMOTHY L",
+      "city": "West Palm Beach",
+      "zip": "33407",
+      "license": "HI5152",
+      "licenseNumber": "0005152",
+      "status": "Current / Active",
+      "licensed": "12/19/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CHOY-MONTALVO, VANESSA CAROLINA",
+      "city": "Westlake",
+      "zip": "33470",
+      "license": "HI17337",
+      "licenseNumber": "0017337",
+      "status": "Current / Active",
+      "licensed": "06/25/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "GARCIA TESTA, OMAR DAVID",
+      "city": "Westlake",
+      "zip": "33470",
+      "license": "HI17602",
+      "licenseNumber": "0017602",
+      "status": "Current / Active",
+      "licensed": "10/21/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HORBONIS, STEFAN C",
+      "city": "Westlake",
+      "zip": "33470",
+      "license": "HI17939",
+      "licenseNumber": "0017939",
+      "status": "Current / Active",
+      "licensed": "04/14/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MCMANUS, FRANCIS",
+      "city": "Westlake",
+      "zip": "33470",
+      "license": "HI18257",
+      "licenseNumber": "0018257",
+      "status": "Current / Active",
+      "licensed": "08/27/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "PRINCE, DANIEL",
+      "city": "Westlake",
+      "zip": "33470",
+      "license": "HI18458",
+      "licenseNumber": "0018458",
+      "status": "Current / Active",
+      "licensed": "12/05/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "RENTERIA, JOSE J",
+      "city": "Westlake",
+      "zip": "33470",
+      "license": "HI14682",
+      "licenseNumber": "0014682",
+      "status": "Current / Active",
+      "licensed": "12/28/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "RODRIGUEZ, DIOSBANI",
+      "city": "Westlake",
+      "zip": "33470",
+      "license": "HI18235",
+      "licenseNumber": "0018235",
+      "status": "Current / Active",
+      "licensed": "08/19/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "TIBBETTS, MICHAEL JAMES",
+      "city": "Westlake",
+      "zip": "33470",
+      "license": "HI11530",
+      "licenseNumber": "0011530",
+      "status": "Current / Active",
+      "licensed": "10/20/2018",
+      "expires": "07/31/2028"
+    }
+  ],
+  "flagged": [
+    {
+      "name": "VERGARA ARMAS, ANDREA STEFFANIA",
+      "city": "Hialeah",
+      "zip": "33015",
+      "license": "HI16669",
+      "licenseNumber": "0016669",
+      "status": "Current / Active",
+      "licensed": "09/29/2023",
+      "expires": "07/31/2028",
+      "otherCounty": "Miami-Dade"
+    },
+    {
+      "name": "BOFILL, GILBERTO",
+      "city": "Port St. Lucie",
+      "zip": "34987",
+      "license": "HI8148",
+      "licenseNumber": "0008148",
+      "status": "Current / Active",
+      "licensed": "01/30/2014",
+      "expires": "07/31/2028",
+      "otherCounty": "St. Lucie"
+    },
+    {
+      "name": "FLANAGAN, JAMES",
+      "city": "Port St. Lucie",
+      "zip": "34987",
+      "license": "HI9789",
+      "licenseNumber": "0009789",
+      "status": "Current / Active",
+      "licensed": "08/09/2016",
+      "expires": "07/31/2028",
+      "otherCounty": "St. Lucie"
+    },
+    {
+      "name": "WILEY, WALTER LEE III",
+      "city": "Punta Gorda",
+      "zip": "33950",
+      "license": "HI2407",
+      "licenseNumber": "0002407",
+      "status": "Current / Active",
+      "licensed": "03/03/2011",
+      "expires": "07/31/2028",
+      "otherCounty": "Charlotte"
+    }
+  ]
+}

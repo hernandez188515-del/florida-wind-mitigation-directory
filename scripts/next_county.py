@@ -49,11 +49,21 @@ CITY_FIXES = {
     "LAUDERDHILL": "LAUDERHILL", "LAUD BY TRHE SEA": "LAUDERDALE-BY-THE-SEA",
     "LAUDERDALE BY THE SE": "LAUDERDALE-BY-THE-SEA", "SW RANCHES": "SOUTHWEST RANCHES",
     "POMPANO": "POMPANO BEACH", "FT MYERS": "FORT MYERS", "FT. MYERS": "FORT MYERS",
+    # Palm Beach County variants (added 2026-11-19)
+    "DEL RAY BEACH": "DELRAY BEACH", "DELRAY": "DELRAY BEACH", "JUPTER": "JUPITER",
+    "LAKEWORTH BEACH": "LAKE WORTH BEACH", "LOXAHATCHEE, FL": "LOXAHATCHEE",
+    "WEST PALM BAACH": "WEST PALM BEACH", "WEST PALM BCH": "WEST PALM BEACH",
+    "WEST PALM BEAACH": "WEST PALM BEACH", "PSL": "PORT ST. LUCIE",
 }
 
 
 def raw_city(row) -> str:
     return re.sub(r"\s+", " ", row[8].strip().upper())
+
+
+def norm_city(row) -> str:
+    c = raw_city(row)
+    return CITY_FIXES.get(c, c)
 
 
 def display_city(row) -> str:
@@ -66,7 +76,7 @@ def city_home_county(all_rows) -> dict:
     """Most common county code per city across the whole statewide HI file."""
     tally: dict[str, Counter] = {}
     for r in all_rows:
-        tally.setdefault(raw_city(r), Counter())[r[11]] += 1
+        tally.setdefault(norm_city(r), Counter())[r[11]] += 1
     return {city: cnt.most_common(1)[0][0] for city, cnt in tally.items()}
 
 
@@ -74,7 +84,7 @@ def split_mismatches(inspectors, home_county, code):
     """Rows whose city is predominantly coded to a different county are footnoted, not tabled."""
     main, flagged = [], []
     for r in inspectors:
-        home = home_county.get(raw_city(r), code)
+        home = home_county.get(norm_city(r), code)
         (flagged if home != code else main).append((r, home))
     return [r for r, _ in main], flagged
 
@@ -366,10 +376,17 @@ def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("--csv", required=True, type=Path)
     parser.add_argument("--write", action="store_true")
+    parser.add_argument("--county", help="Regenerate a specific county slug (e.g. palm-beach) instead of picking the next unpublished one")
     args = parser.parse_args()
     rows = load_active(args.csv)
     already = existing_county_slugs()
-    nxt = pick_next(rows, already)
+    if args.county:
+        code = next((c for c, sl in SLUGS.items() if sl == args.county), None)
+        if code is None:
+            raise SystemExit(f"Unknown county slug: {args.county}")
+        nxt = (code, COUNTY_CODES[code], args.county, sum(1 for r in rows if r[11] == code))
+    else:
+        nxt = pick_next(rows, already)
     if not nxt:
         print("No unpublished counties remain in this extract.")
         return
