@@ -10,6 +10,7 @@ It is live on GitHub Pages at https://hernandez188515-del.github.io/florida-wind
 - `miami-dade/index.html` — first county directory (Miami-Dade)
 - `broward/index.html` — second county directory (Broward), added November 18, 2026
 - `palm-beach/index.html` — third county directory (Palm Beach), added November 19, 2026
+- `guides/wind-mitigation-vs-4-point-vs-roof-certification/index.html` — first hand-written explainer (wind mitigation vs. 4-point vs. roof certification; signers, April 1, 2026 OIR-B1-1802 change, wind credits, published prices), added November 20, 2026
 - `assets/styles.css`
 - `data/lic04home-2026-11-18.csv` — official Florida DBPR home-inspector extract downloaded November 18, 2026 (America/New_York)
 - `data/lic04home-2026-11-19.csv` — re-download on November 19, 2026; byte-identical to the November 18 file (same SHA-256)
