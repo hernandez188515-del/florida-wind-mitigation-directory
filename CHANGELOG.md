@@ -39,3 +39,10 @@ All dates are America/New_York.
 - `index.html`: guide linked in nav, under the "Three inspections" cards, and in "Live now". `sitemap.xml`: added guide URL (lastmod 2026-11-20), homepage lastmod → 2026-11-20. `PUBLISHING.md`: file list updated.
 - Deploy: commit `38b702c` ("Add wind mitigation vs. 4-point vs. roof certification guide") pushed to `origin/main` (fast-forward cc9cc82..38b702c, no force). GitHub Pages build for `38b702c` reported `built` at 2026-11-20 22:07 ET; `curl -sI .../guides/wind-mitigation-vs-4-point-vs-roof-certification/` → HTTP 200 and homepage → HTTP 200; live homepage and sitemap.xml include the guide link. Live: https://hernandez188515-del.github.io/florida-wind-mitigation-directory/guides/wind-mitigation-vs-4-point-vs-roof-certification/ . Content pages (index.html files): 5.
 - Noted for review (not changed tonight): the Miami-Dade page's TruView paragraph includes a business street address, which conflicts with the site's no-street-address rule.
+
+## 2026-11-21
+
+**Miami-Dade page: remove TruView street address (Miguel approved):**
+- `miami-dade/index.html`: removed the office street address from the TruView Inspections callout. The rest of the note is unchanged, including that TruView lists a Coral Gables office, the Miami phone number, licenses, prices, sources, and the Nov 18, 2026 check date.
+- Searched html, json, and data files (excluding the raw license CSVs) for the same street address; it appeared only in that Miami-Dade paragraph. License-table ZIP codes and names such as "PONCE DE LEON REYES" were left alone.
+- `sitemap.xml`: Miami-Dade lastmod bumped to 2026-11-21.
