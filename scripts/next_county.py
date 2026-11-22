@@ -54,6 +54,8 @@ CITY_FIXES = {
     "LAKEWORTH BEACH": "LAKE WORTH BEACH", "LOXAHATCHEE, FL": "LOXAHATCHEE",
     "WEST PALM BAACH": "WEST PALM BEACH", "WEST PALM BCH": "WEST PALM BEACH",
     "WEST PALM BEAACH": "WEST PALM BEACH", "PSL": "PORT ST. LUCIE",
+    # Hillsborough County variants (added 2026-11-21)
+    "SUN CITY CENTERR": "SUN CITY CENTER", "ST PETERSBURG": "ST. PETERSBURG",
 }
 
 
@@ -154,7 +156,12 @@ def companies_fragment(slug: str, name: str) -> str:
 def render_county(name: str, slug: str, code: str, inspectors: list, flagged: list,
                   today: str, csv_path: Path, sha: str, statewide: int) -> str:
     pretty_day = date.fromisoformat(today).strftime("%B %-d, %Y")
-    short_day = date.fromisoformat(today).strftime("%b %-d, %Y")
+    # The extract date comes from the saved file name (data/lic04home-YYYY-MM-DD.csv) so a reused
+    # snapshot is not described as downloaded on the page-generation day.
+    m = re.search(r"(\d{4}-\d{2}-\d{2})", csv_path.name)
+    extract_day = date.fromisoformat(m.group(1)) if m else date.fromisoformat(today)
+    extract_pretty = extract_day.strftime("%B %-d, %Y")
+    short_day = extract_day.strftime("%b %-d, %Y")
     body_rows = []
     for r in inspectors:
         body_rows.append(
@@ -215,7 +222,7 @@ def render_county(name: str, slug: str, code: str, inspectors: list, flagged: li
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{escape(name)} wind mitigation and 4-point inspectors — Florida Insurance Inspections</title>
-  <meta name="description" content="Licensed home inspectors with an official {escape(name)} mailing county, plus companies whose websites advertise wind mitigation or 4-point inspections. Data from the Florida DBPR extract dated {pretty_day}.">
+  <meta name="description" content="Licensed home inspectors with an official {escape(name)} mailing county, plus companies whose websites advertise wind mitigation or 4-point inspections. Data from the Florida DBPR extract dated {extract_pretty}.">
   <link rel="stylesheet" href="../assets/styles.css">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -295,7 +302,7 @@ def render_county(name: str, slug: str, code: str, inspectors: list, flagged: li
 {flagged_section}
       <section class="section" id="sources">
         <h2>Source file</h2>
-        <p class="footnote">Florida Department of Business and Professional Regulation, Home Inspectors public extract, downloaded {pretty_day}, America/New_York, from <a href="{SOURCE_CSV}">lic04home.csv</a> (saved as <span class="mono">{escape(csv_path.name)}</span>, SHA-256 <span class="mono">{sha}</span>). Profession page: <a href="{SOURCE_PAGE}">Home Inspectors – Public Records</a>. Layout and status codes: <a href="{SOURCE_README}">readme.pdf</a> (Primary Status C = Current, Secondary Status A = Active, county code {escape(code)} = {escape(name)}). Filters: occupation HI; primary status C; secondary status A; county code {escape(code)}. The same file had {statewide:,} current/active HI licenses statewide.</p>
+        <p class="footnote">Florida Department of Business and Professional Regulation, Home Inspectors public extract, downloaded {extract_pretty}, America/New_York, from <a href="{SOURCE_CSV}">lic04home.csv</a> (saved as <span class="mono">{escape(csv_path.name)}</span>, SHA-256 <span class="mono">{sha}</span>). Profession page: <a href="{SOURCE_PAGE}">Home Inspectors – Public Records</a>. Layout and status codes: <a href="{SOURCE_README}">readme.pdf</a> (Primary Status C = Current, Secondary Status A = Active, county code {escape(code)} = {escape(name)}). Filters: occupation HI; primary status C; secondary status A; county code {escape(code)}. The same file had {statewide:,} current/active HI licenses statewide.</p>
       </section>
     </div>
   </main>
@@ -303,7 +310,7 @@ def render_county(name: str, slug: str, code: str, inspectors: list, flagged: li
   <footer>
     <div class="footer-inner">
       <a class="logo" href="../">Florida Insurance <span>Inspections</span></a>
-      <p>Listings are not endorsements or price quotes. Data dated {pretty_day}, America/New_York.</p>
+      <p>Listings are not endorsements or price quotes. License data dated {extract_pretty}; company checks {pretty_day}, America/New_York.</p>
     </div>
   </footer>
   <script>

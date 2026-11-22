@@ -1,0 +1,4108 @@
+{
+  "source": {
+    "agency": "Florida Department of Business and Professional Regulation",
+    "professionPage": "https://www2.myfloridalicense.com/home-inspectors/public-records/",
+    "file": "https://www2.myfloridalicense.com/sto/file_download/extracts/lic04home.csv",
+    "readme": "https://www2.myfloridalicense.com/sto/documents/readme.pdf",
+    "downloaded": "2026-11-19",
+    "reusedOn": "2026-11-21",
+    "timezone": "America/New_York",
+    "sha256": "9e692086a719f4c2dbc4d24c293f5ae8aa7a4ddd06cc5eb1e9c487f857ca3678",
+    "bytes": 1624454,
+    "filters": "Occupation HI; Primary Status C (Current); Secondary Status A (Active); County Code 39 (Hillsborough). Street addresses omitted. Rows whose city is predominantly coded to another county in the statewide file are listed separately.",
+    "statewideCurrentActiveHI": 7816,
+    "hillsboroughCountyCode39": 408,
+    "hillsboroughInTable": 402,
+    "flaggedCityMismatch": 6
+  },
+  "inspectors": [
+    {
+      "name": "ALVAREZ, EMILIO",
+      "city": "Apollo Beach",
+      "zip": "33572",
+      "license": "HI12740",
+      "licenseNumber": "0012740",
+      "status": "Current / Active",
+      "licensed": "05/12/2020",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ALVAREZ, LILIO ANTONIO",
+      "city": "Apollo Beach",
+      "zip": "33572",
+      "license": "HI11579",
+      "licenseNumber": "0011579",
+      "status": "Current / Active",
+      "licensed": "11/05/2018",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BELTRAN, GIOVANNI",
+      "city": "Apollo Beach",
+      "zip": "33572",
+      "license": "HI14472",
+      "licenseNumber": "0014472",
+      "status": "Current / Active",
+      "licensed": "10/28/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BURKE, RYAN JOHN",
+      "city": "Apollo Beach",
+      "zip": "33572",
+      "license": "HI15176",
+      "licenseNumber": "0015176",
+      "status": "Current / Active",
+      "licensed": "05/16/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CORNELIUS, MARK",
+      "city": "Apollo Beach",
+      "zip": "33572",
+      "license": "HI9500",
+      "licenseNumber": "0009500",
+      "status": "Current / Active",
+      "licensed": "03/11/2016",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "GARBELMAN, GARY LAVERNE",
+      "city": "Apollo Beach",
+      "zip": "33572",
+      "license": "HI14093",
+      "licenseNumber": "0014093",
+      "status": "Current / Active",
+      "licensed": "07/23/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "JAWORSKI, TYLER",
+      "city": "Apollo Beach",
+      "zip": "33572",
+      "license": "HI12904",
+      "licenseNumber": "0012904",
+      "status": "Current / Active",
+      "licensed": "08/06/2020",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MOREJON, RAMONA LISA",
+      "city": "Apollo Beach",
+      "zip": "33572",
+      "license": "HI7006",
+      "licenseNumber": "0007006",
+      "status": "Current / Active",
+      "licensed": "07/05/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "PISTOLESE, MICHAEL",
+      "city": "Apollo Beach",
+      "zip": "33572",
+      "license": "HI9090",
+      "licenseNumber": "0009090",
+      "status": "Current / Active",
+      "licensed": "08/24/2015",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "RAYFIELD, CHRISTOPHER MICHAEL",
+      "city": "Apollo Beach",
+      "zip": "33572",
+      "license": "HI13529",
+      "licenseNumber": "0013529",
+      "status": "Current / Active",
+      "licensed": "02/26/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "RODRIGUEZ, SAMUEL",
+      "city": "Apollo Beach",
+      "zip": "33572",
+      "license": "HI17377",
+      "licenseNumber": "0017377",
+      "status": "Current / Active",
+      "licensed": "07/11/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "WISE, MARK E",
+      "city": "Apollo Beach",
+      "zip": "33572",
+      "license": "HI6150",
+      "licenseNumber": "0006150",
+      "status": "Current / Active",
+      "licensed": "05/18/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ADAMS, FLETCHER",
+      "city": "Brandon",
+      "zip": "33510",
+      "license": "HI12299",
+      "licenseNumber": "0012299",
+      "status": "Current / Active",
+      "licensed": "10/08/2019",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BARRILLEAUX, KYLE",
+      "city": "Brandon",
+      "zip": "33511",
+      "license": "HI16214",
+      "licenseNumber": "0016214",
+      "status": "Current / Active",
+      "licensed": "05/08/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BIRMINGHAM, JUSTIN MICHAEL",
+      "city": "Brandon",
+      "zip": "33511",
+      "license": "HI15097",
+      "licenseNumber": "0015097",
+      "status": "Current / Active",
+      "licensed": "04/26/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BRYAN, RAEON S",
+      "city": "Brandon",
+      "zip": "33511",
+      "license": "HI9081",
+      "licenseNumber": "0009081",
+      "status": "Current / Active",
+      "licensed": "08/14/2015",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "DELGADO MIRABENT, LUIS ENRIQUE",
+      "city": "Brandon",
+      "zip": "33511",
+      "license": "HI19085",
+      "licenseNumber": "0019085",
+      "status": "Current / Active",
+      "licensed": "09/21/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "DENNIS, ERIC NICHOLAS",
+      "city": "Brandon",
+      "zip": "33511",
+      "license": "HI12040",
+      "licenseNumber": "0012040",
+      "status": "Current / Active",
+      "licensed": "05/30/2019",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "EGAN, STEPHEN M SR",
+      "city": "Brandon",
+      "zip": "33511",
+      "license": "HI13295",
+      "licenseNumber": "0013295",
+      "status": "Current / Active",
+      "licensed": "12/14/2020",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "FALCON, ALEXANDER",
+      "city": "Brandon",
+      "zip": "33511",
+      "license": "HI17601",
+      "licenseNumber": "0017601",
+      "status": "Current / Active",
+      "licensed": "10/18/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "FENTON, MICHAEL PATRICK",
+      "city": "Brandon",
+      "zip": "33510",
+      "license": "HI19137",
+      "licenseNumber": "0019137",
+      "status": "Current / Active",
+      "licensed": "10/13/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "FREIRE, SILVIO",
+      "city": "Brandon",
+      "zip": "33511",
+      "license": "HI14230",
+      "licenseNumber": "0014230",
+      "status": "Current / Active",
+      "licensed": "08/27/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "FUENTES MADRID, LUIS FERNANDO",
+      "city": "Brandon",
+      "zip": "33510",
+      "license": "HI18432",
+      "licenseNumber": "0018432",
+      "status": "Current / Active",
+      "licensed": "11/19/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "GALLWAY, MICHAEL JOHN",
+      "city": "Brandon",
+      "zip": "33511",
+      "license": "HI12096",
+      "licenseNumber": "0012096",
+      "status": "Current / Active",
+      "licensed": "06/27/2019",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HEFFNER, JOHN PAUL",
+      "city": "Brandon",
+      "zip": "33511",
+      "license": "HI3255",
+      "licenseNumber": "0003255",
+      "status": "Current / Active",
+      "licensed": "03/11/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "JACOBSON, DEAN R",
+      "city": "Brandon",
+      "zip": "33510",
+      "license": "HI6051",
+      "licenseNumber": "0006051",
+      "status": "Current / Active",
+      "licensed": "05/09/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "LAISE, PABLO D",
+      "city": "Brandon",
+      "zip": "33511",
+      "license": "HI15012",
+      "licenseNumber": "0015012",
+      "status": "Current / Active",
+      "licensed": "04/01/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "LAZUKIN, ARTEM",
+      "city": "Brandon",
+      "zip": "33511",
+      "license": "HI14516",
+      "licenseNumber": "0014516",
+      "status": "Current / Active",
+      "licensed": "11/16/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "LINSE, NICHOLAS",
+      "city": "Brandon",
+      "zip": "33511",
+      "license": "HI17889",
+      "licenseNumber": "0017889",
+      "status": "Current / Active",
+      "licensed": "03/21/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MITCHELL, BRYAN",
+      "city": "Brandon",
+      "zip": "33511",
+      "license": "HI17781",
+      "licenseNumber": "0017781",
+      "status": "Current / Active",
+      "licensed": "01/31/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "NARANJO SUAREZ, RAUDEL",
+      "city": "Brandon",
+      "zip": "33510",
+      "license": "HI18758",
+      "licenseNumber": "0018758",
+      "status": "Current / Active",
+      "licensed": "05/04/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "RADTKE, JEFFREY T SR",
+      "city": "Brandon",
+      "zip": "33510",
+      "license": "HI6112",
+      "licenseNumber": "0006112",
+      "status": "Current / Active",
+      "licensed": "05/15/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "REED, BRENT A.",
+      "city": "Brandon",
+      "zip": "33511",
+      "license": "HI15049",
+      "licenseNumber": "0015049",
+      "status": "Current / Active",
+      "licensed": "04/13/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "RICHARDSON, COREY S",
+      "city": "Brandon",
+      "zip": "33511",
+      "license": "HI9014",
+      "licenseNumber": "0009014",
+      "status": "Current / Active",
+      "licensed": "07/23/2015",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ROMERO , ARMANDO",
+      "city": "Brandon",
+      "zip": "33511",
+      "license": "HI18643",
+      "licenseNumber": "0018643",
+      "status": "Current / Active",
+      "licensed": "03/19/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SMITH, JONATHAN ALAN",
+      "city": "Brandon",
+      "zip": "33510",
+      "license": "HI13368",
+      "licenseNumber": "0013368",
+      "status": "Current / Active",
+      "licensed": "01/11/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SOLARINO, THOMAS ROBERT",
+      "city": "Brandon",
+      "zip": "33511",
+      "license": "HI15146",
+      "licenseNumber": "0015146",
+      "status": "Current / Active",
+      "licensed": "05/06/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SVEHLA, JOE JERRY",
+      "city": "Brandon",
+      "zip": "33508",
+      "license": "HI1857",
+      "licenseNumber": "0001857",
+      "status": "Current / Active",
+      "licensed": "02/22/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "TORRES, WILLIAM",
+      "city": "Brandon",
+      "zip": "33511",
+      "license": "HI12357",
+      "licenseNumber": "0012357",
+      "status": "Current / Active",
+      "licensed": "11/01/2019",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "TUCKER, RILEY M",
+      "city": "Brandon",
+      "zip": "33511",
+      "license": "HI4010",
+      "licenseNumber": "0004010",
+      "status": "Current / Active",
+      "licensed": "03/30/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "WESTFALL, ALAN JASON",
+      "city": "Brandon",
+      "zip": "33508",
+      "license": "HI6701",
+      "licenseNumber": "0006701",
+      "status": "Current / Active",
+      "licensed": "06/26/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BENDER, MICHAEL F",
+      "city": "Dover",
+      "zip": "33527",
+      "license": "HI4413",
+      "licenseNumber": "0004413",
+      "status": "Current / Active",
+      "licensed": "04/27/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MICHENER, CHRISTIAN CORY",
+      "city": "Dover",
+      "zip": "33527",
+      "license": "HI13911",
+      "licenseNumber": "0013911",
+      "status": "Current / Active",
+      "licensed": "06/02/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MORTON, DEREK SCOTT",
+      "city": "Dover",
+      "zip": "33527",
+      "license": "HI6289",
+      "licenseNumber": "0006289",
+      "status": "Current / Active",
+      "licensed": "06/04/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "OYER, SEAN",
+      "city": "Dover",
+      "zip": "33527",
+      "license": "HI10893",
+      "licenseNumber": "0010893",
+      "status": "Current / Active",
+      "licensed": "02/20/2018",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "TERRY, DONALD LEE",
+      "city": "Dover",
+      "zip": "33527",
+      "license": "HI13367",
+      "licenseNumber": "0013367",
+      "status": "Current / Active",
+      "licensed": "01/11/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "VITTOE, TYLER",
+      "city": "Dover",
+      "zip": "33527",
+      "license": "HI17846",
+      "licenseNumber": "0017846",
+      "status": "Current / Active",
+      "licensed": "03/03/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "WINTER, NOAH",
+      "city": "Dover",
+      "zip": "33527",
+      "license": "HI10896",
+      "licenseNumber": "0010896",
+      "status": "Current / Active",
+      "licensed": "02/21/2018",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CADET, WISMY",
+      "city": "Gibsonton",
+      "zip": "33534",
+      "license": "HI13504",
+      "licenseNumber": "0013504",
+      "status": "Current / Active",
+      "licensed": "02/19/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "COLON, BRYAN",
+      "city": "Gibsonton",
+      "zip": "33534",
+      "license": "HI16543",
+      "licenseNumber": "0016543",
+      "status": "Current / Active",
+      "licensed": "08/23/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "PEREZ, CRISTHIAN J",
+      "city": "Gibsonton",
+      "zip": "33534",
+      "license": "HI9127",
+      "licenseNumber": "0009127",
+      "status": "Current / Active",
+      "licensed": "09/08/2015",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "FOSMOE, DAMIEN",
+      "city": "Lithia",
+      "zip": "33547",
+      "license": "HI19118",
+      "licenseNumber": "0019118",
+      "status": "Current / Active",
+      "licensed": "10/05/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "FUSSELL, THOMAS WADE II",
+      "city": "Lithia",
+      "zip": "33547",
+      "license": "HI8566",
+      "licenseNumber": "0008566",
+      "status": "Current / Active",
+      "licensed": "10/20/2014",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "GONZALEZ, DAVID",
+      "city": "Lithia",
+      "zip": "33547",
+      "license": "HI8922",
+      "licenseNumber": "0008922",
+      "status": "Current / Active",
+      "licensed": "05/27/2015",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "GOREN, BRUCE MITCHELL",
+      "city": "Lithia",
+      "zip": "33547",
+      "license": "HI12486",
+      "licenseNumber": "0012486",
+      "status": "Current / Active",
+      "licensed": "01/10/2020",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "GRAY, ROBERT WILLIAM III",
+      "city": "Lithia",
+      "zip": "33547",
+      "license": "HI766",
+      "licenseNumber": "0000766",
+      "status": "Current / Active",
+      "licensed": "12/07/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HUTCHINSON, MARK ALLEN",
+      "city": "Lithia",
+      "zip": "33547",
+      "license": "HI9570",
+      "licenseNumber": "0009570",
+      "status": "Current / Active",
+      "licensed": "04/18/2016",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MARTIN, TYSON EDWARD",
+      "city": "Lithia",
+      "zip": "33547",
+      "license": "HI13030",
+      "licenseNumber": "0013030",
+      "status": "Current / Active",
+      "licensed": "09/17/2020",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MORA, ORLANDO",
+      "city": "Lithia",
+      "zip": "33547",
+      "license": "HI10449",
+      "licenseNumber": "0010449",
+      "status": "Current / Active",
+      "licensed": "06/26/2017",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "OIFER, TODD MONTEGOMERY",
+      "city": "Lithia",
+      "zip": "33547",
+      "license": "HI5308",
+      "licenseNumber": "0005308",
+      "status": "Current / Active",
+      "licensed": "01/30/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "PEEBLES, OLIVER MARTIN",
+      "city": "Lithia",
+      "zip": "33547",
+      "license": "HI8650",
+      "licenseNumber": "0008650",
+      "status": "Current / Active",
+      "licensed": "12/22/2014",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BRENT, SYLVIA GOOD",
+      "city": "Lutz",
+      "zip": "33549",
+      "license": "HI4833",
+      "licenseNumber": "0004833",
+      "status": "Current / Active",
+      "licensed": "09/22/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BROWN, JOTHAM V",
+      "city": "Lutz",
+      "zip": "33559",
+      "license": "HI14298",
+      "licenseNumber": "0014298",
+      "status": "Current / Active",
+      "licensed": "09/13/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CARAWAY, ALAN M",
+      "city": "Lutz",
+      "zip": "33558",
+      "license": "HI5700",
+      "licenseNumber": "0005700",
+      "status": "Current / Active",
+      "licensed": "03/27/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "EVANS, REID BRADLEY",
+      "city": "Lutz",
+      "zip": "33549",
+      "license": "HI7899",
+      "licenseNumber": "0007899",
+      "status": "Current / Active",
+      "licensed": "07/31/2013",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "FISHER, MICHAEL CASEY",
+      "city": "Lutz",
+      "zip": "33548",
+      "license": "HI11199",
+      "licenseNumber": "0011199",
+      "status": "Current / Active",
+      "licensed": "06/05/2018",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "GUARDIA, EDUARDO MANUEL",
+      "city": "Lutz",
+      "zip": "33548",
+      "license": "HI1509",
+      "licenseNumber": "0001509",
+      "status": "Current / Active",
+      "licensed": "02/11/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HABERSHAW, STEVEN A",
+      "city": "Lutz",
+      "zip": "33549",
+      "license": "HI2879",
+      "licenseNumber": "0002879",
+      "status": "Current / Active",
+      "licensed": "03/08/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HOVEY, TODD RYAN",
+      "city": "Lutz",
+      "zip": "33559",
+      "license": "HI15367",
+      "licenseNumber": "0015367",
+      "status": "Current / Active",
+      "licensed": "07/20/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "JONES, KENT",
+      "city": "Lutz",
+      "zip": "33558",
+      "license": "HI6164",
+      "licenseNumber": "0006164",
+      "status": "Current / Active",
+      "licensed": "05/22/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "KESSLER, IAN M",
+      "city": "Lutz",
+      "zip": "33548",
+      "license": "HI7949",
+      "licenseNumber": "0007949",
+      "status": "Current / Active",
+      "licensed": "09/04/2013",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MCCAFFREY, MARK",
+      "city": "Lutz",
+      "zip": "33548",
+      "license": "HI18017",
+      "licenseNumber": "0018017",
+      "status": "Current / Active",
+      "licensed": "05/14/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MOONEY, RONALD C",
+      "city": "Lutz",
+      "zip": "33558",
+      "license": "HI1820",
+      "licenseNumber": "0001820",
+      "status": "Current / Active",
+      "licensed": "02/21/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ORTIZ VELAZCO, ALEJANDRO JOSE",
+      "city": "Lutz",
+      "zip": "33559",
+      "license": "HI18738",
+      "licenseNumber": "0018738",
+      "status": "Current / Active",
+      "licensed": "04/28/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "OSWALD, CRAIG LEE",
+      "city": "Lutz",
+      "zip": "33558",
+      "license": "HI1176",
+      "licenseNumber": "0001176",
+      "status": "Current / Active",
+      "licensed": "01/25/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "PACHECO, JAIME ALEXANDER",
+      "city": "Lutz",
+      "zip": "33558",
+      "license": "HI17010",
+      "licenseNumber": "0017010",
+      "status": "Current / Active",
+      "licensed": "02/20/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "PARK, SANG MYUNG",
+      "city": "Lutz",
+      "zip": "33549",
+      "license": "HI12491",
+      "licenseNumber": "0012491",
+      "status": "Current / Active",
+      "licensed": "01/14/2020",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "PEREZ NODARSE, MICHEL",
+      "city": "Lutz",
+      "zip": "33558",
+      "license": "HI9094",
+      "licenseNumber": "0009094",
+      "status": "Current / Active",
+      "licensed": "08/24/2015",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "PITTERS, CRAIG ROBERT",
+      "city": "Lutz",
+      "zip": "33558",
+      "license": "HI2819",
+      "licenseNumber": "0002819",
+      "status": "Current / Active",
+      "licensed": "03/08/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ROBINSON, CHRISTOPHER CHARLES",
+      "city": "Lutz",
+      "zip": "33548",
+      "license": "HI4893",
+      "licenseNumber": "0004893",
+      "status": "Current / Active",
+      "licensed": "10/07/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SANTOS, JUAN A",
+      "city": "Lutz",
+      "zip": "33549",
+      "license": "HI1351",
+      "licenseNumber": "0001351",
+      "status": "Current / Active",
+      "licensed": "02/03/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "THOMAS, JOHN STEPHEN",
+      "city": "Lutz",
+      "zip": "33548",
+      "license": "HI9362",
+      "licenseNumber": "0009362",
+      "status": "Current / Active",
+      "licensed": "01/08/2016",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "VAN BEBBER, THOMAS NICHOLAS",
+      "city": "Lutz",
+      "zip": "33549",
+      "license": "HI7288",
+      "licenseNumber": "0007288",
+      "status": "Current / Active",
+      "licensed": "07/10/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "WHITEHURST, TIMOTHY E",
+      "city": "Lutz",
+      "zip": "33558",
+      "license": "HI4292",
+      "licenseNumber": "0004292",
+      "status": "Current / Active",
+      "licensed": "04/08/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "WHITMORE, MILTON P",
+      "city": "Lutz",
+      "zip": "33548",
+      "license": "HI7144",
+      "licenseNumber": "0007144",
+      "status": "Current / Active",
+      "licensed": "07/09/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BEKTAS, TURK S",
+      "city": "Odessa",
+      "zip": "33556",
+      "license": "HI5888",
+      "licenseNumber": "0005888",
+      "status": "Current / Active",
+      "licensed": "04/17/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CONKEL, ROBERT DALE",
+      "city": "Odessa",
+      "zip": "33556",
+      "license": "HI6447",
+      "licenseNumber": "0006447",
+      "status": "Current / Active",
+      "licensed": "06/15/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ERHARDT, TIMOTHY",
+      "city": "Odessa",
+      "zip": "33556",
+      "license": "HI16406",
+      "licenseNumber": "0016406",
+      "status": "Current / Active",
+      "licensed": "07/07/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HERMAN, STEVEN TOM",
+      "city": "Odessa",
+      "zip": "33556",
+      "license": "HI4722",
+      "licenseNumber": "0004722",
+      "status": "Current / Active",
+      "licensed": "08/19/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "KELLER, MARK FREDERICK",
+      "city": "Odessa",
+      "zip": "33556",
+      "license": "HI3592",
+      "licenseNumber": "0003592",
+      "status": "Current / Active",
+      "licensed": "03/18/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "LINTON, MARVIN STEPHEN",
+      "city": "Odessa",
+      "zip": "33556",
+      "license": "HI239",
+      "licenseNumber": "0000239",
+      "status": "Current / Active",
+      "licensed": "09/03/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MAWN, THOMAS JOHN JR",
+      "city": "Odessa",
+      "zip": "33556",
+      "license": "HI18865",
+      "licenseNumber": "0018865",
+      "status": "Current / Active",
+      "licensed": "06/19/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MULIN, PETER",
+      "city": "Odessa",
+      "zip": "33556",
+      "license": "HI568",
+      "licenseNumber": "0000568",
+      "status": "Current / Active",
+      "licensed": "11/02/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SALIM, MAGDI",
+      "city": "Odessa",
+      "zip": "33556",
+      "license": "HI13563",
+      "licenseNumber": "0013563",
+      "status": "Current / Active",
+      "licensed": "03/05/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "TINGEN, SIDNEY CLAYTON",
+      "city": "Odessa",
+      "zip": "33556",
+      "license": "HI1362",
+      "licenseNumber": "0001362",
+      "status": "Current / Active",
+      "licensed": "02/04/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "WEINZAPFEL, ALLEN",
+      "city": "Odessa",
+      "zip": "33556",
+      "license": "HI16437",
+      "licenseNumber": "0016437",
+      "status": "Current / Active",
+      "licensed": "07/28/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BLACKWELDER, PATRICK KEITH",
+      "city": "Plant City",
+      "zip": "33565",
+      "license": "HI7925",
+      "licenseNumber": "0007925",
+      "status": "Current / Active",
+      "licensed": "08/19/2013",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CARVAJAL, HUMBERTO",
+      "city": "Plant City",
+      "zip": "33565",
+      "license": "HI17081",
+      "licenseNumber": "0017081",
+      "status": "Current / Active",
+      "licensed": "03/12/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CHARLES JR, MALIK A",
+      "city": "Plant City",
+      "zip": "33567",
+      "license": "HI16654",
+      "licenseNumber": "0016654",
+      "status": "Current / Active",
+      "licensed": "09/25/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CRIST, DANIEL RAYMOND",
+      "city": "Plant City",
+      "zip": "33567",
+      "license": "HI17572",
+      "licenseNumber": "0017572",
+      "status": "Current / Active",
+      "licensed": "10/08/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "DEESE, JUSTIN GABRIEL",
+      "city": "Plant City",
+      "zip": "33563",
+      "license": "HI517",
+      "licenseNumber": "0000517",
+      "status": "Current / Active",
+      "licensed": "10/27/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "EINSMANN, AUSTIN",
+      "city": "Plant City",
+      "zip": "33563",
+      "license": "HI16980",
+      "licenseNumber": "0016980",
+      "status": "Current / Active",
+      "licensed": "02/12/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "JEMISON, MICHAEL V",
+      "city": "Plant City",
+      "zip": "33565",
+      "license": "HI5173",
+      "licenseNumber": "0005173",
+      "status": "Current / Active",
+      "licensed": "12/29/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MCCONNELL, JUSTIN",
+      "city": "Plant City",
+      "zip": "33563",
+      "license": "HI11228",
+      "licenseNumber": "0011228",
+      "status": "Current / Active",
+      "licensed": "06/14/2018",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MOLLFULLEDA, WILMER",
+      "city": "Plant City",
+      "zip": "33563",
+      "license": "HI10119",
+      "licenseNumber": "0010119",
+      "status": "Current / Active",
+      "licensed": "01/31/2017",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "NOEL, JOSHUA GABRIEL",
+      "city": "Plant City",
+      "zip": "33563",
+      "license": "HI13842",
+      "licenseNumber": "0013842",
+      "status": "Current / Active",
+      "licensed": "05/17/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ROBISON, TIMOTHY JAY",
+      "city": "Plant City",
+      "zip": "33563",
+      "license": "HI3813",
+      "licenseNumber": "0003813",
+      "status": "Current / Active",
+      "licensed": "03/23/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SCULLY , PATRICK MICHAEL JR",
+      "city": "Plant City",
+      "zip": "33563",
+      "license": "HI18446",
+      "licenseNumber": "0018446",
+      "status": "Current / Active",
+      "licensed": "12/01/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SHULTZ, KEVIN MICHAEL",
+      "city": "Plant City",
+      "zip": "33563",
+      "license": "HI12962",
+      "licenseNumber": "0012962",
+      "status": "Current / Active",
+      "licensed": "08/27/2020",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SOUTHARD , CORREY",
+      "city": "Plant City",
+      "zip": "33563",
+      "license": "HI10653",
+      "licenseNumber": "0010653",
+      "status": "Current / Active",
+      "licensed": "10/06/2017",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "STRICKLAND, JUSTIN",
+      "city": "Plant City",
+      "zip": "33567",
+      "license": "HI13240",
+      "licenseNumber": "0013240",
+      "status": "Current / Active",
+      "licensed": "12/02/2020",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "TILLMAN, THOMAS M SR",
+      "city": "Plant City",
+      "zip": "33563",
+      "license": "HI5543",
+      "licenseNumber": "0005543",
+      "status": "Current / Active",
+      "licensed": "03/07/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "VALENTIN, GILBERT",
+      "city": "Plant City",
+      "zip": "33565",
+      "license": "HI11045",
+      "licenseNumber": "0011045",
+      "status": "Current / Active",
+      "licensed": "04/13/2018",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "WADE, JOHN R",
+      "city": "Plant City",
+      "zip": "33563",
+      "license": "HI12579",
+      "licenseNumber": "0012579",
+      "status": "Current / Active",
+      "licensed": "02/18/2020",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "WILKINSON, BRIAN",
+      "city": "Plant City",
+      "zip": "33566",
+      "license": "HI14712",
+      "licenseNumber": "0014712",
+      "status": "Current / Active",
+      "licensed": "01/12/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ANDREW, FREDERICK",
+      "city": "Riverview",
+      "zip": "33569",
+      "license": "HI17475",
+      "licenseNumber": "0017475",
+      "status": "Current / Active",
+      "licensed": "08/23/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BRAVO, ARTURO JR",
+      "city": "Riverview",
+      "zip": "33579",
+      "license": "HI18963",
+      "licenseNumber": "0018963",
+      "status": "Current / Active",
+      "licensed": "07/24/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BROWN, PHILLIP",
+      "city": "Riverview",
+      "zip": "33569",
+      "license": "HI11645",
+      "licenseNumber": "0011645",
+      "status": "Current / Active",
+      "licensed": "12/04/2018",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CAIN, JULIE",
+      "city": "Riverview",
+      "zip": "33569",
+      "license": "HI15941",
+      "licenseNumber": "0015941",
+      "status": "Current / Active",
+      "licensed": "02/13/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CHAGAS, SIMEY",
+      "city": "Riverview",
+      "zip": "33569",
+      "license": "HI17460",
+      "licenseNumber": "0017460",
+      "status": "Current / Active",
+      "licensed": "08/15/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CLARK, RONALD JAMES",
+      "city": "Riverview",
+      "zip": "33579",
+      "license": "HI6615",
+      "licenseNumber": "0006615",
+      "status": "Current / Active",
+      "licensed": "06/22/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "COLON, HECTOR",
+      "city": "Riverview",
+      "zip": "33578",
+      "license": "HI12697",
+      "licenseNumber": "0012697",
+      "status": "Current / Active",
+      "licensed": "04/15/2020",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "COOPER, CHRISTOPHER JAMES",
+      "city": "Riverview",
+      "zip": "33578",
+      "license": "HI12702",
+      "licenseNumber": "0012702",
+      "status": "Current / Active",
+      "licensed": "04/20/2020",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CRUZ, BENJAMIN",
+      "city": "Riverview",
+      "zip": "33579",
+      "license": "HI17896",
+      "licenseNumber": "0017896",
+      "status": "Current / Active",
+      "licensed": "03/26/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "DIGESARE, MATTHEW",
+      "city": "Riverview",
+      "zip": "33578",
+      "license": "HI16481",
+      "licenseNumber": "0016481",
+      "status": "Current / Active",
+      "licensed": "08/07/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "DONNINGS, MARCUS JR",
+      "city": "Riverview",
+      "zip": "33579",
+      "license": "HI13035",
+      "licenseNumber": "0013035",
+      "status": "Current / Active",
+      "licensed": "09/18/2020",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ELLIS, JOSHUA JOESPH",
+      "city": "Riverview",
+      "zip": "33569",
+      "license": "HI15822",
+      "licenseNumber": "0015822",
+      "status": "Current / Active",
+      "licensed": "12/21/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "FAIRCLOTH, BRIAN ANDERSON",
+      "city": "Riverview",
+      "zip": "33578",
+      "license": "HI15220",
+      "licenseNumber": "0015220",
+      "status": "Current / Active",
+      "licensed": "06/01/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "FREY, THOMAS JOSEPH",
+      "city": "Riverview",
+      "zip": "33568",
+      "license": "HI7648",
+      "licenseNumber": "0007648",
+      "status": "Current / Active",
+      "licensed": "11/27/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "GAGIANO, EDWIN",
+      "city": "Riverview",
+      "zip": "33569",
+      "license": "HI18831",
+      "licenseNumber": "0018831",
+      "status": "Current / Active",
+      "licensed": "06/08/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "GERSTENBERGER, DALE ALAN",
+      "city": "Riverview",
+      "zip": "33579",
+      "license": "HI14081",
+      "licenseNumber": "0014081",
+      "status": "Current / Active",
+      "licensed": "07/21/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "GIOIOSA, FELIPE SALVADOR",
+      "city": "Riverview",
+      "zip": "33579",
+      "license": "HI12939",
+      "licenseNumber": "0012939",
+      "status": "Current / Active",
+      "licensed": "08/18/2020",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "GLEASON, JOHN",
+      "city": "Riverview",
+      "zip": "33579",
+      "license": "HI17382",
+      "licenseNumber": "0017382",
+      "status": "Current / Active",
+      "licensed": "07/15/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "GRINE, ADAM MICHAEL",
+      "city": "Riverview",
+      "zip": "33578",
+      "license": "HI18649",
+      "licenseNumber": "0018649",
+      "status": "Current / Active",
+      "licensed": "03/24/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "GRINE, JASON",
+      "city": "Riverview",
+      "zip": "33578",
+      "license": "HI14252",
+      "licenseNumber": "0014252",
+      "status": "Current / Active",
+      "licensed": "09/02/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "GULERYUZ, CEMIL",
+      "city": "Riverview",
+      "zip": "33578",
+      "license": "HI18399",
+      "licenseNumber": "0018399",
+      "status": "Current / Active",
+      "licensed": "11/05/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HEATH, JEFFREY SCOTT",
+      "city": "Riverview",
+      "zip": "33569",
+      "license": "HI2870",
+      "licenseNumber": "0002870",
+      "status": "Current / Active",
+      "licensed": "03/08/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HICKS, DANNY EUGENE JR",
+      "city": "Riverview",
+      "zip": "33579",
+      "license": "HI11683",
+      "licenseNumber": "0011683",
+      "status": "Current / Active",
+      "licensed": "12/18/2018",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HINTZE, ROBERT EUGENE JR",
+      "city": "Riverview",
+      "zip": "33569",
+      "license": "HI12",
+      "licenseNumber": "0000012",
+      "status": "Current / Active",
+      "licensed": "07/15/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HITCHCOCK, KYLE",
+      "city": "Riverview",
+      "zip": "33579",
+      "license": "HI18973",
+      "licenseNumber": "0018973",
+      "status": "Current / Active",
+      "licensed": "07/31/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HORTON, DANIEL B",
+      "city": "Riverview",
+      "zip": "33579",
+      "license": "HI12264",
+      "licenseNumber": "0012264",
+      "status": "Current / Active",
+      "licensed": "09/23/2019",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HUDSON, JAMES LEE JR",
+      "city": "Riverview",
+      "zip": "33569",
+      "license": "HI7684",
+      "licenseNumber": "0007684",
+      "status": "Current / Active",
+      "licensed": "12/28/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "LABUSCHAGNE, ANTON",
+      "city": "Riverview",
+      "zip": "33578",
+      "license": "HI15206",
+      "licenseNumber": "0015206",
+      "status": "Current / Active",
+      "licensed": "05/25/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "LENDENMANN, ROBERT M",
+      "city": "Riverview",
+      "zip": "33569",
+      "license": "HI18082",
+      "licenseNumber": "0018082",
+      "status": "Current / Active",
+      "licensed": "06/06/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MCGARRITY, SCOTT",
+      "city": "Riverview",
+      "zip": "33569",
+      "license": "HI15103",
+      "licenseNumber": "0015103",
+      "status": "Current / Active",
+      "licensed": "04/27/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MELENDEZ, RUBEN ABIUD",
+      "city": "Riverview",
+      "zip": "33578",
+      "license": "HI12405",
+      "licenseNumber": "0012405",
+      "status": "Current / Active",
+      "licensed": "11/22/2019",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "OLADELL, ANDRES JR",
+      "city": "Riverview",
+      "zip": "33569",
+      "license": "HI3249",
+      "licenseNumber": "0003249",
+      "status": "Current / Active",
+      "licensed": "03/11/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "QUIJANO, JEREMY S",
+      "city": "Riverview",
+      "zip": "33579",
+      "license": "HI13970",
+      "licenseNumber": "0013970",
+      "status": "Current / Active",
+      "licensed": "06/21/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "RAMONES DE VALERO, ZOILA FLORINDA",
+      "city": "Riverview",
+      "zip": "33578",
+      "license": "HI18465",
+      "licenseNumber": "0018465",
+      "status": "Current / Active",
+      "licensed": "12/09/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ROBISON, RUSSELL",
+      "city": "Riverview",
+      "zip": "33578",
+      "license": "HI17153",
+      "licenseNumber": "0017153",
+      "status": "Current / Active",
+      "licensed": "04/12/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "RODRIGUEZ, JULIO CESAR",
+      "city": "Riverview",
+      "zip": "33579",
+      "license": "HI5689",
+      "licenseNumber": "0005689",
+      "status": "Current / Active",
+      "licensed": "03/26/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SMITH, ELI CHE",
+      "city": "Riverview",
+      "zip": "33579",
+      "license": "HI5495",
+      "licenseNumber": "0005495",
+      "status": "Current / Active",
+      "licensed": "02/29/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SOBRINHO, EDDIE",
+      "city": "Riverview",
+      "zip": "33569",
+      "license": "HI6778",
+      "licenseNumber": "0006778",
+      "status": "Current / Active",
+      "licensed": "06/27/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SPENCE, DAVID E",
+      "city": "Riverview",
+      "zip": "33569",
+      "license": "HI3218",
+      "licenseNumber": "0003218",
+      "status": "Current / Active",
+      "licensed": "03/11/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "STANFORD, ROBERT EWELL",
+      "city": "Riverview",
+      "zip": "33578",
+      "license": "HI6195",
+      "licenseNumber": "0006195",
+      "status": "Current / Active",
+      "licensed": "05/24/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SUMMERS, CASEY JOHN",
+      "city": "Riverview",
+      "zip": "33578",
+      "license": "HI17623",
+      "licenseNumber": "0017623",
+      "status": "Current / Active",
+      "licensed": "10/31/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SWAIN, SIMON J",
+      "city": "Riverview",
+      "zip": "33569",
+      "license": "HI3254",
+      "licenseNumber": "0003254",
+      "status": "Current / Active",
+      "licensed": "03/11/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "TRAYLOR, DANIEL L",
+      "city": "Riverview",
+      "zip": "33578",
+      "license": "HI14535",
+      "licenseNumber": "0014535",
+      "status": "Current / Active",
+      "licensed": "11/18/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "VALERO ROMANO, RODRIGO ARTURO",
+      "city": "Riverview",
+      "zip": "33578",
+      "license": "HI18477",
+      "licenseNumber": "0018477",
+      "status": "Current / Active",
+      "licensed": "12/15/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ZELJKOVIC, DINO",
+      "city": "Riverview",
+      "zip": "33578",
+      "license": "HI12022",
+      "licenseNumber": "0012022",
+      "status": "Current / Active",
+      "licensed": "05/22/2019",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CALZADILLA, AMADO",
+      "city": "Ruskin",
+      "zip": "33570",
+      "license": "HI15063",
+      "licenseNumber": "0015063",
+      "status": "Current / Active",
+      "licensed": "04/18/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "COLVIN, DAVID GLENN JR",
+      "city": "Ruskin",
+      "zip": "33570",
+      "license": "HI8665",
+      "licenseNumber": "0008665",
+      "status": "Current / Active",
+      "licensed": "01/06/2015",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "DITILLIO, JOSHUA DANTE",
+      "city": "Ruskin",
+      "zip": "33570",
+      "license": "HI18048",
+      "licenseNumber": "0018048",
+      "status": "Current / Active",
+      "licensed": "05/28/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HENNING, NICKOLAS",
+      "city": "Ruskin",
+      "zip": "33570",
+      "license": "HI13697",
+      "licenseNumber": "0013697",
+      "status": "Current / Active",
+      "licensed": "04/09/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MANNING, TRAVIS T",
+      "city": "Ruskin",
+      "zip": "33570",
+      "license": "HI11202",
+      "licenseNumber": "0011202",
+      "status": "Current / Active",
+      "licensed": "06/06/2018",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "OCASIO, DANNY",
+      "city": "Ruskin",
+      "zip": "33573",
+      "license": "HI8928",
+      "licenseNumber": "0008928",
+      "status": "Current / Active",
+      "licensed": "05/29/2015",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "PANAGIOTAKIS, CHRISTOPHER ROY",
+      "city": "Ruskin",
+      "zip": "33570",
+      "license": "HI18538",
+      "licenseNumber": "0018538",
+      "status": "Current / Active",
+      "licensed": "01/27/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "REINHARDT , BRANDON LEE",
+      "city": "Ruskin",
+      "zip": "33570",
+      "license": "HI12840",
+      "licenseNumber": "0012840",
+      "status": "Current / Active",
+      "licensed": "07/08/2020",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SUHRE, GREGORY DOUGLAS",
+      "city": "Ruskin",
+      "zip": "33570",
+      "license": "HI12972",
+      "licenseNumber": "0012972",
+      "status": "Current / Active",
+      "licensed": "08/31/2020",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "YANOVITCH, GENE MICHAEL",
+      "city": "Ruskin",
+      "zip": "33570",
+      "license": "HI6097",
+      "licenseNumber": "0006097",
+      "status": "Current / Active",
+      "licensed": "05/14/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "YOUNG, STEVONTE JABRON-LEE",
+      "city": "Ruskin",
+      "zip": "33570",
+      "license": "HI17733",
+      "licenseNumber": "0017733",
+      "status": "Current / Active",
+      "licensed": "12/30/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ZOUBAA, ADIL",
+      "city": "Ruskin",
+      "zip": "33570",
+      "license": "HI9539",
+      "licenseNumber": "0009539",
+      "status": "Current / Active",
+      "licensed": "03/30/2016",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BATES, CHARLES RICHARD",
+      "city": "Seffner",
+      "zip": "33584",
+      "license": "HI13677",
+      "licenseNumber": "0013677",
+      "status": "Current / Active",
+      "licensed": "04/06/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BOURGUIGNON, JERRY JOSEPH SR.",
+      "city": "Seffner",
+      "zip": "33584",
+      "license": "HI8122",
+      "licenseNumber": "0008122",
+      "status": "Current / Active",
+      "licensed": "01/03/2014",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CHEEVER, JOHN THOMAS",
+      "city": "Seffner",
+      "zip": "33584",
+      "license": "HI3148",
+      "licenseNumber": "0003148",
+      "status": "Current / Active",
+      "licensed": "03/11/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "FINOTTI, SEAN M",
+      "city": "Seffner",
+      "zip": "33584",
+      "license": "HI1031",
+      "licenseNumber": "0001031",
+      "status": "Current / Active",
+      "licensed": "01/11/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "GRIFONI, PAUL JASON",
+      "city": "Seffner",
+      "zip": "33584",
+      "license": "HI7857",
+      "licenseNumber": "0007857",
+      "status": "Current / Active",
+      "licensed": "06/24/2013",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HAGER, WESLEY PARKER",
+      "city": "Seffner",
+      "zip": "33584",
+      "license": "HI12678",
+      "licenseNumber": "0012678",
+      "status": "Current / Active",
+      "licensed": "04/07/2020",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "RABURN, TIMOTHY SHANE",
+      "city": "Seffner",
+      "zip": "33584",
+      "license": "HI9376",
+      "licenseNumber": "0009376",
+      "status": "Current / Active",
+      "licensed": "01/21/2016",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SCHRADER, TODD MICHAEL",
+      "city": "Seffner",
+      "zip": "33583",
+      "license": "HI13399",
+      "licenseNumber": "0013399",
+      "status": "Current / Active",
+      "licensed": "01/21/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SUSZYNSKI, ANGELO DENNIS",
+      "city": "Seffner",
+      "zip": "33584",
+      "license": "HI6395",
+      "licenseNumber": "0006395",
+      "status": "Current / Active",
+      "licensed": "06/12/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "KAKA, ABDELMAWLA",
+      "city": "Sun City",
+      "zip": "33586",
+      "license": "HI15974",
+      "licenseNumber": "0015974",
+      "status": "Current / Active",
+      "licensed": "02/24/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "AYROUD, MOHAMAD FERAS",
+      "city": "Sun City Center",
+      "zip": "33573",
+      "license": "HI18678",
+      "licenseNumber": "0018678",
+      "status": "Current / Active",
+      "licensed": "04/08/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "FICO, NEIL JOSEPH",
+      "city": "Sun City Center",
+      "zip": "33573",
+      "license": "HI17908",
+      "licenseNumber": "0017908",
+      "status": "Current / Active",
+      "licensed": "04/01/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MILLER, BRETT CHRISTOPHER",
+      "city": "Sun City Center",
+      "zip": "33573",
+      "license": "HI17468",
+      "licenseNumber": "0017468",
+      "status": "Current / Active",
+      "licensed": "08/19/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MILLER, WILLIAM ROBERT",
+      "city": "Sun City Center",
+      "zip": "33573",
+      "license": "HI16594",
+      "licenseNumber": "0016594",
+      "status": "Current / Active",
+      "licensed": "09/11/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "PORTER, SCOTT JAMES",
+      "city": "Sun City Center",
+      "zip": "33573",
+      "license": "HI15101",
+      "licenseNumber": "0015101",
+      "status": "Current / Active",
+      "licensed": "04/27/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SCHLEITWILER, CLAYTON ERIC",
+      "city": "Sun City Center",
+      "zip": "33573",
+      "license": "HI4562",
+      "licenseNumber": "0004562",
+      "status": "Current / Active",
+      "licensed": "06/24/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SUBER, MYKHAEL",
+      "city": "Sun City Center",
+      "zip": "33573",
+      "license": "HI18205",
+      "licenseNumber": "0018205",
+      "status": "Current / Active",
+      "licensed": "08/01/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "WEAVER, CORY DANIEL",
+      "city": "Sun City Center",
+      "zip": "33573",
+      "license": "HI12234",
+      "licenseNumber": "0012234",
+      "status": "Current / Active",
+      "licensed": "09/05/2019",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ADAMS, MATTHEW R",
+      "city": "Tampa",
+      "zip": "33611",
+      "license": "HI4239",
+      "licenseNumber": "0004239",
+      "status": "Current / Active",
+      "licensed": "04/07/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "AGUILERA ZALDIVAR, JONATHAN",
+      "city": "Tampa",
+      "zip": "33626",
+      "license": "HI16417",
+      "licenseNumber": "0016417",
+      "status": "Current / Active",
+      "licensed": "07/14/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ANISI, AMIR HOSSEIN",
+      "city": "Tampa",
+      "zip": "33629",
+      "license": "HI6125",
+      "licenseNumber": "0006125",
+      "status": "Current / Active",
+      "licensed": "05/16/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ARECHAVALETA, VLADIMIR F",
+      "city": "Tampa",
+      "zip": "33614",
+      "license": "HI19169",
+      "licenseNumber": "0019169",
+      "status": "Current / Active",
+      "licensed": "11/03/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ARGILAGOS, DAVID J",
+      "city": "Tampa",
+      "zip": "33604",
+      "license": "HI6071",
+      "licenseNumber": "0006071",
+      "status": "Current / Active",
+      "licensed": "05/10/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ARNOLD, CURT WILLIAM",
+      "city": "Tampa",
+      "zip": "33635",
+      "license": "HI11078",
+      "licenseNumber": "0011078",
+      "status": "Current / Active",
+      "licensed": "04/24/2018",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ASKARI, OMID",
+      "city": "Tampa",
+      "zip": "33635",
+      "license": "HI18463",
+      "licenseNumber": "0018463",
+      "status": "Current / Active",
+      "licensed": "12/09/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "AUGUSTITUS, ADAM JOHN",
+      "city": "Tampa",
+      "zip": "33611",
+      "license": "HI5935",
+      "licenseNumber": "0005935",
+      "status": "Current / Active",
+      "licensed": "04/24/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BABCOCK, THOMAS A",
+      "city": "Tampa",
+      "zip": "33615",
+      "license": "HI2567",
+      "licenseNumber": "0002567",
+      "status": "Current / Active",
+      "licensed": "03/04/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BANNING, CHRIS MICHAEL",
+      "city": "Tampa",
+      "zip": "33624",
+      "license": "HI13155",
+      "licenseNumber": "0013155",
+      "status": "Current / Active",
+      "licensed": "11/09/2020",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BARRY, ROBERT HAMILTON III",
+      "city": "Tampa",
+      "zip": "33647",
+      "license": "HI18743",
+      "licenseNumber": "0018743",
+      "status": "Current / Active",
+      "licensed": "04/29/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BENITEZ REYMON, REINALDO",
+      "city": "Tampa",
+      "zip": "33614",
+      "license": "HI18319",
+      "licenseNumber": "0018319",
+      "status": "Current / Active",
+      "licensed": "09/23/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BENNETT, KEVIN DAVID",
+      "city": "Tampa",
+      "zip": "33629",
+      "license": "HI8133",
+      "licenseNumber": "0008133",
+      "status": "Current / Active",
+      "licensed": "01/21/2014",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BERNSTEIN, DANIEL",
+      "city": "Tampa",
+      "zip": "33626",
+      "license": "HI14937",
+      "licenseNumber": "0014937",
+      "status": "Current / Active",
+      "licensed": "03/11/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BOND, STEFAN",
+      "city": "Tampa",
+      "zip": "33635",
+      "license": "HI17381",
+      "licenseNumber": "0017381",
+      "status": "Current / Active",
+      "licensed": "07/12/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BONDANZA, JOHN",
+      "city": "Tampa",
+      "zip": "33607",
+      "license": "HI17023",
+      "licenseNumber": "0017023",
+      "status": "Current / Active",
+      "licensed": "02/23/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BORDEN, JAMES",
+      "city": "Tampa",
+      "zip": "33611",
+      "license": "HI10777",
+      "licenseNumber": "0010777",
+      "status": "Current / Active",
+      "licensed": "12/19/2017",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BORG, PETER RAYMOND",
+      "city": "Tampa",
+      "zip": "33619",
+      "license": "HI2912",
+      "licenseNumber": "0002912",
+      "status": "Current / Active",
+      "licensed": "03/09/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BUCKLEW, SAMUEL TODD",
+      "city": "Tampa",
+      "zip": "33618",
+      "license": "HI19062",
+      "licenseNumber": "0019062",
+      "status": "Current / Active",
+      "licensed": "09/09/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CATANIA, DAVID",
+      "city": "Tampa",
+      "zip": "33602",
+      "license": "HI18745",
+      "licenseNumber": "0018745",
+      "status": "Current / Active",
+      "licensed": "04/29/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CEDENO DIAZ, YORDANIS JORGE",
+      "city": "Tampa",
+      "zip": "33625",
+      "license": "HI16844",
+      "licenseNumber": "0016844",
+      "status": "Current / Active",
+      "licensed": "12/19/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CERMENO, JORGE ALESANDRO",
+      "city": "Tampa",
+      "zip": "33615",
+      "license": "HI11738",
+      "licenseNumber": "0011738",
+      "status": "Current / Active",
+      "licensed": "01/16/2019",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CHAPLIN, SAXBY III",
+      "city": "Tampa",
+      "zip": "33685",
+      "license": "HI5910",
+      "licenseNumber": "0005910",
+      "status": "Current / Active",
+      "licensed": "04/19/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CHEEVER, THOMAS EDWARD",
+      "city": "Tampa",
+      "zip": "33606",
+      "license": "HI2824",
+      "licenseNumber": "0002824",
+      "status": "Current / Active",
+      "licensed": "03/08/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CHISHOLM , XXAVIER GERARD",
+      "city": "Tampa",
+      "zip": "33614",
+      "license": "HI17544",
+      "licenseNumber": "0017544",
+      "status": "Current / Active",
+      "licensed": "09/23/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "COLLINS, MAXWELL ALEXANDER",
+      "city": "Tampa",
+      "zip": "33602",
+      "license": "HI18109",
+      "licenseNumber": "0018109",
+      "status": "Current / Active",
+      "licensed": "06/16/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "COOKE, ALBERT",
+      "city": "Tampa",
+      "zip": "33605",
+      "license": "HI1058",
+      "licenseNumber": "0001058",
+      "status": "Current / Active",
+      "licensed": "01/13/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "COUNTS, DAVID J III",
+      "city": "Tampa",
+      "zip": "33673",
+      "license": "HI309",
+      "licenseNumber": "0000309",
+      "status": "Current / Active",
+      "licensed": "09/22/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "COURI, CLINT",
+      "city": "Tampa",
+      "zip": "33610",
+      "license": "HI18967",
+      "licenseNumber": "0018967",
+      "status": "Current / Active",
+      "licensed": "07/27/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CUNNINGHAM, STEPHEN DAVID",
+      "city": "Tampa",
+      "zip": "33611",
+      "license": "HI18898",
+      "licenseNumber": "0018898",
+      "status": "Current / Active",
+      "licensed": "07/07/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CUSTER, ROBERT MARVIN",
+      "city": "Tampa",
+      "zip": "33694",
+      "license": "HI7480",
+      "licenseNumber": "0007480",
+      "status": "Current / Active",
+      "licensed": "08/10/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CUTTER, KYLE",
+      "city": "Tampa",
+      "zip": "33626",
+      "license": "HI18887",
+      "licenseNumber": "0018887",
+      "status": "Current / Active",
+      "licensed": "06/29/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "DALEY, THOMAS L JR",
+      "city": "Tampa",
+      "zip": "33629",
+      "license": "HI4955",
+      "licenseNumber": "0004955",
+      "status": "Current / Active",
+      "licensed": "10/21/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "DE LOS SANTOS, ORLANDO JR",
+      "city": "Tampa",
+      "zip": "33603",
+      "license": "HI6581",
+      "licenseNumber": "0006581",
+      "status": "Current / Active",
+      "licensed": "06/21/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "DIAZ, YAMIR",
+      "city": "Tampa",
+      "zip": "33634",
+      "license": "HI18594",
+      "licenseNumber": "0018594",
+      "status": "Current / Active",
+      "licensed": "02/24/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "DOLLMAN, SHANE WILLIAM",
+      "city": "Tampa",
+      "zip": "33611",
+      "license": "HI6444",
+      "licenseNumber": "0006444",
+      "status": "Current / Active",
+      "licensed": "06/15/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ENNIA, MARWIN",
+      "city": "Tampa",
+      "zip": "33625",
+      "license": "HI18913",
+      "licenseNumber": "0018913",
+      "status": "Current / Active",
+      "licensed": "07/13/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ESPINOSA, YOANDY",
+      "city": "Tampa",
+      "zip": "33614",
+      "license": "HI16805",
+      "licenseNumber": "0016805",
+      "status": "Current / Active",
+      "licensed": "12/01/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "FAULKNER, GEORGE NMN",
+      "city": "Tampa",
+      "zip": "33617",
+      "license": "HI8664",
+      "licenseNumber": "0008664",
+      "status": "Current / Active",
+      "licensed": "01/06/2015",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "FEA, BILLY GENE III",
+      "city": "Tampa",
+      "zip": "33602",
+      "license": "HI16895",
+      "licenseNumber": "0016895",
+      "status": "Current / Active",
+      "licensed": "01/11/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "FERREIRA, DAVID A",
+      "city": "Tampa",
+      "zip": "33612",
+      "license": "HI6907",
+      "licenseNumber": "0006907",
+      "status": "Current / Active",
+      "licensed": "07/03/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "FIGUEREDO, HAILER",
+      "city": "Tampa",
+      "zip": "33619",
+      "license": "HI18819",
+      "licenseNumber": "0018819",
+      "status": "Current / Active",
+      "licensed": "06/02/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "FONSECA, ANTHONY",
+      "city": "Tampa",
+      "zip": "33626",
+      "license": "HI9936",
+      "licenseNumber": "0009936",
+      "status": "Current / Active",
+      "licensed": "10/26/2016",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "FULGHUM, FRANK LEE JR",
+      "city": "Tampa",
+      "zip": "33625",
+      "license": "HI9089",
+      "licenseNumber": "0009089",
+      "status": "Current / Active",
+      "licensed": "08/20/2015",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "FULLER, JOSH P",
+      "city": "Tampa",
+      "zip": "33609",
+      "license": "HI6995",
+      "licenseNumber": "0006995",
+      "status": "Current / Active",
+      "licensed": "07/03/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "GADOMSKI, MATTHEW",
+      "city": "Tampa",
+      "zip": "33610",
+      "license": "HI16610",
+      "licenseNumber": "0016610",
+      "status": "Current / Active",
+      "licensed": "09/12/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "GASCO, ARON",
+      "city": "Tampa",
+      "zip": "33647",
+      "license": "HI17701",
+      "licenseNumber": "0017701",
+      "status": "Current / Active",
+      "licensed": "12/09/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "GEARY, DUANE TYLER EDWARD",
+      "city": "Tampa",
+      "zip": "33618",
+      "license": "HI12107",
+      "licenseNumber": "0012107",
+      "status": "Current / Active",
+      "licensed": "07/02/2019",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "GLISSON, TIMOTHY SCOTT",
+      "city": "Tampa",
+      "zip": "33629",
+      "license": "HI293",
+      "licenseNumber": "0000293",
+      "status": "Current / Active",
+      "licensed": "09/16/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "GOMES, ANTHONY J",
+      "city": "Tampa",
+      "zip": "33606",
+      "license": "HI7822",
+      "licenseNumber": "0007822",
+      "status": "Current / Active",
+      "licensed": "05/21/2013",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "GOMES, JOHN A",
+      "city": "Tampa",
+      "zip": "33605",
+      "license": "HI1690",
+      "licenseNumber": "0001690",
+      "status": "Current / Active",
+      "licensed": "02/17/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "GONZALEZ, ABEL",
+      "city": "Tampa",
+      "zip": "33614",
+      "license": "HI18799",
+      "licenseNumber": "0018799",
+      "status": "Current / Active",
+      "licensed": "05/21/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "GONZALEZ, VLADIMIR",
+      "city": "Tampa",
+      "zip": "33604",
+      "license": "HI3810",
+      "licenseNumber": "0003810",
+      "status": "Current / Active",
+      "licensed": "03/23/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HEDAYAT, BAHRAM",
+      "city": "Tampa",
+      "zip": "33618",
+      "license": "HI2581",
+      "licenseNumber": "0002581",
+      "status": "Current / Active",
+      "licensed": "03/04/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HENRY, MICAH JARRETT",
+      "city": "Tampa",
+      "zip": "33615",
+      "license": "HI1011",
+      "licenseNumber": "0001011",
+      "status": "Current / Active",
+      "licensed": "01/10/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HEPSEN, AHMET H",
+      "city": "Tampa",
+      "zip": "33629",
+      "license": "HI1973",
+      "licenseNumber": "0001973",
+      "status": "Current / Active",
+      "licensed": "02/24/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HOLLAND, JAMES",
+      "city": "Tampa",
+      "zip": "33630",
+      "license": "HI8840",
+      "licenseNumber": "0008840",
+      "status": "Current / Active",
+      "licensed": "04/10/2015",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HOUGHTALIN, RICHARD MICHAEL",
+      "city": "Tampa",
+      "zip": "33629",
+      "license": "HI3653",
+      "licenseNumber": "0003653",
+      "status": "Current / Active",
+      "licensed": "03/21/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HOUSTON, PHILLIP HARVEY JR",
+      "city": "Tampa",
+      "zip": "33616",
+      "license": "HI6109",
+      "licenseNumber": "0006109",
+      "status": "Current / Active",
+      "licensed": "05/15/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HOUSTON, PHILLIP HARVEY SR",
+      "city": "Tampa",
+      "zip": "33611",
+      "license": "HI5969",
+      "licenseNumber": "0005969",
+      "status": "Current / Active",
+      "licensed": "04/30/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HOWARD, SHAWN LEE",
+      "city": "Tampa",
+      "zip": "33624",
+      "license": "HI16191",
+      "licenseNumber": "0016191",
+      "status": "Current / Active",
+      "licensed": "05/01/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "IRIZARRY, DANNY LEE",
+      "city": "Tampa",
+      "zip": "33647",
+      "license": "HI15670",
+      "licenseNumber": "0015670",
+      "status": "Current / Active",
+      "licensed": "10/19/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "IWANICKI, WILLIAM",
+      "city": "Tampa",
+      "zip": "33647",
+      "license": "HI12115",
+      "licenseNumber": "0012115",
+      "status": "Current / Active",
+      "licensed": "07/09/2019",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "IZAGUIRRE, PABLO GABRIEL",
+      "city": "Tampa",
+      "zip": "33626",
+      "license": "HI9180",
+      "licenseNumber": "0009180",
+      "status": "Current / Active",
+      "licensed": "10/01/2015",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "JIMENEZ, JORGE GREGORIO",
+      "city": "Tampa",
+      "zip": "33607",
+      "license": "HI765",
+      "licenseNumber": "0000765",
+      "status": "Current / Active",
+      "licensed": "12/07/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "JIMENEZ, JORGE-LUIS",
+      "city": "Tampa",
+      "zip": "33624",
+      "license": "HI12745",
+      "licenseNumber": "0012745",
+      "status": "Current / Active",
+      "licensed": "05/18/2020",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "JOHNSON, KEVIN",
+      "city": "Tampa",
+      "zip": "33615",
+      "license": "HI9762",
+      "licenseNumber": "0009762",
+      "status": "Current / Active",
+      "licensed": "07/31/2016",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "KALUZNY, KEITH",
+      "city": "Tampa",
+      "zip": "33609",
+      "license": "HI17651",
+      "licenseNumber": "0017651",
+      "status": "Current / Active",
+      "licensed": "11/12/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "KELLY, ROBERT A JR",
+      "city": "Tampa",
+      "zip": "33606",
+      "license": "HI6765",
+      "licenseNumber": "0006765",
+      "status": "Current / Active",
+      "licensed": "06/27/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "KIMSZAL, EDWARD SR",
+      "city": "Tampa",
+      "zip": "33647",
+      "license": "HI5053",
+      "licenseNumber": "0005053",
+      "status": "Current / Active",
+      "licensed": "11/17/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "KLEBAUR, DEVIN DREW",
+      "city": "Tampa",
+      "zip": "33611",
+      "license": "HI12194",
+      "licenseNumber": "0012194",
+      "status": "Current / Active",
+      "licensed": "08/16/2019",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "KUMAR, PARDEEP",
+      "city": "Tampa",
+      "zip": "33647",
+      "license": "HI19113",
+      "licenseNumber": "0019113",
+      "status": "Current / Active",
+      "licensed": "10/02/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "LA MURA, JOSEPH TERRILL",
+      "city": "Tampa",
+      "zip": "33614",
+      "license": "HI6700",
+      "licenseNumber": "0006700",
+      "status": "Current / Active",
+      "licensed": "06/26/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "LAKE, FRANCIS",
+      "city": "Tampa",
+      "zip": "33611",
+      "license": "HI14593",
+      "licenseNumber": "0014593",
+      "status": "Current / Active",
+      "licensed": "12/02/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "LEHOULLIER, ROBERT PAUL",
+      "city": "Tampa",
+      "zip": "33611",
+      "license": "HI11174",
+      "licenseNumber": "0011174",
+      "status": "Current / Active",
+      "licensed": "05/25/2018",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "LESCOTT, NEIL W",
+      "city": "Tampa",
+      "zip": "33647",
+      "license": "HI14873",
+      "licenseNumber": "0014873",
+      "status": "Current / Active",
+      "licensed": "02/23/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "LEWINSON, SAEED D",
+      "city": "Tampa",
+      "zip": "33610",
+      "license": "HI13266",
+      "licenseNumber": "0013266",
+      "status": "Current / Active",
+      "licensed": "12/07/2020",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "LEWIS, DEREK RICHARD",
+      "city": "Tampa",
+      "zip": "33647",
+      "license": "HI11744",
+      "licenseNumber": "0011744",
+      "status": "Current / Active",
+      "licensed": "01/16/2019",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "LINVILLE, DAVID WILLIAM",
+      "city": "Tampa",
+      "zip": "33613",
+      "license": "HI2921",
+      "licenseNumber": "0002921",
+      "status": "Current / Active",
+      "licensed": "03/09/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "LONGO, GEORGE KENNETH",
+      "city": "Tampa",
+      "zip": "33609",
+      "license": "HI7775",
+      "licenseNumber": "0007775",
+      "status": "Current / Active",
+      "licensed": "04/11/2013",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "LUBIK, SCOTT M",
+      "city": "Tampa",
+      "zip": "33605",
+      "license": "HI12244",
+      "licenseNumber": "0012244",
+      "status": "Current / Active",
+      "licensed": "09/09/2019",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "LUDWIN, CHRISTOPHER JASON",
+      "city": "Tampa",
+      "zip": "33612",
+      "license": "HI14299",
+      "licenseNumber": "0014299",
+      "status": "Current / Active",
+      "licensed": "09/14/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MADERA, EMMANUEL",
+      "city": "Tampa",
+      "zip": "33613",
+      "license": "HI18653",
+      "licenseNumber": "0018653",
+      "status": "Current / Active",
+      "licensed": "03/27/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MARSHALL, DETRICK",
+      "city": "Tampa",
+      "zip": "33647",
+      "license": "HI15450",
+      "licenseNumber": "0015450",
+      "status": "Current / Active",
+      "licensed": "08/15/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MARTIN, YACDIEL",
+      "city": "Tampa",
+      "zip": "33603",
+      "license": "HI12842",
+      "licenseNumber": "0012842",
+      "status": "Current / Active",
+      "licensed": "07/08/2020",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MARTINEZ SALGADO, JOSE MANUEL",
+      "city": "Tampa",
+      "zip": "33614",
+      "license": "HI18844",
+      "licenseNumber": "0018844",
+      "status": "Current / Active",
+      "licensed": "06/10/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MATHEWS, WILLIAM EUGENE",
+      "city": "Tampa",
+      "zip": "33606",
+      "license": "HI3970",
+      "licenseNumber": "0003970",
+      "status": "Current / Active",
+      "licensed": "03/29/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MCCARTHY , DAVID PAUL",
+      "city": "Tampa",
+      "zip": "33618",
+      "license": "HI18354",
+      "licenseNumber": "0018354",
+      "status": "Current / Active",
+      "licensed": "10/13/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MCKNIGHT, JAMES PATRICK",
+      "city": "Tampa",
+      "zip": "33611",
+      "license": "HI5485",
+      "licenseNumber": "0005485",
+      "status": "Current / Active",
+      "licensed": "02/28/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MEGGISON, MICHAEL THOMAS",
+      "city": "Tampa",
+      "zip": "33637",
+      "license": "HI5521",
+      "licenseNumber": "0005521",
+      "status": "Current / Active",
+      "licensed": "03/03/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MENDOZA, LEONEL FERRIN",
+      "city": "Tampa",
+      "zip": "33604",
+      "license": "HI17082",
+      "licenseNumber": "0017082",
+      "status": "Current / Active",
+      "licensed": "03/12/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MENENDEZ, BRYAN A",
+      "city": "Tampa",
+      "zip": "33613",
+      "license": "HI7565",
+      "licenseNumber": "0007565",
+      "status": "Current / Active",
+      "licensed": "09/18/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MENENDEZ, JORGE M",
+      "city": "Tampa",
+      "zip": "33618",
+      "license": "HI10329",
+      "licenseNumber": "0010329",
+      "status": "Current / Active",
+      "licensed": "05/03/2017",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MOCKLER, TIMOTHY PATRICK",
+      "city": "Tampa",
+      "zip": "33617",
+      "license": "HI7428",
+      "licenseNumber": "0007428",
+      "status": "Current / Active",
+      "licensed": "07/30/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MONCION, ISAAC A",
+      "city": "Tampa",
+      "zip": "33607",
+      "license": "HI13065",
+      "licenseNumber": "0013065",
+      "status": "Current / Active",
+      "licensed": "09/29/2020",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MONZON, ARMANDO",
+      "city": "Tampa",
+      "zip": "33614",
+      "license": "HI15075",
+      "licenseNumber": "0015075",
+      "status": "Current / Active",
+      "licensed": "04/21/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MUNIZ, YOHANA N",
+      "city": "Tampa",
+      "zip": "33624",
+      "license": "HI17824",
+      "licenseNumber": "0017824",
+      "status": "Current / Active",
+      "licensed": "02/18/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MURPHY, RICHARD J",
+      "city": "Tampa",
+      "zip": "33614",
+      "license": "HI60",
+      "licenseNumber": "0000060",
+      "status": "Current / Active",
+      "licensed": "07/27/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "NEAL, WILLIAM",
+      "city": "Tampa",
+      "zip": "33635",
+      "license": "HI10263",
+      "licenseNumber": "0010263",
+      "status": "Current / Active",
+      "licensed": "03/30/2017",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "NEIRA, MARIO A",
+      "city": "Tampa",
+      "zip": "33611",
+      "license": "HI3848",
+      "licenseNumber": "0003848",
+      "status": "Current / Active",
+      "licensed": "03/24/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "NICOLAS, CLAUDE HARRY",
+      "city": "Tampa",
+      "zip": "33607",
+      "license": "HI15261",
+      "licenseNumber": "0015261",
+      "status": "Current / Active",
+      "licensed": "06/15/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "NUNEZ, JORGE",
+      "city": "Tampa",
+      "zip": "33614",
+      "license": "HI769",
+      "licenseNumber": "0000769",
+      "status": "Current / Active",
+      "licensed": "12/08/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "NUNEZ, JORGE LUIS",
+      "city": "Tampa",
+      "zip": "33614",
+      "license": "HI11057",
+      "licenseNumber": "0011057",
+      "status": "Current / Active",
+      "licensed": "04/17/2018",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ORTIZ MORALES, GUSTAVO",
+      "city": "Tampa",
+      "zip": "33607",
+      "license": "HI18830",
+      "licenseNumber": "0018830",
+      "status": "Current / Active",
+      "licensed": "06/05/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "PARMER, ROBERT DERLE",
+      "city": "Tampa",
+      "zip": "33629",
+      "license": "HI11344",
+      "licenseNumber": "0011344",
+      "status": "Current / Active",
+      "licensed": "08/03/2018",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "PEREZ , JOSE LUIS",
+      "city": "Tampa",
+      "zip": "33634",
+      "license": "HI12474",
+      "licenseNumber": "0012474",
+      "status": "Current / Active",
+      "licensed": "01/03/2020",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "PEREZ, JAILER",
+      "city": "Tampa",
+      "zip": "33614",
+      "license": "HI16624",
+      "licenseNumber": "0016624",
+      "status": "Current / Active",
+      "licensed": "09/18/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "PICKLE, RICHARD JOE",
+      "city": "Tampa",
+      "zip": "33624",
+      "license": "HI307",
+      "licenseNumber": "0000307",
+      "status": "Current / Active",
+      "licensed": "09/22/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "PORRINO, GIACOMO JACK",
+      "city": "Tampa",
+      "zip": "33615",
+      "license": "HI13409",
+      "licenseNumber": "0013409",
+      "status": "Current / Active",
+      "licensed": "01/27/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "PORTO, LUIZA A",
+      "city": "Tampa",
+      "zip": "33614",
+      "license": "HI17092",
+      "licenseNumber": "0017092",
+      "status": "Current / Active",
+      "licensed": "03/19/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "POWELL, MICHAEL MARK",
+      "city": "Tampa",
+      "zip": "33626",
+      "license": "HI14965",
+      "licenseNumber": "0014965",
+      "status": "Current / Active",
+      "licensed": "03/21/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "PRESLEY, THOMAS",
+      "city": "Tampa",
+      "zip": "33609",
+      "license": "HI15274",
+      "licenseNumber": "0015274",
+      "status": "Current / Active",
+      "licensed": "06/15/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "PRESTON, STEVEN SPENCER",
+      "city": "Tampa",
+      "zip": "33618",
+      "license": "HI2391",
+      "licenseNumber": "0002391",
+      "status": "Current / Active",
+      "licensed": "03/03/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "PULLARO, JOSEPH JR",
+      "city": "Tampa",
+      "zip": "33619",
+      "license": "HI8283",
+      "licenseNumber": "0008283",
+      "status": "Current / Active",
+      "licensed": "04/16/2014",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "RAMOS, VINCENT MICHAEL",
+      "city": "Tampa",
+      "zip": "33611",
+      "license": "HI18639",
+      "licenseNumber": "0018639",
+      "status": "Current / Active",
+      "licensed": "03/18/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "REAMER, JEFFREY ROE",
+      "city": "Tampa",
+      "zip": "33629",
+      "license": "HI488",
+      "licenseNumber": "0000488",
+      "status": "Current / Active",
+      "licensed": "10/22/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "RICHARDS, MICHAEL",
+      "city": "Tampa",
+      "zip": "33615",
+      "license": "HI16308",
+      "licenseNumber": "0016308",
+      "status": "Current / Active",
+      "licensed": "06/12/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "RODRIGUEZ, BRIANTH",
+      "city": "Tampa",
+      "zip": "33647",
+      "license": "HI18833",
+      "licenseNumber": "0018833",
+      "status": "Current / Active",
+      "licensed": "06/08/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ROJAS, JAMES MICHAEL",
+      "city": "Tampa",
+      "zip": "33614",
+      "license": "HI11575",
+      "licenseNumber": "0011575",
+      "status": "Current / Active",
+      "licensed": "11/01/2018",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "RUSNAK, RONALD BARRETT",
+      "city": "Tampa",
+      "zip": "33601",
+      "license": "HI10183",
+      "licenseNumber": "0010183",
+      "status": "Current / Active",
+      "licensed": "02/23/2017",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SANTIAGO, ERICK",
+      "city": "Tampa",
+      "zip": "33625",
+      "license": "HI11993",
+      "licenseNumber": "0011993",
+      "status": "Current / Active",
+      "licensed": "05/08/2019",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SANTOS, CHRISTIAN ALEXANDER",
+      "city": "Tampa",
+      "zip": "33611",
+      "license": "HI17479",
+      "licenseNumber": "0017479",
+      "status": "Current / Active",
+      "licensed": "08/26/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SANTOS, RAFAEL",
+      "city": "Tampa",
+      "zip": "33607",
+      "license": "HI10552",
+      "licenseNumber": "0010552",
+      "status": "Current / Active",
+      "licensed": "08/08/2017",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SHAW, JONATHAN",
+      "city": "Tampa",
+      "zip": "33624",
+      "license": "HI14428",
+      "licenseNumber": "0014428",
+      "status": "Current / Active",
+      "licensed": "10/20/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SHEA, JOSEPH JOHN",
+      "city": "Tampa",
+      "zip": "33615",
+      "license": "HI7807",
+      "licenseNumber": "0007807",
+      "status": "Current / Active",
+      "licensed": "05/08/2013",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SIVITZ, KEENAN JOSEPH",
+      "city": "Tampa",
+      "zip": "33604",
+      "license": "HI12358",
+      "licenseNumber": "0012358",
+      "status": "Current / Active",
+      "licensed": "11/04/2019",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SMITH, BRIAN GREGORY",
+      "city": "Tampa",
+      "zip": "33637",
+      "license": "HI1200",
+      "licenseNumber": "0001200",
+      "status": "Current / Active",
+      "licensed": "01/26/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SNYDER, JEFFREY MICHAEL",
+      "city": "Tampa",
+      "zip": "33647",
+      "license": "HI11880",
+      "licenseNumber": "0011880",
+      "status": "Current / Active",
+      "licensed": "03/19/2019",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SOLER, EDDIE",
+      "city": "Tampa",
+      "zip": "33607",
+      "license": "HI5162",
+      "licenseNumber": "0005162",
+      "status": "Current / Active",
+      "licensed": "12/21/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SOLON, JASON",
+      "city": "Tampa",
+      "zip": "33604",
+      "license": "HI18665",
+      "licenseNumber": "0018665",
+      "status": "Current / Active",
+      "licensed": "04/01/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SPINTMAN, JONATHAN TYLER",
+      "city": "Tampa",
+      "zip": "33647",
+      "license": "HI16878",
+      "licenseNumber": "0016878",
+      "status": "Current / Active",
+      "licensed": "01/05/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SPIVEY, DAVID M",
+      "city": "Tampa",
+      "zip": "33624",
+      "license": "HI8221",
+      "licenseNumber": "0008221",
+      "status": "Current / Active",
+      "licensed": "03/11/2014",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "STARK, STEVEN TERENCE",
+      "city": "Tampa",
+      "zip": "33614",
+      "license": "HI7476",
+      "licenseNumber": "0007476",
+      "status": "Current / Active",
+      "licensed": "08/09/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "STOCKERT, ROBERT EUGENE",
+      "city": "Tampa",
+      "zip": "33611",
+      "license": "HI8749",
+      "licenseNumber": "0008749",
+      "status": "Current / Active",
+      "licensed": "02/24/2015",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SUMLER, GREGORY JOSEPH",
+      "city": "Tampa",
+      "zip": "33602",
+      "license": "HI3112",
+      "licenseNumber": "0003112",
+      "status": "Current / Active",
+      "licensed": "03/10/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "TAYLOR, KEITH WILLIAM",
+      "city": "Tampa",
+      "zip": "33647",
+      "license": "HI7072",
+      "licenseNumber": "0007072",
+      "status": "Current / Active",
+      "licensed": "07/05/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "TESTONE, BRANDON PAUL",
+      "city": "Tampa",
+      "zip": "33606",
+      "license": "HI8889",
+      "licenseNumber": "0008889",
+      "status": "Current / Active",
+      "licensed": "05/08/2015",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "TORI, PHILLIP",
+      "city": "Tampa",
+      "zip": "33602",
+      "license": "HI10513",
+      "licenseNumber": "0010513",
+      "status": "Current / Active",
+      "licensed": "07/21/2017",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "TRIBBLE, JUSTIN E",
+      "city": "Tampa",
+      "zip": "33625",
+      "license": "HI13931",
+      "licenseNumber": "0013931",
+      "status": "Current / Active",
+      "licensed": "06/09/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "URIBE, ALEXANDER",
+      "city": "Tampa",
+      "zip": "33624",
+      "license": "HI11604",
+      "licenseNumber": "0011604",
+      "status": "Current / Active",
+      "licensed": "11/15/2018",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "VALDIVIA ABREU, JAIME",
+      "city": "Tampa",
+      "zip": "33634",
+      "license": "HI9923",
+      "licenseNumber": "0009923",
+      "status": "Current / Active",
+      "licensed": "10/19/2016",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "VAN EEPOEL, THOMAS J",
+      "city": "Tampa",
+      "zip": "33609",
+      "license": "HI6382",
+      "licenseNumber": "0006382",
+      "status": "Current / Active",
+      "licensed": "06/11/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "VAN ERT, RYAN CHRISTOPHER",
+      "city": "Tampa",
+      "zip": "33625",
+      "license": "HI13432",
+      "licenseNumber": "0013432",
+      "status": "Current / Active",
+      "licensed": "02/03/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "VELEZ, JOHN",
+      "city": "Tampa",
+      "zip": "33634",
+      "license": "HI5873",
+      "licenseNumber": "0005873",
+      "status": "Current / Active",
+      "licensed": "04/17/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "VELIZ, MIGNELIS",
+      "city": "Tampa",
+      "zip": "33614",
+      "license": "HI17611",
+      "licenseNumber": "0017611",
+      "status": "Current / Active",
+      "licensed": "10/25/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "VILLANUEVA, JELVIS",
+      "city": "Tampa",
+      "zip": "33619",
+      "license": "HI13301",
+      "licenseNumber": "0013301",
+      "status": "Current / Active",
+      "licensed": "12/16/2020",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "VINAS, DAVID R",
+      "city": "Tampa",
+      "zip": "33618",
+      "license": "HI8427",
+      "licenseNumber": "0008427",
+      "status": "Current / Active",
+      "licensed": "07/17/2014",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "VINAS, GAVIN DAVID",
+      "city": "Tampa",
+      "zip": "33618",
+      "license": "HI17176",
+      "licenseNumber": "0017176",
+      "status": "Current / Active",
+      "licensed": "04/19/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "VIVINO, STEVEN",
+      "city": "Tampa",
+      "zip": "33615",
+      "license": "HI3884",
+      "licenseNumber": "0003884",
+      "status": "Current / Active",
+      "licensed": "03/24/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "WALTERS, PETER J",
+      "city": "Tampa",
+      "zip": "33618",
+      "license": "HI12881",
+      "licenseNumber": "0012881",
+      "status": "Current / Active",
+      "licensed": "07/24/2020",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "WARD, JAMES ROBERT",
+      "city": "Tampa",
+      "zip": "33624",
+      "license": "HI4873",
+      "licenseNumber": "0004873",
+      "status": "Current / Active",
+      "licensed": "10/05/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "WARE, MATT",
+      "city": "Tampa",
+      "zip": "33624",
+      "license": "HI14168",
+      "licenseNumber": "0014168",
+      "status": "Current / Active",
+      "licensed": "08/17/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "WEISTER, LANCE LEE",
+      "city": "Tampa",
+      "zip": "33603",
+      "license": "HI9867",
+      "licenseNumber": "0009867",
+      "status": "Current / Active",
+      "licensed": "09/20/2016",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "WEST FARABELL, CARLOS JOSE",
+      "city": "Tampa",
+      "zip": "33612",
+      "license": "HI15171",
+      "licenseNumber": "0015171",
+      "status": "Current / Active",
+      "licensed": "05/13/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "WHITE, RONALD D",
+      "city": "Tampa",
+      "zip": "33618",
+      "license": "HI18822",
+      "licenseNumber": "0018822",
+      "status": "Current / Active",
+      "licensed": "06/03/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "WILLIAMS JR., DARRYL GERARD",
+      "city": "Tampa",
+      "zip": "33614",
+      "license": "HI14900",
+      "licenseNumber": "0014900",
+      "status": "Current / Active",
+      "licensed": "03/02/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "WILLSON, TAYLOR",
+      "city": "Tampa",
+      "zip": "33610",
+      "license": "HI10819",
+      "licenseNumber": "0010819",
+      "status": "Current / Active",
+      "licensed": "01/09/2018",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "WILSON, STEPHEN",
+      "city": "Tampa",
+      "zip": "33603",
+      "license": "HI13725",
+      "licenseNumber": "0013725",
+      "status": "Current / Active",
+      "licensed": "04/19/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "WINN, ERNEST",
+      "city": "Tampa",
+      "zip": "33629",
+      "license": "HI6688",
+      "licenseNumber": "0006688",
+      "status": "Current / Active",
+      "licensed": "06/26/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "WOODCOCK, TEKAURI",
+      "city": "Tampa",
+      "zip": "33618",
+      "license": "HI17864",
+      "licenseNumber": "0017864",
+      "status": "Current / Active",
+      "licensed": "03/06/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "WRIGHT, SIMON WILLIAM",
+      "city": "Tampa",
+      "zip": "33629",
+      "license": "HI17253",
+      "licenseNumber": "0017253",
+      "status": "Current / Active",
+      "licensed": "05/29/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "WYATT, ERICK M.",
+      "city": "Tampa",
+      "zip": "33647",
+      "license": "HI12633",
+      "licenseNumber": "0012633",
+      "status": "Current / Active",
+      "licensed": "03/12/2020",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "YENSEN, BRIAN JAMES",
+      "city": "Tampa",
+      "zip": "33624",
+      "license": "HI8958",
+      "licenseNumber": "0008958",
+      "status": "Current / Active",
+      "licensed": "06/15/2015",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ZARAGOZA, LAURENCE VILLAREAL",
+      "city": "Tampa",
+      "zip": "33604",
+      "license": "HI18575",
+      "licenseNumber": "0018575",
+      "status": "Current / Active",
+      "licensed": "02/17/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "RAMOS CEDILLOS, NELSON ARCENIO",
+      "city": "Tampa Bay",
+      "zip": "33615",
+      "license": "HI19100",
+      "licenseNumber": "0019100",
+      "status": "Current / Active",
+      "licensed": "09/25/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "GRANT, WILLIAM ABBOTT",
+      "city": "Temple Terrace",
+      "zip": "33637",
+      "license": "HI18123",
+      "licenseNumber": "0018123",
+      "status": "Current / Active",
+      "licensed": "06/20/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HAYNES, HARRINGTON",
+      "city": "Temple Terrace",
+      "zip": "33617",
+      "license": "HI19035",
+      "licenseNumber": "0019035",
+      "status": "Current / Active",
+      "licensed": "08/27/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "LEE, BRANDON GARY",
+      "city": "Temple Terrace",
+      "zip": "33637",
+      "license": "HI12993",
+      "licenseNumber": "0012993",
+      "status": "Current / Active",
+      "licensed": "09/08/2020",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MEDERO, HAROLD VINCENT",
+      "city": "Temple Terrace",
+      "zip": "33617",
+      "license": "HI5808",
+      "licenseNumber": "0005808",
+      "status": "Current / Active",
+      "licensed": "04/10/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "RICHARDS, JAMES LAMAR",
+      "city": "Temple Terrace",
+      "zip": "33617",
+      "license": "HI4576",
+      "licenseNumber": "0004576",
+      "status": "Current / Active",
+      "licensed": "06/30/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BEADLE, MICHAEL DAVID",
+      "city": "Thonotosassa",
+      "zip": "33592",
+      "license": "HI6229",
+      "licenseNumber": "0006229",
+      "status": "Current / Active",
+      "licensed": "05/30/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CREECH, BILLY RAY II",
+      "city": "Thonotosassa",
+      "zip": "33592",
+      "license": "HI5349",
+      "licenseNumber": "0005349",
+      "status": "Current / Active",
+      "licensed": "02/03/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "GOMEZ BLANCO, YUSNIEL",
+      "city": "Thonotosassa",
+      "zip": "33592",
+      "license": "HI16825",
+      "licenseNumber": "0016825",
+      "status": "Current / Active",
+      "licensed": "12/07/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "LEITNER, RANDALL LAMAR",
+      "city": "Thonotosassa",
+      "zip": "33592",
+      "license": "HI1216",
+      "licenseNumber": "0001216",
+      "status": "Current / Active",
+      "licensed": "01/27/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BEAUCHAINE, MICHAEL E",
+      "city": "Valrico",
+      "zip": "33596",
+      "license": "HI4499",
+      "licenseNumber": "0004499",
+      "status": "Current / Active",
+      "licensed": "05/31/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BRINK, JOSHUA PAUL",
+      "city": "Valrico",
+      "zip": "33596",
+      "license": "HI17949",
+      "licenseNumber": "0017949",
+      "status": "Current / Active",
+      "licensed": "04/17/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BUNKER, DONALD TIMOTHY",
+      "city": "Valrico",
+      "zip": "33596",
+      "license": "HI11607",
+      "licenseNumber": "0011607",
+      "status": "Current / Active",
+      "licensed": "11/16/2018",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BUNKER, RYAN TIMOTHY",
+      "city": "Valrico",
+      "zip": "33596",
+      "license": "HI10568",
+      "licenseNumber": "0010568",
+      "status": "Current / Active",
+      "licensed": "08/14/2017",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CAPASSO, DANIEL",
+      "city": "Valrico",
+      "zip": "33594",
+      "license": "HI1503",
+      "licenseNumber": "0001503",
+      "status": "Current / Active",
+      "licensed": "02/11/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CARDONA, RAFAEL ESTEBAN",
+      "city": "Valrico",
+      "zip": "33594",
+      "license": "HI11787",
+      "licenseNumber": "0011787",
+      "status": "Current / Active",
+      "licensed": "02/06/2019",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CRAWFORD, COLE",
+      "city": "Valrico",
+      "zip": "33594",
+      "license": "HI18508",
+      "licenseNumber": "0018508",
+      "status": "Current / Active",
+      "licensed": "01/08/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "DIXON, ANDREW",
+      "city": "Valrico",
+      "zip": "33596",
+      "license": "HI12175",
+      "licenseNumber": "0012175",
+      "status": "Current / Active",
+      "licensed": "08/07/2019",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "DOBSON, BEAU T",
+      "city": "Valrico",
+      "zip": "33596",
+      "license": "HI17257",
+      "licenseNumber": "0017257",
+      "status": "Current / Active",
+      "licensed": "05/29/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "DOODY, DAVID MATTHEW",
+      "city": "Valrico",
+      "zip": "33596",
+      "license": "HI10692",
+      "licenseNumber": "0010692",
+      "status": "Current / Active",
+      "licensed": "10/26/2017",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "FARQUHARSON, ERIC DEMOND",
+      "city": "Valrico",
+      "zip": "33594",
+      "license": "HI16884",
+      "licenseNumber": "0016884",
+      "status": "Current / Active",
+      "licensed": "01/05/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "FISHER, LEROY ETHAN",
+      "city": "Valrico",
+      "zip": "33594",
+      "license": "HI16914",
+      "licenseNumber": "0016914",
+      "status": "Current / Active",
+      "licensed": "01/17/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "FOSTER, JEFFREY DEAN",
+      "city": "Valrico",
+      "zip": "33596",
+      "license": "HI17708",
+      "licenseNumber": "0017708",
+      "status": "Current / Active",
+      "licensed": "12/11/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "GOLDEN, JEFFREY",
+      "city": "Valrico",
+      "zip": "33596",
+      "license": "HI13477",
+      "licenseNumber": "0013477",
+      "status": "Current / Active",
+      "licensed": "02/12/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "GONZALEZ CASTELLANOS, ROSAURA GABRIELA",
+      "city": "Valrico",
+      "zip": "33594",
+      "license": "HI18341",
+      "licenseNumber": "0018341",
+      "status": "Current / Active",
+      "licensed": "10/03/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HANSON, ROBERT RAY",
+      "city": "Valrico",
+      "zip": "33596",
+      "license": "HI1409",
+      "licenseNumber": "0001409",
+      "status": "Current / Active",
+      "licensed": "02/08/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HILLIARD, RICHARD DALE",
+      "city": "Valrico",
+      "zip": "33596",
+      "license": "HI7452",
+      "licenseNumber": "0007452",
+      "status": "Current / Active",
+      "licensed": "08/02/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HINTON, CHRISTOPHER PAUL",
+      "city": "Valrico",
+      "zip": "33594",
+      "license": "HI10846",
+      "licenseNumber": "0010846",
+      "status": "Current / Active",
+      "licensed": "01/22/2018",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HYERS, JARED ALLAN",
+      "city": "Valrico",
+      "zip": "33596",
+      "license": "HI11282",
+      "licenseNumber": "0011282",
+      "status": "Current / Active",
+      "licensed": "07/06/2018",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MCARTY, MATTHEW",
+      "city": "Valrico",
+      "zip": "33594",
+      "license": "HI9348",
+      "licenseNumber": "0009348",
+      "status": "Current / Active",
+      "licensed": "12/30/2015",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MCLAFFERTY, KEVIN",
+      "city": "Valrico",
+      "zip": "33594",
+      "license": "HI10439",
+      "licenseNumber": "0010439",
+      "status": "Current / Active",
+      "licensed": "06/21/2017",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MOODY, ROBERT W JR",
+      "city": "Valrico",
+      "zip": "33596",
+      "license": "HI5954",
+      "licenseNumber": "0005954",
+      "status": "Current / Active",
+      "licensed": "04/25/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MULLER, MARK WINSTON",
+      "city": "Valrico",
+      "zip": "33596",
+      "license": "HI6512",
+      "licenseNumber": "0006512",
+      "status": "Current / Active",
+      "licensed": "06/19/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "OYER, IAN",
+      "city": "Valrico",
+      "zip": "33596",
+      "license": "HI11249",
+      "licenseNumber": "0011249",
+      "status": "Current / Active",
+      "licensed": "06/23/2018",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "PETRI, KARSTEN M",
+      "city": "Valrico",
+      "zip": "33594",
+      "license": "HI12869",
+      "licenseNumber": "0012869",
+      "status": "Current / Active",
+      "licensed": "07/20/2020",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "PITMAN, NIGEL",
+      "city": "Valrico",
+      "zip": "33596",
+      "license": "HI15993",
+      "licenseNumber": "0015993",
+      "status": "Current / Active",
+      "licensed": "03/02/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "POLANCO, WELLINGTON",
+      "city": "Valrico",
+      "zip": "33596",
+      "license": "HI16731",
+      "licenseNumber": "0016731",
+      "status": "Current / Active",
+      "licensed": "11/01/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "PURNELL, GERALD PRESTON JR",
+      "city": "Valrico",
+      "zip": "33596",
+      "license": "HI4782",
+      "licenseNumber": "0004782",
+      "status": "Current / Active",
+      "licensed": "09/13/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "RISTEA, ANDREI",
+      "city": "Valrico",
+      "zip": "33596",
+      "license": "HI5814",
+      "licenseNumber": "0005814",
+      "status": "Current / Active",
+      "licensed": "04/11/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ROWLAND, MICHAEL D JR",
+      "city": "Valrico",
+      "zip": "33594",
+      "license": "HI17395",
+      "licenseNumber": "0017395",
+      "status": "Current / Active",
+      "licensed": "07/19/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "RUBIO, LEONARDO MANUEL",
+      "city": "Valrico",
+      "zip": "33594",
+      "license": "HI11915",
+      "licenseNumber": "0011915",
+      "status": "Current / Active",
+      "licensed": "04/02/2019",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "TORRES CONCHA, LUIS ALBERTO",
+      "city": "Valrico",
+      "zip": "33594",
+      "license": "HI18809",
+      "licenseNumber": "0018809",
+      "status": "Current / Active",
+      "licensed": "05/27/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ZALA, LAWRENCE JAY",
+      "city": "Valrico",
+      "zip": "33596",
+      "license": "HI13184",
+      "licenseNumber": "0013184",
+      "status": "Current / Active",
+      "licensed": "11/16/2020",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BELTRAN, DANIEL",
+      "city": "Wimauma",
+      "zip": "33598",
+      "license": "HI17994",
+      "licenseNumber": "0017994",
+      "status": "Current / Active",
+      "licensed": "05/02/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BLOBNER, ROBERT ANTHONY",
+      "city": "Wimauma",
+      "zip": "33598",
+      "license": "HI475",
+      "licenseNumber": "0000475",
+      "status": "Current / Active",
+      "licensed": "10/20/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MCDONOUGH, TYLER",
+      "city": "Wimauma",
+      "zip": "33598",
+      "license": "HI18292",
+      "licenseNumber": "0018292",
+      "status": "Current / Active",
+      "licensed": "09/16/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MOREY, CASEY PAUL",
+      "city": "Wimauma",
+      "zip": "33598",
+      "license": "HI11317",
+      "licenseNumber": "0011317",
+      "status": "Current / Active",
+      "licensed": "07/20/2018",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "WESTBROOK, MONTE TODD",
+      "city": "Wimauma",
+      "zip": "33598",
+      "license": "HI17215",
+      "licenseNumber": "0017215",
+      "status": "Current / Active",
+      "licensed": "05/07/2024",
+      "expires": "07/31/2028"
+    }
+  ],
+  "flagged": [
+    {
+      "name": "MARTIN, TROY",
+      "city": "Lakeland",
+      "zip": "33810",
+      "license": "HI8876",
+      "licenseNumber": "0008876",
+      "status": "Current / Active",
+      "licensed": "05/04/2015",
+      "expires": "07/31/2028",
+      "otherCounty": "Polk"
+    },
+    {
+      "name": "JOHNSON, BRANDON M",
+      "city": "Lakewood Ranch",
+      "zip": "34202",
+      "license": "HI6385",
+      "licenseNumber": "0006385",
+      "status": "Current / Active",
+      "licensed": "06/11/2012",
+      "expires": "07/31/2028",
+      "otherCounty": "Manatee"
+    },
+    {
+      "name": "PARSONS, SETH DANIEL",
+      "city": "Land O Lakes",
+      "zip": "34639",
+      "license": "HI13545",
+      "licenseNumber": "0013545",
+      "status": "Current / Active",
+      "licensed": "03/03/2021",
+      "expires": "07/31/2028",
+      "otherCounty": "Pasco"
+    },
+    {
+      "name": "MICELI, ANTHONY FRANK",
+      "city": "Parrish",
+      "zip": "34219",
+      "license": "HI5692",
+      "licenseNumber": "0005692",
+      "status": "Current / Active",
+      "licensed": "03/27/2012",
+      "expires": "07/31/2028",
+      "otherCounty": "Manatee"
+    },
+    {
+      "name": "CANNYN, RICHARD LEON",
+      "city": "St. Petersburg",
+      "zip": "33701",
+      "license": "HI8165",
+      "licenseNumber": "0008165",
+      "status": "Current / Active",
+      "licensed": "02/07/2014",
+      "expires": "07/31/2028",
+      "otherCounty": "Pinellas"
+    },
+    {
+      "name": "DOOLEY, BERT FRANCIS SR",
+      "city": "St. Petersburg",
+      "zip": "33711",
+      "license": "HI7814",
+      "licenseNumber": "0007814",
+      "status": "Current / Active",
+      "licensed": "05/13/2013",
+      "expires": "07/31/2028",
+      "otherCounty": "Pinellas"
+    }
+  ]
+}
