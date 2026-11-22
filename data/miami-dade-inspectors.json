@@ -8,11 +8,11 @@
     "timezone": "America/New_York",
     "sha256": "9e692086a719f4c2dbc4d24c293f5ae8aa7a4ddd06cc5eb1e9c487f857ca3678",
     "bytes": 1624454,
-    "filters": "Occupation HI; Primary Status C (Current); Secondary Status A (Active); County Code 23 (Dade / Miami-Dade). Street addresses from the extract are omitted. Ten records with county code 23 but a city outside Miami-Dade are listed separately and are not in the main table.",
+    "filters": "Occupation HI; Primary Status C (Current); Secondary Status A (Active); County Code 23 (Dade / Miami-Dade). Street addresses from the extract are omitted. Eleven records with county code 23 but a city that is otherwise coded to a different county in the same file are listed separately and are not in the main table.",
     "statewideCurrentActiveHI": 7816,
     "miamiDadeCountyCode23": 921,
-    "miamiDadeInTable": 911,
-    "flaggedCityMismatch": 10
+    "miamiDadeInTable": 910,
+    "flaggedCityMismatch": 11
   },
   "inspectors": [
     {
@@ -9096,16 +9096,6 @@
       "expires": "07/31/2028"
     },
     {
-      "name": "SERRANO, YASMANI",
-      "city": "Sweetwater",
-      "zip": "33172",
-      "license": "HI16408",
-      "licenseNumber": "0016408",
-      "status": "Current / Active",
-      "licensed": "07/10/2023",
-      "expires": "07/31/2028"
-    },
-    {
       "name": "D ANGELO, GIOVANNI",
       "city": "Virginia Gardens",
       "zip": "33166",
@@ -9128,50 +9118,6 @@
   ],
   "flaggedCityMismatch": [
     {
-      "name": "GONZALEZ, PEDRO PABLO",
-      "city": "Davie",
-      "zip": "33328",
-      "license": "HI620",
-      "licenseNumber": "0000620",
-      "status": "Current / Active",
-      "licensed": "11/15/2010",
-      "expires": "07/31/2028",
-      "note": "Official extract lists county code 23 (Miami-Dade) but the city is outside Miami-Dade County."
-    },
-    {
-      "name": "SILVEIRA, LEONARDO FELIPE",
-      "city": "Davenport",
-      "zip": "33897",
-      "license": "HI1840",
-      "licenseNumber": "0001840",
-      "status": "Current / Active",
-      "licensed": "02/22/2011",
-      "expires": "07/31/2028",
-      "note": "Official extract lists county code 23 (Miami-Dade) but the city is outside Miami-Dade County."
-    },
-    {
-      "name": "CHEN, STANLEY J",
-      "city": "Pompano Beach",
-      "zip": "33064",
-      "license": "HI2669",
-      "licenseNumber": "0002669",
-      "status": "Current / Active",
-      "licensed": "03/07/2011",
-      "expires": "07/31/2028",
-      "note": "Official extract lists county code 23 (Miami-Dade) but the city is outside Miami-Dade County."
-    },
-    {
-      "name": "SANCHEZ, LUIS",
-      "city": "Davie",
-      "zip": "33331",
-      "license": "HI10770",
-      "licenseNumber": "0010770",
-      "status": "Current / Active",
-      "licensed": "12/12/2017",
-      "expires": "07/31/2028",
-      "note": "Official extract lists county code 23 (Miami-Dade) but the city is outside Miami-Dade County."
-    },
-    {
       "name": "DELACRUZ, BRIAN",
       "city": "Cape Coral",
       "zip": "33991",
@@ -9180,7 +9126,8 @@
       "status": "Current / Active",
       "licensed": "10/26/2018",
       "expires": "07/31/2028",
-      "note": "Official extract lists county code 23 (Miami-Dade) but the city is outside Miami-Dade County."
+      "note": "Official extract lists county code 23 (Miami-Dade) but the city is outside Miami-Dade County.",
+      "otherCounty": "Lee"
     },
     {
       "name": "MOLDES, RAUL",
@@ -9191,29 +9138,44 @@
       "status": "Current / Active",
       "licensed": "06/21/2021",
       "expires": "07/31/2028",
-      "note": "Official extract lists county code 23 (Miami-Dade) but the city is outside Miami-Dade County."
+      "note": "Official extract lists county code 23 (Miami-Dade) but the city is outside Miami-Dade County.",
+      "otherCounty": "Osceola"
     },
     {
-      "name": "EDUARTEZ, ANDREW JOSEPH",
-      "city": "Hollywood",
-      "zip": "33021",
-      "license": "HI14599",
-      "licenseNumber": "0014599",
+      "name": "SILVEIRA, LEONARDO FELIPE",
+      "city": "Davenport",
+      "zip": "33897",
+      "license": "HI1840",
+      "licenseNumber": "0001840",
       "status": "Current / Active",
-      "licensed": "12/06/2021",
+      "licensed": "02/22/2011",
       "expires": "07/31/2028",
-      "note": "Official extract lists county code 23 (Miami-Dade) but the city is outside Miami-Dade County."
+      "note": "Official extract lists county code 23 (Miami-Dade) but the city is outside Miami-Dade County.",
+      "otherCounty": "Polk"
     },
     {
-      "name": "BREIJO, EVELYN",
-      "city": "Pembroke Pines",
-      "zip": "33025",
-      "license": "HI16450",
-      "licenseNumber": "0016450",
+      "name": "GONZALEZ, PEDRO PABLO",
+      "city": "Davie",
+      "zip": "33328",
+      "license": "HI620",
+      "licenseNumber": "0000620",
       "status": "Current / Active",
-      "licensed": "08/01/2023",
+      "licensed": "11/15/2010",
       "expires": "07/31/2028",
-      "note": "Official extract lists county code 23 (Miami-Dade) but the city is outside Miami-Dade County."
+      "note": "Official extract lists county code 23 (Miami-Dade) but the city is outside Miami-Dade County.",
+      "otherCounty": "Broward"
+    },
+    {
+      "name": "SANCHEZ, LUIS",
+      "city": "Davie",
+      "zip": "33331",
+      "license": "HI10770",
+      "licenseNumber": "0010770",
+      "status": "Current / Active",
+      "licensed": "12/12/2017",
+      "expires": "07/31/2028",
+      "note": "Official extract lists county code 23 (Miami-Dade) but the city is outside Miami-Dade County.",
+      "otherCounty": "Broward"
     },
     {
       "name": "NUNEZ, ROBERT R",
@@ -9224,7 +9186,20 @@
       "status": "Current / Active",
       "licensed": "12/08/2023",
       "expires": "07/31/2028",
-      "note": "Official extract lists county code 23 (Miami-Dade) but the city is outside Miami-Dade County."
+      "note": "Official extract lists county code 23 (Miami-Dade) but the city is outside Miami-Dade County.",
+      "otherCounty": "Broward"
+    },
+    {
+      "name": "EDUARTEZ, ANDREW JOSEPH",
+      "city": "Hollywood",
+      "zip": "33021",
+      "license": "HI14599",
+      "licenseNumber": "0014599",
+      "status": "Current / Active",
+      "licensed": "12/06/2021",
+      "expires": "07/31/2028",
+      "note": "Official extract lists county code 23 (Miami-Dade) but the city is outside Miami-Dade County.",
+      "otherCounty": "Broward"
     },
     {
       "name": "MUNOZ, JUAN FELIPE",
@@ -9235,7 +9210,43 @@
       "status": "Current / Active",
       "licensed": "03/06/2024",
       "expires": "07/31/2028",
-      "note": "Official extract lists county code 23 (Miami-Dade) but the city is outside Miami-Dade County."
+      "note": "Official extract lists county code 23 (Miami-Dade) but the city is outside Miami-Dade County.",
+      "otherCounty": "Pasco"
+    },
+    {
+      "name": "BREIJO, EVELYN",
+      "city": "Pembroke Pines",
+      "zip": "33025",
+      "license": "HI16450",
+      "licenseNumber": "0016450",
+      "status": "Current / Active",
+      "licensed": "08/01/2023",
+      "expires": "07/31/2028",
+      "note": "Official extract lists county code 23 (Miami-Dade) but the city is outside Miami-Dade County.",
+      "otherCounty": "Broward"
+    },
+    {
+      "name": "CHEN, STANLEY J",
+      "city": "Pompano Beach",
+      "zip": "33064",
+      "license": "HI2669",
+      "licenseNumber": "0002669",
+      "status": "Current / Active",
+      "licensed": "03/07/2011",
+      "expires": "07/31/2028",
+      "note": "Official extract lists county code 23 (Miami-Dade) but the city is outside Miami-Dade County.",
+      "otherCounty": "Broward"
+    },
+    {
+      "name": "SERRANO, YASMANI",
+      "city": "Sweetwater",
+      "zip": "33172",
+      "license": "HI16408",
+      "licenseNumber": "0016408",
+      "status": "Current / Active",
+      "licensed": "07/10/2023",
+      "expires": "07/31/2028",
+      "otherCounty": "code 743"
     }
   ]
 }
