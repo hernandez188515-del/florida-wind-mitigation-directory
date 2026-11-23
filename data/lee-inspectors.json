@@ -1,0 +1,3624 @@
+{
+  "source": {
+    "agency": "Florida Department of Business and Professional Regulation",
+    "professionPage": "https://www2.myfloridalicense.com/home-inspectors/public-records/",
+    "file": "https://www2.myfloridalicense.com/sto/file_download/extracts/lic04home.csv",
+    "readme": "https://www2.myfloridalicense.com/sto/documents/readme.pdf",
+    "downloaded": "2026-11-19",
+    "reusedOn": "2026-11-22",
+    "timezone": "America/New_York",
+    "sha256": "9e692086a719f4c2dbc4d24c293f5ae8aa7a4ddd06cc5eb1e9c487f857ca3678",
+    "bytes": 1624454,
+    "filters": "Occupation HI; Primary Status C (Current); Secondary Status A (Active); County Code 46 (Lee). Street addresses omitted. Rows whose city is predominantly coded to another county in the statewide file are listed separately.",
+    "statewideCurrentActiveHI": 7816,
+    "leeCountyCode46": 360,
+    "leeInTable": 358,
+    "flaggedCityMismatch": 2
+  },
+  "inspectors": [
+    {
+      "name": "BERRY, MARK CHRISTOPHER",
+      "city": "Alva",
+      "zip": "33920",
+      "license": "HI18797",
+      "licenseNumber": "0018797",
+      "status": "Current / Active",
+      "licensed": "05/20/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BERRY, SEAN",
+      "city": "Alva",
+      "zip": "33920",
+      "license": "HI18008",
+      "licenseNumber": "0018008",
+      "status": "Current / Active",
+      "licensed": "05/09/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HARVEY, DANIEL H",
+      "city": "Alva",
+      "zip": "33920",
+      "license": "HI4986",
+      "licenseNumber": "0004986",
+      "status": "Current / Active",
+      "licensed": "10/31/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MARTINEZ MORALES, REYNIER",
+      "city": "Alva",
+      "zip": "33920",
+      "license": "HI16349",
+      "licenseNumber": "0016349",
+      "status": "Current / Active",
+      "licensed": "06/21/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "TWOMEY, STEVEN J",
+      "city": "Alva",
+      "zip": "33920",
+      "license": "HI14532",
+      "licenseNumber": "0014532",
+      "status": "Current / Active",
+      "licensed": "11/17/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "TYLOR, MICHAEL A",
+      "city": "Alva",
+      "zip": "33920",
+      "license": "HI3801",
+      "licenseNumber": "0003801",
+      "status": "Current / Active",
+      "licensed": "03/23/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "IVES, RORY M JR",
+      "city": "Bokeelia",
+      "zip": "33922",
+      "license": "HI8455",
+      "licenseNumber": "0008455",
+      "status": "Current / Active",
+      "licensed": "08/05/2014",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "PIAZZA, CHRISTOPHER MICHAEL",
+      "city": "Bokeelia",
+      "zip": "33922",
+      "license": "HI13352",
+      "licenseNumber": "0013352",
+      "status": "Current / Active",
+      "licensed": "01/07/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "WEST, JOSHUA",
+      "city": "Bokeelia",
+      "zip": "33922",
+      "license": "HI14706",
+      "licenseNumber": "0014706",
+      "status": "Current / Active",
+      "licensed": "01/10/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ADAMS, THOMAS D",
+      "city": "Bonita Springs",
+      "zip": "34135",
+      "license": "HI50",
+      "licenseNumber": "0000050",
+      "status": "Current / Active",
+      "licensed": "07/26/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ALEXANDRE, JANPAUL",
+      "city": "Bonita Springs",
+      "zip": "34135",
+      "license": "HI17334",
+      "licenseNumber": "0017334",
+      "status": "Current / Active",
+      "licensed": "06/21/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BARRY, KEVIN J",
+      "city": "Bonita Springs",
+      "zip": "34136",
+      "license": "HI1233",
+      "licenseNumber": "0001233",
+      "status": "Current / Active",
+      "licensed": "01/28/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BELL, DAVID A",
+      "city": "Bonita Springs",
+      "zip": "34134",
+      "license": "HI9974",
+      "licenseNumber": "0009974",
+      "status": "Current / Active",
+      "licensed": "11/10/2016",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BERRY, JOHN A",
+      "city": "Bonita Springs",
+      "zip": "34135",
+      "license": "HI4763",
+      "licenseNumber": "0004763",
+      "status": "Current / Active",
+      "licensed": "09/01/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BERUBE, ALLAN BRUCE",
+      "city": "Bonita Springs",
+      "zip": "34135",
+      "license": "HI823",
+      "licenseNumber": "0000823",
+      "status": "Current / Active",
+      "licensed": "12/16/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BOOTH, TERRY A",
+      "city": "Bonita Springs",
+      "zip": "34134",
+      "license": "HI7935",
+      "licenseNumber": "0007935",
+      "status": "Current / Active",
+      "licensed": "08/28/2013",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CARNEGIE, DOUGLAS",
+      "city": "Bonita Springs",
+      "zip": "34135",
+      "license": "HI9770",
+      "licenseNumber": "0009770",
+      "status": "Current / Active",
+      "licensed": "08/03/2016",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "DALTON, ADAM C",
+      "city": "Bonita Springs",
+      "zip": "34135",
+      "license": "HI8467",
+      "licenseNumber": "0008467",
+      "status": "Current / Active",
+      "licensed": "08/13/2014",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "DIAZ, MIGUEL ANGEL",
+      "city": "Bonita Springs",
+      "zip": "34134",
+      "license": "HI11074",
+      "licenseNumber": "0011074",
+      "status": "Current / Active",
+      "licensed": "04/24/2018",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "FETTY, SAMUEL DAVID",
+      "city": "Bonita Springs",
+      "zip": "34135",
+      "license": "HI8289",
+      "licenseNumber": "0008289",
+      "status": "Current / Active",
+      "licensed": "04/21/2014",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HERRING, JOSEPH CONNOR",
+      "city": "Bonita Springs",
+      "zip": "34135",
+      "license": "HI16213",
+      "licenseNumber": "0016213",
+      "status": "Current / Active",
+      "licensed": "05/08/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MAGDALENA, CARLOS",
+      "city": "Bonita Springs",
+      "zip": "34135",
+      "license": "HI18229",
+      "licenseNumber": "0018229",
+      "status": "Current / Active",
+      "licensed": "08/19/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "PANKAKE, JEFFREY",
+      "city": "Bonita Springs",
+      "zip": "34135",
+      "license": "HI18493",
+      "licenseNumber": "0018493",
+      "status": "Current / Active",
+      "licensed": "12/31/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ROBBINS, CHRIS ALAN",
+      "city": "Bonita Springs",
+      "zip": "34134",
+      "license": "HI17136",
+      "licenseNumber": "0017136",
+      "status": "Current / Active",
+      "licensed": "04/09/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "TUYLS, JOSHUA JOHN",
+      "city": "Bonita Springs",
+      "zip": "34133",
+      "license": "HI5477",
+      "licenseNumber": "0005477",
+      "status": "Current / Active",
+      "licensed": "02/28/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "VAN ZANDT, CHRISTOPHER JAMES",
+      "city": "Bonita Springs",
+      "zip": "34135",
+      "license": "HI10963",
+      "licenseNumber": "0010963",
+      "status": "Current / Active",
+      "licensed": "03/21/2018",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "WEAVER, CARY M",
+      "city": "Bonita Springs",
+      "zip": "34135",
+      "license": "HI14560",
+      "licenseNumber": "0014560",
+      "status": "Current / Active",
+      "licensed": "11/22/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "WELLMAN, ROBERT J",
+      "city": "Bonita Springs",
+      "zip": "34134",
+      "license": "HI5388",
+      "licenseNumber": "0005388",
+      "status": "Current / Active",
+      "licensed": "02/13/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "YANEY, CHRISTOPHER",
+      "city": "Bonita Springs",
+      "zip": "34135",
+      "license": "HI12980",
+      "licenseNumber": "0012980",
+      "status": "Current / Active",
+      "licensed": "09/02/2020",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ADAMS, JACOB R",
+      "city": "Cape Coral",
+      "zip": "33914",
+      "license": "HI14172",
+      "licenseNumber": "0014172",
+      "status": "Current / Active",
+      "licensed": "08/17/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ALAMO, FELIPE E",
+      "city": "Cape Coral",
+      "zip": "33993",
+      "license": "HI16708",
+      "licenseNumber": "0016708",
+      "status": "Current / Active",
+      "licensed": "10/19/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ARGUELLO, CARLOS PATRICK",
+      "city": "Cape Coral",
+      "zip": "33991",
+      "license": "HI2438",
+      "licenseNumber": "0002438",
+      "status": "Current / Active",
+      "licensed": "03/03/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "AURAZO, EDUARDO ROBERT",
+      "city": "Cape Coral",
+      "zip": "33914",
+      "license": "HI11763",
+      "licenseNumber": "0011763",
+      "status": "Current / Active",
+      "licensed": "01/29/2019",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BADIA GARCES, JUAN ALEXANDER",
+      "city": "Cape Coral",
+      "zip": "33993",
+      "license": "HI15127",
+      "licenseNumber": "0015127",
+      "status": "Current / Active",
+      "licensed": "05/03/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BLANCO, MAURICE CHRISTIANO",
+      "city": "Cape Coral",
+      "zip": "33909",
+      "license": "HI17867",
+      "licenseNumber": "0017867",
+      "status": "Current / Active",
+      "licensed": "03/06/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BLONDET, JOHN ROBERT",
+      "city": "Cape Coral",
+      "zip": "33909",
+      "license": "HI10333",
+      "licenseNumber": "0010333",
+      "status": "Current / Active",
+      "licensed": "05/04/2017",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BOMBALIER, LAZARO ANDRES",
+      "city": "Cape Coral",
+      "zip": "33909",
+      "license": "HI14493",
+      "licenseNumber": "0014493",
+      "status": "Current / Active",
+      "licensed": "11/10/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BRIGHTMAN, CHRISTOPHER",
+      "city": "Cape Coral",
+      "zip": "33914",
+      "license": "HI17417",
+      "licenseNumber": "0017417",
+      "status": "Current / Active",
+      "licensed": "08/01/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BROOKS, JOHN",
+      "city": "Cape Coral",
+      "zip": "33991",
+      "license": "HI637",
+      "licenseNumber": "0000637",
+      "status": "Current / Active",
+      "licensed": "11/17/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CANTU, BOBBY CHRISTOPHER",
+      "city": "Cape Coral",
+      "zip": "33914",
+      "license": "HI1845",
+      "licenseNumber": "0001845",
+      "status": "Current / Active",
+      "licensed": "02/22/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CARDENAS CORREDERA, ALEXIS",
+      "city": "Cape Coral",
+      "zip": "33909",
+      "license": "HI18877",
+      "licenseNumber": "0018877",
+      "status": "Current / Active",
+      "licensed": "06/25/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CARROLL, GEORGE ROBERT JR.",
+      "city": "Cape Coral",
+      "zip": "33914",
+      "license": "HI18687",
+      "licenseNumber": "0018687",
+      "status": "Current / Active",
+      "licensed": "04/09/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CERRETANI, RICHARD JUDE",
+      "city": "Cape Coral",
+      "zip": "33904",
+      "license": "HI5906",
+      "licenseNumber": "0005906",
+      "status": "Current / Active",
+      "licensed": "04/19/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CHAMBON, JASON",
+      "city": "Cape Coral",
+      "zip": "33991",
+      "license": "HI12457",
+      "licenseNumber": "0012457",
+      "status": "Current / Active",
+      "licensed": "12/20/2019",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CHRISTIAENS, RICHARD K",
+      "city": "Cape Coral",
+      "zip": "33990",
+      "license": "HI5390",
+      "licenseNumber": "0005390",
+      "status": "Current / Active",
+      "licensed": "02/13/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "COFFMAN, JASON DANIEL",
+      "city": "Cape Coral",
+      "zip": "33993",
+      "license": "HI970",
+      "licenseNumber": "0000970",
+      "status": "Current / Active",
+      "licensed": "01/04/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CROUSE, RANDALL LEE",
+      "city": "Cape Coral",
+      "zip": "33904",
+      "license": "HI9454",
+      "licenseNumber": "0009454",
+      "status": "Current / Active",
+      "licensed": "02/24/2016",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "DANIELS, SCOTT J",
+      "city": "Cape Coral",
+      "zip": "33914",
+      "license": "HI6191",
+      "licenseNumber": "0006191",
+      "status": "Current / Active",
+      "licensed": "05/23/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "DAVIS, MARK PHILLIP",
+      "city": "Cape Coral",
+      "zip": "33904",
+      "license": "HI9050",
+      "licenseNumber": "0009050",
+      "status": "Current / Active",
+      "licensed": "08/04/2015",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "DE LA TORRE VAZQUEZ, ABEL",
+      "city": "Cape Coral",
+      "zip": "33993",
+      "license": "HI18702",
+      "licenseNumber": "0018702",
+      "status": "Current / Active",
+      "licensed": "04/17/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "DEHLER, RONALD LAWRENCE",
+      "city": "Cape Coral",
+      "zip": "33914",
+      "license": "HI204",
+      "licenseNumber": "0000204",
+      "status": "Current / Active",
+      "licensed": "08/24/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "DEWOLFE, CHRISTOPHER",
+      "city": "Cape Coral",
+      "zip": "33993",
+      "license": "HI14376",
+      "licenseNumber": "0014376",
+      "status": "Current / Active",
+      "licensed": "10/05/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "DI ROMA, TODD",
+      "city": "Cape Coral",
+      "zip": "33914",
+      "license": "HI6425",
+      "licenseNumber": "0006425",
+      "status": "Current / Active",
+      "licensed": "06/14/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "DICKSON, MICHAEL",
+      "city": "Cape Coral",
+      "zip": "33914",
+      "license": "HI13484",
+      "licenseNumber": "0013484",
+      "status": "Current / Active",
+      "licensed": "02/15/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "DUBON, LEONEL JESUS",
+      "city": "Cape Coral",
+      "zip": "33904",
+      "license": "HI18284",
+      "licenseNumber": "0018284",
+      "status": "Current / Active",
+      "licensed": "09/15/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "DUNGAN, DONOVAN",
+      "city": "Cape Coral",
+      "zip": "33991",
+      "license": "HI5035",
+      "licenseNumber": "0005035",
+      "status": "Current / Active",
+      "licensed": "11/10/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "EASLER, VINCENT MICHAEL JR",
+      "city": "Cape Coral",
+      "zip": "33909",
+      "license": "HI12427",
+      "licenseNumber": "0012427",
+      "status": "Current / Active",
+      "licensed": "12/04/2019",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "EDER, JOSEPH J",
+      "city": "Cape Coral",
+      "zip": "33909",
+      "license": "HI18993",
+      "licenseNumber": "0018993",
+      "status": "Current / Active",
+      "licensed": "08/10/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "EDWARDS, SETH ANDREW",
+      "city": "Cape Coral",
+      "zip": "33993",
+      "license": "HI18241",
+      "licenseNumber": "0018241",
+      "status": "Current / Active",
+      "licensed": "08/21/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ERNSDORFF, THOMAS JOSEPH",
+      "city": "Cape Coral",
+      "zip": "33914",
+      "license": "HI18859",
+      "licenseNumber": "0018859",
+      "status": "Current / Active",
+      "licensed": "06/17/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ESTRADA, FRANCISCO JAVIER",
+      "city": "Cape Coral",
+      "zip": "33909",
+      "license": "HI19040",
+      "licenseNumber": "0019040",
+      "status": "Current / Active",
+      "licensed": "09/01/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "FERRARA, CHARLES E",
+      "city": "Cape Coral",
+      "zip": "33993",
+      "license": "HI7759",
+      "licenseNumber": "0007759",
+      "status": "Current / Active",
+      "licensed": "03/27/2013",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "FIGUEROA, NOEL ANTONIO JR.",
+      "city": "Cape Coral",
+      "zip": "33993",
+      "license": "HI17685",
+      "licenseNumber": "0017685",
+      "status": "Current / Active",
+      "licensed": "11/25/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "FINNELL, KEITH EDWARD",
+      "city": "Cape Coral",
+      "zip": "33914",
+      "license": "HI8751",
+      "licenseNumber": "0008751",
+      "status": "Current / Active",
+      "licensed": "02/24/2015",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "FISHER, ANDREW CARL",
+      "city": "Cape Coral",
+      "zip": "33993",
+      "license": "HI17948",
+      "licenseNumber": "0017948",
+      "status": "Current / Active",
+      "licensed": "04/16/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "FLY, TRENTON TAYLOR",
+      "city": "Cape Coral",
+      "zip": "33909",
+      "license": "HI12198",
+      "licenseNumber": "0012198",
+      "status": "Current / Active",
+      "licensed": "08/20/2019",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "FRITZ, CHRISTOPHER LOGAN",
+      "city": "Cape Coral",
+      "zip": "33904",
+      "license": "HI18669",
+      "licenseNumber": "0018669",
+      "status": "Current / Active",
+      "licensed": "04/03/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "GALLAGHER, RAYMOND PAUL",
+      "city": "Cape Coral",
+      "zip": "33914",
+      "license": "HI6843",
+      "licenseNumber": "0006843",
+      "status": "Current / Active",
+      "licensed": "07/02/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "GARAY, ANA LUCIA",
+      "city": "Cape Coral",
+      "zip": "33914",
+      "license": "HI4107",
+      "licenseNumber": "0004107",
+      "status": "Current / Active",
+      "licensed": "04/01/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "GARRIGA, MICHAEL",
+      "city": "Cape Coral",
+      "zip": "33914",
+      "license": "HI16535",
+      "licenseNumber": "0016535",
+      "status": "Current / Active",
+      "licensed": "08/21/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "GAUDINO, BRITTANY MELISSA",
+      "city": "Cape Coral",
+      "zip": "33993",
+      "license": "HI18314",
+      "licenseNumber": "0018314",
+      "status": "Current / Active",
+      "licensed": "09/23/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "GIRALDO, CARLOS",
+      "city": "Cape Coral",
+      "zip": "33909",
+      "license": "HI13667",
+      "licenseNumber": "0013667",
+      "status": "Current / Active",
+      "licensed": "04/01/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "GOESCHEL, IRVING EDWARD",
+      "city": "Cape Coral",
+      "zip": "33993",
+      "license": "HI6406",
+      "licenseNumber": "0006406",
+      "status": "Current / Active",
+      "licensed": "06/13/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "GRAY, WILLIAM JAMES",
+      "city": "Cape Coral",
+      "zip": "33904",
+      "license": "HI10031",
+      "licenseNumber": "0010031",
+      "status": "Current / Active",
+      "licensed": "12/16/2016",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "GULBRONSON, PAUL MICHAEL",
+      "city": "Cape Coral",
+      "zip": "33991",
+      "license": "HI16002",
+      "licenseNumber": "0016002",
+      "status": "Current / Active",
+      "licensed": "03/09/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "GUZMAN-URBINA, MARVIN ISAAC",
+      "city": "Cape Coral",
+      "zip": "33990",
+      "license": "HI19094",
+      "licenseNumber": "0019094",
+      "status": "Current / Active",
+      "licensed": "09/23/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HANKINSON, TODD ALAN",
+      "city": "Cape Coral",
+      "zip": "33993",
+      "license": "HI7914",
+      "licenseNumber": "0007914",
+      "status": "Current / Active",
+      "licensed": "08/10/2013",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HARRIS, KEITH",
+      "city": "Cape Coral",
+      "zip": "33909",
+      "license": "HI16265",
+      "licenseNumber": "0016265",
+      "status": "Current / Active",
+      "licensed": "05/22/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HARTMAN, BRIAN",
+      "city": "Cape Coral",
+      "zip": "33991",
+      "license": "HI15694",
+      "licenseNumber": "0015694",
+      "status": "Current / Active",
+      "licensed": "10/28/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HAUSE, REGINALD JASON",
+      "city": "Cape Coral",
+      "zip": "33990",
+      "license": "HI14887",
+      "licenseNumber": "0014887",
+      "status": "Current / Active",
+      "licensed": "03/01/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HERNANDEZ MARTINEZ, ALEXANDER",
+      "city": "Cape Coral",
+      "zip": "33909",
+      "license": "HI18701",
+      "licenseNumber": "0018701",
+      "status": "Current / Active",
+      "licensed": "04/16/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HERRERA, EUDES",
+      "city": "Cape Coral",
+      "zip": "33909",
+      "license": "HI18227",
+      "licenseNumber": "0018227",
+      "status": "Current / Active",
+      "licensed": "08/18/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HOTIC, ELDIN",
+      "city": "Cape Coral",
+      "zip": "33990",
+      "license": "HI7462",
+      "licenseNumber": "0007462",
+      "status": "Current / Active",
+      "licensed": "08/07/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HYLTON, JOSHUA MICHAEL",
+      "city": "Cape Coral",
+      "zip": "33991",
+      "license": "HI15968",
+      "licenseNumber": "0015968",
+      "status": "Current / Active",
+      "licensed": "02/23/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "JEFFERSON, BUDD CARTER",
+      "city": "Cape Coral",
+      "zip": "33993",
+      "license": "HI6671",
+      "licenseNumber": "0006671",
+      "status": "Current / Active",
+      "licensed": "06/25/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "JENSEN, FRANK MICHAEL",
+      "city": "Cape Coral",
+      "zip": "33904",
+      "license": "HI8071",
+      "licenseNumber": "0008071",
+      "status": "Current / Active",
+      "licensed": "11/26/2013",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "JENSEN, MICK MAARUP VEDEL",
+      "city": "Cape Coral",
+      "zip": "33904",
+      "license": "HI10421",
+      "licenseNumber": "0010421",
+      "status": "Current / Active",
+      "licensed": "06/12/2017",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "JEREZ, SAMUEL",
+      "city": "Cape Coral",
+      "zip": "33909",
+      "license": "HI4473",
+      "licenseNumber": "0004473",
+      "status": "Current / Active",
+      "licensed": "05/17/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "JIMENEZ RUBIDO, MICHEL",
+      "city": "Cape Coral",
+      "zip": "33990",
+      "license": "HI17993",
+      "licenseNumber": "0017993",
+      "status": "Current / Active",
+      "licensed": "05/02/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "JOHNSON, STEVEN CRAIG",
+      "city": "Cape Coral",
+      "zip": "33915",
+      "license": "HI604",
+      "licenseNumber": "0000604",
+      "status": "Current / Active",
+      "licensed": "11/10/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "KERRIGAN, DAVID CHRISTIAN",
+      "city": "Cape Coral",
+      "zip": "33904",
+      "license": "HI2347",
+      "licenseNumber": "0002347",
+      "status": "Current / Active",
+      "licensed": "03/02/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "KNIGHT, BRYAN DARRELL",
+      "city": "Cape Coral",
+      "zip": "33911",
+      "license": "HI9701",
+      "licenseNumber": "0009701",
+      "status": "Current / Active",
+      "licensed": "06/24/2016",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "KOBIE, MARK A",
+      "city": "Cape Coral",
+      "zip": "33904",
+      "license": "HI9154",
+      "licenseNumber": "0009154",
+      "status": "Current / Active",
+      "licensed": "09/18/2015",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "KORCHICK, DANIEL",
+      "city": "Cape Coral",
+      "zip": "33914",
+      "license": "HI14575",
+      "licenseNumber": "0014575",
+      "status": "Current / Active",
+      "licensed": "11/29/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "KORCHICK, LOUIS JOSEPH",
+      "city": "Cape Coral",
+      "zip": "33914",
+      "license": "HI193",
+      "licenseNumber": "0000193",
+      "status": "Current / Active",
+      "licensed": "08/23/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "KORCHICK, NICHOLAS JOSEPH",
+      "city": "Cape Coral",
+      "zip": "33914",
+      "license": "HI2154",
+      "licenseNumber": "0002154",
+      "status": "Current / Active",
+      "licensed": "03/01/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "KRONENBERGER, MICHAEL L",
+      "city": "Cape Coral",
+      "zip": "33993",
+      "license": "HI4244",
+      "licenseNumber": "0004244",
+      "status": "Current / Active",
+      "licensed": "04/07/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "LANGBEIN, SCOTT",
+      "city": "Cape Coral",
+      "zip": "33993",
+      "license": "HI12552",
+      "licenseNumber": "0012552",
+      "status": "Current / Active",
+      "licensed": "02/11/2020",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "LAWRENCE, COTY SCOTT",
+      "city": "Cape Coral",
+      "zip": "33993",
+      "license": "HI11865",
+      "licenseNumber": "0011865",
+      "status": "Current / Active",
+      "licensed": "03/12/2019",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "LAWRENCE, KENNETH SCOTT",
+      "city": "Cape Coral",
+      "zip": "33991",
+      "license": "HI1733",
+      "licenseNumber": "0001733",
+      "status": "Current / Active",
+      "licensed": "02/18/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "LEAL RODRIGUEZ, REYNIER",
+      "city": "Cape Coral",
+      "zip": "33909",
+      "license": "HI18231",
+      "licenseNumber": "0018231",
+      "status": "Current / Active",
+      "licensed": "08/19/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "LEE, MEYLIN",
+      "city": "Cape Coral",
+      "zip": "33991",
+      "license": "HI8489",
+      "licenseNumber": "0008489",
+      "status": "Current / Active",
+      "licensed": "08/26/2014",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "LEVY, ERIC",
+      "city": "Cape Coral",
+      "zip": "33914",
+      "license": "HI18183",
+      "licenseNumber": "0018183",
+      "status": "Current / Active",
+      "licensed": "07/18/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "LLOYD, JAY ROBERT",
+      "city": "Cape Coral",
+      "zip": "33915",
+      "license": "HI48",
+      "licenseNumber": "0000048",
+      "status": "Current / Active",
+      "licensed": "07/23/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "LLOYD, KELLY",
+      "city": "Cape Coral",
+      "zip": "33915",
+      "license": "HI68",
+      "licenseNumber": "0000068",
+      "status": "Current / Active",
+      "licensed": "07/28/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "LOCHARY, STEPHEN",
+      "city": "Cape Coral",
+      "zip": "33909",
+      "license": "HI11693",
+      "licenseNumber": "0011693",
+      "status": "Current / Active",
+      "licensed": "12/27/2018",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "LOIS, BORIS",
+      "city": "Cape Coral",
+      "zip": "33909",
+      "license": "HI10977",
+      "licenseNumber": "0010977",
+      "status": "Current / Active",
+      "licensed": "03/27/2018",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "LONG, LUCAS R",
+      "city": "Cape Coral",
+      "zip": "33904",
+      "license": "HI19095",
+      "licenseNumber": "0019095",
+      "status": "Current / Active",
+      "licensed": "09/23/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "LUNDY, CRAIG D",
+      "city": "Cape Coral",
+      "zip": "33904",
+      "license": "HI14289",
+      "licenseNumber": "0014289",
+      "status": "Current / Active",
+      "licensed": "09/10/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MACHADO, ANDRES",
+      "city": "Cape Coral",
+      "zip": "33990",
+      "license": "HI18997",
+      "licenseNumber": "0018997",
+      "status": "Current / Active",
+      "licensed": "08/11/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MACHIN, ANDY",
+      "city": "Cape Coral",
+      "zip": "33991",
+      "license": "HI18564",
+      "licenseNumber": "0018564",
+      "status": "Current / Active",
+      "licensed": "02/10/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MAJKOWSKI, BRIAN J",
+      "city": "Cape Coral",
+      "zip": "33914",
+      "license": "HI7505",
+      "licenseNumber": "0007505",
+      "status": "Current / Active",
+      "licensed": "08/13/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MALLOUS, HARRY",
+      "city": "Cape Coral",
+      "zip": "33993",
+      "license": "HI18876",
+      "licenseNumber": "0018876",
+      "status": "Current / Active",
+      "licensed": "06/24/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MC CARTHY, RICHARD JAMES",
+      "city": "Cape Coral",
+      "zip": "33991",
+      "license": "HI6466",
+      "licenseNumber": "0006466",
+      "status": "Current / Active",
+      "licensed": "06/15/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MCDONALD, RYAN",
+      "city": "Cape Coral",
+      "zip": "33904",
+      "license": "HI16898",
+      "licenseNumber": "0016898",
+      "status": "Current / Active",
+      "licensed": "01/11/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MIECHLE, CHANDLER WHITNEY",
+      "city": "Cape Coral",
+      "zip": "33993",
+      "license": "HI15814",
+      "licenseNumber": "0015814",
+      "status": "Current / Active",
+      "licensed": "12/14/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MINALTOSKI, PAUL",
+      "city": "Cape Coral",
+      "zip": "33993",
+      "license": "HI15021",
+      "licenseNumber": "0015021",
+      "status": "Current / Active",
+      "licensed": "04/05/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MINER, PAUL",
+      "city": "Cape Coral",
+      "zip": "33904",
+      "license": "HI7216",
+      "licenseNumber": "0007216",
+      "status": "Current / Active",
+      "licensed": "07/09/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MORALES, DAVID",
+      "city": "Cape Coral",
+      "zip": "33914",
+      "license": "HI14221",
+      "licenseNumber": "0014221",
+      "status": "Current / Active",
+      "licensed": "08/26/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MORILLO, WILSON",
+      "city": "Cape Coral",
+      "zip": "33991",
+      "license": "HI15519",
+      "licenseNumber": "0015519",
+      "status": "Current / Active",
+      "licensed": "09/01/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "NIEVES, RICHARD",
+      "city": "Cape Coral",
+      "zip": "33993",
+      "license": "HI14179",
+      "licenseNumber": "0014179",
+      "status": "Current / Active",
+      "licensed": "08/18/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "OELTJEN, DALE RICHARD",
+      "city": "Cape Coral",
+      "zip": "33909",
+      "license": "HI18282",
+      "licenseNumber": "0018282",
+      "status": "Current / Active",
+      "licensed": "09/11/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ORTUETA, FELIX",
+      "city": "Cape Coral",
+      "zip": "33990",
+      "license": "HI5981",
+      "licenseNumber": "0005981",
+      "status": "Current / Active",
+      "licensed": "05/01/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "OSBORNE, WAYNE RICKARDO",
+      "city": "Cape Coral",
+      "zip": "33909",
+      "license": "HI16606",
+      "licenseNumber": "0016606",
+      "status": "Current / Active",
+      "licensed": "09/12/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "OSES, KEVYN PEREZ",
+      "city": "Cape Coral",
+      "zip": "33993",
+      "license": "HI17616",
+      "licenseNumber": "0017616",
+      "status": "Current / Active",
+      "licensed": "10/28/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "PADRON, NICHOLAS",
+      "city": "Cape Coral",
+      "zip": "33990",
+      "license": "HI18321",
+      "licenseNumber": "0018321",
+      "status": "Current / Active",
+      "licensed": "09/23/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "PAGLICCIA, JACOB JOSEPH",
+      "city": "Cape Coral",
+      "zip": "33904",
+      "license": "HI18866",
+      "licenseNumber": "0018866",
+      "status": "Current / Active",
+      "licensed": "06/19/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "PEDRAZA, ENRIQUE D",
+      "city": "Cape Coral",
+      "zip": "33991",
+      "license": "HI2839",
+      "licenseNumber": "0002839",
+      "status": "Current / Active",
+      "licensed": "03/08/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "PEREZ PUIG, LAZARO",
+      "city": "Cape Coral",
+      "zip": "33990",
+      "license": "HI18381",
+      "licenseNumber": "0018381",
+      "status": "Current / Active",
+      "licensed": "10/24/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "PEREZ, MICHELE A",
+      "city": "Cape Coral",
+      "zip": "33909",
+      "license": "HI11966",
+      "licenseNumber": "0011966",
+      "status": "Current / Active",
+      "licensed": "04/19/2019",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "PHILLIPS, KENNETH ANDERSON",
+      "city": "Cape Coral",
+      "zip": "33990",
+      "license": "HI13701",
+      "licenseNumber": "0013701",
+      "status": "Current / Active",
+      "licensed": "04/09/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "PILZ, NORBERT BODO",
+      "city": "Cape Coral",
+      "zip": "33904",
+      "license": "HI8134",
+      "licenseNumber": "0008134",
+      "status": "Current / Active",
+      "licensed": "01/22/2014",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "PORTUONDO, DAVID H",
+      "city": "Cape Coral",
+      "zip": "33993",
+      "license": "HI18221",
+      "licenseNumber": "0018221",
+      "status": "Current / Active",
+      "licensed": "08/14/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "POWELL, JAMES JOSEPH",
+      "city": "Cape Coral",
+      "zip": "33993",
+      "license": "HI12278",
+      "licenseNumber": "0012278",
+      "status": "Current / Active",
+      "licensed": "09/25/2019",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "POWELL, MICHAEL EARL",
+      "city": "Cape Coral",
+      "zip": "33993",
+      "license": "HI6208",
+      "licenseNumber": "0006208",
+      "status": "Current / Active",
+      "licensed": "05/25/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "PRICE, JOHN MICHAEL",
+      "city": "Cape Coral",
+      "zip": "33904",
+      "license": "HI18932",
+      "licenseNumber": "0018932",
+      "status": "Current / Active",
+      "licensed": "07/15/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "RADTKE, JUSTIN L",
+      "city": "Cape Coral",
+      "zip": "33993",
+      "license": "HI4709",
+      "licenseNumber": "0004709",
+      "status": "Current / Active",
+      "licensed": "08/16/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "RENFRO, RALPH SR",
+      "city": "Cape Coral",
+      "zip": "33914",
+      "license": "HI806",
+      "licenseNumber": "0000806",
+      "status": "Current / Active",
+      "licensed": "12/14/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "RENFRO, RICHARD",
+      "city": "Cape Coral",
+      "zip": "33914",
+      "license": "HI1849",
+      "licenseNumber": "0001849",
+      "status": "Current / Active",
+      "licensed": "02/22/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "RICO, ALVARO ALEJANDRO",
+      "city": "Cape Coral",
+      "zip": "33991",
+      "license": "HI14776",
+      "licenseNumber": "0014776",
+      "status": "Current / Active",
+      "licensed": "02/03/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "RIEDER, RON",
+      "city": "Cape Coral",
+      "zip": "33914",
+      "license": "HI17968",
+      "licenseNumber": "0017968",
+      "status": "Current / Active",
+      "licensed": "04/24/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "RODGERS, DOUGLAS",
+      "city": "Cape Coral",
+      "zip": "33904",
+      "license": "HI15833",
+      "licenseNumber": "0015833",
+      "status": "Current / Active",
+      "licensed": "12/29/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "RODRIGUEZ, JESUS",
+      "city": "Cape Coral",
+      "zip": "33909",
+      "license": "HI18727",
+      "licenseNumber": "0018727",
+      "status": "Current / Active",
+      "licensed": "04/23/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ROFUTH, DEREK ALAN",
+      "city": "Cape Coral",
+      "zip": "33904",
+      "license": "HI17238",
+      "licenseNumber": "0017238",
+      "status": "Current / Active",
+      "licensed": "05/22/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ROLEWICZ, CHRISTOPHER LEE",
+      "city": "Cape Coral",
+      "zip": "33993",
+      "license": "HI15200",
+      "licenseNumber": "0015200",
+      "status": "Current / Active",
+      "licensed": "05/23/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ROLEWICZ, MICHAEL STEPHEN",
+      "city": "Cape Coral",
+      "zip": "33993",
+      "license": "HI9285",
+      "licenseNumber": "0009285",
+      "status": "Current / Active",
+      "licensed": "11/23/2015",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ROMAN, ANGEL M",
+      "city": "Cape Coral",
+      "zip": "33991",
+      "license": "HI3780",
+      "licenseNumber": "0003780",
+      "status": "Current / Active",
+      "licensed": "03/23/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ROSS, RICHARD MICHAEL",
+      "city": "Cape Coral",
+      "zip": "33914",
+      "license": "HI2244",
+      "licenseNumber": "0002244",
+      "status": "Current / Active",
+      "licensed": "03/01/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SAFILLE GUERRERO, BRUNO",
+      "city": "Cape Coral",
+      "zip": "33993",
+      "license": "HI17667",
+      "licenseNumber": "0017667",
+      "status": "Current / Active",
+      "licensed": "11/15/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SALAZAR, LUIS FELIPE",
+      "city": "Cape Coral",
+      "zip": "33914",
+      "license": "HI8001",
+      "licenseNumber": "0008001",
+      "status": "Current / Active",
+      "licensed": "10/03/2013",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SANCHEZ EVORA, ARLEN REYNEL",
+      "city": "Cape Coral",
+      "zip": "33909",
+      "license": "HI13675",
+      "licenseNumber": "0013675",
+      "status": "Current / Active",
+      "licensed": "04/03/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SANTALO VEGA , RICHARD DOUGLAS",
+      "city": "Cape Coral",
+      "zip": "33909",
+      "license": "HI19013",
+      "licenseNumber": "0019013",
+      "status": "Current / Active",
+      "licensed": "08/18/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SANTARELLI, PAT A",
+      "city": "Cape Coral",
+      "zip": "33914",
+      "license": "HI11736",
+      "licenseNumber": "0011736",
+      "status": "Current / Active",
+      "licensed": "01/16/2019",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SAYERS, CURTIS JAMES",
+      "city": "Cape Coral",
+      "zip": "33991",
+      "license": "HI7839",
+      "licenseNumber": "0007839",
+      "status": "Current / Active",
+      "licensed": "05/29/2013",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SCHAFER, AARON CARL",
+      "city": "Cape Coral",
+      "zip": "33904",
+      "license": "HI10531",
+      "licenseNumber": "0010531",
+      "status": "Current / Active",
+      "licensed": "07/27/2017",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SHAW, CODY LEE",
+      "city": "Cape Coral",
+      "zip": "33991",
+      "license": "HI13937",
+      "licenseNumber": "0013937",
+      "status": "Current / Active",
+      "licensed": "06/10/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SHIRLEY, CHARLES KENDALL",
+      "city": "Cape Coral",
+      "zip": "33904",
+      "license": "HI13276",
+      "licenseNumber": "0013276",
+      "status": "Current / Active",
+      "licensed": "12/08/2020",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SMART, CHRISTINA EILEEN",
+      "city": "Cape Coral",
+      "zip": "33991",
+      "license": "HI8882",
+      "licenseNumber": "0008882",
+      "status": "Current / Active",
+      "licensed": "05/07/2015",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SMITH, JAMES KAGAN",
+      "city": "Cape Coral",
+      "zip": "33904",
+      "license": "HI17718",
+      "licenseNumber": "0017718",
+      "status": "Current / Active",
+      "licensed": "12/13/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SMITH, STEPHEN AUSTIN",
+      "city": "Cape Coral",
+      "zip": "33990",
+      "license": "HI16508",
+      "licenseNumber": "0016508",
+      "status": "Current / Active",
+      "licensed": "08/14/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SNINSKY, JON ANTHONY",
+      "city": "Cape Coral",
+      "zip": "33914",
+      "license": "HI6665",
+      "licenseNumber": "0006665",
+      "status": "Current / Active",
+      "licensed": "06/25/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "STEINBERG, MARK MARTIN",
+      "city": "Cape Coral",
+      "zip": "33904",
+      "license": "HI3332",
+      "licenseNumber": "0003332",
+      "status": "Current / Active",
+      "licensed": "03/15/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "TALCOVITZ, ZACHARY",
+      "city": "Cape Coral",
+      "zip": "33991",
+      "license": "HI18366",
+      "licenseNumber": "0018366",
+      "status": "Current / Active",
+      "licensed": "10/15/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "TAYLOR, STEVEN D",
+      "city": "Cape Coral",
+      "zip": "33993",
+      "license": "HI4151",
+      "licenseNumber": "0004151",
+      "status": "Current / Active",
+      "licensed": "04/04/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "THIERSMANN, MAGNUS",
+      "city": "Cape Coral",
+      "zip": "33991",
+      "license": "HI15254",
+      "licenseNumber": "0015254",
+      "status": "Current / Active",
+      "licensed": "06/13/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "THORNHILL, KENNETH TROY",
+      "city": "Cape Coral",
+      "zip": "33909",
+      "license": "HI427",
+      "licenseNumber": "0000427",
+      "status": "Current / Active",
+      "licensed": "10/14/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "TURINCIO, ALESSANDRO CAPPELLI III",
+      "city": "Cape Coral",
+      "zip": "33904",
+      "license": "HI10355",
+      "licenseNumber": "0010355",
+      "status": "Current / Active",
+      "licensed": "05/10/2017",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "TURNER, ROBERT ANDREW",
+      "city": "Cape Coral",
+      "zip": "33914",
+      "license": "HI8643",
+      "licenseNumber": "0008643",
+      "status": "Current / Active",
+      "licensed": "12/18/2014",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "VAN ALLER, CULLEN MARSHALL",
+      "city": "Cape Coral",
+      "zip": "33914",
+      "license": "HI17266",
+      "licenseNumber": "0017266",
+      "status": "Current / Active",
+      "licensed": "05/31/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "VAN ALLER, HANS H III",
+      "city": "Cape Coral",
+      "zip": "33914",
+      "license": "HI9550",
+      "licenseNumber": "0009550",
+      "status": "Current / Active",
+      "licensed": "04/05/2016",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "VASALLO, JOSE M",
+      "city": "Cape Coral",
+      "zip": "33991",
+      "license": "HI12764",
+      "licenseNumber": "0012764",
+      "status": "Current / Active",
+      "licensed": "06/01/2020",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "VAUGHN, JAMES ARNOLD JR",
+      "city": "Cape Coral",
+      "zip": "33914",
+      "license": "HI8616",
+      "licenseNumber": "0008616",
+      "status": "Current / Active",
+      "licensed": "11/26/2014",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "VERNIER, VAUGHN JASON",
+      "city": "Cape Coral",
+      "zip": "33993",
+      "license": "HI15155",
+      "licenseNumber": "0015155",
+      "status": "Current / Active",
+      "licensed": "05/11/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "VIDAL, IHOAN A",
+      "city": "Cape Coral",
+      "zip": "33914",
+      "license": "HI17827",
+      "licenseNumber": "0017827",
+      "status": "Current / Active",
+      "licensed": "02/20/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "VILLALOBOS, YIANNI",
+      "city": "Cape Coral",
+      "zip": "33993",
+      "license": "HI11485",
+      "licenseNumber": "0011485",
+      "status": "Current / Active",
+      "licensed": "10/02/2018",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "VOGEL, ALEXANDER C",
+      "city": "Cape Coral",
+      "zip": "33909",
+      "license": "HI16756",
+      "licenseNumber": "0016756",
+      "status": "Current / Active",
+      "licensed": "11/15/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "WALKER, ARTHUR CARL",
+      "city": "Cape Coral",
+      "zip": "33904",
+      "license": "HI4795",
+      "licenseNumber": "0004795",
+      "status": "Current / Active",
+      "licensed": "09/13/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "WAMBOLT, RYAN CHRISTIAN",
+      "city": "Cape Coral",
+      "zip": "33990",
+      "license": "HI13967",
+      "licenseNumber": "0013967",
+      "status": "Current / Active",
+      "licensed": "06/18/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "WILSON, WILLIAM THOMAS",
+      "city": "Cape Coral",
+      "zip": "33914",
+      "license": "HI5110",
+      "licenseNumber": "0005110",
+      "status": "Current / Active",
+      "licensed": "12/05/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "WITTER, CONLEY OWEN JR",
+      "city": "Cape Coral",
+      "zip": "33990",
+      "license": "HI13528",
+      "licenseNumber": "0013528",
+      "status": "Current / Active",
+      "licensed": "02/26/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "WOLFE, BENJAMIN RICHARD",
+      "city": "Cape Coral",
+      "zip": "33914",
+      "license": "HI19098",
+      "licenseNumber": "0019098",
+      "status": "Current / Active",
+      "licensed": "09/24/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ZICCARDI, GAVIN MICHAEL",
+      "city": "Cape Coral",
+      "zip": "33991",
+      "license": "HI19060",
+      "licenseNumber": "0019060",
+      "status": "Current / Active",
+      "licensed": "09/09/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ZICCARDI, STEVEN",
+      "city": "Cape Coral",
+      "zip": "33991",
+      "license": "HI11334",
+      "licenseNumber": "0011334",
+      "status": "Current / Active",
+      "licensed": "07/30/2018",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "AMSTUTZ, ANDREW",
+      "city": "Estero",
+      "zip": "33928",
+      "license": "HI12459",
+      "licenseNumber": "0012459",
+      "status": "Current / Active",
+      "licensed": "12/26/2019",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "AMSTUTZ, ERIC",
+      "city": "Estero",
+      "zip": "33928",
+      "license": "HI12971",
+      "licenseNumber": "0012971",
+      "status": "Current / Active",
+      "licensed": "08/31/2020",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ARMSTRONG, DYLAN MICHAEL",
+      "city": "Estero",
+      "zip": "33928",
+      "license": "HI11902",
+      "licenseNumber": "0011902",
+      "status": "Current / Active",
+      "licensed": "03/27/2019",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CHRISTENSEN, PATRICK COREY",
+      "city": "Estero",
+      "zip": "33928",
+      "license": "HI8543",
+      "licenseNumber": "0008543",
+      "status": "Current / Active",
+      "licensed": "09/26/2014",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CONWAY, JAMES FRANCIS",
+      "city": "Estero",
+      "zip": "34134",
+      "license": "HI18890",
+      "licenseNumber": "0018890",
+      "status": "Current / Active",
+      "licensed": "06/30/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "DREW, JORDAN PAUL",
+      "city": "Estero",
+      "zip": "33928",
+      "license": "HI16846",
+      "licenseNumber": "0016846",
+      "status": "Current / Active",
+      "licensed": "12/19/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "DURST, MATTHEW MAYR",
+      "city": "Estero",
+      "zip": "33928",
+      "license": "HI11159",
+      "licenseNumber": "0011159",
+      "status": "Current / Active",
+      "licensed": "05/18/2018",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "FRIEDMAN, DANIEL",
+      "city": "Estero",
+      "zip": "33928",
+      "license": "HI6419",
+      "licenseNumber": "0006419",
+      "status": "Current / Active",
+      "licensed": "06/14/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HASTY NAVARRO, RAMON ENRIQUE",
+      "city": "Estero",
+      "zip": "34134",
+      "license": "HI18762",
+      "licenseNumber": "0018762",
+      "status": "Current / Active",
+      "licensed": "05/05/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MARCUS, ETHAN RYAN",
+      "city": "Estero",
+      "zip": "33928",
+      "license": "HI13317",
+      "licenseNumber": "0013317",
+      "status": "Current / Active",
+      "licensed": "12/23/2020",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ORDWAY, CHRIS",
+      "city": "Estero",
+      "zip": "45322",
+      "license": "HI18473",
+      "licenseNumber": "0018473",
+      "status": "Current / Active",
+      "licensed": "12/12/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "PINA MARQUEZ , JESUS RAFAEL",
+      "city": "Estero",
+      "zip": "33928",
+      "license": "HI17619",
+      "licenseNumber": "0017619",
+      "status": "Current / Active",
+      "licensed": "10/29/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "STILPHEN, WILLIAM DOUGLAS",
+      "city": "Estero",
+      "zip": "33928",
+      "license": "HI4468",
+      "licenseNumber": "0004468",
+      "status": "Current / Active",
+      "licensed": "05/16/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "TOMEI, ANTHONY ROBERT",
+      "city": "Estero",
+      "zip": "33928",
+      "license": "HI1658",
+      "licenseNumber": "0001658",
+      "status": "Current / Active",
+      "licensed": "02/16/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "TUYLS, MICAH ROBERT",
+      "city": "Estero",
+      "zip": "33929",
+      "license": "HI5494",
+      "licenseNumber": "0005494",
+      "status": "Current / Active",
+      "licensed": "02/29/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "VENTRE, PAUL",
+      "city": "Estero",
+      "zip": "33928",
+      "license": "HI14841",
+      "licenseNumber": "0014841",
+      "status": "Current / Active",
+      "licensed": "02/17/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ALLGOOD, DAVID DEWAYNE",
+      "city": "Fort Myers",
+      "zip": "33901",
+      "license": "HI5963",
+      "licenseNumber": "0005963",
+      "status": "Current / Active",
+      "licensed": "04/27/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BATTLE, TERRANCE LENELL",
+      "city": "Fort Myers",
+      "zip": "33905",
+      "license": "HI9766",
+      "licenseNumber": "0009766",
+      "status": "Current / Active",
+      "licensed": "08/02/2016",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BECKER, KARL A",
+      "city": "Fort Myers",
+      "zip": "33994",
+      "license": "HI5742",
+      "licenseNumber": "0005742",
+      "status": "Current / Active",
+      "licensed": "04/02/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BERGE, JEFFREY D",
+      "city": "Fort Myers",
+      "zip": "33967",
+      "license": "HI2954",
+      "licenseNumber": "0002954",
+      "status": "Current / Active",
+      "licensed": "03/09/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BERGE, RICHARD A",
+      "city": "Fort Myers",
+      "zip": "33967",
+      "license": "HI1933",
+      "licenseNumber": "0001933",
+      "status": "Current / Active",
+      "licensed": "02/23/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BIRR, ALLAN R",
+      "city": "Fort Myers",
+      "zip": "33917",
+      "license": "HI2525",
+      "licenseNumber": "0002525",
+      "status": "Current / Active",
+      "licensed": "03/04/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BLAIR, JOHN S",
+      "city": "Fort Myers",
+      "zip": "33994",
+      "license": "HI6630",
+      "licenseNumber": "0006630",
+      "status": "Current / Active",
+      "licensed": "06/22/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BLUM, MICHAEL LANYARD",
+      "city": "Fort Myers",
+      "zip": "33908",
+      "license": "HI16719",
+      "licenseNumber": "0016719",
+      "status": "Current / Active",
+      "licensed": "10/26/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BROWN, H GLEN II",
+      "city": "Fort Myers",
+      "zip": "33901",
+      "license": "HI56",
+      "licenseNumber": "0000056",
+      "status": "Current / Active",
+      "licensed": "07/26/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BUTZ, JOHN",
+      "city": "Fort Myers",
+      "zip": "33905",
+      "license": "HI18079",
+      "licenseNumber": "0018079",
+      "status": "Current / Active",
+      "licensed": "06/05/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CASELLA, MICHAEL SR.",
+      "city": "Fort Myers",
+      "zip": "33919",
+      "license": "HI16050",
+      "licenseNumber": "0016050",
+      "status": "Current / Active",
+      "licensed": "03/23/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CAYLOR, MICHEAL",
+      "city": "Fort Myers",
+      "zip": "33916",
+      "license": "HI14257",
+      "licenseNumber": "0014257",
+      "status": "Current / Active",
+      "licensed": "09/07/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CHAPMAN, BLAKE J",
+      "city": "Fort Myers",
+      "zip": "33913",
+      "license": "HI3994",
+      "licenseNumber": "0003994",
+      "status": "Current / Active",
+      "licensed": "03/29/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CIRELLO, VINCENT JAMES",
+      "city": "Fort Myers",
+      "zip": "33966",
+      "license": "HI13870",
+      "licenseNumber": "0013870",
+      "status": "Current / Active",
+      "licensed": "05/25/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "COOPER, KERRY",
+      "city": "Fort Myers",
+      "zip": "33908",
+      "license": "HI6228",
+      "licenseNumber": "0006228",
+      "status": "Current / Active",
+      "licensed": "05/30/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CORDREY, MATTHEW",
+      "city": "Fort Myers",
+      "zip": "33908",
+      "license": "HI19048",
+      "licenseNumber": "0019048",
+      "status": "Current / Active",
+      "licensed": "09/03/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CURRIER, GILGAL",
+      "city": "Fort Myers",
+      "zip": "33907",
+      "license": "HI8175",
+      "licenseNumber": "0008175",
+      "status": "Current / Active",
+      "licensed": "02/13/2014",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "DARBY, JONATHAN M",
+      "city": "Fort Myers",
+      "zip": "33919",
+      "license": "HI18548",
+      "licenseNumber": "0018548",
+      "status": "Current / Active",
+      "licensed": "01/29/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "DE LA CRUZ, MICHAEL",
+      "city": "Fort Myers",
+      "zip": "33905",
+      "license": "HI13378",
+      "licenseNumber": "0013378",
+      "status": "Current / Active",
+      "licensed": "01/15/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "DECHRISTOPHER, KURT",
+      "city": "Fort Myers",
+      "zip": "33913",
+      "license": "HI13457",
+      "licenseNumber": "0013457",
+      "status": "Current / Active",
+      "licensed": "02/09/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "DEMARS, GUY",
+      "city": "Fort Myers",
+      "zip": "33919",
+      "license": "HI16207",
+      "licenseNumber": "0016207",
+      "status": "Current / Active",
+      "licensed": "05/05/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "DEPOLD, MICHAEL CHRISTOPHER",
+      "city": "Fort Myers",
+      "zip": "33912",
+      "license": "HI11531",
+      "licenseNumber": "0011531",
+      "status": "Current / Active",
+      "licensed": "10/20/2018",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "DEVISSE, MARC P",
+      "city": "Fort Myers",
+      "zip": "33913",
+      "license": "HI3275",
+      "licenseNumber": "0003275",
+      "status": "Current / Active",
+      "licensed": "03/14/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "DICK, RYAN",
+      "city": "Fort Myers",
+      "zip": "33908",
+      "license": "HI13603",
+      "licenseNumber": "0013603",
+      "status": "Current / Active",
+      "licensed": "03/17/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "DOIKOS, GEORGE C",
+      "city": "Fort Myers",
+      "zip": "33916",
+      "license": "HI7094",
+      "licenseNumber": "0007094",
+      "status": "Current / Active",
+      "licensed": "07/06/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "DUNTON, ALBERT",
+      "city": "Fort Myers",
+      "zip": "33919",
+      "license": "HI17895",
+      "licenseNumber": "0017895",
+      "status": "Current / Active",
+      "licensed": "03/26/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "FITZGERALD, RICHARD ANTHONY",
+      "city": "Fort Myers",
+      "zip": "33912",
+      "license": "HI6158",
+      "licenseNumber": "0006158",
+      "status": "Current / Active",
+      "licensed": "05/19/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "FRANKLIN, THOMAS B IV",
+      "city": "Fort Myers",
+      "zip": "33916",
+      "license": "HI5616",
+      "licenseNumber": "0005616",
+      "status": "Current / Active",
+      "licensed": "03/19/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "GAITHER, PHILIP G",
+      "city": "Fort Myers",
+      "zip": "33905",
+      "license": "HI4837",
+      "licenseNumber": "0004837",
+      "status": "Current / Active",
+      "licensed": "09/23/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "GLUCKSTAL, LEONARD",
+      "city": "Fort Myers",
+      "zip": "33908",
+      "license": "HI227",
+      "licenseNumber": "0000227",
+      "status": "Current / Active",
+      "licensed": "08/31/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "GOLLMER, STEVEN",
+      "city": "Fort Myers",
+      "zip": "33919",
+      "license": "HI11779",
+      "licenseNumber": "0011779",
+      "status": "Current / Active",
+      "licensed": "02/05/2019",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "GRADDY, JAKOB",
+      "city": "Fort Myers",
+      "zip": "33919",
+      "license": "HI15813",
+      "licenseNumber": "0015813",
+      "status": "Current / Active",
+      "licensed": "12/13/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "GREENE, GARY NOLAN",
+      "city": "Fort Myers",
+      "zip": "33901",
+      "license": "HI6377",
+      "licenseNumber": "0006377",
+      "status": "Current / Active",
+      "licensed": "06/11/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "GRENIER, ERIC",
+      "city": "Fort Myers",
+      "zip": "33905",
+      "license": "HI3585",
+      "licenseNumber": "0003585",
+      "status": "Current / Active",
+      "licensed": "03/18/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "GUTIERREZ, WILLIAM",
+      "city": "Fort Myers",
+      "zip": "33905",
+      "license": "HI12399",
+      "licenseNumber": "0012399",
+      "status": "Current / Active",
+      "licensed": "11/19/2019",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HANSEN, JOSHUA ALEXANDER",
+      "city": "Fort Myers",
+      "zip": "33967",
+      "license": "HI15681",
+      "licenseNumber": "0015681",
+      "status": "Current / Active",
+      "licensed": "10/24/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HEMMING, MARK",
+      "city": "Fort Myers",
+      "zip": "33913",
+      "license": "HI14968",
+      "licenseNumber": "0014968",
+      "status": "Current / Active",
+      "licensed": "03/22/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HERNANDEZ, DAVID MIGUEL",
+      "city": "Fort Myers",
+      "zip": "33912",
+      "license": "HI8075",
+      "licenseNumber": "0008075",
+      "status": "Current / Active",
+      "licensed": "12/02/2013",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "JUREK, WILLIAM LAWRENCE",
+      "city": "Fort Myers",
+      "zip": "33908",
+      "license": "HI1004",
+      "licenseNumber": "0001004",
+      "status": "Current / Active",
+      "licensed": "01/07/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "KAISSAL, FRANCISCO",
+      "city": "Fort Myers",
+      "zip": "33913",
+      "license": "HI17027",
+      "licenseNumber": "0017027",
+      "status": "Current / Active",
+      "licensed": "02/26/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "KERSEY, JERRY JASON",
+      "city": "Fort Myers",
+      "zip": "33913",
+      "license": "HI13513",
+      "licenseNumber": "0013513",
+      "status": "Current / Active",
+      "licensed": "02/22/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "KLEIN, AUSTIN",
+      "city": "Fort Myers",
+      "zip": "33919",
+      "license": "HI16677",
+      "licenseNumber": "0016677",
+      "status": "Current / Active",
+      "licensed": "10/04/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "KOBIE, FRED H",
+      "city": "Fort Myers",
+      "zip": "33906",
+      "license": "HI2504",
+      "licenseNumber": "0002504",
+      "status": "Current / Active",
+      "licensed": "03/03/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "KOERNER, WILLIAM",
+      "city": "Fort Myers",
+      "zip": "33907",
+      "license": "HI14898",
+      "licenseNumber": "0014898",
+      "status": "Current / Active",
+      "licensed": "03/01/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "KRIEGBAUM, LAWRENCE PAUL",
+      "city": "Fort Myers",
+      "zip": "33912",
+      "license": "HI17014",
+      "licenseNumber": "0017014",
+      "status": "Current / Active",
+      "licensed": "02/22/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "LAMBRECHT, CHRISTOPH",
+      "city": "Fort Myers",
+      "zip": "33967",
+      "license": "HI8505",
+      "licenseNumber": "0008505",
+      "status": "Current / Active",
+      "licensed": "09/08/2014",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "LURRY, RAYMOND SAMUEL",
+      "city": "Fort Myers",
+      "zip": "33967",
+      "license": "HI12304",
+      "licenseNumber": "0012304",
+      "status": "Current / Active",
+      "licensed": "10/08/2019",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MABBITT, WEYLIN",
+      "city": "Fort Myers",
+      "zip": "33919",
+      "license": "HI14800",
+      "licenseNumber": "0014800",
+      "status": "Current / Active",
+      "licensed": "02/09/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MAHURT, MATTHEW",
+      "city": "Fort Myers",
+      "zip": "33913",
+      "license": "HI10318",
+      "licenseNumber": "0010318",
+      "status": "Current / Active",
+      "licensed": "04/24/2017",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MALT, DAVID G",
+      "city": "Fort Myers",
+      "zip": "33907",
+      "license": "HI7097",
+      "licenseNumber": "0007097",
+      "status": "Current / Active",
+      "licensed": "07/06/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MARINO, ROBERT ANTHONY",
+      "city": "Fort Myers",
+      "zip": "33912",
+      "license": "HI2091",
+      "licenseNumber": "0002091",
+      "status": "Current / Active",
+      "licensed": "02/28/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MASON, PHILIP JOHN",
+      "city": "Fort Myers",
+      "zip": "33967",
+      "license": "HI10107",
+      "licenseNumber": "0010107",
+      "status": "Current / Active",
+      "licensed": "01/24/2017",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MCCLUER, SCOTT",
+      "city": "Fort Myers",
+      "zip": "33966",
+      "license": "HI19082",
+      "licenseNumber": "0019082",
+      "status": "Current / Active",
+      "licensed": "09/18/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MEJIA, JULIO",
+      "city": "Fort Myers",
+      "zip": "33901",
+      "license": "HI12184",
+      "licenseNumber": "0012184",
+      "status": "Current / Active",
+      "licensed": "08/13/2019",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MELLENTHIN, DONALD LLOYD",
+      "city": "Fort Myers",
+      "zip": "33919",
+      "license": "HI2369",
+      "licenseNumber": "0002369",
+      "status": "Current / Active",
+      "licensed": "03/03/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MONTANO, MARC CHRISTOPHER",
+      "city": "Fort Myers",
+      "zip": "33905",
+      "license": "HI4481",
+      "licenseNumber": "0004481",
+      "status": "Current / Active",
+      "licensed": "05/19/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MORANDO, FRED TONY JR",
+      "city": "Fort Myers",
+      "zip": "33905",
+      "license": "HI3876",
+      "licenseNumber": "0003876",
+      "status": "Current / Active",
+      "licensed": "03/24/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MORRISON, ROBERT STEVEN",
+      "city": "Fort Myers",
+      "zip": "33967",
+      "license": "HI9967",
+      "licenseNumber": "0009967",
+      "status": "Current / Active",
+      "licensed": "11/08/2016",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MUFALLI, JUSTIN THOMAS",
+      "city": "Fort Myers",
+      "zip": "33919",
+      "license": "HI16578",
+      "licenseNumber": "0016578",
+      "status": "Current / Active",
+      "licensed": "09/06/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MURPHY, ISAAC III",
+      "city": "Fort Myers",
+      "zip": "33912",
+      "license": "HI15430",
+      "licenseNumber": "0015430",
+      "status": "Current / Active",
+      "licensed": "08/11/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "NEAL, WILLIAM ROBERT",
+      "city": "Fort Myers",
+      "zip": "33905",
+      "license": "HI18788",
+      "licenseNumber": "0018788",
+      "status": "Current / Active",
+      "licensed": "05/15/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "NOACK, KEVIN P",
+      "city": "Fort Myers",
+      "zip": "33906",
+      "license": "HI9868",
+      "licenseNumber": "0009868",
+      "status": "Current / Active",
+      "licensed": "09/21/2016",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "O'CONNOR, JILL",
+      "city": "Fort Myers",
+      "zip": "33912",
+      "license": "HI13992",
+      "licenseNumber": "0013992",
+      "status": "Current / Active",
+      "licensed": "06/25/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "PASQUEL, MATTHEW SCOTT",
+      "city": "Fort Myers",
+      "zip": "33913",
+      "license": "HI17383",
+      "licenseNumber": "0017383",
+      "status": "Current / Active",
+      "licensed": "07/15/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "PEREZ, VICTOR",
+      "city": "Fort Myers",
+      "zip": "33907",
+      "license": "HI7041",
+      "licenseNumber": "0007041",
+      "status": "Current / Active",
+      "licensed": "07/05/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "PRIETO, HERNAN RAMIRO",
+      "city": "Fort Myers",
+      "zip": "33912",
+      "license": "HI8405",
+      "licenseNumber": "0008405",
+      "status": "Current / Active",
+      "licensed": "07/02/2014",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "RILEY, TODD EVAN",
+      "city": "Fort Myers",
+      "zip": "33907",
+      "license": "HI2077",
+      "licenseNumber": "0002077",
+      "status": "Current / Active",
+      "licensed": "02/28/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "RIORDAN, CORNELIUS FRANCIS",
+      "city": "Fort Myers",
+      "zip": "33966",
+      "license": "HI17408",
+      "licenseNumber": "0017408",
+      "status": "Current / Active",
+      "licensed": "07/25/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ROBERTS, ELMER III",
+      "city": "Fort Myers",
+      "zip": "33966",
+      "license": "HI13011",
+      "licenseNumber": "0013011",
+      "status": "Current / Active",
+      "licensed": "09/11/2020",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "RODRIGUEZ, GERMAN AUGUSTO",
+      "city": "Fort Myers",
+      "zip": "33967",
+      "license": "HI17421",
+      "licenseNumber": "0017421",
+      "status": "Current / Active",
+      "licensed": "08/02/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ROMER, JEFFERSON EDWARD",
+      "city": "Fort Myers",
+      "zip": "33994",
+      "license": "HI6971",
+      "licenseNumber": "0006971",
+      "status": "Current / Active",
+      "licensed": "07/03/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ROMERO SANTANA, MARCO JOSE",
+      "city": "Fort Myers",
+      "zip": "33916",
+      "license": "HI17784",
+      "licenseNumber": "0017784",
+      "status": "Current / Active",
+      "licensed": "02/03/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ROMERO, JUAN DANIEL",
+      "city": "Fort Myers",
+      "zip": "33908",
+      "license": "HI14735",
+      "licenseNumber": "0014735",
+      "status": "Current / Active",
+      "licensed": "01/20/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "RONCO, RICK",
+      "city": "Fort Myers",
+      "zip": "33966",
+      "license": "HI9384",
+      "licenseNumber": "0009384",
+      "status": "Current / Active",
+      "licensed": "01/25/2016",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "RYAN, ANTHONY THOMAS",
+      "city": "Fort Myers",
+      "zip": "33919",
+      "license": "HI7741",
+      "licenseNumber": "0007741",
+      "status": "Current / Active",
+      "licensed": "03/05/2013",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SADLOWSKI, MITCHELL HENREY",
+      "city": "Fort Myers",
+      "zip": "33907",
+      "license": "HI6572",
+      "licenseNumber": "0006572",
+      "status": "Current / Active",
+      "licensed": "06/21/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SANDERS, WILLIAM BRADLEY",
+      "city": "Fort Myers",
+      "zip": "33905",
+      "license": "HI4213",
+      "licenseNumber": "0004213",
+      "status": "Current / Active",
+      "licensed": "04/06/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SCHMUCKER, WALTER VICTOR JR",
+      "city": "Fort Myers",
+      "zip": "33913",
+      "license": "HI5569",
+      "licenseNumber": "0005569",
+      "status": "Current / Active",
+      "licensed": "03/12/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SHEVELOFF, ROMAN",
+      "city": "Fort Myers",
+      "zip": "33913",
+      "license": "HI12293",
+      "licenseNumber": "0012293",
+      "status": "Current / Active",
+      "licensed": "10/03/2019",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SIMMONS, JOSHUA N",
+      "city": "Fort Myers",
+      "zip": "33905",
+      "license": "HI14148",
+      "licenseNumber": "0014148",
+      "status": "Current / Active",
+      "licensed": "08/10/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "STAFFORD, EDWARD M",
+      "city": "Fort Myers",
+      "zip": "33908",
+      "license": "HI1745",
+      "licenseNumber": "0001745",
+      "status": "Current / Active",
+      "licensed": "02/18/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "STEFFENS, SCOTT H",
+      "city": "Fort Myers",
+      "zip": "33908",
+      "license": "HI9738",
+      "licenseNumber": "0009738",
+      "status": "Current / Active",
+      "licensed": "07/21/2016",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "STELMAZEK, KYLE",
+      "city": "Fort Myers",
+      "zip": "33912",
+      "license": "HI9457",
+      "licenseNumber": "0009457",
+      "status": "Current / Active",
+      "licensed": "02/25/2016",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "STEWART, ROBERT KINGSLEY SR",
+      "city": "Fort Myers",
+      "zip": "33908",
+      "license": "HI1241",
+      "licenseNumber": "0001241",
+      "status": "Current / Active",
+      "licensed": "01/28/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "STOKES, LUCAS BOWEN",
+      "city": "Fort Myers",
+      "zip": "33908",
+      "license": "HI9274",
+      "licenseNumber": "0009274",
+      "status": "Current / Active",
+      "licensed": "11/17/2015",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SUTER, CHARLES FRITZ",
+      "city": "Fort Myers",
+      "zip": "33919",
+      "license": "HI12984",
+      "licenseNumber": "0012984",
+      "status": "Current / Active",
+      "licensed": "09/03/2020",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SYLVESTER, FRED",
+      "city": "Fort Myers",
+      "zip": "33907",
+      "license": "HI278",
+      "licenseNumber": "0000278",
+      "status": "Current / Active",
+      "licensed": "09/14/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "TAMBOUREAS, THOMAS",
+      "city": "Fort Myers",
+      "zip": "33913",
+      "license": "HI12705",
+      "licenseNumber": "0012705",
+      "status": "Current / Active",
+      "licensed": "04/23/2020",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "TOMEY, BASIL",
+      "city": "Fort Myers",
+      "zip": "33905",
+      "license": "HI10021",
+      "licenseNumber": "0010021",
+      "status": "Current / Active",
+      "licensed": "12/09/2016",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "TORRES, ESDRAS",
+      "city": "Fort Myers",
+      "zip": "33905",
+      "license": "HI16264",
+      "licenseNumber": "0016264",
+      "status": "Current / Active",
+      "licensed": "05/22/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "TURANO, JEROME DOUGLAS",
+      "city": "Fort Myers",
+      "zip": "33919",
+      "license": "HI1714",
+      "licenseNumber": "0001714",
+      "status": "Current / Active",
+      "licensed": "02/17/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "UKEN, DONALD JEFFREY",
+      "city": "Fort Myers",
+      "zip": "33908",
+      "license": "HI9400",
+      "licenseNumber": "0009400",
+      "status": "Current / Active",
+      "licensed": "02/02/2016",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "UNTCH, MARTIN A JR",
+      "city": "Fort Myers",
+      "zip": "33905",
+      "license": "HI1956",
+      "licenseNumber": "0001956",
+      "status": "Current / Active",
+      "licensed": "02/24/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "VALENCIA, YONATAN",
+      "city": "Fort Myers",
+      "zip": "33967",
+      "license": "HI19046",
+      "licenseNumber": "0019046",
+      "status": "Current / Active",
+      "licensed": "09/03/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "VARGAS, JUAN CARLOS",
+      "city": "Fort Myers",
+      "zip": "33913",
+      "license": "HI10179",
+      "licenseNumber": "0010179",
+      "status": "Current / Active",
+      "licensed": "02/21/2017",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "VIGNE, CHARLES ROBERT",
+      "city": "Fort Myers",
+      "zip": "33917",
+      "license": "HI1466",
+      "licenseNumber": "0001466",
+      "status": "Current / Active",
+      "licensed": "02/09/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "WARREN, DANIEL PATRICK",
+      "city": "Fort Myers",
+      "zip": "33919",
+      "license": "HI223",
+      "licenseNumber": "0000223",
+      "status": "Current / Active",
+      "licensed": "08/31/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "WATERS, CURTIS S",
+      "city": "Fort Myers",
+      "zip": "33905",
+      "license": "HI5275",
+      "licenseNumber": "0005275",
+      "status": "Current / Active",
+      "licensed": "01/23/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "WHEELER, DAVID JEFFERY",
+      "city": "Fort Myers",
+      "zip": "33907",
+      "license": "HI13669",
+      "licenseNumber": "0013669",
+      "status": "Current / Active",
+      "licensed": "04/02/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "WICKMANN, TWEIT EDWARD",
+      "city": "Fort Myers",
+      "zip": "33913",
+      "license": "HI440",
+      "licenseNumber": "0000440",
+      "status": "Current / Active",
+      "licensed": "10/14/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "WIGLESWORTH, SETH LEE",
+      "city": "Fort Myers",
+      "zip": "33919",
+      "license": "HI16656",
+      "licenseNumber": "0016656",
+      "status": "Current / Active",
+      "licensed": "09/25/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "WILLIAMS, PATRICIA LYNNE",
+      "city": "Fort Myers",
+      "zip": "33967",
+      "license": "HI7988",
+      "licenseNumber": "0007988",
+      "status": "Current / Active",
+      "licensed": "09/24/2013",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "WINTER, SCOTT A",
+      "city": "Fort Myers",
+      "zip": "33912",
+      "license": "HI14350",
+      "licenseNumber": "0014350",
+      "status": "Current / Active",
+      "licensed": "09/27/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "WOLF, LAWRENCE ANDREW",
+      "city": "Fort Myers",
+      "zip": "33905",
+      "license": "HI8554",
+      "licenseNumber": "0008554",
+      "status": "Current / Active",
+      "licensed": "10/03/2014",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "YIMIN, JUSTIN",
+      "city": "Fort Myers",
+      "zip": "33967",
+      "license": "HI17766",
+      "licenseNumber": "0017766",
+      "status": "Current / Active",
+      "licensed": "01/27/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ZELENAK, AUSTIN",
+      "city": "Fort Myers",
+      "zip": "33967",
+      "license": "HI12768",
+      "licenseNumber": "0012768",
+      "status": "Current / Active",
+      "licensed": "06/02/2020",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ALONSO, JOSE LUIS",
+      "city": "Lehigh Acres",
+      "zip": "33972",
+      "license": "HI8710",
+      "licenseNumber": "0008710",
+      "status": "Current / Active",
+      "licensed": "01/29/2015",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "AVRIL, JOSEMON P",
+      "city": "Lehigh Acres",
+      "zip": "33936",
+      "license": "HI16398",
+      "licenseNumber": "0016398",
+      "status": "Current / Active",
+      "licensed": "07/06/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BAZAN, GERMAN",
+      "city": "Lehigh Acres",
+      "zip": "33976",
+      "license": "HI15611",
+      "licenseNumber": "0015611",
+      "status": "Current / Active",
+      "licensed": "09/27/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BELL, JAMES M",
+      "city": "Lehigh Acres",
+      "zip": "33972",
+      "license": "HI11706",
+      "licenseNumber": "0011706",
+      "status": "Current / Active",
+      "licensed": "01/04/2019",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BRETONES ZAMBRANO, ANGEL ANTONIO",
+      "city": "Lehigh Acres",
+      "zip": "33936",
+      "license": "HI18218",
+      "licenseNumber": "0018218",
+      "status": "Current / Active",
+      "licensed": "08/13/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BURGERS, LARRY J",
+      "city": "Lehigh Acres",
+      "zip": "33974",
+      "license": "HI2419",
+      "licenseNumber": "0002419",
+      "status": "Current / Active",
+      "licensed": "03/03/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CASTILLO, ARMANDO",
+      "city": "Lehigh Acres",
+      "zip": "33974",
+      "license": "HI19030",
+      "licenseNumber": "0019030",
+      "status": "Current / Active",
+      "licensed": "08/26/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CURLEY, JACOB C",
+      "city": "Lehigh Acres",
+      "zip": "33936",
+      "license": "HI11314",
+      "licenseNumber": "0011314",
+      "status": "Current / Active",
+      "licensed": "07/19/2018",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "FORTUNATO, ELVIN",
+      "city": "Lehigh Acres",
+      "zip": "33976",
+      "license": "HI16238",
+      "licenseNumber": "0016238",
+      "status": "Current / Active",
+      "licensed": "05/12/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "FRANCO, SEAN MARCOS",
+      "city": "Lehigh Acres",
+      "zip": "33971",
+      "license": "HI15689",
+      "licenseNumber": "0015689",
+      "status": "Current / Active",
+      "licensed": "10/27/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "GERENA, EDDIE M",
+      "city": "Lehigh Acres",
+      "zip": "33936",
+      "license": "HI15037",
+      "licenseNumber": "0015037",
+      "status": "Current / Active",
+      "licensed": "04/12/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "GIAQUINTA, SAUL",
+      "city": "Lehigh Acres",
+      "zip": "33974",
+      "license": "HI17839",
+      "licenseNumber": "0017839",
+      "status": "Current / Active",
+      "licensed": "02/28/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HUGHES, WILLIAM DAVID",
+      "city": "Lehigh Acres",
+      "zip": "33976",
+      "license": "HI11603",
+      "licenseNumber": "0011603",
+      "status": "Current / Active",
+      "licensed": "11/15/2018",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "JOHNSON, REX",
+      "city": "Lehigh Acres",
+      "zip": "33972",
+      "license": "HI18200",
+      "licenseNumber": "0018200",
+      "status": "Current / Active",
+      "licensed": "07/31/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MANRIQUE ANEIROS, ROWARD",
+      "city": "Lehigh Acres",
+      "zip": "33974",
+      "license": "HI19068",
+      "licenseNumber": "0019068",
+      "status": "Current / Active",
+      "licensed": "09/11/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MASSES MESA , CARLOS JERONIMO",
+      "city": "Lehigh Acres",
+      "zip": "33976",
+      "license": "HI18845",
+      "licenseNumber": "0018845",
+      "status": "Current / Active",
+      "licensed": "06/11/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MCKESSON, CHRISTOPHER STEPHEN",
+      "city": "Lehigh Acres",
+      "zip": "33976",
+      "license": "HI12196",
+      "licenseNumber": "0012196",
+      "status": "Current / Active",
+      "licensed": "08/20/2019",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MORRIS, DONALD F",
+      "city": "Lehigh Acres",
+      "zip": "33970",
+      "license": "HI5218",
+      "licenseNumber": "0005218",
+      "status": "Current / Active",
+      "licensed": "01/10/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MOSQUEDA CASTRO, JOSIELY",
+      "city": "Lehigh Acres",
+      "zip": "33976",
+      "license": "HI18598",
+      "licenseNumber": "0018598",
+      "status": "Current / Active",
+      "licensed": "03/02/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "RICHARDSON, BRANDON COLE",
+      "city": "Lehigh Acres",
+      "zip": "33972",
+      "license": "HI74",
+      "licenseNumber": "0000074",
+      "status": "Current / Active",
+      "licensed": "07/29/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "RODRIGUEZ, ALEX",
+      "city": "Lehigh Acres",
+      "zip": "33974",
+      "license": "HI19053",
+      "licenseNumber": "0019053",
+      "status": "Current / Active",
+      "licensed": "09/08/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SANTOS, JONATHAN",
+      "city": "Lehigh Acres",
+      "zip": "33970",
+      "license": "HI3637",
+      "licenseNumber": "0003637",
+      "status": "Current / Active",
+      "licensed": "03/18/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SCHULTZ, GERALD JOSHWA",
+      "city": "Lehigh Acres",
+      "zip": "33971",
+      "license": "HI13076",
+      "licenseNumber": "0013076",
+      "status": "Current / Active",
+      "licensed": "10/01/2020",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "THOMPSON, DEREK JAMES",
+      "city": "Lehigh Acres",
+      "zip": "33976",
+      "license": "HI8626",
+      "licenseNumber": "0008626",
+      "status": "Current / Active",
+      "licensed": "12/09/2014",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "VIERA SANTIAGO, ANDRES",
+      "city": "Lehigh Acres",
+      "zip": "33972",
+      "license": "HI18624",
+      "licenseNumber": "0018624",
+      "status": "Current / Active",
+      "licensed": "03/12/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "WHEELOCK, DAVID THOMAS",
+      "city": "Lehigh Acres",
+      "zip": "33974",
+      "license": "HI1000",
+      "licenseNumber": "0001000",
+      "status": "Current / Active",
+      "licensed": "01/07/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "YOPP, GLEN PATRICK",
+      "city": "Lehigh Acres",
+      "zip": "33971",
+      "license": "HI14060",
+      "licenseNumber": "0014060",
+      "status": "Current / Active",
+      "licensed": "07/14/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MCNEELY, FRANK",
+      "city": "Matlacha",
+      "zip": "33993",
+      "license": "HI1255",
+      "licenseNumber": "0001255",
+      "status": "Current / Active",
+      "licensed": "01/31/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BROGDON, DAVID JEFFREY",
+      "city": "North Fort Myers",
+      "zip": "33903",
+      "license": "HI3641",
+      "licenseNumber": "0003641",
+      "status": "Current / Active",
+      "licensed": "03/18/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CAMERON, MICHAEL G",
+      "city": "North Fort Myers",
+      "zip": "33917",
+      "license": "HI8432",
+      "licenseNumber": "0008432",
+      "status": "Current / Active",
+      "licensed": "07/23/2014",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CARROLL, HELLENA FAITH",
+      "city": "North Fort Myers",
+      "zip": "33917",
+      "license": "HI19151",
+      "licenseNumber": "0019151",
+      "status": "Current / Active",
+      "licensed": "10/22/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "COOK, TIMOTHY WAYNE",
+      "city": "North Fort Myers",
+      "zip": "33917",
+      "license": "HI1730",
+      "licenseNumber": "0001730",
+      "status": "Current / Active",
+      "licensed": "02/18/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "COOPER, HUGH GRAM JR",
+      "city": "North Fort Myers",
+      "zip": "33917",
+      "license": "HI7568",
+      "licenseNumber": "0007568",
+      "status": "Current / Active",
+      "licensed": "09/20/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "FORIT SR, CHRISTOPHER JOHN",
+      "city": "North Fort Myers",
+      "zip": "33903",
+      "license": "HI18448",
+      "licenseNumber": "0018448",
+      "status": "Current / Active",
+      "licensed": "12/01/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HENDERSON, ROYCE M",
+      "city": "North Fort Myers",
+      "zip": "33917",
+      "license": "HI12807",
+      "licenseNumber": "0012807",
+      "status": "Current / Active",
+      "licensed": "06/19/2020",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "KIESEL, DANIEL F",
+      "city": "North Fort Myers",
+      "zip": "33917",
+      "license": "HI5094",
+      "licenseNumber": "0005094",
+      "status": "Current / Active",
+      "licensed": "11/30/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MANISCALCO, ALAN",
+      "city": "North Fort Myers",
+      "zip": "33917",
+      "license": "HI17726",
+      "licenseNumber": "0017726",
+      "status": "Current / Active",
+      "licensed": "12/19/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MANISCALCO, KEITH ALAN",
+      "city": "North Fort Myers",
+      "zip": "33917",
+      "license": "HI8470",
+      "licenseNumber": "0008470",
+      "status": "Current / Active",
+      "licensed": "08/14/2014",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MARCHESE, CHARLES",
+      "city": "North Fort Myers",
+      "zip": "33917",
+      "license": "HI13817",
+      "licenseNumber": "0013817",
+      "status": "Current / Active",
+      "licensed": "05/11/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MARTYN, NATHAN DONALD-VERNE",
+      "city": "North Fort Myers",
+      "zip": "33903",
+      "license": "HI19011",
+      "licenseNumber": "0019011",
+      "status": "Current / Active",
+      "licensed": "08/18/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "METRIONE, DONALD ALFRED",
+      "city": "North Fort Myers",
+      "zip": "33917",
+      "license": "HI5527",
+      "licenseNumber": "0005527",
+      "status": "Current / Active",
+      "licensed": "03/05/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MILLICAN, WESLEY",
+      "city": "North Fort Myers",
+      "zip": "33917",
+      "license": "HI8804",
+      "licenseNumber": "0008804",
+      "status": "Current / Active",
+      "licensed": "03/30/2015",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MULVANEY, DARREN LEONARD",
+      "city": "North Fort Myers",
+      "zip": "33917",
+      "license": "HI2368",
+      "licenseNumber": "0002368",
+      "status": "Current / Active",
+      "licensed": "03/03/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MUTH, CHRISTOPHER EUGENE",
+      "city": "North Fort Myers",
+      "zip": "33917",
+      "license": "HI3297",
+      "licenseNumber": "0003297",
+      "status": "Current / Active",
+      "licensed": "03/15/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "OTT, BRYAN EDWARD",
+      "city": "North Fort Myers",
+      "zip": "33917",
+      "license": "HI515",
+      "licenseNumber": "0000515",
+      "status": "Current / Active",
+      "licensed": "10/26/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "PATTEN, TERRY MICHAEL SR",
+      "city": "North Fort Myers",
+      "zip": "33903",
+      "license": "HI1803",
+      "licenseNumber": "0001803",
+      "status": "Current / Active",
+      "licensed": "02/21/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "PLEDGER ROBINSON, MONICA DALE",
+      "city": "North Fort Myers",
+      "zip": "33917",
+      "license": "HI3865",
+      "licenseNumber": "0003865",
+      "status": "Current / Active",
+      "licensed": "03/24/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ROWLEY, WALTER F",
+      "city": "North Fort Myers",
+      "zip": "33903",
+      "license": "HI12707",
+      "licenseNumber": "0012707",
+      "status": "Current / Active",
+      "licensed": "04/24/2020",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "TAVERAS, JESUS",
+      "city": "North Fort Myers",
+      "zip": "33917",
+      "license": "HI10898",
+      "licenseNumber": "0010898",
+      "status": "Current / Active",
+      "licensed": "02/22/2018",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "WESSERLING, ALEXANDER G",
+      "city": "North Fort Myers",
+      "zip": "33917",
+      "license": "HI208",
+      "licenseNumber": "0000208",
+      "status": "Current / Active",
+      "licensed": "08/26/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "WESSERLING, ERIC E",
+      "city": "North Fort Myers",
+      "zip": "33917",
+      "license": "HI246",
+      "licenseNumber": "0000246",
+      "status": "Current / Active",
+      "licensed": "09/07/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "FRANKE, ALEXANDER",
+      "city": "Saint James City",
+      "zip": "33956",
+      "license": "HI18323",
+      "licenseNumber": "0018323",
+      "status": "Current / Active",
+      "licensed": "09/24/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "OCONNELL, JAMES WILLIAM",
+      "city": "Saint James City",
+      "zip": "33956",
+      "license": "HI6197",
+      "licenseNumber": "0006197",
+      "status": "Current / Active",
+      "licensed": "05/24/2012",
+      "expires": "07/31/2028"
+    }
+  ],
+  "flagged": [
+    {
+      "name": "MILLER, RONALD CHRISTOPHER",
+      "city": "Lutz",
+      "zip": "33548",
+      "license": "HI14253",
+      "licenseNumber": "0014253",
+      "status": "Current / Active",
+      "licensed": "09/02/2021",
+      "expires": "07/31/2028",
+      "otherCounty": "Hillsborough"
+    },
+    {
+      "name": "ROSS-PEDERSEN, PEDER",
+      "city": "Naples",
+      "zip": "34110",
+      "license": "HI5405",
+      "licenseNumber": "0005405",
+      "status": "Current / Active",
+      "licensed": "02/15/2012",
+      "expires": "07/31/2028",
+      "otherCounty": "Collier"
+    }
+  ]
+}

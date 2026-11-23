@@ -11,6 +11,7 @@ It is live on GitHub Pages at https://hernandez188515-del.github.io/florida-wind
 - `broward/index.html` — second county directory (Broward), added November 18, 2026
 - `palm-beach/index.html` — third county directory (Palm Beach), added November 19, 2026
 - `hillsborough/index.html` — fourth county directory (Hillsborough), added November 21, 2026
+- `lee/index.html` — fifth county directory (Lee), added November 22, 2026
 - `guides/wind-mitigation-vs-4-point-vs-roof-certification/index.html` — first hand-written explainer (wind mitigation vs. 4-point vs. roof certification; signers, April 1, 2026 OIR-B1-1802 change, wind credits, published prices), added November 20, 2026
 - `assets/styles.css`
 - `data/lic04home-2026-11-18.csv` — official Florida DBPR home-inspector extract downloaded November 18, 2026 (America/New_York)
@@ -19,6 +20,7 @@ It is live on GitHub Pages at https://hernandez188515-del.github.io/florida-wind
 - `data/broward-inspectors.json` — the filtered Broward table (no street addresses)
 - `data/palm-beach-inspectors.json` — the filtered Palm Beach table (no street addresses)
 - `data/hillsborough-inspectors.json` — the filtered Hillsborough table (no street addresses)
+- `data/lee-inspectors.json` — the filtered Lee table (no street addresses)
 - `data/companies/<slug>.html` — hand-verified company write-ups; `scripts/next_county.py` includes them verbatim and shows a “verification pending” stub when the file is missing
 - `CHANGELOG.md` — dated log of each nightly run
 - `sitemap.xml`, `robots.txt`
@@ -66,7 +68,7 @@ A simple scheduled job (GitHub Actions, Netlify scheduled function, or a cron us
 
 1. Download a fresh `lic04home.csv` and store it as `data/lic04home-YYYY-MM-DD.csv`.
 2. Parse it with the filters above.
-3. Look at existing county folders (today: `miami-dade/`, `broward/`, `palm-beach/`, `hillsborough/`). Choose the next unpublished county, preferably the remaining county with the most current/active inspectors.
+3. Look at existing county folders (today: `miami-dade/`, `broward/`, `palm-beach/`, `hillsborough/`, `lee/`). Choose the next unpublished county, preferably the remaining county with the most current/active inspectors.
 4. Generate that county’s `index.html` from the same layout as Miami-Dade: intro and caveats, then the license table (name, mailing city, ZIP, license number, status, first licensed, expiration). Leave the “companies that advertise these inspections” section as a stub unless someone has verified companies for that county.
 5. Refresh previously generated **tables** if license status changed, but do not silently overwrite hand-verified company write-ups.
 6. Update the homepage so the new county is linked (the “Live now” / “What’s next” area).
