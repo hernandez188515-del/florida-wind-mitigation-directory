@@ -106,3 +106,4 @@ All dates are America/New_York.
 
 **Indexing:**
 - IndexNow key file added at the site root; `scripts/indexnow.py` submits URLs to api.indexnow.org. PUBLISHING.md steps 7b and 7c added.
+- Deploy: pushed `d8c4fb2`; live check 2026-11-23 ~10:20 PM ET — home, 5 county pages, 2 guides, `/advertise/`, sitemap, robots, and key file all 200; unknown paths serve the custom 404. IndexNow (api.indexnow.org) returned 202 Accepted for all 9 sitemap URLs; bing.com/indexnow 200, yandex.com/indexnow 202. Google's old sitemap ping endpoint returns 404 (retired by Google), so Google needs Search Console.
