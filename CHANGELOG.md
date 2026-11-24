@@ -107,3 +107,7 @@ All dates are America/New_York.
 **Indexing:**
 - IndexNow key file added at the site root; `scripts/indexnow.py` submits URLs to api.indexnow.org. PUBLISHING.md steps 7b and 7c added.
 - Deploy: pushed `d8c4fb2`; live check 2026-11-23 ~10:20 PM ET — home, 5 county pages, 2 guides, `/advertise/`, sitemap, robots, and key file all 200; unknown paths serve the custom 404. IndexNow (api.indexnow.org) returned 202 Accepted for all 9 sitemap URLs; bing.com/indexnow 200, yandex.com/indexnow 202. Google's old sitemap ping endpoint returns 404 (retired by Google), so Google needs Search Console.
+
+## 2026-11-23 (featured-listing pricing)
+- `/advertise/`: replaced "Contact for pricing" with the approved pricing — founding rate $29/month for the first 3 months, then $49/month or $399/year (per county). Contact line now reads "Email us to claim a founding spot"; no address published yet (placeholder kept).
+- `scripts/seo.py`: featured-listing call-out on county pages, guides, and home now states the same pricing.

@@ -190,7 +190,7 @@ def related_block(page, pages):
         cta = (
             '\n        <div class="cta-box" id="featured-listing">'
             f'\n          <h2>Are you a licensed inspector {where}? Get a featured listing.</h2>'
-            '\n          <p>Featured listings put your company, the inspections you offer, and your published prices at the top of the county page homeowners use to find wind mitigation, 4-point, and roof certification inspectors. We only feature companies whose license we can match to the official DBPR file.</p>'
+            '\n          <p>Featured listings put your company, the inspections you offer, and your published prices at the top of the county page homeowners use to find wind mitigation, 4-point, and roof certification inspectors. We only feature companies whose license we can match to the official DBPR file. Founding rate: $29/month for the first 3 months, then $49/month or $399/year.</p>'
             f'\n          <p><a class="btn btn-primary" href="{esc(pre)}advertise/">How featured listings work</a></p>'
             '\n        </div>'
         )
