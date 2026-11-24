@@ -91,3 +91,18 @@ All dates are America/New_York.
 - Official sources opened 2026-11-23 (all HTTP 200): floir.gov OIR-B1-1802 Rev. 04/26 and Rev. 01/12 PDFs, OIR-B1-1655 (Rev. 02/10) PDF (the "minimum 68% discount" for 2001-FBC-or-later homes is quoted from it and labeled as a 2010 template); myfloridacfo.com DFS mitigation page; flrules.org rule page; flsenate.gov 2025 s. 627.711; ascehazardtool.org; floridabuilding.org product approval search; miamidade.gov product control search; fortifiedhome.org. No prices on this page; no company names; no DBPR data used, so no extract re-download tonight (latest snapshot `data/lic04home-2026-11-19.csv` is 4 days old).
 - `index.html`: guide linked in nav, under the "Three inspections" cards, and in "Live now". First guide's nav now links to the new guide. `sitemap.xml`: added guide URL (lastmod 2026-11-23), homepage lastmod → 2026-11-23. `PUBLISHING.md`: file list updated.
 - Deploy: commit `1d61af5` ("Add 2026 wind mitigation form question-by-question guide") pushed to `origin/main` (fast-forward c8761d7..1d61af5, no force). GitHub Pages build for `1d61af5` reported `built` at 2026-11-23 10:10 PM ET (run 45317554936 success); `curl` of .../guides/2026-wind-mitigation-form-question-by-question/ → HTTP 200 (last-modified 2026-11-23 10:10 PM ET), live file byte-identical to the commit; homepage, first guide and sitemap.xml → HTTP 200 and include the new link. Live: https://hernandez188515-del.github.io/florida-wind-mitigation-directory/guides/2026-wind-mitigation-form-question-by-question/ . Content pages (index.html files): 8. No traffic or revenue source is connected.
+
+## 2026-11-23 (growth pass, after the nightly run)
+
+**SEO, internal links, and monetization (`scripts/seo.py`, new):**
+- Every page now has a canonical URL, Open Graph and Twitter tags, and JSON-LD: WebSite + ItemList (home), BreadcrumbList on all inner pages, ItemList of hand-checked companies on county pages, Article on guides, FAQPage only on the comparison guide (which now has a real 5-question FAQ section built from facts already cited on the page).
+- Shared top nav on every page (Home, County directories, The 2026 form, Which inspection?, For inspectors) and a "More Florida inspection pages" block linking every county page and guide.
+- County meta descriptions rewritten to a short, unique sentence with the license and company counts.
+- Featured-listing call-out ("Are you a licensed inspector in X County? Get a featured listing") on county pages, guides, and home, linking to the new `/advertise/` page. Pricing is shown as "Contact for pricing"; no contact email is published yet (placeholder until Miguel approves one).
+- New `404.html` (absolute links, noindex).
+- `sitemap.xml` is now rebuilt from the pages on disk (adds `/advertise/` and both guides) with git-based lastmod dates.
+- Homepage: description and hero no longer say "starting with Miami-Dade"; added `#directories` and `#guides` anchors.
+- `scripts/next_county.py` runs `scripts/seo.py` automatically after `--write`.
+
+**Indexing:**
+- IndexNow key file added at the site root; `scripts/indexnow.py` submits URLs to api.indexnow.org. PUBLISHING.md steps 7b and 7c added.

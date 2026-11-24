@@ -283,3 +283,22 @@ footer .logo { display: inline-block; margin-bottom: 0.6rem; }
   .stats, .grid-3, .grid-2, .facts { grid-template-columns: 1fr; }
   .header-inner { flex-direction: column; align-items: flex-start; }
 }
+
+/* Related pages, featured-listing call-out, FAQ (added by scripts/seo.py pass) */
+.related { border-top: 1px solid var(--line); }
+.related-list { columns: 2 16rem; padding-left: 1.1rem; margin: 0.4rem 0 0; }
+.related-list li { margin: 0 0 0.35rem; break-inside: avoid; }
+.muted { color: var(--muted); font-size: 0.92em; }
+.cta-box {
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-left: 5px solid var(--accent);
+  border-radius: 12px;
+  box-shadow: var(--shadow);
+  padding: 1.2rem 1.3rem;
+  margin: 0 0 2rem;
+}
+.cta-box h2 { margin-top: 0; }
+.faq-item { border-bottom: 1px solid var(--line); padding: 0.4rem 0 0.8rem; }
+.faq-item h3 { margin-bottom: 0.3rem; }
+.price-note { font-weight: 600; color: var(--accent-dark); }

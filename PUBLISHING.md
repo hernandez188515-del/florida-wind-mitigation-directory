@@ -74,6 +74,14 @@ A simple scheduled job (GitHub Actions, Netlify scheduled function, or a cron us
 5. Refresh previously generated **tables** if license status changed, but do not silently overwrite hand-verified company write-ups.
 6. Update the homepage so the new county is linked (the “Live now” / “What’s next” area).
 7. Add the new path to `sitemap.xml` with that day’s `lastmod`, and keep the homepage and older county pages listed.
+7b. Run `python3 scripts/seo.py` from the site root before committing (the county generator runs it automatically after `--write`; run it by hand after adding or editing a guide). It refreshes every page's canonical/Open Graph/JSON-LD block, the shared nav, the related-pages + featured-listing block, and rebuilds `sitemap.xml` from the pages on disk. It only rewrites text between its own `seo:` markers and the `<nav>`. To list a new guide in the top nav, add it to `NAV_GUIDES` in that script. A real Q&A section using `<div class="faq-item"><h3>Question</h3><p>Answer</p></div>` gets FAQPage JSON-LD automatically.
+7c. After the push is live, notify IndexNow (Bing, Yandex, Seznam, Naver) of the new or changed URLs:
+
+   ```bash
+   python3 scripts/indexnow.py https://hernandez188515-del.github.io/florida-wind-mitigation-directory/<new-path>/
+   ```
+
+   With no arguments it submits every URL in `sitemap.xml`. A 200 or 202 response means accepted.
 8. Commit and push the changed files so GitHub Pages rebuilds:
 
    ```bash

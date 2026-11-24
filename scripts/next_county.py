@@ -423,6 +423,9 @@ def main() -> None:
     update_homepage(name, slug, len(inspectors))
     print(f"Table rows: {len(inspectors)}; footnoted city/county mismatches: {len(flagged)}; SHA-256 {sha}")
     print(f"Wrote {folder / 'index.html'} and updated sitemap.xml and index.html")
+    # Shared head tags (canonical, Open Graph, JSON-LD), nav, related-pages block and sitemap.
+    import subprocess, sys
+    subprocess.run([sys.executable, str(ROOT / "scripts" / "seo.py")], check=True)
 
 
 if __name__ == "__main__":
