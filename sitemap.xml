@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://hernandez188515-del.github.io/florida-wind-mitigation-directory/</loc>
-    <lastmod>2026-11-22</lastmod>
+    <lastmod>2026-11-23</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -34,5 +34,10 @@
     <loc>https://hernandez188515-del.github.io/florida-wind-mitigation-directory/lee/</loc>
     <lastmod>2026-11-22</lastmod>
     <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://hernandez188515-del.github.io/florida-wind-mitigation-directory/guides/2026-wind-mitigation-form-question-by-question/</loc>
+    <lastmod>2026-11-23</lastmod>
+    <changefreq>monthly</changefreq>
   </url>
 </urlset>
