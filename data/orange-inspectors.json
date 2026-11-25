@@ -1,0 +1,3486 @@
+{
+  "source": {
+    "agency": "Florida Department of Business and Professional Regulation",
+    "professionPage": "https://www2.myfloridalicense.com/home-inspectors/public-records/",
+    "file": "https://www2.myfloridalicense.com/sto/file_download/extracts/lic04home.csv",
+    "readme": "https://www2.myfloridalicense.com/sto/documents/readme.pdf",
+    "downloaded": "2026-11-19",
+    "reusedOn": "2026-11-24",
+    "timezone": "America/New_York",
+    "sha256": "9e692086a719f4c2dbc4d24c293f5ae8aa7a4ddd06cc5eb1e9c487f857ca3678",
+    "bytes": 1624454,
+    "filters": "Occupation HI; Primary Status C (Current); Secondary Status A (Active); County Code 58 (Orange). Street addresses omitted. Rows whose city is predominantly coded to another county in the statewide file are listed separately.",
+    "statewideCurrentActiveHI": 7816,
+    "orangeCountyCode58": 346,
+    "orangeInTable": 342,
+    "flaggedCityMismatch": 4
+  },
+  "inspectors": [
+    {
+      "name": "BAZILE, SCHILLER ELI",
+      "city": "Apopka",
+      "zip": "32712",
+      "license": "HI15060",
+      "licenseNumber": "0015060",
+      "status": "Current / Active",
+      "licensed": "04/15/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BOGLE, MICHAEL J",
+      "city": "Apopka",
+      "zip": "32712",
+      "license": "HI4516",
+      "licenseNumber": "0004516",
+      "status": "Current / Active",
+      "licensed": "06/02/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BROWNING, CHARLES FRANKLIN JR",
+      "city": "Apopka",
+      "zip": "32712",
+      "license": "HI12481",
+      "licenseNumber": "0012481",
+      "status": "Current / Active",
+      "licensed": "01/09/2020",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BROWNING, STACY ANN",
+      "city": "Apopka",
+      "zip": "32712",
+      "license": "HI15510",
+      "licenseNumber": "0015510",
+      "status": "Current / Active",
+      "licensed": "08/31/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BRUNTON, RALPH JAMES",
+      "city": "Apopka",
+      "zip": "32712",
+      "license": "HI8437",
+      "licenseNumber": "0008437",
+      "status": "Current / Active",
+      "licensed": "07/28/2014",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CHARMEL, SCOTT",
+      "city": "Apopka",
+      "zip": "32712",
+      "license": "HI18084",
+      "licenseNumber": "0018084",
+      "status": "Current / Active",
+      "licensed": "06/09/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CHONG, JAIME J",
+      "city": "Apopka",
+      "zip": "32712",
+      "license": "HI17958",
+      "licenseNumber": "0017958",
+      "status": "Current / Active",
+      "licensed": "04/22/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "DEMOSTHENE, DONALD",
+      "city": "Apopka",
+      "zip": "32703",
+      "license": "HI14442",
+      "licenseNumber": "0014442",
+      "status": "Current / Active",
+      "licensed": "10/21/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "DENIS, BRAD RYAND",
+      "city": "Apopka",
+      "zip": "32703",
+      "license": "HI11829",
+      "licenseNumber": "0011829",
+      "status": "Current / Active",
+      "licensed": "02/25/2019",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "FOOTE, CURTIS LAMBERT",
+      "city": "Apopka",
+      "zip": "32712",
+      "license": "HI15141",
+      "licenseNumber": "0015141",
+      "status": "Current / Active",
+      "licensed": "05/05/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "FRANCIS, NAEEM",
+      "city": "Apopka",
+      "zip": "32703",
+      "license": "HI18969",
+      "licenseNumber": "0018969",
+      "status": "Current / Active",
+      "licensed": "07/28/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "GEORGE, BRANDELLE IAN",
+      "city": "Apopka",
+      "zip": "32703",
+      "license": "HI6912",
+      "licenseNumber": "0006912",
+      "status": "Current / Active",
+      "licensed": "07/03/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HANSFORD, JASON F",
+      "city": "Apopka",
+      "zip": "32703",
+      "license": "HI6499",
+      "licenseNumber": "0006499",
+      "status": "Current / Active",
+      "licensed": "06/18/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "KEESLING, KURTIS EDWARD",
+      "city": "Apopka",
+      "zip": "32712",
+      "license": "HI18631",
+      "licenseNumber": "0018631",
+      "status": "Current / Active",
+      "licensed": "03/16/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "KROGMAN, RAYMOND R",
+      "city": "Apopka",
+      "zip": "32703",
+      "license": "HI5387",
+      "licenseNumber": "0005387",
+      "status": "Current / Active",
+      "licensed": "02/11/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "LESTER, JOE",
+      "city": "Apopka",
+      "zip": "32712",
+      "license": "HI11705",
+      "licenseNumber": "0011705",
+      "status": "Current / Active",
+      "licensed": "01/04/2019",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MACGRATH, NICHOLAS",
+      "city": "Apopka",
+      "zip": "32703",
+      "license": "HI16099",
+      "licenseNumber": "0016099",
+      "status": "Current / Active",
+      "licensed": "04/07/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MAGLOIRE, GERARD JR",
+      "city": "Apopka",
+      "zip": "32712",
+      "license": "HI18924",
+      "licenseNumber": "0018924",
+      "status": "Current / Active",
+      "licensed": "07/14/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MOSER, RAFAEL SANDRO",
+      "city": "Apopka",
+      "zip": "32712",
+      "license": "HI10498",
+      "licenseNumber": "0010498",
+      "status": "Current / Active",
+      "licensed": "07/14/2017",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ROGERS, JOSHUA STEVEN",
+      "city": "Apopka",
+      "zip": "32712",
+      "license": "HI8805",
+      "licenseNumber": "0008805",
+      "status": "Current / Active",
+      "licensed": "03/30/2015",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SETARAM, MAHENDRA",
+      "city": "Apopka",
+      "zip": "32712",
+      "license": "HI3565",
+      "licenseNumber": "0003565",
+      "status": "Current / Active",
+      "licensed": "03/18/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "THOMAS, JAVARIS SANTONIO",
+      "city": "Apopka",
+      "zip": "32703",
+      "license": "HI16502",
+      "licenseNumber": "0016502",
+      "status": "Current / Active",
+      "licensed": "08/10/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "URIBE AYALA, CRISTHIAN CAMILO",
+      "city": "Apopka",
+      "zip": "32703",
+      "license": "HI18584",
+      "licenseNumber": "0018584",
+      "status": "Current / Active",
+      "licensed": "02/20/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "WHITE, BRUCE",
+      "city": "Apopka",
+      "zip": "32712",
+      "license": "HI11247",
+      "licenseNumber": "0011247",
+      "status": "Current / Active",
+      "licensed": "06/22/2018",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MADOFF, MICHAEL NOAM",
+      "city": "Belle Isle",
+      "zip": "32809",
+      "license": "HI10384",
+      "licenseNumber": "0010384",
+      "status": "Current / Active",
+      "licensed": "05/26/2017",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BEG, MIRZA AHAD",
+      "city": "Christmas",
+      "zip": "32709",
+      "license": "HI16940",
+      "licenseNumber": "0016940",
+      "status": "Current / Active",
+      "licensed": "01/29/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CLIFF, JASON HOWARD",
+      "city": "Christmas",
+      "zip": "32709",
+      "license": "HI8613",
+      "licenseNumber": "0008613",
+      "status": "Current / Active",
+      "licensed": "11/25/2014",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ARNOLD, RICHARD WAYNE",
+      "city": "Gotha",
+      "zip": "34734",
+      "license": "HI4817",
+      "licenseNumber": "0004817",
+      "status": "Current / Active",
+      "licensed": "09/19/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BURT, RALPH A II",
+      "city": "Maitland",
+      "zip": "32751",
+      "license": "HI2590",
+      "licenseNumber": "0002590",
+      "status": "Current / Active",
+      "licensed": "03/04/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "DOWNS, DEREK JAMES",
+      "city": "Maitland",
+      "zip": "32751",
+      "license": "HI11556",
+      "licenseNumber": "0011556",
+      "status": "Current / Active",
+      "licensed": "10/30/2018",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HAMILTON, RONALD",
+      "city": "Maitland",
+      "zip": "32751",
+      "license": "HI17845",
+      "licenseNumber": "0017845",
+      "status": "Current / Active",
+      "licensed": "03/03/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "LOBDELL, STEVEN DANIEL",
+      "city": "Maitland",
+      "zip": "32751",
+      "license": "HI11011",
+      "licenseNumber": "0011011",
+      "status": "Current / Active",
+      "licensed": "04/04/2018",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SAINT JAMES, WILLIAM ARTHUR",
+      "city": "Maitland",
+      "zip": "32751",
+      "license": "HI3479",
+      "licenseNumber": "0003479",
+      "status": "Current / Active",
+      "licensed": "03/17/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CARR, WILLIAM SAMUEL JR",
+      "city": "Oakland",
+      "zip": "34787",
+      "license": "HI2381",
+      "licenseNumber": "0002381",
+      "status": "Current / Active",
+      "licensed": "03/03/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BAUTISTA, JUAN",
+      "city": "Ocoee",
+      "zip": "34761",
+      "license": "HI15604",
+      "licenseNumber": "0015604",
+      "status": "Current / Active",
+      "licensed": "09/26/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BAYRAKTAR, ATLIHAN",
+      "city": "Ocoee",
+      "zip": "34761",
+      "license": "HI18704",
+      "licenseNumber": "0018704",
+      "status": "Current / Active",
+      "licensed": "04/17/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "FRAGA, JOHN CARLOS",
+      "city": "Ocoee",
+      "zip": "34761",
+      "license": "HI17677",
+      "licenseNumber": "0017677",
+      "status": "Current / Active",
+      "licensed": "11/21/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "GRAMAGLIA, VINCENT ALBERT",
+      "city": "Ocoee",
+      "zip": "34761",
+      "license": "HI13060",
+      "licenseNumber": "0013060",
+      "status": "Current / Active",
+      "licensed": "09/29/2020",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "LAFLEUR, KENDALL",
+      "city": "Ocoee",
+      "zip": "34761",
+      "license": "HI11930",
+      "licenseNumber": "0011930",
+      "status": "Current / Active",
+      "licensed": "04/05/2019",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "LARSON, BENJAMIN CLAIBORNE",
+      "city": "Ocoee",
+      "zip": "34761",
+      "license": "HI11341",
+      "licenseNumber": "0011341",
+      "status": "Current / Active",
+      "licensed": "08/02/2018",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MCKAMY, TODD",
+      "city": "Ocoee",
+      "zip": "34761",
+      "license": "HI10556",
+      "licenseNumber": "0010556",
+      "status": "Current / Active",
+      "licensed": "08/08/2017",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MCLOUGHLIN, JOHN MARTIN",
+      "city": "Ocoee",
+      "zip": "34761",
+      "license": "HI4145",
+      "licenseNumber": "0004145",
+      "status": "Current / Active",
+      "licensed": "04/04/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MITCHELL, EDWARD JARNELL SR",
+      "city": "Ocoee",
+      "zip": "34761",
+      "license": "HI14654",
+      "licenseNumber": "0014654",
+      "status": "Current / Active",
+      "licensed": "12/21/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "PADILLA, HECTOR J.",
+      "city": "Ocoee",
+      "zip": "34761",
+      "license": "HI17732",
+      "licenseNumber": "0017732",
+      "status": "Current / Active",
+      "licensed": "12/27/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "PHILIP, DENUS K",
+      "city": "Ocoee",
+      "zip": "34761",
+      "license": "HI18070",
+      "licenseNumber": "0018070",
+      "status": "Current / Active",
+      "licensed": "06/04/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "PORFIL, JEAN SAMUEL",
+      "city": "Ocoee",
+      "zip": "34761",
+      "license": "HI15334",
+      "licenseNumber": "0015334",
+      "status": "Current / Active",
+      "licensed": "07/06/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SERA, JOSE RAFAEL JR",
+      "city": "Ocoee",
+      "zip": "34761",
+      "license": "HI17537",
+      "licenseNumber": "0017537",
+      "status": "Current / Active",
+      "licensed": "09/18/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SMITH, MATTHEW",
+      "city": "Ocoee",
+      "zip": "34761",
+      "license": "HI14831",
+      "licenseNumber": "0014831",
+      "status": "Current / Active",
+      "licensed": "02/15/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "TORRES, ANGELA MARIE",
+      "city": "Ocoee",
+      "zip": "34761",
+      "license": "HI10497",
+      "licenseNumber": "0010497",
+      "status": "Current / Active",
+      "licensed": "07/14/2017",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "WEINBERGER, GARY",
+      "city": "Ocoee",
+      "zip": "34761",
+      "license": "HI17182",
+      "licenseNumber": "0017182",
+      "status": "Current / Active",
+      "licensed": "04/23/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "AGUDELO DAVILA, JORGE EDELBERTO",
+      "city": "Orlando",
+      "zip": "32812",
+      "license": "HI18246",
+      "licenseNumber": "0018246",
+      "status": "Current / Active",
+      "licensed": "08/25/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "AGUILAR, ERIK REY",
+      "city": "Orlando",
+      "zip": "32829",
+      "license": "HI14521",
+      "licenseNumber": "0014521",
+      "status": "Current / Active",
+      "licensed": "11/16/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "AGUILERA, YENDRY",
+      "city": "Orlando",
+      "zip": "32810",
+      "license": "HI15547",
+      "licenseNumber": "0015547",
+      "status": "Current / Active",
+      "licensed": "09/12/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "AKILEH, HAMZA NABIL",
+      "city": "Orlando",
+      "zip": "32807",
+      "license": "HI8438",
+      "licenseNumber": "0008438",
+      "status": "Current / Active",
+      "licensed": "07/28/2014",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ALBRITTON, BLAKE HUNTER",
+      "city": "Orlando",
+      "zip": "32833",
+      "license": "HI18935",
+      "licenseNumber": "0018935",
+      "status": "Current / Active",
+      "licensed": "07/15/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ALIU, PATRICK N",
+      "city": "Orlando",
+      "zip": "32836",
+      "license": "HI6531",
+      "licenseNumber": "0006531",
+      "status": "Current / Active",
+      "licensed": "06/20/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ALMARALES, IVAN",
+      "city": "Orlando",
+      "zip": "32807",
+      "license": "HI12239",
+      "licenseNumber": "0012239",
+      "status": "Current / Active",
+      "licensed": "09/06/2019",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ALVARADO, FREDDY",
+      "city": "Orlando",
+      "zip": "32828",
+      "license": "HI9070",
+      "licenseNumber": "0009070",
+      "status": "Current / Active",
+      "licensed": "08/11/2015",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ANTOINE, CURTIS",
+      "city": "Orlando",
+      "zip": "32824",
+      "license": "HI13532",
+      "licenseNumber": "0013532",
+      "status": "Current / Active",
+      "licensed": "03/01/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ASHCRAFT, JAMES KYLE",
+      "city": "Orlando",
+      "zip": "32812",
+      "license": "HI19054",
+      "licenseNumber": "0019054",
+      "status": "Current / Active",
+      "licensed": "09/08/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ATAKPU-JIMA, BRANDON",
+      "city": "Orlando",
+      "zip": "32822",
+      "license": "HI17793",
+      "licenseNumber": "0017793",
+      "status": "Current / Active",
+      "licensed": "02/06/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BAILEY, DANIEL MICHAEL",
+      "city": "Orlando",
+      "zip": "32839",
+      "license": "HI18199",
+      "licenseNumber": "0018199",
+      "status": "Current / Active",
+      "licensed": "07/31/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BARROTT, ALFREDO OLANZO JR",
+      "city": "Orlando",
+      "zip": "32812",
+      "license": "HI13156",
+      "licenseNumber": "0013156",
+      "status": "Current / Active",
+      "licensed": "11/12/2020",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BAUGH, JASON DANIEL",
+      "city": "Orlando",
+      "zip": "32829",
+      "license": "HI8873",
+      "licenseNumber": "0008873",
+      "status": "Current / Active",
+      "licensed": "05/01/2015",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BEATTY, TERRILL",
+      "city": "Orlando",
+      "zip": "32837",
+      "license": "HI19072",
+      "licenseNumber": "0019072",
+      "status": "Current / Active",
+      "licensed": "09/16/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BELANGER, MARC",
+      "city": "Orlando",
+      "zip": "32810",
+      "license": "HI15852",
+      "licenseNumber": "0015852",
+      "status": "Current / Active",
+      "licensed": "01/10/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BINDER, RONALD W",
+      "city": "Orlando",
+      "zip": "32804",
+      "license": "HI8588",
+      "licenseNumber": "0008588",
+      "status": "Current / Active",
+      "licensed": "10/29/2014",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BIRD, NATHANIEL",
+      "city": "Orlando",
+      "zip": "32821",
+      "license": "HI11946",
+      "licenseNumber": "0011946",
+      "status": "Current / Active",
+      "licensed": "04/11/2019",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BLAKE, KARL N",
+      "city": "Orlando",
+      "zip": "32837",
+      "license": "HI2568",
+      "licenseNumber": "0002568",
+      "status": "Current / Active",
+      "licensed": "03/04/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BORDNER, RICHARD DOUGLAS",
+      "city": "Orlando",
+      "zip": "32825",
+      "license": "HI12412",
+      "licenseNumber": "0012412",
+      "status": "Current / Active",
+      "licensed": "11/25/2019",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BORGES MENDEZ, YUNIER",
+      "city": "Orlando",
+      "zip": "32812",
+      "license": "HI10067",
+      "licenseNumber": "0010067",
+      "status": "Current / Active",
+      "licensed": "01/04/2017",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BOSCH, CAESARE",
+      "city": "Orlando",
+      "zip": "32817",
+      "license": "HI18986",
+      "licenseNumber": "0018986",
+      "status": "Current / Active",
+      "licensed": "08/06/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BRASKETT, WAYNE ROBERT",
+      "city": "Orlando",
+      "zip": "32835",
+      "license": "HI13844",
+      "licenseNumber": "0013844",
+      "status": "Current / Active",
+      "licensed": "05/18/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BROWN, MICHAEL",
+      "city": "Orlando",
+      "zip": "32808",
+      "license": "HI5410",
+      "licenseNumber": "0005410",
+      "status": "Current / Active",
+      "licensed": "02/15/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BRYAN, WILLIAM CAPEN",
+      "city": "Orlando",
+      "zip": "32828",
+      "license": "HI6287",
+      "licenseNumber": "0006287",
+      "status": "Current / Active",
+      "licensed": "06/04/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BRYANT, KENDALL",
+      "city": "Orlando",
+      "zip": "32822",
+      "license": "HI18864",
+      "licenseNumber": "0018864",
+      "status": "Current / Active",
+      "licensed": "06/19/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BUCHHOLZ, SHAWN WILLIAM",
+      "city": "Orlando",
+      "zip": "32819",
+      "license": "HI13764",
+      "licenseNumber": "0013764",
+      "status": "Current / Active",
+      "licensed": "04/26/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BUDHRAM, DHANRAJ",
+      "city": "Orlando",
+      "zip": "32824",
+      "license": "HI7642",
+      "licenseNumber": "0007642",
+      "status": "Current / Active",
+      "licensed": "11/15/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BURNS, JOSHUA",
+      "city": "Orlando",
+      "zip": "32809",
+      "license": "HI17691",
+      "licenseNumber": "0017691",
+      "status": "Current / Active",
+      "licensed": "12/02/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BUSH, THOMAS A SR",
+      "city": "Orlando",
+      "zip": "32806",
+      "license": "HI7040",
+      "licenseNumber": "0007040",
+      "status": "Current / Active",
+      "licensed": "07/05/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CALDERON, ANGEL MANUEL",
+      "city": "Orlando",
+      "zip": "32878",
+      "license": "HI8257",
+      "licenseNumber": "0008257",
+      "status": "Current / Active",
+      "licensed": "04/02/2014",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CALO, JACK III",
+      "city": "Orlando",
+      "zip": "32801",
+      "license": "HI6167",
+      "licenseNumber": "0006167",
+      "status": "Current / Active",
+      "licensed": "05/22/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CAMACHO, ENMANUEL",
+      "city": "Orlando",
+      "zip": "32824",
+      "license": "HI11403",
+      "licenseNumber": "0011403",
+      "status": "Current / Active",
+      "licensed": "08/27/2018",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CAMARGO, DANIEL ARMANDO",
+      "city": "Orlando",
+      "zip": "32836",
+      "license": "HI18883",
+      "licenseNumber": "0018883",
+      "status": "Current / Active",
+      "licensed": "06/29/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CAMPOS, BRUNO F",
+      "city": "Orlando",
+      "zip": "32811",
+      "license": "HI16401",
+      "licenseNumber": "0016401",
+      "status": "Current / Active",
+      "licensed": "07/06/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CANELLAS, JORGE V",
+      "city": "Orlando",
+      "zip": "32839",
+      "license": "HI4352",
+      "licenseNumber": "0004352",
+      "status": "Current / Active",
+      "licensed": "04/18/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CARAVIAS, AXEL",
+      "city": "Orlando",
+      "zip": "32803",
+      "license": "HI12614",
+      "licenseNumber": "0012614",
+      "status": "Current / Active",
+      "licensed": "03/06/2020",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CARNICELLA, THOMAS D",
+      "city": "Orlando",
+      "zip": "32826",
+      "license": "HI2730",
+      "licenseNumber": "0002730",
+      "status": "Current / Active",
+      "licensed": "03/07/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CARPENTER, ANTHONY TREMAYNE",
+      "city": "Orlando",
+      "zip": "32837",
+      "license": "HI2399",
+      "licenseNumber": "0002399",
+      "status": "Current / Active",
+      "licensed": "03/03/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CASAS, ABDON JR",
+      "city": "Orlando",
+      "zip": "32829",
+      "license": "HI11900",
+      "licenseNumber": "0011900",
+      "status": "Current / Active",
+      "licensed": "03/26/2019",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CASTOR, JACKY",
+      "city": "Orlando",
+      "zip": "32829",
+      "license": "HI9123",
+      "licenseNumber": "0009123",
+      "status": "Current / Active",
+      "licensed": "09/03/2015",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CHARLES, JEAN WELDOR",
+      "city": "Orlando",
+      "zip": "32801",
+      "license": "HI18496",
+      "licenseNumber": "0018496",
+      "status": "Current / Active",
+      "licensed": "01/05/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CHOPIN, ISABELLE",
+      "city": "Orlando",
+      "zip": "32807",
+      "license": "HI14028",
+      "licenseNumber": "0014028",
+      "status": "Current / Active",
+      "licensed": "07/07/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CHOPRA, DANNY RAMAN",
+      "city": "Orlando",
+      "zip": "32801",
+      "license": "HI7335",
+      "licenseNumber": "0007335",
+      "status": "Current / Active",
+      "licensed": "07/13/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "COFFMAN, TODD",
+      "city": "Orlando",
+      "zip": "32827",
+      "license": "HI14626",
+      "licenseNumber": "0014626",
+      "status": "Current / Active",
+      "licensed": "12/10/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "COLLINS, MICHAEL",
+      "city": "Orlando",
+      "zip": "32821",
+      "license": "HI18931",
+      "licenseNumber": "0018931",
+      "status": "Current / Active",
+      "licensed": "07/15/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "COLON RODRIGUEZ, JOSE JAVIER",
+      "city": "Orlando",
+      "zip": "32832",
+      "license": "HI9698",
+      "licenseNumber": "0009698",
+      "status": "Current / Active",
+      "licensed": "06/23/2016",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CONNOLLY, DANIEL JAMES",
+      "city": "Orlando",
+      "zip": "32835",
+      "license": "HI869",
+      "licenseNumber": "0000869",
+      "status": "Current / Active",
+      "licensed": "12/21/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "COTRAY, ANGEL TAHI",
+      "city": "Orlando",
+      "zip": "32812",
+      "license": "HI18089",
+      "licenseNumber": "0018089",
+      "status": "Current / Active",
+      "licensed": "06/10/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "COX, MICHAEL KEVIN",
+      "city": "Orlando",
+      "zip": "32819",
+      "license": "HI184",
+      "licenseNumber": "0000184",
+      "status": "Current / Active",
+      "licensed": "08/19/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CROWDER, EDWIN ALLEN",
+      "city": "Orlando",
+      "zip": "32804",
+      "license": "HI5857",
+      "licenseNumber": "0005857",
+      "status": "Current / Active",
+      "licensed": "04/13/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CULLORS, CHAZ MICHAEL",
+      "city": "Orlando",
+      "zip": "32828",
+      "license": "HI10293",
+      "licenseNumber": "0010293",
+      "status": "Current / Active",
+      "licensed": "04/14/2017",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "DAZA, JESSICA",
+      "city": "Orlando",
+      "zip": "32827",
+      "license": "HI8769",
+      "licenseNumber": "0008769",
+      "status": "Current / Active",
+      "licensed": "03/05/2015",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "DE LA CRUZ, RICARDO JOSE",
+      "city": "Orlando",
+      "zip": "32807",
+      "license": "HI8957",
+      "licenseNumber": "0008957",
+      "status": "Current / Active",
+      "licensed": "06/15/2015",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "DE LA ROSA, JOSEPH",
+      "city": "Orlando",
+      "zip": "32825",
+      "license": "HI18717",
+      "licenseNumber": "0018717",
+      "status": "Current / Active",
+      "licensed": "04/21/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "DELGADO, NEIL",
+      "city": "Orlando",
+      "zip": "32825",
+      "license": "HI5418",
+      "licenseNumber": "0005418",
+      "status": "Current / Active",
+      "licensed": "02/17/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "DIAZ HANNIKER, JOSE LUIS",
+      "city": "Orlando",
+      "zip": "32836",
+      "license": "HI18437",
+      "licenseNumber": "0018437",
+      "status": "Current / Active",
+      "licensed": "11/21/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "DIAZ, EFRAIM",
+      "city": "Orlando",
+      "zip": "32824",
+      "license": "HI17044",
+      "licenseNumber": "0017044",
+      "status": "Current / Active",
+      "licensed": "03/04/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "DIXON, MICHAEL K",
+      "city": "Orlando",
+      "zip": "32818",
+      "license": "HI11295",
+      "licenseNumber": "0011295",
+      "status": "Current / Active",
+      "licensed": "07/12/2018",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "DJORDJEVIC, BOZIDAR",
+      "city": "Orlando",
+      "zip": "32826",
+      "license": "HI2634",
+      "licenseNumber": "0002634",
+      "status": "Current / Active",
+      "licensed": "03/07/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "DOLSON, ANDREW ALEKSANDER",
+      "city": "Orlando",
+      "zip": "32819",
+      "license": "HI16520",
+      "licenseNumber": "0016520",
+      "status": "Current / Active",
+      "licensed": "08/17/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "DOWNING, NEIL",
+      "city": "Orlando",
+      "zip": "32837",
+      "license": "HI9387",
+      "licenseNumber": "0009387",
+      "status": "Current / Active",
+      "licensed": "01/25/2016",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "DREYER, FRANCISCO",
+      "city": "Orlando",
+      "zip": "32809",
+      "license": "HI14911",
+      "licenseNumber": "0014911",
+      "status": "Current / Active",
+      "licensed": "03/04/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "DURAN LORES, ARGEL",
+      "city": "Orlando",
+      "zip": "32825",
+      "license": "HI19184",
+      "licenseNumber": "0019184",
+      "status": "Current / Active",
+      "licensed": "11/09/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "EDGREN, JOHN THOMAS",
+      "city": "Orlando",
+      "zip": "32839",
+      "license": "HI283",
+      "licenseNumber": "0000283",
+      "status": "Current / Active",
+      "licensed": "09/15/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "EHRHART, JIMMY",
+      "city": "Orlando",
+      "zip": "32810",
+      "license": "HI11947",
+      "licenseNumber": "0011947",
+      "status": "Current / Active",
+      "licensed": "04/11/2019",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ERALTE PEREZ, ADONIS DE JESUS",
+      "city": "Orlando",
+      "zip": "32826",
+      "license": "HI19185",
+      "licenseNumber": "0019185",
+      "status": "Current / Active",
+      "licensed": "11/09/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ESTRELLA, PATRICIO",
+      "city": "Orlando",
+      "zip": "32854",
+      "license": "HI9535",
+      "licenseNumber": "0009535",
+      "status": "Current / Active",
+      "licensed": "03/29/2016",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "FERNANDEZ, JOSE F",
+      "city": "Orlando",
+      "zip": "32825",
+      "license": "HI3405",
+      "licenseNumber": "0003405",
+      "status": "Current / Active",
+      "licensed": "03/16/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "FIGUEROA, LUIS ALBERTO",
+      "city": "Orlando",
+      "zip": "32825",
+      "license": "HI121",
+      "licenseNumber": "0000121",
+      "status": "Current / Active",
+      "licensed": "08/09/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "FIOREY, STEVEN",
+      "city": "Orlando",
+      "zip": "32810",
+      "license": "HI666",
+      "licenseNumber": "0000666",
+      "status": "Current / Active",
+      "licensed": "11/22/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "FULLERTON, FEIONNE",
+      "city": "Orlando",
+      "zip": "32818",
+      "license": "HI18987",
+      "licenseNumber": "0018987",
+      "status": "Current / Active",
+      "licensed": "08/06/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "GARCIA, ANGELINE J",
+      "city": "Orlando",
+      "zip": "32837",
+      "license": "HI12030",
+      "licenseNumber": "0012030",
+      "status": "Current / Active",
+      "licensed": "05/23/2019",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "GARCIA, CEZAR",
+      "city": "Orlando",
+      "zip": "32837",
+      "license": "HI11206",
+      "licenseNumber": "0011206",
+      "status": "Current / Active",
+      "licensed": "06/08/2018",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "GATCHEL, COREY",
+      "city": "Orlando",
+      "zip": "32817",
+      "license": "HI15298",
+      "licenseNumber": "0015298",
+      "status": "Current / Active",
+      "licensed": "06/22/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "GHAFER, MOHAMMAD",
+      "city": "Orlando",
+      "zip": "32824",
+      "license": "HI15350",
+      "licenseNumber": "0015350",
+      "status": "Current / Active",
+      "licensed": "07/14/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "GIBBS, THOMAS JASON",
+      "city": "Orlando",
+      "zip": "32814",
+      "license": "HI5284",
+      "licenseNumber": "0005284",
+      "status": "Current / Active",
+      "licensed": "01/25/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "GIESELER, BRAD ALAN",
+      "city": "Orlando",
+      "zip": "32822",
+      "license": "HI9692",
+      "licenseNumber": "0009692",
+      "status": "Current / Active",
+      "licensed": "06/20/2016",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "GILMORE , FERON RAYNARD JR",
+      "city": "Orlando",
+      "zip": "32825",
+      "license": "HI18053",
+      "licenseNumber": "0018053",
+      "status": "Current / Active",
+      "licensed": "05/30/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "GIRALDO, LUIS A",
+      "city": "Orlando",
+      "zip": "32822",
+      "license": "HI11097",
+      "licenseNumber": "0011097",
+      "status": "Current / Active",
+      "licensed": "05/01/2018",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "GOMEZ , LUIS FELIPE III",
+      "city": "Orlando",
+      "zip": "32828",
+      "license": "HI14709",
+      "licenseNumber": "0014709",
+      "status": "Current / Active",
+      "licensed": "01/10/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "GONZALEZ ACEVEDO, CAROLINA",
+      "city": "Orlando",
+      "zip": "32837",
+      "license": "HI16673",
+      "licenseNumber": "0016673",
+      "status": "Current / Active",
+      "licensed": "10/03/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "GRASSO, SAM SALVATORE",
+      "city": "Orlando",
+      "zip": "32835",
+      "license": "HI7934",
+      "licenseNumber": "0007934",
+      "status": "Current / Active",
+      "licensed": "08/26/2013",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HAGEN, TYLER JAMES",
+      "city": "Orlando",
+      "zip": "33186",
+      "license": "HI14825",
+      "licenseNumber": "0014825",
+      "status": "Current / Active",
+      "licensed": "02/14/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HAGERMAN, JOSH",
+      "city": "Orlando",
+      "zip": "32832",
+      "license": "HI12986",
+      "licenseNumber": "0012986",
+      "status": "Current / Active",
+      "licensed": "09/04/2020",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HAMILTON, RONDELL L",
+      "city": "Orlando",
+      "zip": "32811",
+      "license": "HI16436",
+      "licenseNumber": "0016436",
+      "status": "Current / Active",
+      "licensed": "07/28/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HARRIS, DWAYNE",
+      "city": "Orlando",
+      "zip": "32833",
+      "license": "HI12774",
+      "licenseNumber": "0012774",
+      "status": "Current / Active",
+      "licensed": "06/05/2020",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HARRIS, MARK A",
+      "city": "Orlando",
+      "zip": "32812",
+      "license": "HI4625",
+      "licenseNumber": "0004625",
+      "status": "Current / Active",
+      "licensed": "07/14/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HARWICK, PETER ANDREW",
+      "city": "Orlando",
+      "zip": "32826",
+      "license": "HI13055",
+      "licenseNumber": "0013055",
+      "status": "Current / Active",
+      "licensed": "09/24/2020",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HAYMAN, MICHAEL K",
+      "city": "Orlando",
+      "zip": "32818",
+      "license": "HI7603",
+      "licenseNumber": "0007603",
+      "status": "Current / Active",
+      "licensed": "10/18/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HEADLEY, RAYER ANNCAITIS",
+      "city": "Orlando",
+      "zip": "32801",
+      "license": "HI10547",
+      "licenseNumber": "0010547",
+      "status": "Current / Active",
+      "licensed": "08/04/2017",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HEFKA, BRUCE EDWARD",
+      "city": "Orlando",
+      "zip": "32804",
+      "license": "HI876",
+      "licenseNumber": "0000876",
+      "status": "Current / Active",
+      "licensed": "12/21/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HENDERSON, STERLING MORRIS",
+      "city": "Orlando",
+      "zip": "32829",
+      "license": "HI14307",
+      "licenseNumber": "0014307",
+      "status": "Current / Active",
+      "licensed": "09/16/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HENNINGER, STEVEN",
+      "city": "Orlando",
+      "zip": "32818",
+      "license": "HI11456",
+      "licenseNumber": "0011456",
+      "status": "Current / Active",
+      "licensed": "09/19/2018",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HEREFORD, ROBERT MATTHEW",
+      "city": "Orlando",
+      "zip": "32827",
+      "license": "HI15870",
+      "licenseNumber": "0015870",
+      "status": "Current / Active",
+      "licensed": "01/19/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HOUNSHELL, TERRY LEE",
+      "city": "Orlando",
+      "zip": "32807",
+      "license": "HI1210",
+      "licenseNumber": "0001210",
+      "status": "Current / Active",
+      "licensed": "01/27/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HUNTER, SCOTT MURRAY",
+      "city": "Orlando",
+      "zip": "32825",
+      "license": "HI16690",
+      "licenseNumber": "0016690",
+      "status": "Current / Active",
+      "licensed": "10/11/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HURTADO, FERNANDO",
+      "city": "Orlando",
+      "zip": "32825",
+      "license": "HI3986",
+      "licenseNumber": "0003986",
+      "status": "Current / Active",
+      "licensed": "03/29/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "JACKSON, CHRISTOPHER D",
+      "city": "Orlando",
+      "zip": "32812",
+      "license": "HI9510",
+      "licenseNumber": "0009510",
+      "status": "Current / Active",
+      "licensed": "03/17/2016",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "JACOBS, PIERRE ANTOINE",
+      "city": "Orlando",
+      "zip": "32817",
+      "license": "HI18570",
+      "licenseNumber": "0018570",
+      "status": "Current / Active",
+      "licensed": "02/12/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "JANER, JORGE E",
+      "city": "Orlando",
+      "zip": "32812",
+      "license": "HI8978",
+      "licenseNumber": "0008978",
+      "status": "Current / Active",
+      "licensed": "06/25/2015",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "JASIEWICZ, ADAM FRANCIS",
+      "city": "Orlando",
+      "zip": "32832",
+      "license": "HI8463",
+      "licenseNumber": "0008463",
+      "status": "Current / Active",
+      "licensed": "08/12/2014",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "JENKINS, MICHAEL SHAWN",
+      "city": "Orlando",
+      "zip": "32811",
+      "license": "HI15035",
+      "licenseNumber": "0015035",
+      "status": "Current / Active",
+      "licensed": "04/11/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "JENSEN, TUCKER",
+      "city": "Orlando",
+      "zip": "32821",
+      "license": "HI18892",
+      "licenseNumber": "0018892",
+      "status": "Current / Active",
+      "licensed": "07/01/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "JOHNSON, BRIAN SCOTT",
+      "city": "Orlando",
+      "zip": "32833",
+      "license": "HI3850",
+      "licenseNumber": "0003850",
+      "status": "Current / Active",
+      "licensed": "03/24/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "JOHNSON, TRENISHA BIANCA",
+      "city": "Orlando",
+      "zip": "32811",
+      "license": "HI15765",
+      "licenseNumber": "0015765",
+      "status": "Current / Active",
+      "licensed": "11/29/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "JOHNSON, WAYNE EDWARD JR",
+      "city": "Orlando",
+      "zip": "32828",
+      "license": "HI17029",
+      "licenseNumber": "0017029",
+      "status": "Current / Active",
+      "licensed": "02/26/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "JOHNSTON, DANA MCQUIEN",
+      "city": "Orlando",
+      "zip": "32825",
+      "license": "HI19128",
+      "licenseNumber": "0019128",
+      "status": "Current / Active",
+      "licensed": "10/07/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "KAMEL, PETER",
+      "city": "Orlando",
+      "zip": "32824",
+      "license": "HI13740",
+      "licenseNumber": "0013740",
+      "status": "Current / Active",
+      "licensed": "04/20/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "KARAKTIN, KEVIN MICHAEL",
+      "city": "Orlando",
+      "zip": "32837",
+      "license": "HI13546",
+      "licenseNumber": "0013546",
+      "status": "Current / Active",
+      "licensed": "03/03/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "KEELER, WILLIAM N.",
+      "city": "Orlando",
+      "zip": "32828",
+      "license": "HI16291",
+      "licenseNumber": "0016291",
+      "status": "Current / Active",
+      "licensed": "06/02/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "KUHL, MATTHEW EUGENE",
+      "city": "Orlando",
+      "zip": "32824",
+      "license": "HI14205",
+      "licenseNumber": "0014205",
+      "status": "Current / Active",
+      "licensed": "08/24/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "KUSIC, PAUL ALLEN",
+      "city": "Orlando",
+      "zip": "32805",
+      "license": "HI4264",
+      "licenseNumber": "0004264",
+      "status": "Current / Active",
+      "licensed": "04/07/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "LACRETE, BERTINY",
+      "city": "Orlando",
+      "zip": "32824",
+      "license": "HI18909",
+      "licenseNumber": "0018909",
+      "status": "Current / Active",
+      "licensed": "07/09/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "LAMAS MARCANO, LARRY LEANDRO",
+      "city": "Orlando",
+      "zip": "32828",
+      "license": "HI18754",
+      "licenseNumber": "0018754",
+      "status": "Current / Active",
+      "licensed": "04/30/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "LANGLOIS, MARC",
+      "city": "Orlando",
+      "zip": "32837",
+      "license": "HI15192",
+      "licenseNumber": "0015192",
+      "status": "Current / Active",
+      "licensed": "05/20/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "LAZAROFF, STEVE",
+      "city": "Orlando",
+      "zip": "32825",
+      "license": "HI640",
+      "licenseNumber": "0000640",
+      "status": "Current / Active",
+      "licensed": "11/17/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "LEONE, PATRICIA ELENA",
+      "city": "Orlando",
+      "zip": "32832",
+      "license": "HI17981",
+      "licenseNumber": "0017981",
+      "status": "Current / Active",
+      "licensed": "04/29/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "LILES, THOMAS WADE",
+      "city": "Orlando",
+      "zip": "32825",
+      "license": "HI7709",
+      "licenseNumber": "0007709",
+      "status": "Current / Active",
+      "licensed": "01/24/2013",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "LILLIE, CORY J",
+      "city": "Orlando",
+      "zip": "32817",
+      "license": "HI7703",
+      "licenseNumber": "0007703",
+      "status": "Current / Active",
+      "licensed": "01/22/2013",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "LOPES, EDVAL G.",
+      "city": "Orlando",
+      "zip": "32808",
+      "license": "HI16267",
+      "licenseNumber": "0016267",
+      "status": "Current / Active",
+      "licensed": "05/22/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "LOPEZ , DANILO LUIS",
+      "city": "Orlando",
+      "zip": "32832",
+      "license": "HI17199",
+      "licenseNumber": "0017199",
+      "status": "Current / Active",
+      "licensed": "05/01/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "LOPEZ ECHENIQUE, JOSE A",
+      "city": "Orlando",
+      "zip": "32828",
+      "license": "HI15308",
+      "licenseNumber": "0015308",
+      "status": "Current / Active",
+      "licensed": "06/24/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "LOPEZ, ROBIN",
+      "city": "Orlando",
+      "zip": "32839",
+      "license": "HI5346",
+      "licenseNumber": "0005346",
+      "status": "Current / Active",
+      "licensed": "02/03/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "LUIGI GRISANTI, PABLO ANDRES",
+      "city": "Orlando",
+      "zip": "32827",
+      "license": "HI12977",
+      "licenseNumber": "0012977",
+      "status": "Current / Active",
+      "licensed": "09/02/2020",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "LUKA, KEITH A",
+      "city": "Orlando",
+      "zip": "32837",
+      "license": "HI13427",
+      "licenseNumber": "0013427",
+      "status": "Current / Active",
+      "licensed": "02/02/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "LUNDBERG, WAYNE JOHN",
+      "city": "Orlando",
+      "zip": "32803",
+      "license": "HI14036",
+      "licenseNumber": "0014036",
+      "status": "Current / Active",
+      "licensed": "07/09/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MACKEY, JEFFREY A",
+      "city": "Orlando",
+      "zip": "32812",
+      "license": "HI4028",
+      "licenseNumber": "0004028",
+      "status": "Current / Active",
+      "licensed": "03/30/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MADYDA, TRAVIS",
+      "city": "Orlando",
+      "zip": "32812",
+      "license": "HI16995",
+      "licenseNumber": "0016995",
+      "status": "Current / Active",
+      "licensed": "02/15/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MAGRONE, PAUL JR",
+      "city": "Orlando",
+      "zip": "32837",
+      "license": "HI30",
+      "licenseNumber": "0000030",
+      "status": "Current / Active",
+      "licensed": "07/21/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MARSHALL, ROBERT",
+      "city": "Orlando",
+      "zip": "32806",
+      "license": "HI17522",
+      "licenseNumber": "0017522",
+      "status": "Current / Active",
+      "licensed": "09/12/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MARTIN, DENNIS",
+      "city": "Orlando",
+      "zip": "32827",
+      "license": "HI18879",
+      "licenseNumber": "0018879",
+      "status": "Current / Active",
+      "licensed": "06/25/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MARTINEZ, ALEXANDER",
+      "city": "Orlando",
+      "zip": "32821",
+      "license": "HI2553",
+      "licenseNumber": "0002553",
+      "status": "Current / Active",
+      "licensed": "03/04/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MATOS NEGRON , JORGE LUIS",
+      "city": "Orlando",
+      "zip": "32827",
+      "license": "HI13990",
+      "licenseNumber": "0013990",
+      "status": "Current / Active",
+      "licensed": "06/24/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MATTIA, FABRIZIO ANDRES",
+      "city": "Orlando",
+      "zip": "32821",
+      "license": "HI18201",
+      "licenseNumber": "0018201",
+      "status": "Current / Active",
+      "licensed": "08/01/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MAURY MILOS, GUSTAVO I",
+      "city": "Orlando",
+      "zip": "32824",
+      "license": "HI19143",
+      "licenseNumber": "0019143",
+      "status": "Current / Active",
+      "licensed": "10/19/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MCGREGGOR, RONALD",
+      "city": "Orlando",
+      "zip": "32810",
+      "license": "HI9643",
+      "licenseNumber": "0009643",
+      "status": "Current / Active",
+      "licensed": "05/18/2016",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MCMANUS, DEREK RUSSELL",
+      "city": "Orlando",
+      "zip": "32806",
+      "license": "HI8668",
+      "licenseNumber": "0008668",
+      "status": "Current / Active",
+      "licensed": "01/06/2015",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MEEHAN, JAMES EDWARD",
+      "city": "Orlando",
+      "zip": "32819",
+      "license": "HI13220",
+      "licenseNumber": "0013220",
+      "status": "Current / Active",
+      "licensed": "11/20/2020",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MEEKS, HOWARD",
+      "city": "Orlando",
+      "zip": "32818",
+      "license": "HI9966",
+      "licenseNumber": "0009966",
+      "status": "Current / Active",
+      "licensed": "11/08/2016",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MELLADO, MIGUEL ANGEL",
+      "city": "Orlando",
+      "zip": "32803",
+      "license": "HI723",
+      "licenseNumber": "0000723",
+      "status": "Current / Active",
+      "licensed": "12/02/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MELVIN, CHRISTIAN S",
+      "city": "Orlando",
+      "zip": "32821",
+      "license": "HI13961",
+      "licenseNumber": "0013961",
+      "status": "Current / Active",
+      "licensed": "06/17/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MERCADO, ANDREW DANIEL",
+      "city": "Orlando",
+      "zip": "32829",
+      "license": "HI15867",
+      "licenseNumber": "0015867",
+      "status": "Current / Active",
+      "licensed": "01/19/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MIKULSKIS, GEORGE OTTO",
+      "city": "Orlando",
+      "zip": "32822",
+      "license": "HI11695",
+      "licenseNumber": "0011695",
+      "status": "Current / Active",
+      "licensed": "12/27/2018",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MILBURN, JENNIFER",
+      "city": "Orlando",
+      "zip": "32825",
+      "license": "HI18826",
+      "licenseNumber": "0018826",
+      "status": "Current / Active",
+      "licensed": "06/04/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MORALES RAVAN, FRANCISCO J",
+      "city": "Orlando",
+      "zip": "32818",
+      "license": "HI12172",
+      "licenseNumber": "0012172",
+      "status": "Current / Active",
+      "licensed": "08/07/2019",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MORALES RODRGUEZ , ANDERSON JOS",
+      "city": "Orlando",
+      "zip": "32832",
+      "license": "HI17049",
+      "licenseNumber": "0017049",
+      "status": "Current / Active",
+      "licensed": "03/05/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MORALES RODRIGUEZ, RAFAEL IVAN",
+      "city": "Orlando",
+      "zip": "32827",
+      "license": "HI19021",
+      "licenseNumber": "0019021",
+      "status": "Current / Active",
+      "licensed": "08/20/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MORALES, FRANCISCO HUMBERTO",
+      "city": "Orlando",
+      "zip": "32837",
+      "license": "HI2967",
+      "licenseNumber": "0002967",
+      "status": "Current / Active",
+      "licensed": "03/09/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MORELLI, RONALD",
+      "city": "Orlando",
+      "zip": "32806",
+      "license": "HI11978",
+      "licenseNumber": "0011978",
+      "status": "Current / Active",
+      "licensed": "04/30/2019",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MURPHY, STEVE L",
+      "city": "Orlando",
+      "zip": "32822",
+      "license": "HI3350",
+      "licenseNumber": "0003350",
+      "status": "Current / Active",
+      "licensed": "03/15/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MURRAY, LEIGH",
+      "city": "Orlando",
+      "zip": "34787",
+      "license": "HI10646",
+      "licenseNumber": "0010646",
+      "status": "Current / Active",
+      "licensed": "09/29/2017",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MYROLD, CHRISTOPHER D",
+      "city": "Orlando",
+      "zip": "32806",
+      "license": "HI8481",
+      "licenseNumber": "0008481",
+      "status": "Current / Active",
+      "licensed": "08/20/2014",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "NEAL, DENIS ANDREW",
+      "city": "Orlando",
+      "zip": "32805",
+      "license": "HI9461",
+      "licenseNumber": "0009461",
+      "status": "Current / Active",
+      "licensed": "02/26/2016",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "NIGAGLIONI, LUIS D SR",
+      "city": "Orlando",
+      "zip": "32832",
+      "license": "HI2100",
+      "licenseNumber": "0002100",
+      "status": "Current / Active",
+      "licensed": "02/28/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "NOVOTNY, BRIAN THOMAS",
+      "city": "Orlando",
+      "zip": "32806",
+      "license": "HI3935",
+      "licenseNumber": "0003935",
+      "status": "Current / Active",
+      "licensed": "03/28/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "NUNEZ, GERARDO",
+      "city": "Orlando",
+      "zip": "32824",
+      "license": "HI3765",
+      "licenseNumber": "0003765",
+      "status": "Current / Active",
+      "licensed": "03/23/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "OCANA VELEZ, KENRICK",
+      "city": "Orlando",
+      "zip": "32825",
+      "license": "HI13116",
+      "licenseNumber": "0013116",
+      "status": "Current / Active",
+      "licensed": "10/30/2020",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ORTIZ RIVERA, ANGEL OSCAR",
+      "city": "Orlando",
+      "zip": "32822",
+      "license": "HI9308",
+      "licenseNumber": "0009308",
+      "status": "Current / Active",
+      "licensed": "12/07/2015",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "OSBORNE, COREY SAVARES",
+      "city": "Orlando",
+      "zip": "32826",
+      "license": "HI11932",
+      "licenseNumber": "0011932",
+      "status": "Current / Active",
+      "licensed": "04/08/2019",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "OWEN, RICHARD FOSTER",
+      "city": "Orlando",
+      "zip": "32828",
+      "license": "HI9830",
+      "licenseNumber": "0009830",
+      "status": "Current / Active",
+      "licensed": "09/07/2016",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "OWENS, JASON E",
+      "city": "Orlando",
+      "zip": "32807",
+      "license": "HI3276",
+      "licenseNumber": "0003276",
+      "status": "Current / Active",
+      "licensed": "03/14/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "OYE, BENJAMIN KOLADE SR",
+      "city": "Orlando",
+      "zip": "32810",
+      "license": "HI16364",
+      "licenseNumber": "0016364",
+      "status": "Current / Active",
+      "licensed": "06/23/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "PALACIOS ZAMBRANO, JUAN CARLOS",
+      "city": "Orlando",
+      "zip": "32827",
+      "license": "HI19019",
+      "licenseNumber": "0019019",
+      "status": "Current / Active",
+      "licensed": "08/20/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "PAUL, FRITZNER",
+      "city": "Orlando",
+      "zip": "32818",
+      "license": "HI2377",
+      "licenseNumber": "0002377",
+      "status": "Current / Active",
+      "licensed": "03/03/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "PEREZ SALCEDO, ROBERT ALEXANDER",
+      "city": "Orlando",
+      "zip": "32837",
+      "license": "HI19175",
+      "licenseNumber": "0019175",
+      "status": "Current / Active",
+      "licensed": "11/04/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "PEREZ, IDWIN DANIEL",
+      "city": "Orlando",
+      "zip": "32806",
+      "license": "HI12790",
+      "licenseNumber": "0012790",
+      "status": "Current / Active",
+      "licensed": "06/11/2020",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "PINEDA, MAURICIO",
+      "city": "Orlando",
+      "zip": "32809",
+      "license": "HI16240",
+      "licenseNumber": "0016240",
+      "status": "Current / Active",
+      "licensed": "05/12/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "PINEYRO, JOHNNY A.",
+      "city": "Orlando",
+      "zip": "34771",
+      "license": "HI19102",
+      "licenseNumber": "0019102",
+      "status": "Current / Active",
+      "licensed": "09/28/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "POURCHIER, ROBERT EARL",
+      "city": "Orlando",
+      "zip": "32827",
+      "license": "HI1746",
+      "licenseNumber": "0001746",
+      "status": "Current / Active",
+      "licensed": "02/18/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "PRICE, PHILIP WAYNE",
+      "city": "Orlando",
+      "zip": "32812",
+      "license": "HI5194",
+      "licenseNumber": "0005194",
+      "status": "Current / Active",
+      "licensed": "01/04/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "PROCOPIO, LEO JON",
+      "city": "Orlando",
+      "zip": "32812",
+      "license": "HI10125",
+      "licenseNumber": "0010125",
+      "status": "Current / Active",
+      "licensed": "02/02/2017",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "PUENTES, JORGE A",
+      "city": "Orlando",
+      "zip": "32839",
+      "license": "HI14528",
+      "licenseNumber": "0014528",
+      "status": "Current / Active",
+      "licensed": "11/17/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "QUEVEDO, LUIS F",
+      "city": "Orlando",
+      "zip": "32820",
+      "license": "HI8695",
+      "licenseNumber": "0008695",
+      "status": "Current / Active",
+      "licensed": "01/27/2015",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "QUILES, FRANK S",
+      "city": "Orlando",
+      "zip": "32828",
+      "license": "HI12002",
+      "licenseNumber": "0012002",
+      "status": "Current / Active",
+      "licensed": "05/14/2019",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "RAMIREZ, ERIK",
+      "city": "Orlando",
+      "zip": "32825",
+      "license": "HI6646",
+      "licenseNumber": "0006646",
+      "status": "Current / Active",
+      "licensed": "06/25/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "RAMOS, EDWIN C",
+      "city": "Orlando",
+      "zip": "32825",
+      "license": "HI8717",
+      "licenseNumber": "0008717",
+      "status": "Current / Active",
+      "licensed": "02/02/2015",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "RENSHAW, JANELL LYN",
+      "city": "Orlando",
+      "zip": "32806",
+      "license": "HI17125",
+      "licenseNumber": "0017125",
+      "status": "Current / Active",
+      "licensed": "04/04/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "RIEDER, CHRISTOPHER DEAN",
+      "city": "Orlando",
+      "zip": "32819",
+      "license": "HI657",
+      "licenseNumber": "0000657",
+      "status": "Current / Active",
+      "licensed": "11/18/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ROBBINS, ABRAHAM G",
+      "city": "Orlando",
+      "zip": "32821",
+      "license": "HI18982",
+      "licenseNumber": "0018982",
+      "status": "Current / Active",
+      "licensed": "08/05/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ROBERSON, TERRELL",
+      "city": "Orlando",
+      "zip": "32808",
+      "license": "HI16616",
+      "licenseNumber": "0016616",
+      "status": "Current / Active",
+      "licensed": "09/13/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "RODRIGUEZ, WILMER ANTONIO",
+      "city": "Orlando",
+      "zip": "32825",
+      "license": "HI18875",
+      "licenseNumber": "0018875",
+      "status": "Current / Active",
+      "licensed": "06/24/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ROJAS, LEONARDO R",
+      "city": "Orlando",
+      "zip": "32832",
+      "license": "HI16850",
+      "licenseNumber": "0016850",
+      "status": "Current / Active",
+      "licensed": "12/20/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ROJEK, ANTHONY JOSEPH",
+      "city": "Orlando",
+      "zip": "32824",
+      "license": "HI4485",
+      "licenseNumber": "0004485",
+      "status": "Current / Active",
+      "licensed": "05/23/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ROUSSEAU, BRANDON T SR",
+      "city": "Orlando",
+      "zip": "32704",
+      "license": "HI12167",
+      "licenseNumber": "0012167",
+      "status": "Current / Active",
+      "licensed": "08/05/2019",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "RUSHTON, GERARD CONRAD",
+      "city": "Orlando",
+      "zip": "32839",
+      "license": "HI145",
+      "licenseNumber": "0000145",
+      "status": "Current / Active",
+      "licensed": "08/13/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "RUSSE, GABRIEL",
+      "city": "Orlando",
+      "zip": "32805",
+      "license": "HI15358",
+      "licenseNumber": "0015358",
+      "status": "Current / Active",
+      "licensed": "07/18/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SANDOVAL, ALEXIS",
+      "city": "Orlando",
+      "zip": "32811",
+      "license": "HI13806",
+      "licenseNumber": "0013806",
+      "status": "Current / Active",
+      "licensed": "05/05/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SANTANA, EDWARD",
+      "city": "Orlando",
+      "zip": "32822",
+      "license": "HI14874",
+      "licenseNumber": "0014874",
+      "status": "Current / Active",
+      "licensed": "02/23/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SANTARELLI MARIN, ANNA KARINA",
+      "city": "Orlando",
+      "zip": "32819",
+      "license": "HI8200",
+      "licenseNumber": "0008200",
+      "status": "Current / Active",
+      "licensed": "02/28/2014",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SAPERSTEIN, ERIK",
+      "city": "Orlando",
+      "zip": "32837",
+      "license": "HI17688",
+      "licenseNumber": "0017688",
+      "status": "Current / Active",
+      "licensed": "11/26/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SAYA, EDGAR OSWALDO",
+      "city": "Orlando",
+      "zip": "32825",
+      "license": "HI5440",
+      "licenseNumber": "0005440",
+      "status": "Current / Active",
+      "licensed": "02/21/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SCHMICK, BRENNEN",
+      "city": "Orlando",
+      "zip": "32837",
+      "license": "HI16694",
+      "licenseNumber": "0016694",
+      "status": "Current / Active",
+      "licensed": "10/12/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SCHMIDT MARSH, LISA R",
+      "city": "Orlando",
+      "zip": "32804",
+      "license": "HI6993",
+      "licenseNumber": "0006993",
+      "status": "Current / Active",
+      "licensed": "07/03/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SEGURA, ELKIN ROLANDO",
+      "city": "Orlando",
+      "zip": "32809",
+      "license": "HI4672",
+      "licenseNumber": "0004672",
+      "status": "Current / Active",
+      "licensed": "08/03/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SHARMA, DEO ADINARAYAN",
+      "city": "Orlando",
+      "zip": "32825",
+      "license": "HI1220",
+      "licenseNumber": "0001220",
+      "status": "Current / Active",
+      "licensed": "01/27/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SHOCKLEY, DAVID WILLIAM",
+      "city": "Orlando",
+      "zip": "32837",
+      "license": "HI231",
+      "licenseNumber": "0000231",
+      "status": "Current / Active",
+      "licensed": "09/01/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SHOTWELL, PAUL FUJIO",
+      "city": "Orlando",
+      "zip": "32819",
+      "license": "HI11431",
+      "licenseNumber": "0011431",
+      "status": "Current / Active",
+      "licensed": "09/11/2018",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SHWAIKI, MAGED FERNANDO",
+      "city": "Orlando",
+      "zip": "32825",
+      "license": "HI10014",
+      "licenseNumber": "0010014",
+      "status": "Current / Active",
+      "licensed": "12/05/2016",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SIEBERN, DEBORAH KAYE",
+      "city": "Orlando",
+      "zip": "32833",
+      "license": "HI139",
+      "licenseNumber": "0000139",
+      "status": "Current / Active",
+      "licensed": "08/11/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SISCO, JAMES WESLEY",
+      "city": "Orlando",
+      "zip": "32827",
+      "license": "HI8999",
+      "licenseNumber": "0008999",
+      "status": "Current / Active",
+      "licensed": "07/10/2015",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SNOOK, ANDREW",
+      "city": "Orlando",
+      "zip": "32828",
+      "license": "HI13691",
+      "licenseNumber": "0013691",
+      "status": "Current / Active",
+      "licensed": "04/08/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SOTO RODRIGUEZ, RAUDEL",
+      "city": "Orlando",
+      "zip": "32807",
+      "license": "HI12406",
+      "licenseNumber": "0012406",
+      "status": "Current / Active",
+      "licensed": "11/22/2019",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ST CROIX, WILLIAM THOMAS",
+      "city": "Orlando",
+      "zip": "32819",
+      "license": "HI3141",
+      "licenseNumber": "0003141",
+      "status": "Current / Active",
+      "licensed": "03/11/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "STEGER, JEFFERY ROBERT",
+      "city": "Orlando",
+      "zip": "32804",
+      "license": "HI16911",
+      "licenseNumber": "0016911",
+      "status": "Current / Active",
+      "licensed": "01/12/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "STRASSER, ROBERT MILLER",
+      "city": "Orlando",
+      "zip": "32836",
+      "license": "HI3077",
+      "licenseNumber": "0003077",
+      "status": "Current / Active",
+      "licensed": "03/10/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SWINARSKI, ERIC",
+      "city": "Orlando",
+      "zip": "32835",
+      "license": "HI11515",
+      "licenseNumber": "0011515",
+      "status": "Current / Active",
+      "licensed": "10/16/2018",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "TACHINAMO, RAUL ANTONIO",
+      "city": "Orlando",
+      "zip": "32837",
+      "license": "HI18790",
+      "licenseNumber": "0018790",
+      "status": "Current / Active",
+      "licensed": "05/18/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "TARANTOLA, DOMINICK ANTHONY",
+      "city": "Orlando",
+      "zip": "32812",
+      "license": "HI4712",
+      "licenseNumber": "0004712",
+      "status": "Current / Active",
+      "licensed": "08/17/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "TELCY, ANDY",
+      "city": "Orlando",
+      "zip": "32855",
+      "license": "HI4122",
+      "licenseNumber": "0004122",
+      "status": "Current / Active",
+      "licensed": "04/01/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "THOMAS, PHILIP JOHNE",
+      "city": "Orlando",
+      "zip": "32818",
+      "license": "HI11844",
+      "licenseNumber": "0011844",
+      "status": "Current / Active",
+      "licensed": "03/05/2019",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "TOBBELL, MICHAEL PAUL",
+      "city": "Orlando",
+      "zip": "32837",
+      "license": "HI5967",
+      "licenseNumber": "0005967",
+      "status": "Current / Active",
+      "licensed": "04/27/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "TOOR, LARRY DEAN",
+      "city": "Orlando",
+      "zip": "32837",
+      "license": "HI2889",
+      "licenseNumber": "0002889",
+      "status": "Current / Active",
+      "licensed": "03/09/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "TORO, JAVIER ANTONIO",
+      "city": "Orlando",
+      "zip": "32801",
+      "license": "HI8167",
+      "licenseNumber": "0008167",
+      "status": "Current / Active",
+      "licensed": "02/10/2014",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "TORO, MANUEL ANTONIO",
+      "city": "Orlando",
+      "zip": "32801",
+      "license": "HI159",
+      "licenseNumber": "0000159",
+      "status": "Current / Active",
+      "licensed": "08/16/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "TORRES, EDWIN",
+      "city": "Orlando",
+      "zip": "32817",
+      "license": "HI14555",
+      "licenseNumber": "0014555",
+      "status": "Current / Active",
+      "licensed": "11/22/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "TORRES, ORLANDO",
+      "city": "Orlando",
+      "zip": "32832",
+      "license": "HI17959",
+      "licenseNumber": "0017959",
+      "status": "Current / Active",
+      "licensed": "04/22/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "TREJO MONTES, MIGUEL ESTEBAN",
+      "city": "Orlando",
+      "zip": "32836",
+      "license": "HI14834",
+      "licenseNumber": "0014834",
+      "status": "Current / Active",
+      "licensed": "02/16/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "TROSETH, DENNIS GERALD",
+      "city": "Orlando",
+      "zip": "32822",
+      "license": "HI2812",
+      "licenseNumber": "0002812",
+      "status": "Current / Active",
+      "licensed": "03/08/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "TROSETH, KARLA MARIE",
+      "city": "Orlando",
+      "zip": "32822",
+      "license": "HI2644",
+      "licenseNumber": "0002644",
+      "status": "Current / Active",
+      "licensed": "03/07/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "TUCKER, JOHN DAVID",
+      "city": "Orlando",
+      "zip": "32804",
+      "license": "HI5353",
+      "licenseNumber": "0005353",
+      "status": "Current / Active",
+      "licensed": "02/04/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "TWITCHELL, SHASTA",
+      "city": "Orlando",
+      "zip": "32807",
+      "license": "HI15052",
+      "licenseNumber": "0015052",
+      "status": "Current / Active",
+      "licensed": "04/14/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "VAGHEI, KEYVAN",
+      "city": "Orlando",
+      "zip": "32837",
+      "license": "HI14497",
+      "licenseNumber": "0014497",
+      "status": "Current / Active",
+      "licensed": "11/10/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "VARGAS, HECTOR",
+      "city": "Orlando",
+      "zip": "32825",
+      "license": "HI12079",
+      "licenseNumber": "0012079",
+      "status": "Current / Active",
+      "licensed": "06/19/2019",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "VILMEUS, CLEOPHAT",
+      "city": "Orlando",
+      "zip": "32818",
+      "license": "HI16804",
+      "licenseNumber": "0016804",
+      "status": "Current / Active",
+      "licensed": "11/30/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "VIVAS, CESAR AUGUSTO",
+      "city": "Orlando",
+      "zip": "32824",
+      "license": "HI17815",
+      "licenseNumber": "0017815",
+      "status": "Current / Active",
+      "licensed": "02/13/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "WALLACE, DAMIAN MAURICE",
+      "city": "Orlando",
+      "zip": "32868",
+      "license": "HI14582",
+      "licenseNumber": "0014582",
+      "status": "Current / Active",
+      "licensed": "11/30/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "WHITING, RANDY L",
+      "city": "Orlando",
+      "zip": "32825",
+      "license": "HI930",
+      "licenseNumber": "0000930",
+      "status": "Current / Active",
+      "licensed": "12/28/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "WILSON, KEITH NAYLOR",
+      "city": "Orlando",
+      "zip": "32839",
+      "license": "HI8693",
+      "licenseNumber": "0008693",
+      "status": "Current / Active",
+      "licensed": "01/23/2015",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "WOOLEY, CHARLES TIMOTHY",
+      "city": "Orlando",
+      "zip": "32810",
+      "license": "HI7071",
+      "licenseNumber": "0007071",
+      "status": "Current / Active",
+      "licensed": "07/05/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "YON, TERRI LYN",
+      "city": "Orlando",
+      "zip": "32832",
+      "license": "HI14139",
+      "licenseNumber": "0014139",
+      "status": "Current / Active",
+      "licensed": "08/09/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "YOUNG, DOMINIC VAN",
+      "city": "Orlando",
+      "zip": "32819",
+      "license": "HI14122",
+      "licenseNumber": "0014122",
+      "status": "Current / Active",
+      "licensed": "08/02/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ZAVARELLA, NELSON",
+      "city": "Orlando",
+      "zip": "32837",
+      "license": "HI1128",
+      "licenseNumber": "0001128",
+      "status": "Current / Active",
+      "licensed": "01/21/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "PASSEN, ROBERT WILLIAM",
+      "city": "Tangerine",
+      "zip": "32777",
+      "license": "HI8396",
+      "licenseNumber": "0008396",
+      "status": "Current / Active",
+      "licensed": "07/01/2014",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CASSIDY, ANTHONY ANDREW",
+      "city": "Windermere",
+      "zip": "34786",
+      "license": "HI19075",
+      "licenseNumber": "0019075",
+      "status": "Current / Active",
+      "licensed": "09/17/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CHASE, FRANK WHITNER III",
+      "city": "Windermere",
+      "zip": "34786",
+      "license": "HI4976",
+      "licenseNumber": "0004976",
+      "status": "Current / Active",
+      "licensed": "10/27/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "COATES, CHRISTOPHER CARROLL",
+      "city": "Windermere",
+      "zip": "34786",
+      "license": "HI8584",
+      "licenseNumber": "0008584",
+      "status": "Current / Active",
+      "licensed": "10/29/2014",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "COOK, HAYDEN PAUL",
+      "city": "Windermere",
+      "zip": "34786",
+      "license": "HI14537",
+      "licenseNumber": "0014537",
+      "status": "Current / Active",
+      "licensed": "11/18/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "COSSON, BERNARDO GERARDO",
+      "city": "Windermere",
+      "zip": "34786",
+      "license": "HI9893",
+      "licenseNumber": "0009893",
+      "status": "Current / Active",
+      "licensed": "10/04/2016",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "DA SILVA RODRIGUES, WALNEU",
+      "city": "Windermere",
+      "zip": "34786",
+      "license": "HI19155",
+      "licenseNumber": "0019155",
+      "status": "Current / Active",
+      "licensed": "10/23/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "GEYER, RYAN",
+      "city": "Windermere",
+      "zip": "34786",
+      "license": "HI10545",
+      "licenseNumber": "0010545",
+      "status": "Current / Active",
+      "licensed": "08/03/2017",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "GONZALEZ, WILFREDO",
+      "city": "Windermere",
+      "zip": "34786",
+      "license": "HI16067",
+      "licenseNumber": "0016067",
+      "status": "Current / Active",
+      "licensed": "03/29/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "LAREZ DE CHALLOUF, LUZMARINA",
+      "city": "Windermere",
+      "zip": "34786",
+      "license": "HI14875",
+      "licenseNumber": "0014875",
+      "status": "Current / Active",
+      "licensed": "02/25/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MORABITO, GERARDO ANTONIO",
+      "city": "Windermere",
+      "zip": "34786",
+      "license": "HI10526",
+      "licenseNumber": "0010526",
+      "status": "Current / Active",
+      "licensed": "07/25/2017",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "PERRY, PARKER ADAMS",
+      "city": "Windermere",
+      "zip": "34786",
+      "license": "HI8493",
+      "licenseNumber": "0008493",
+      "status": "Current / Active",
+      "licensed": "08/27/2014",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "PIRES DE MORAIS, ANDRE FELIPE",
+      "city": "Windermere",
+      "zip": "34786",
+      "license": "HI16403",
+      "licenseNumber": "0016403",
+      "status": "Current / Active",
+      "licensed": "07/07/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "POWELL, ANDREW HINSON",
+      "city": "Windermere",
+      "zip": "34786",
+      "license": "HI5398",
+      "licenseNumber": "0005398",
+      "status": "Current / Active",
+      "licensed": "02/14/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "STEWART, JASON DOMINC",
+      "city": "Windermere",
+      "zip": "34786",
+      "license": "HI14389",
+      "licenseNumber": "0014389",
+      "status": "Current / Active",
+      "licensed": "10/08/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "TAIFI, ADNANE",
+      "city": "Windermere",
+      "zip": "34786",
+      "license": "HI5735",
+      "licenseNumber": "0005735",
+      "status": "Current / Active",
+      "licensed": "04/02/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "WARREN, LLOYD DEAN",
+      "city": "Windermere",
+      "zip": "34786",
+      "license": "HI2589",
+      "licenseNumber": "0002589",
+      "status": "Current / Active",
+      "licensed": "03/04/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ANDERSON, TERRY R",
+      "city": "Winter Garden",
+      "zip": "34787",
+      "license": "HI5680",
+      "licenseNumber": "0005680",
+      "status": "Current / Active",
+      "licensed": "03/23/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ASCHOFF, GEORGE JOSEPH JR",
+      "city": "Winter Garden",
+      "zip": "34787",
+      "license": "HI11760",
+      "licenseNumber": "0011760",
+      "status": "Current / Active",
+      "licensed": "01/25/2019",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BERNIER, JOSE OSVALDO",
+      "city": "Winter Garden",
+      "zip": "34787",
+      "license": "HI3178",
+      "licenseNumber": "0003178",
+      "status": "Current / Active",
+      "licensed": "03/11/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BROWN, JOHN C JR",
+      "city": "Winter Garden",
+      "zip": "34787",
+      "license": "HI9320",
+      "licenseNumber": "0009320",
+      "status": "Current / Active",
+      "licensed": "12/14/2015",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CALOW, MICHAEL A",
+      "city": "Winter Garden",
+      "zip": "34787",
+      "license": "HI13626",
+      "licenseNumber": "0013626",
+      "status": "Current / Active",
+      "licensed": "03/23/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CASAS, JOSE JULIAN III",
+      "city": "Winter Garden",
+      "zip": "34787",
+      "license": "HI18903",
+      "licenseNumber": "0018903",
+      "status": "Current / Active",
+      "licensed": "07/08/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "DAI, SEN",
+      "city": "Winter Garden",
+      "zip": "34787",
+      "license": "HI17859",
+      "licenseNumber": "0017859",
+      "status": "Current / Active",
+      "licensed": "03/05/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "DUNNE, RICHARD JOHN",
+      "city": "Winter Garden",
+      "zip": "34787",
+      "license": "HI5505",
+      "licenseNumber": "0005505",
+      "status": "Current / Active",
+      "licensed": "03/01/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "FLAKES, ROBERT FORRESTER",
+      "city": "Winter Garden",
+      "zip": "34787",
+      "license": "HI9110",
+      "licenseNumber": "0009110",
+      "status": "Current / Active",
+      "licensed": "08/27/2015",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "GODWIN, WILLIAM",
+      "city": "Winter Garden",
+      "zip": "34787",
+      "license": "HI13416",
+      "licenseNumber": "0013416",
+      "status": "Current / Active",
+      "licensed": "01/28/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "GUENETTE, DONALD EUGENE JR",
+      "city": "Winter Garden",
+      "zip": "34787",
+      "license": "HI13437",
+      "licenseNumber": "0013437",
+      "status": "Current / Active",
+      "licensed": "02/03/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HOCHET, STEPHANE DAVID",
+      "city": "Winter Garden",
+      "zip": "34787",
+      "license": "HI12929",
+      "licenseNumber": "0012929",
+      "status": "Current / Active",
+      "licensed": "08/17/2020",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HOOD, JOHN ELLIS",
+      "city": "Winter Garden",
+      "zip": "34787",
+      "license": "HI4922",
+      "licenseNumber": "0004922",
+      "status": "Current / Active",
+      "licensed": "10/14/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MARTINEZ LOPEZ, JORGE J",
+      "city": "Winter Garden",
+      "zip": "34787",
+      "license": "HI14146",
+      "licenseNumber": "0014146",
+      "status": "Current / Active",
+      "licensed": "08/09/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MITCHELL, RICKIE E JR.",
+      "city": "Winter Garden",
+      "zip": "34787",
+      "license": "HI18606",
+      "licenseNumber": "0018606",
+      "status": "Current / Active",
+      "licensed": "03/03/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MORALES, EDDY MARIGEL",
+      "city": "Winter Garden",
+      "zip": "34787",
+      "license": "HI19190",
+      "licenseNumber": "0019190",
+      "status": "Current / Active",
+      "licensed": "11/11/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "PEREZ, MANUEL",
+      "city": "Winter Garden",
+      "zip": "34787",
+      "license": "HI16689",
+      "licenseNumber": "0016689",
+      "status": "Current / Active",
+      "licensed": "10/10/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "POTENCIANO SILVA, SOLON JR",
+      "city": "Winter Garden",
+      "zip": "34787",
+      "license": "HI12863",
+      "licenseNumber": "0012863",
+      "status": "Current / Active",
+      "licensed": "07/16/2020",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "RAMSEY, WILLIAM D",
+      "city": "Winter Garden",
+      "zip": "34787",
+      "license": "HI12871",
+      "licenseNumber": "0012871",
+      "status": "Current / Active",
+      "licensed": "07/21/2020",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "REED, JARED MICHAEL",
+      "city": "Winter Garden",
+      "zip": "34787",
+      "license": "HI18816",
+      "licenseNumber": "0018816",
+      "status": "Current / Active",
+      "licensed": "06/01/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SALAS, JACOB",
+      "city": "Winter Garden",
+      "zip": "34787",
+      "license": "HI16323",
+      "licenseNumber": "0016323",
+      "status": "Current / Active",
+      "licensed": "06/15/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SCHEFER, CARLOS EDUARDO",
+      "city": "Winter Garden",
+      "zip": "34787",
+      "license": "HI18814",
+      "licenseNumber": "0018814",
+      "status": "Current / Active",
+      "licensed": "06/01/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "VECCHIETTI, GILBERTO",
+      "city": "Winter Garden",
+      "zip": "34787",
+      "license": "HI11992",
+      "licenseNumber": "0011992",
+      "status": "Current / Active",
+      "licensed": "05/08/2019",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "WEBB, WILLIAM EDWARD",
+      "city": "Winter Garden",
+      "zip": "34787",
+      "license": "HI3461",
+      "licenseNumber": "0003461",
+      "status": "Current / Active",
+      "licensed": "03/17/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "DOUGLAS, INES",
+      "city": "Winter Park",
+      "zip": "32789",
+      "license": "HI16584",
+      "licenseNumber": "0016584",
+      "status": "Current / Active",
+      "licensed": "09/07/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "EMERSON, ERIC BLAINE SR",
+      "city": "Winter Park",
+      "zip": "32792",
+      "license": "HI3414",
+      "licenseNumber": "0003414",
+      "status": "Current / Active",
+      "licensed": "03/16/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "FUJISAWA, GUILHERME KENDI",
+      "city": "Winter Park",
+      "zip": "32792",
+      "license": "HI16012",
+      "licenseNumber": "0016012",
+      "status": "Current / Active",
+      "licensed": "03/16/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "GILBERT, LYN MICHAEL",
+      "city": "Winter Park",
+      "zip": "32789",
+      "license": "HI5044",
+      "licenseNumber": "0005044",
+      "status": "Current / Active",
+      "licensed": "11/15/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "JEFFERY, JASON EDWARD",
+      "city": "Winter Park",
+      "zip": "32792",
+      "license": "HI16455",
+      "licenseNumber": "0016455",
+      "status": "Current / Active",
+      "licensed": "08/02/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MCDONALD, JUSTIN SULLIVAN",
+      "city": "Winter Park",
+      "zip": "32792",
+      "license": "HI18153",
+      "licenseNumber": "0018153",
+      "status": "Current / Active",
+      "licensed": "07/02/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "NAVARRO, MARTIN",
+      "city": "Winter Park",
+      "zip": "32792",
+      "license": "HI16111",
+      "licenseNumber": "0016111",
+      "status": "Current / Active",
+      "licensed": "04/11/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "RETZKE, JAMES",
+      "city": "Winter Park",
+      "zip": "32792",
+      "license": "HI18962",
+      "licenseNumber": "0018962",
+      "status": "Current / Active",
+      "licensed": "07/24/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "REYNOLDS, AUSTIN",
+      "city": "Winter Park",
+      "zip": "32789",
+      "license": "HI11103",
+      "licenseNumber": "0011103",
+      "status": "Current / Active",
+      "licensed": "05/02/2018",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "RIZZO, ANTHONY BRIAN",
+      "city": "Winter Park",
+      "zip": "32789",
+      "license": "HI5833",
+      "licenseNumber": "0005833",
+      "status": "Current / Active",
+      "licensed": "04/11/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SHELHORN, STEPHEN SCOTT",
+      "city": "Winter Park",
+      "zip": "32789",
+      "license": "HI9729",
+      "licenseNumber": "0009729",
+      "status": "Current / Active",
+      "licensed": "07/14/2016",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SVEJKOVSKY, WILLIAM THOMAS",
+      "city": "Winter Park",
+      "zip": "32789",
+      "license": "HI1073",
+      "licenseNumber": "0001073",
+      "status": "Current / Active",
+      "licensed": "01/14/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "TORRENTE, SERGIO LUIS JR",
+      "city": "Winter Park",
+      "zip": "32789",
+      "license": "HI2934",
+      "licenseNumber": "0002934",
+      "status": "Current / Active",
+      "licensed": "03/09/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "TYRELL, HARRIS A JR",
+      "city": "Winter Park",
+      "zip": "32789",
+      "license": "HI4544",
+      "licenseNumber": "0004544",
+      "status": "Current / Active",
+      "licensed": "06/16/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "VOECKS, WILLIAM ARNOLD",
+      "city": "Winter Park",
+      "zip": "32789",
+      "license": "HI9850",
+      "licenseNumber": "0009850",
+      "status": "Current / Active",
+      "licensed": "09/13/2016",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "VOSE, JEFFREY HAMILTON",
+      "city": "Winter Park",
+      "zip": "32789",
+      "license": "HI2177",
+      "licenseNumber": "0002177",
+      "status": "Current / Active",
+      "licensed": "03/01/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "YAMAGUCHI, AMANDA YUMI",
+      "city": "Winter Park",
+      "zip": "32792",
+      "license": "HI15166",
+      "licenseNumber": "0015166",
+      "status": "Current / Active",
+      "licensed": "05/12/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ZUNHO DE OLIVEIRA, TIAGO",
+      "city": "Winter Park",
+      "zip": "32792",
+      "license": "HI11630",
+      "licenseNumber": "0011630",
+      "status": "Current / Active",
+      "licensed": "11/30/2018",
+      "expires": "07/31/2028"
+    }
+  ],
+  "flagged": [
+    {
+      "name": "BALEY, RAYMOND JOSEPH JR",
+      "city": "Mount Dora",
+      "zip": "32757",
+      "license": "HI4490",
+      "licenseNumber": "0004490",
+      "status": "Current / Active",
+      "licensed": "05/25/2011",
+      "expires": "07/31/2028",
+      "otherCounty": "Lake"
+    },
+    {
+      "name": "LAMERE, RYAN JAMES",
+      "city": "Mount Dora",
+      "zip": "32757",
+      "license": "HI5701",
+      "licenseNumber": "0005701",
+      "status": "Current / Active",
+      "licensed": "03/27/2012",
+      "expires": "07/31/2028",
+      "otherCounty": "Lake"
+    },
+    {
+      "name": "BAKER, ROBERT MYRON",
+      "city": "Polk City",
+      "zip": "33868",
+      "license": "HI3339",
+      "licenseNumber": "0003339",
+      "status": "Current / Active",
+      "licensed": "03/15/2011",
+      "expires": "07/31/2028",
+      "otherCounty": "Polk"
+    },
+    {
+      "name": "MISKI, MITCHELL FORD",
+      "city": "St Cloud",
+      "zip": "34771",
+      "license": "HI4351",
+      "licenseNumber": "0004351",
+      "status": "Current / Active",
+      "licensed": "04/18/2011",
+      "expires": "07/31/2028",
+      "otherCounty": "Osceola"
+    }
+  ]
+}
