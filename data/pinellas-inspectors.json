@@ -1,0 +1,3367 @@
+{
+ "source": {
+  "agency": "Florida Department of Business and Professional Regulation",
+  "professionPage": "https://www2.myfloridalicense.com/home-inspectors/public-records/",
+  "file": "https://www2.myfloridalicense.com/sto/file_download/extracts/lic04home.csv",
+  "readme": "https://www2.myfloridalicense.com/sto/documents/readme.pdf",
+  "downloaded": "2026-11-19",
+  "reusedOn": "2026-11-25",
+  "timezone": "America/New_York",
+  "sha256": "9e692086a719f4c2dbc4d24c293f5ae8aa7a4ddd06cc5eb1e9c487f857ca3678",
+  "bytes": 1624454,
+  "filters": "Occupation HI; Primary Status C (Current); Secondary Status A (Active); County Code 62 (Pinellas). Street addresses omitted. Rows whose city is predominantly coded to another county in the statewide file are listed separately.",
+  "statewideCurrentActiveHI": 7816,
+  "pinellasCountyCode62": 334,
+  "pinellasInTable": 329,
+  "flaggedCityMismatch": 5
+ },
+ "inspectors": [
+  {
+   "name": "MACALUSO, GREGORY",
+   "city": "Belleair",
+   "zip": "33756",
+   "license": "HI3400",
+   "licenseNumber": "0003400",
+   "status": "Current / Active",
+   "licensed": "03/16/2011",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "GOFF, KENT A",
+   "city": "Belleair Beach",
+   "zip": "33786",
+   "license": "HI6977",
+   "licenseNumber": "0006977",
+   "status": "Current / Active",
+   "licensed": "07/03/2012",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "PIETROWSKI, JOHN ANTHONY",
+   "city": "Belleair Beach",
+   "zip": "33786",
+   "license": "HI5475",
+   "licenseNumber": "0005475",
+   "status": "Current / Active",
+   "licensed": "02/27/2012",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "WALLACK, KYLE",
+   "city": "Belleair Beach",
+   "zip": "33786",
+   "license": "HI18761",
+   "licenseNumber": "0018761",
+   "status": "Current / Active",
+   "licensed": "05/05/2026",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "HUBER, DONALD L",
+   "city": "Belleair Bluffs",
+   "zip": "33770",
+   "license": "HI6238",
+   "licenseNumber": "0006238",
+   "status": "Current / Active",
+   "licensed": "05/30/2012",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "BATHURST, ROBERT JAMES",
+   "city": "Clearwater",
+   "zip": "33760",
+   "license": "HI3783",
+   "licenseNumber": "0003783",
+   "status": "Current / Active",
+   "licensed": "03/23/2011",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "BOOTH, STEVEN TERENCE",
+   "city": "Clearwater",
+   "zip": "33756",
+   "license": "HI3727",
+   "licenseNumber": "0003727",
+   "status": "Current / Active",
+   "licensed": "03/22/2011",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "BRASWELL, EDDIE LANE",
+   "city": "Clearwater",
+   "zip": "33763",
+   "license": "HI14513",
+   "licenseNumber": "0014513",
+   "status": "Current / Active",
+   "licensed": "11/15/2021",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "BRZEZINSKI, CHRISTOPHER L",
+   "city": "Clearwater",
+   "zip": "33760",
+   "license": "HI15529",
+   "licenseNumber": "0015529",
+   "status": "Current / Active",
+   "licensed": "09/07/2022",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "BURNS, DANIEL DOUGLAS",
+   "city": "Clearwater",
+   "zip": "33762",
+   "license": "HI4564",
+   "licenseNumber": "0004564",
+   "status": "Current / Active",
+   "licensed": "06/27/2011",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "CURRIER, MICHAEL",
+   "city": "Clearwater",
+   "zip": "33755",
+   "license": "HI14680",
+   "licenseNumber": "0014680",
+   "status": "Current / Active",
+   "licensed": "12/27/2021",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "DA SILVEIRA, EMILSON",
+   "city": "Clearwater",
+   "zip": "33763",
+   "license": "HI11044",
+   "licenseNumber": "0011044",
+   "status": "Current / Active",
+   "licensed": "04/13/2018",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "DELLORFANO, NICHOLAS LOUIS",
+   "city": "Clearwater",
+   "zip": "33764",
+   "license": "HI17893",
+   "licenseNumber": "0017893",
+   "status": "Current / Active",
+   "licensed": "03/25/2025",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "DIGIOVANNI, DAVE",
+   "city": "Clearwater",
+   "zip": "33756",
+   "license": "HI8697",
+   "licenseNumber": "0008697",
+   "status": "Current / Active",
+   "licensed": "01/27/2015",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "GANT, SCOTT",
+   "city": "Clearwater",
+   "zip": "33756",
+   "license": "HI9896",
+   "licenseNumber": "0009896",
+   "status": "Current / Active",
+   "licensed": "10/04/2016",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "GEORGE, ERIC",
+   "city": "Clearwater",
+   "zip": "33755",
+   "license": "HI15447",
+   "licenseNumber": "0015447",
+   "status": "Current / Active",
+   "licensed": "08/15/2022",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "GIBSON, KOLLIN KEITH",
+   "city": "Clearwater",
+   "zip": "33756",
+   "license": "HI359",
+   "licenseNumber": "0000359",
+   "status": "Current / Active",
+   "licensed": "10/06/2010",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "GRAFF, STEPHEN FREDRICK",
+   "city": "Clearwater",
+   "zip": "33763",
+   "license": "HI6552",
+   "licenseNumber": "0006552",
+   "status": "Current / Active",
+   "licensed": "06/20/2012",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "GRUBBS, JUSTON",
+   "city": "Clearwater",
+   "zip": "33755",
+   "license": "HI16112",
+   "licenseNumber": "0016112",
+   "status": "Current / Active",
+   "licensed": "04/11/2023",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "HAMILTON, DAVID",
+   "city": "Clearwater",
+   "zip": "33757",
+   "license": "HI9268",
+   "licenseNumber": "0009268",
+   "status": "Current / Active",
+   "licensed": "11/12/2015",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "HERNANDEZ, JOSE MIGUEL",
+   "city": "Clearwater",
+   "zip": "33764",
+   "license": "HI16484",
+   "licenseNumber": "0016484",
+   "status": "Current / Active",
+   "licensed": "08/07/2023",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "HOPP, TIMOTHY LEE",
+   "city": "Clearwater",
+   "zip": "33764",
+   "license": "HI3024",
+   "licenseNumber": "0003024",
+   "status": "Current / Active",
+   "licensed": "03/10/2011",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "JAFFRI, ALI",
+   "city": "Clearwater",
+   "zip": "33760",
+   "license": "HI19117",
+   "licenseNumber": "0019117",
+   "status": "Current / Active",
+   "licensed": "10/02/2026",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "KARISNY, DANIEL",
+   "city": "Clearwater",
+   "zip": "33764",
+   "license": "HI17874",
+   "licenseNumber": "0017874",
+   "status": "Current / Active",
+   "licensed": "03/11/2025",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "KEMPF, GARY J",
+   "city": "Clearwater",
+   "zip": "33755",
+   "license": "HI39",
+   "licenseNumber": "0000039",
+   "status": "Current / Active",
+   "licensed": "07/23/2010",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "KOENN, BENJAMIN THOMAS",
+   "city": "Clearwater",
+   "zip": "33755",
+   "license": "HI12896",
+   "licenseNumber": "0012896",
+   "status": "Current / Active",
+   "licensed": "08/03/2020",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "KRAFFT, RUSSELL R",
+   "city": "Clearwater",
+   "zip": "33760",
+   "license": "HI11873",
+   "licenseNumber": "0011873",
+   "status": "Current / Active",
+   "licensed": "03/19/2019",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "LABBE, DAVID WILLIAM",
+   "city": "Clearwater",
+   "zip": "33761",
+   "license": "HI12609",
+   "licenseNumber": "0012609",
+   "status": "Current / Active",
+   "licensed": "03/04/2020",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "LANGSTON, JOHN LESLIE IV",
+   "city": "Clearwater",
+   "zip": "33761",
+   "license": "HI2952",
+   "licenseNumber": "0002952",
+   "status": "Current / Active",
+   "licensed": "03/09/2011",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "LECKRONE, ZACHARY",
+   "city": "Clearwater",
+   "zip": "33764",
+   "license": "HI15250",
+   "licenseNumber": "0015250",
+   "status": "Current / Active",
+   "licensed": "06/10/2022",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "MALDONADO, LUIS ENRIQUE",
+   "city": "Clearwater",
+   "zip": "33760",
+   "license": "HI14470",
+   "licenseNumber": "0014470",
+   "status": "Current / Active",
+   "licensed": "10/28/2021",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "MANCINI, JOHN H JR",
+   "city": "Clearwater",
+   "zip": "33755",
+   "license": "HI3368",
+   "licenseNumber": "0003368",
+   "status": "Current / Active",
+   "licensed": "03/15/2011",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "MANGUM, GREGORY PHILLIP",
+   "city": "Clearwater",
+   "zip": "33761",
+   "license": "HI4027",
+   "licenseNumber": "0004027",
+   "status": "Current / Active",
+   "licensed": "03/30/2011",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "MARINO, ANTHONY JOHN JR",
+   "city": "Clearwater",
+   "zip": "33756",
+   "license": "HI47",
+   "licenseNumber": "0000047",
+   "status": "Current / Active",
+   "licensed": "07/23/2010",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "MARTIN, DOUGLAS",
+   "city": "Clearwater",
+   "zip": "33763",
+   "license": "HI12767",
+   "licenseNumber": "0012767",
+   "status": "Current / Active",
+   "licensed": "06/02/2020",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "MORTON, KEVIN G",
+   "city": "Clearwater",
+   "zip": "33765",
+   "license": "HI12926",
+   "licenseNumber": "0012926",
+   "status": "Current / Active",
+   "licensed": "08/14/2020",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "OLIVETO, CHRISTOPHER",
+   "city": "Clearwater",
+   "zip": "33761",
+   "license": "HI17878",
+   "licenseNumber": "0017878",
+   "status": "Current / Active",
+   "licensed": "03/12/2025",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "PRINS, RICHARD ERIN",
+   "city": "Clearwater",
+   "zip": "33755",
+   "license": "HI13063",
+   "licenseNumber": "0013063",
+   "status": "Current / Active",
+   "licensed": "09/29/2020",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "REVELLO, FRANCIS PAUL",
+   "city": "Clearwater",
+   "zip": "33765",
+   "license": "HI2036",
+   "licenseNumber": "0002036",
+   "status": "Current / Active",
+   "licensed": "02/25/2011",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "ROSSI, MICHELE",
+   "city": "Clearwater",
+   "zip": "33756",
+   "license": "HI17919",
+   "licenseNumber": "0017919",
+   "status": "Current / Active",
+   "licensed": "04/08/2025",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "RUSSELL, CHRISTOPHER",
+   "city": "Clearwater",
+   "zip": "33755",
+   "license": "HI16435",
+   "licenseNumber": "0016435",
+   "status": "Current / Active",
+   "licensed": "07/28/2023",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "RYAN, ALAN REGINALD JR",
+   "city": "Clearwater",
+   "zip": "33759",
+   "license": "HI19132",
+   "licenseNumber": "0019132",
+   "status": "Current / Active",
+   "licensed": "10/08/2026",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "SABELLA, JOSEPH E",
+   "city": "Clearwater",
+   "zip": "33764",
+   "license": "HI1391",
+   "licenseNumber": "0001391",
+   "status": "Current / Active",
+   "licensed": "02/07/2011",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "SEXTON, WILLIAM FRANCIS",
+   "city": "Clearwater",
+   "zip": "33759",
+   "license": "HI4065",
+   "licenseNumber": "0004065",
+   "status": "Current / Active",
+   "licensed": "03/30/2011",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "SMAJLOVIC, DAMIR",
+   "city": "Clearwater",
+   "zip": "33762",
+   "license": "HI14225",
+   "licenseNumber": "0014225",
+   "status": "Current / Active",
+   "licensed": "08/26/2021",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "STEPHENS, CHRISTOPHER RYAN",
+   "city": "Clearwater",
+   "zip": "33763",
+   "license": "HI10744",
+   "licenseNumber": "0010744",
+   "status": "Current / Active",
+   "licensed": "12/01/2017",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "SUDBURY, SCOT LANCE",
+   "city": "Clearwater",
+   "zip": "33761",
+   "license": "HI12866",
+   "licenseNumber": "0012866",
+   "status": "Current / Active",
+   "licensed": "07/20/2020",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "TAGARAS, MARIO",
+   "city": "Clearwater",
+   "zip": "33765",
+   "license": "HI16567",
+   "licenseNumber": "0016567",
+   "status": "Current / Active",
+   "licensed": "09/01/2023",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "TEEPLE, WILLIAM C",
+   "city": "Clearwater",
+   "zip": "33763",
+   "license": "HI2584",
+   "licenseNumber": "0002584",
+   "status": "Current / Active",
+   "licensed": "03/04/2011",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "TURNER, JOSEPH",
+   "city": "Clearwater",
+   "zip": "33764",
+   "license": "HI10851",
+   "licenseNumber": "0010851",
+   "status": "Current / Active",
+   "licensed": "01/23/2018",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "VOGT, CHED EDWARD",
+   "city": "Clearwater",
+   "zip": "33759",
+   "license": "HI3968",
+   "licenseNumber": "0003968",
+   "status": "Current / Active",
+   "licensed": "03/28/2011",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "WHITAKER, MATTHEW",
+   "city": "Clearwater",
+   "zip": "33756",
+   "license": "HI14022",
+   "licenseNumber": "0014022",
+   "status": "Current / Active",
+   "licensed": "07/06/2021",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "WIEGAND, STEVEN RALPH",
+   "city": "Clearwater",
+   "zip": "33764",
+   "license": "HI5841",
+   "licenseNumber": "0005841",
+   "status": "Current / Active",
+   "licensed": "04/12/2012",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "WILT, JONATHAN",
+   "city": "Clearwater",
+   "zip": "33756",
+   "license": "HI15705",
+   "licenseNumber": "0015705",
+   "status": "Current / Active",
+   "licensed": "11/03/2022",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "XIONG, TIMOTHEE",
+   "city": "Clearwater",
+   "zip": "33760",
+   "license": "HI18362",
+   "licenseNumber": "0018362",
+   "status": "Current / Active",
+   "licensed": "10/15/2025",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "ZITZELBERG, BRETT",
+   "city": "Clearwater",
+   "zip": "33763",
+   "license": "HI13174",
+   "licenseNumber": "0013174",
+   "status": "Current / Active",
+   "licensed": "11/13/2020",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "ZITZELBERG, RUSSELL ALAN",
+   "city": "Clearwater",
+   "zip": "33763",
+   "license": "HI10897",
+   "licenseNumber": "0010897",
+   "status": "Current / Active",
+   "licensed": "02/22/2018",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "FRIEDMAN, MARC ALAN",
+   "city": "Clearwater Beach",
+   "zip": "33767",
+   "license": "HI539",
+   "licenseNumber": "0000539",
+   "status": "Current / Active",
+   "licensed": "10/29/2010",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "LAPORTA, VINCENT N",
+   "city": "Crystal Beach",
+   "zip": "34681",
+   "license": "HI6137",
+   "licenseNumber": "0006137",
+   "status": "Current / Active",
+   "licensed": "05/17/2012",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "NAUMANN, KENNETH SCOTT",
+   "city": "Crystal Beach",
+   "zip": "34681",
+   "license": "HI2262",
+   "licenseNumber": "0002262",
+   "status": "Current / Active",
+   "licensed": "03/02/2011",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "TILLMANN, LLOYD MATHEW",
+   "city": "Crystal Beach",
+   "zip": "34681",
+   "license": "HI13452",
+   "licenseNumber": "0013452",
+   "status": "Current / Active",
+   "licensed": "02/08/2021",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "ARDEN-DANNENFELSER, ZIARA",
+   "city": "Dunedin",
+   "zip": "34698",
+   "license": "HI10968",
+   "licenseNumber": "0010968",
+   "status": "Current / Active",
+   "licensed": "03/23/2018",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "BATHA, DAVID B",
+   "city": "Dunedin",
+   "zip": "34698",
+   "license": "HI8000",
+   "licenseNumber": "0008000",
+   "status": "Current / Active",
+   "licensed": "09/30/2013",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "BENNETT, DANIEL FRANCES",
+   "city": "Dunedin",
+   "zip": "34698",
+   "license": "HI12114",
+   "licenseNumber": "0012114",
+   "status": "Current / Active",
+   "licensed": "07/05/2019",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "BOEKENOOGEN, JENNIFER ANN",
+   "city": "Dunedin",
+   "zip": "34698",
+   "license": "HI15790",
+   "licenseNumber": "0015790",
+   "status": "Current / Active",
+   "licensed": "12/06/2022",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "FERGUSON, PAUL",
+   "city": "Dunedin",
+   "zip": "34698",
+   "license": "HI17384",
+   "licenseNumber": "0017384",
+   "status": "Current / Active",
+   "licensed": "07/15/2024",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "FORSCHER, GREGG",
+   "city": "Dunedin",
+   "zip": "34698",
+   "license": "HI12660",
+   "licenseNumber": "0012660",
+   "status": "Current / Active",
+   "licensed": "03/26/2020",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "GRIFFIN, BRICE",
+   "city": "Dunedin",
+   "zip": "34698",
+   "license": "HI13719",
+   "licenseNumber": "0013719",
+   "status": "Current / Active",
+   "licensed": "04/15/2021",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "IOSA, JEFFREY",
+   "city": "Dunedin",
+   "zip": "34698",
+   "license": "HI8686",
+   "licenseNumber": "0008686",
+   "status": "Current / Active",
+   "licensed": "01/16/2015",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "LARSON, LAWRENCE JOHN",
+   "city": "Dunedin",
+   "zip": "34698",
+   "license": "HI8838",
+   "licenseNumber": "0008838",
+   "status": "Current / Active",
+   "licensed": "04/10/2015",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "MESERVE, DAVID H",
+   "city": "Dunedin",
+   "zip": "34698",
+   "license": "HI19149",
+   "licenseNumber": "0019149",
+   "status": "Current / Active",
+   "licensed": "10/21/2026",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "MILLER, CHRISTOPHER L SR",
+   "city": "Dunedin",
+   "zip": "34698",
+   "license": "HI1556",
+   "licenseNumber": "0001556",
+   "status": "Current / Active",
+   "licensed": "02/14/2011",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "MULLAHY, NANCY ANN",
+   "city": "Dunedin",
+   "zip": "34698",
+   "license": "HI14480",
+   "licenseNumber": "0014480",
+   "status": "Current / Active",
+   "licensed": "11/08/2021",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "OTTOSON, BRIAN JAMES",
+   "city": "Dunedin",
+   "zip": "34698",
+   "license": "HI4846",
+   "licenseNumber": "0004846",
+   "status": "Current / Active",
+   "licensed": "09/27/2011",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "PEAVLER, SAMUEL BRUCE",
+   "city": "Dunedin",
+   "zip": "34698",
+   "license": "HI10580",
+   "licenseNumber": "0010580",
+   "status": "Current / Active",
+   "licensed": "08/21/2017",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "RICCARDO, ROBERT A",
+   "city": "Dunedin",
+   "zip": "34698",
+   "license": "HI6264",
+   "licenseNumber": "0006264",
+   "status": "Current / Active",
+   "licensed": "05/31/2012",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "ROBERTS, STEPHEN G",
+   "city": "Dunedin",
+   "zip": "34698",
+   "license": "HI13473",
+   "licenseNumber": "0013473",
+   "status": "Current / Active",
+   "licensed": "02/12/2021",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "SMARSLOK, BRIAN R",
+   "city": "Dunedin",
+   "zip": "34698",
+   "license": "HI15151",
+   "licenseNumber": "0015151",
+   "status": "Current / Active",
+   "licensed": "05/09/2022",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "TURNER, ANDREW PETER",
+   "city": "Dunedin",
+   "zip": "34698",
+   "license": "HI16136",
+   "licenseNumber": "0016136",
+   "status": "Current / Active",
+   "licensed": "04/18/2023",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "VOGT, JEFFREY D",
+   "city": "Dunedin",
+   "zip": "34698",
+   "license": "HI3967",
+   "licenseNumber": "0003967",
+   "status": "Current / Active",
+   "licensed": "03/28/2011",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "WASILEFSKY, STEVEN",
+   "city": "Dunedin",
+   "zip": "34698",
+   "license": "HI13566",
+   "licenseNumber": "0013566",
+   "status": "Current / Active",
+   "licensed": "03/08/2021",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "BELL, CHERYL",
+   "city": "Gulfport",
+   "zip": "33707",
+   "license": "HI8857",
+   "licenseNumber": "0008857",
+   "status": "Current / Active",
+   "licensed": "04/20/2015",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "PURCELL, STACEY A",
+   "city": "Gulfport",
+   "zip": "33711",
+   "license": "HI70",
+   "licenseNumber": "0000070",
+   "status": "Current / Active",
+   "licensed": "07/28/2010",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "TISDALE, JOHN STEPHEN",
+   "city": "Gulfport",
+   "zip": "33707",
+   "license": "HI5658",
+   "licenseNumber": "0005658",
+   "status": "Current / Active",
+   "licensed": "03/22/2012",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "BOGOSIAN, WANE MARK",
+   "city": "Indian Rocks Beach",
+   "zip": "33785",
+   "license": "HI5786",
+   "licenseNumber": "0005786",
+   "status": "Current / Active",
+   "licensed": "04/06/2012",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "BOISCLAIR, JUSTIN PATRICK",
+   "city": "Indian Rocks Beach",
+   "zip": "33785",
+   "license": "HI11156",
+   "licenseNumber": "0011156",
+   "status": "Current / Active",
+   "licensed": "05/18/2018",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "MOSELEY, DOUGLAS WAYNE",
+   "city": "Kenneth City",
+   "zip": "33709",
+   "license": "HI15405",
+   "licenseNumber": "0015405",
+   "status": "Current / Active",
+   "licensed": "07/29/2022",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "ALESCH, DANIEL",
+   "city": "Largo",
+   "zip": "33773",
+   "license": "HI16466",
+   "licenseNumber": "0016466",
+   "status": "Current / Active",
+   "licensed": "08/04/2023",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "BOGGESS, SCOTT ANTHONY",
+   "city": "Largo",
+   "zip": "33771",
+   "license": "HI14287",
+   "licenseNumber": "0014287",
+   "status": "Current / Active",
+   "licensed": "09/10/2021",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "BOURASSA, JONATHAN LEE",
+   "city": "Largo",
+   "zip": "33770",
+   "license": "HI4673",
+   "licenseNumber": "0004673",
+   "status": "Current / Active",
+   "licensed": "08/03/2011",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "BREWSTER, MICHAEL DAVID",
+   "city": "Largo",
+   "zip": "33771",
+   "license": "HI18736",
+   "licenseNumber": "0018736",
+   "status": "Current / Active",
+   "licensed": "04/28/2026",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "CHRONIC, PAYTON WADE",
+   "city": "Largo",
+   "zip": "33770",
+   "license": "HI13718",
+   "licenseNumber": "0013718",
+   "status": "Current / Active",
+   "licensed": "04/15/2021",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "COOTS, THOMAS DANIEL II",
+   "city": "Largo",
+   "zip": "33771",
+   "license": "HI8666",
+   "licenseNumber": "0008666",
+   "status": "Current / Active",
+   "licensed": "01/06/2015",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "DEHN, FRANK ARTHUR",
+   "city": "Largo",
+   "zip": "33774",
+   "license": "HI3189",
+   "licenseNumber": "0003189",
+   "status": "Current / Active",
+   "licensed": "03/11/2011",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "DEMPSTER, CHAD ROBERT",
+   "city": "Largo",
+   "zip": "33773",
+   "license": "HI3532",
+   "licenseNumber": "0003532",
+   "status": "Current / Active",
+   "licensed": "03/17/2011",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "ENDERLIN, MATTHEW JOHN",
+   "city": "Largo",
+   "zip": "33771",
+   "license": "HI18984",
+   "licenseNumber": "0018984",
+   "status": "Current / Active",
+   "licensed": "08/06/2026",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "FECHER, DONALD R SR",
+   "city": "Largo",
+   "zip": "33770",
+   "license": "HI5088",
+   "licenseNumber": "0005088",
+   "status": "Current / Active",
+   "licensed": "11/30/2011",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "GRAY, NATHANIEL BRIAN",
+   "city": "Largo",
+   "zip": "33774",
+   "license": "HI18217",
+   "licenseNumber": "0018217",
+   "status": "Current / Active",
+   "licensed": "08/12/2025",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "HASANBEGOVIC, ALMIR",
+   "city": "Largo",
+   "zip": "33771",
+   "license": "HI17676",
+   "licenseNumber": "0017676",
+   "status": "Current / Active",
+   "licensed": "11/20/2024",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "KERNS, JESSE DANIEL",
+   "city": "Largo",
+   "zip": "33770",
+   "license": "HI11101",
+   "licenseNumber": "0011101",
+   "status": "Current / Active",
+   "licensed": "05/02/2018",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "LIKO, VIKTOR",
+   "city": "Largo",
+   "zip": "33774",
+   "license": "HI19187",
+   "licenseNumber": "0019187",
+   "status": "Current / Active",
+   "licensed": "11/09/2026",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "MARTIN, ROBERT W",
+   "city": "Largo",
+   "zip": "33774",
+   "license": "HI7816",
+   "licenseNumber": "0007816",
+   "status": "Current / Active",
+   "licensed": "05/14/2013",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "MCLAUGHLIN, BRIAN",
+   "city": "Largo",
+   "zip": "33778",
+   "license": "HI14474",
+   "licenseNumber": "0014474",
+   "status": "Current / Active",
+   "licensed": "10/28/2021",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "MICIC, ALEKSANDAR",
+   "city": "Largo",
+   "zip": "33773",
+   "license": "HI12921",
+   "licenseNumber": "0012921",
+   "status": "Current / Active",
+   "licensed": "08/12/2020",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "MORAN, ALEX",
+   "city": "Largo",
+   "zip": "33770",
+   "license": "HI15142",
+   "licenseNumber": "0015142",
+   "status": "Current / Active",
+   "licensed": "05/05/2022",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "PRINKEY, STEPHEN JOHN",
+   "city": "Largo",
+   "zip": "33770",
+   "license": "HI8985",
+   "licenseNumber": "0008985",
+   "status": "Current / Active",
+   "licensed": "07/02/2015",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "REYES, BRYAN",
+   "city": "Largo",
+   "zip": "33773",
+   "license": "HI16085",
+   "licenseNumber": "0016085",
+   "status": "Current / Active",
+   "licensed": "04/04/2023",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "RYAN, SCOTT ALEXANDER",
+   "city": "Largo",
+   "zip": "33778",
+   "license": "HI15369",
+   "licenseNumber": "0015369",
+   "status": "Current / Active",
+   "licensed": "07/20/2022",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "SANTINI, RHIAN DANIELLE",
+   "city": "Largo",
+   "zip": "33771",
+   "license": "HI2416",
+   "licenseNumber": "0002416",
+   "status": "Current / Active",
+   "licensed": "03/03/2011",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "SANTINI, THOMAS ANTHONY",
+   "city": "Largo",
+   "zip": "33771",
+   "license": "HI486",
+   "licenseNumber": "0000486",
+   "status": "Current / Active",
+   "licensed": "10/22/2010",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "SCARDACI, CHRISTOPHER JAMES",
+   "city": "Largo",
+   "zip": "33774",
+   "license": "HI16263",
+   "licenseNumber": "0016263",
+   "status": "Current / Active",
+   "licensed": "05/22/2023",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "SMITH, JERRY EDWARD JR",
+   "city": "Largo",
+   "zip": "33771",
+   "license": "HI3469",
+   "licenseNumber": "0003469",
+   "status": "Current / Active",
+   "licensed": "03/17/2011",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "STANTON, CHARLES RAY JR",
+   "city": "Largo",
+   "zip": "33770",
+   "license": "HI12111",
+   "licenseNumber": "0012111",
+   "status": "Current / Active",
+   "licensed": "07/03/2019",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "TAFELSKI, THOMAS P",
+   "city": "Largo",
+   "zip": "33773",
+   "license": "HI5585",
+   "licenseNumber": "0005585",
+   "status": "Current / Active",
+   "licensed": "03/13/2012",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "THIBODEAU, EVAN ANTHONY",
+   "city": "Largo",
+   "zip": "33771",
+   "license": "HI16879",
+   "licenseNumber": "0016879",
+   "status": "Current / Active",
+   "licensed": "01/05/2024",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "TOYE, BRADLEY KENNISON",
+   "city": "Largo",
+   "zip": "33771",
+   "license": "HI391",
+   "licenseNumber": "0000391",
+   "status": "Current / Active",
+   "licensed": "10/11/2010",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "WECKLE, TYRONE CHARLES",
+   "city": "Largo",
+   "zip": "33777",
+   "license": "HI1227",
+   "licenseNumber": "0001227",
+   "status": "Current / Active",
+   "licensed": "01/27/2011",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "WIEDER, TED C",
+   "city": "Largo",
+   "zip": "33770",
+   "license": "HI1816",
+   "licenseNumber": "0001816",
+   "status": "Current / Active",
+   "licensed": "02/21/2011",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "WOJTKIW, THOMAS",
+   "city": "Largo",
+   "zip": "33774",
+   "license": "HI5792",
+   "licenseNumber": "0005792",
+   "status": "Current / Active",
+   "licensed": "04/06/2012",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "CARTER, ZACKERY JAMES",
+   "city": "Madeira Beach",
+   "zip": "33708",
+   "license": "HI13167",
+   "licenseNumber": "0013167",
+   "status": "Current / Active",
+   "licensed": "11/12/2020",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "NOLAN, FRANKLIN JAMES IV",
+   "city": "Madeira Beach",
+   "zip": "33708",
+   "license": "HI8017",
+   "licenseNumber": "0008017",
+   "status": "Current / Active",
+   "licensed": "10/17/2013",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "EZRA, LARIN",
+   "city": "Oldsmar",
+   "zip": "34677",
+   "license": "HI10821",
+   "licenseNumber": "0010821",
+   "status": "Current / Active",
+   "licensed": "01/10/2018",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "GLIDDEN, MARIE CLAIRE",
+   "city": "Oldsmar",
+   "zip": "34677",
+   "license": "HI16801",
+   "licenseNumber": "0016801",
+   "status": "Current / Active",
+   "licensed": "11/30/2023",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "HUNT, KEVIN BLAKE",
+   "city": "Oldsmar",
+   "zip": "34677",
+   "license": "HI1015",
+   "licenseNumber": "0001015",
+   "status": "Current / Active",
+   "licensed": "01/10/2011",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "KEST, SAMEH SAFY",
+   "city": "Oldsmar",
+   "zip": "34677",
+   "license": "HI15439",
+   "licenseNumber": "0015439",
+   "status": "Current / Active",
+   "licensed": "08/12/2022",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "MONSER, JOHN THOMPSON",
+   "city": "Oldsmar",
+   "zip": "34677",
+   "license": "HI11821",
+   "licenseNumber": "0011821",
+   "status": "Current / Active",
+   "licensed": "02/20/2019",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "NORMANDEAU, MICHAEL ANTHONY",
+   "city": "Oldsmar",
+   "zip": "34677",
+   "license": "HI6354",
+   "licenseNumber": "0006354",
+   "status": "Current / Active",
+   "licensed": "06/08/2012",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "POE, BRYANT",
+   "city": "Oldsmar",
+   "zip": "34677",
+   "license": "HI19159",
+   "licenseNumber": "0019159",
+   "status": "Current / Active",
+   "licensed": "10/27/2026",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "SWIFT, SEAN ROBERT",
+   "city": "Oldsmar",
+   "zip": "34677",
+   "license": "HI13228",
+   "licenseNumber": "0013228",
+   "status": "Current / Active",
+   "licensed": "11/24/2020",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "WALL, RYAN DOUGLAS",
+   "city": "Oldsmar",
+   "zip": "34677",
+   "license": "HI13242",
+   "licenseNumber": "0013242",
+   "status": "Current / Active",
+   "licensed": "12/02/2020",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "WISNEWSKI, ROBERT E",
+   "city": "Oldsmar",
+   "zip": "34677",
+   "license": "HI2455",
+   "licenseNumber": "0002455",
+   "status": "Current / Active",
+   "licensed": "03/03/2011",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "ANTHONY, JOSEPH",
+   "city": "Palm Harbor",
+   "zip": "34685",
+   "license": "HI13606",
+   "licenseNumber": "0013606",
+   "status": "Current / Active",
+   "licensed": "03/17/2021",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "ARNAUD, PABLO",
+   "city": "Palm Harbor",
+   "zip": "34683",
+   "license": "HI6100",
+   "licenseNumber": "0006100",
+   "status": "Current / Active",
+   "licensed": "05/15/2012",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "BULL, SHAWN D",
+   "city": "Palm Harbor",
+   "zip": "34683",
+   "license": "HI12537",
+   "licenseNumber": "0012537",
+   "status": "Current / Active",
+   "licensed": "02/05/2020",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "CANE, CASEY LEE",
+   "city": "Palm Harbor",
+   "zip": "34684",
+   "license": "HI5960",
+   "licenseNumber": "0005960",
+   "status": "Current / Active",
+   "licensed": "04/26/2012",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "CREWE, TABITHA",
+   "city": "Palm Harbor",
+   "zip": "34683",
+   "license": "HI15766",
+   "licenseNumber": "0015766",
+   "status": "Current / Active",
+   "licensed": "11/29/2022",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "CRICHLOW, JASON",
+   "city": "Palm Harbor",
+   "zip": "34684",
+   "license": "HI11879",
+   "licenseNumber": "0011879",
+   "status": "Current / Active",
+   "licensed": "03/19/2019",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "CRUICKSHANK, ASHTON CHARLES",
+   "city": "Palm Harbor",
+   "zip": "34684",
+   "license": "HI16056",
+   "licenseNumber": "0016056",
+   "status": "Current / Active",
+   "licensed": "03/27/2023",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "FREIDINGER, THEODORE J",
+   "city": "Palm Harbor",
+   "zip": "34685",
+   "license": "HI12495",
+   "licenseNumber": "0012495",
+   "status": "Current / Active",
+   "licensed": "01/15/2020",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "GOOD, JONATHAN",
+   "city": "Palm Harbor",
+   "zip": "34683",
+   "license": "HI17552",
+   "licenseNumber": "0017552",
+   "status": "Current / Active",
+   "licensed": "09/30/2024",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "GOTTFREID, DARYL J",
+   "city": "Palm Harbor",
+   "zip": "34683",
+   "license": "HI5212",
+   "licenseNumber": "0005212",
+   "status": "Current / Active",
+   "licensed": "01/09/2012",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "GWIN, JOSEPH R",
+   "city": "Palm Harbor",
+   "zip": "34683",
+   "license": "HI18612",
+   "licenseNumber": "0018612",
+   "status": "Current / Active",
+   "licensed": "03/06/2026",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "HERMAN, JARED MATTHEW",
+   "city": "Palm Harbor",
+   "zip": "34684",
+   "license": "HI18141",
+   "licenseNumber": "0018141",
+   "status": "Current / Active",
+   "licensed": "07/01/2025",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "HOPP, MICHAEL JAY",
+   "city": "Palm Harbor",
+   "zip": "34683",
+   "license": "HI17327",
+   "licenseNumber": "0017327",
+   "status": "Current / Active",
+   "licensed": "06/20/2024",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "JARBOE, STEVEN R",
+   "city": "Palm Harbor",
+   "zip": "34685",
+   "license": "HI18476",
+   "licenseNumber": "0018476",
+   "status": "Current / Active",
+   "licensed": "12/15/2025",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "KELTER, AUSTIN",
+   "city": "Palm Harbor",
+   "zip": "34684",
+   "license": "HI18975",
+   "licenseNumber": "0018975",
+   "status": "Current / Active",
+   "licensed": "08/03/2026",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "LAWSON, RICK MICHAEL",
+   "city": "Palm Harbor",
+   "zip": "34685",
+   "license": "HI6087",
+   "licenseNumber": "0006087",
+   "status": "Current / Active",
+   "licensed": "05/14/2012",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "LEWIS, TIMOTHY RYAN",
+   "city": "Palm Harbor",
+   "zip": "34685",
+   "license": "HI18056",
+   "licenseNumber": "0018056",
+   "status": "Current / Active",
+   "licensed": "05/30/2025",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "LOGUE, DANIEL MICHAEL",
+   "city": "Palm Harbor",
+   "zip": "34685",
+   "license": "HI420",
+   "licenseNumber": "0000420",
+   "status": "Current / Active",
+   "licensed": "10/13/2010",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "MENIKHEIM, DANIEL P",
+   "city": "Palm Harbor",
+   "zip": "34684",
+   "license": "HI1252",
+   "licenseNumber": "0001252",
+   "status": "Current / Active",
+   "licensed": "01/28/2011",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "MIFTAKHOV, ILDAR",
+   "city": "Palm Harbor",
+   "zip": "34686",
+   "license": "HI12987",
+   "licenseNumber": "0012987",
+   "status": "Current / Active",
+   "licensed": "09/04/2020",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "MOTT, KEITH M",
+   "city": "Palm Harbor",
+   "zip": "34684",
+   "license": "HI17379",
+   "licenseNumber": "0017379",
+   "status": "Current / Active",
+   "licensed": "07/12/2024",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "NELSON, HENRY ALLAN",
+   "city": "Palm Harbor",
+   "zip": "34684",
+   "license": "HI8870",
+   "licenseNumber": "0008870",
+   "status": "Current / Active",
+   "licensed": "04/29/2015",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "PRESTON, DANIEL",
+   "city": "Palm Harbor",
+   "zip": "34684",
+   "license": "HI15494",
+   "licenseNumber": "0015494",
+   "status": "Current / Active",
+   "licensed": "08/29/2022",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "ROBBINS, CHRISTOPHER TAYLOR",
+   "city": "Palm Harbor",
+   "zip": "34683",
+   "license": "HI10837",
+   "licenseNumber": "0010837",
+   "status": "Current / Active",
+   "licensed": "01/17/2018",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "ROWLAND, ERIC CHRISTOPHER",
+   "city": "Palm Harbor",
+   "zip": "34683",
+   "license": "HI1722",
+   "licenseNumber": "0001722",
+   "status": "Current / Active",
+   "licensed": "02/18/2011",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "STAVELEY, BRIAN KEITH",
+   "city": "Palm Harbor",
+   "zip": "34683",
+   "license": "HI14032",
+   "licenseNumber": "0014032",
+   "status": "Current / Active",
+   "licensed": "07/08/2021",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "VALENTINE, MICHAEL",
+   "city": "Palm Harbor",
+   "zip": "34683",
+   "license": "HI5497",
+   "licenseNumber": "0005497",
+   "status": "Current / Active",
+   "licensed": "02/29/2012",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "VILLANO, CARMINE",
+   "city": "Palm Harbor",
+   "zip": "34685",
+   "license": "HI12514",
+   "licenseNumber": "0012514",
+   "status": "Current / Active",
+   "licensed": "01/24/2020",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "WARD, RYAN RAYMOND",
+   "city": "Palm Harbor",
+   "zip": "34683",
+   "license": "HI12501",
+   "licenseNumber": "0012501",
+   "status": "Current / Active",
+   "licensed": "01/15/2020",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "BALL, FRANK A JR",
+   "city": "Pinellas Park",
+   "zip": "33781",
+   "license": "HI2479",
+   "licenseNumber": "0002479",
+   "status": "Current / Active",
+   "licensed": "03/03/2011",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "CONCEPCION TEJEDA, ALEXANDER",
+   "city": "Pinellas Park",
+   "zip": "33782",
+   "license": "HI18916",
+   "licenseNumber": "0018916",
+   "status": "Current / Active",
+   "licensed": "07/13/2026",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "CORSINO, EDDIE G",
+   "city": "Pinellas Park",
+   "zip": "33781",
+   "license": "HI16329",
+   "licenseNumber": "0016329",
+   "status": "Current / Active",
+   "licensed": "06/16/2023",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "LANE, ANDY JOE",
+   "city": "Pinellas Park",
+   "zip": "33781",
+   "license": "HI18348",
+   "licenseNumber": "0018348",
+   "status": "Current / Active",
+   "licensed": "10/08/2025",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "LEMOINE, THOMAS WILLIAM",
+   "city": "Pinellas Park",
+   "zip": "33782",
+   "license": "HI11500",
+   "licenseNumber": "0011500",
+   "status": "Current / Active",
+   "licensed": "10/08/2018",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "LEON LAMBERT , ANGEL GABRIEL",
+   "city": "Pinellas Park",
+   "zip": "33781",
+   "license": "HI17738",
+   "licenseNumber": "0017738",
+   "status": "Current / Active",
+   "licensed": "01/02/2025",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "LUONG, VINH BAO",
+   "city": "Pinellas Park",
+   "zip": "33781",
+   "license": "HI16370",
+   "licenseNumber": "0016370",
+   "status": "Current / Active",
+   "licensed": "06/27/2023",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "MELLO, MICHAEL",
+   "city": "Pinellas Park",
+   "zip": "33782",
+   "license": "HI11303",
+   "licenseNumber": "0011303",
+   "status": "Current / Active",
+   "licensed": "07/16/2018",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "SMAJLOVIC, ELDAR",
+   "city": "Pinellas Park",
+   "zip": "33782",
+   "license": "HI10831",
+   "licenseNumber": "0010831",
+   "status": "Current / Active",
+   "licensed": "01/16/2018",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "STEPHENS, DONALD II",
+   "city": "Pinellas Park",
+   "zip": "33782",
+   "license": "HI12518",
+   "licenseNumber": "0012518",
+   "status": "Current / Active",
+   "licensed": "01/28/2020",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "WELLINGER, GRANT",
+   "city": "Redington Shores",
+   "zip": "33708",
+   "license": "HI18925",
+   "licenseNumber": "0018925",
+   "status": "Current / Active",
+   "licensed": "07/14/2026",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "ZIMMER, STEVEN PAUL",
+   "city": "Redington Shores",
+   "zip": "33708",
+   "license": "HI2121",
+   "licenseNumber": "0002121",
+   "status": "Current / Active",
+   "licensed": "02/28/2011",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "ACKER, STEVEN LLOYD",
+   "city": "Safety Harbor",
+   "zip": "34695",
+   "license": "HI384",
+   "licenseNumber": "0000384",
+   "status": "Current / Active",
+   "licensed": "10/11/2010",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "BELINC, JOHN P SR",
+   "city": "Safety Harbor",
+   "zip": "34695",
+   "license": "HI2413",
+   "licenseNumber": "0002413",
+   "status": "Current / Active",
+   "licensed": "03/03/2011",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "HAMMEL, JEFFREY LEE",
+   "city": "Safety Harbor",
+   "zip": "34695",
+   "license": "HI5982",
+   "licenseNumber": "0005982",
+   "status": "Current / Active",
+   "licensed": "05/02/2012",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "PAGE, TRISTAN MCALLISTER",
+   "city": "Safety Harbor",
+   "zip": "34695",
+   "license": "HI11181",
+   "licenseNumber": "0011181",
+   "status": "Current / Active",
+   "licensed": "05/29/2018",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "PERRY, PHILIP LEROY IV",
+   "city": "Safety Harbor",
+   "zip": "34695",
+   "license": "HI9741",
+   "licenseNumber": "0009741",
+   "status": "Current / Active",
+   "licensed": "07/21/2016",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "PINIZZOTTO, JAMES",
+   "city": "Safety Harbor",
+   "zip": "34695",
+   "license": "HI11718",
+   "licenseNumber": "0011718",
+   "status": "Current / Active",
+   "licensed": "01/09/2019",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "BLUM , ROBERT THOMAS III",
+   "city": "Seminole",
+   "zip": "33772",
+   "license": "HI19101",
+   "licenseNumber": "0019101",
+   "status": "Current / Active",
+   "licensed": "09/28/2026",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "BRUNETTO, CHRISTOPHER C",
+   "city": "Seminole",
+   "zip": "33776",
+   "license": "HI8373",
+   "licenseNumber": "0008373",
+   "status": "Current / Active",
+   "licensed": "06/16/2014",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "DICKINSON, DOUGLAS",
+   "city": "Seminole",
+   "zip": "33772",
+   "license": "HI15798",
+   "licenseNumber": "0015798",
+   "status": "Current / Active",
+   "licensed": "12/08/2022",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "ESPOSITO, JOSEPH PAUL",
+   "city": "Seminole",
+   "zip": "33776",
+   "license": "HI3792",
+   "licenseNumber": "0003792",
+   "status": "Current / Active",
+   "licensed": "03/23/2011",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "FREEMAN, CHARLES",
+   "city": "Seminole",
+   "zip": "33777",
+   "license": "HI11574",
+   "licenseNumber": "0011574",
+   "status": "Current / Active",
+   "licensed": "11/01/2018",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "GOERGEN, KENNETH PAUL",
+   "city": "Seminole",
+   "zip": "33776",
+   "license": "HI3087",
+   "licenseNumber": "0003087",
+   "status": "Current / Active",
+   "licensed": "03/10/2011",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "JAMISON, MATTHEW SCOTT",
+   "city": "Seminole",
+   "zip": "33778",
+   "license": "HI6981",
+   "licenseNumber": "0006981",
+   "status": "Current / Active",
+   "licensed": "07/03/2012",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "KACZMARSKI, ALEX",
+   "city": "Seminole",
+   "zip": "33772",
+   "license": "HI13977",
+   "licenseNumber": "0013977",
+   "status": "Current / Active",
+   "licensed": "06/23/2021",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "KAUFFMAN, BRIAN STEVON",
+   "city": "Seminole",
+   "zip": "33777",
+   "license": "HI13997",
+   "licenseNumber": "0013997",
+   "status": "Current / Active",
+   "licensed": "06/28/2021",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "LEE, ROBERT DAVID",
+   "city": "Seminole",
+   "zip": "33776",
+   "license": "HI15940",
+   "licenseNumber": "0015940",
+   "status": "Current / Active",
+   "licensed": "02/13/2023",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "MARTIN, BENJAMIN ROBERT",
+   "city": "Seminole",
+   "zip": "33772",
+   "license": "HI3918",
+   "licenseNumber": "0003918",
+   "status": "Current / Active",
+   "licensed": "03/25/2011",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "MAWBY, MATHEW C",
+   "city": "Seminole",
+   "zip": "33777",
+   "license": "HI16233",
+   "licenseNumber": "0016233",
+   "status": "Current / Active",
+   "licensed": "05/11/2023",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "MCCAN, JOHN D",
+   "city": "Seminole",
+   "zip": "33777",
+   "license": "HI12793",
+   "licenseNumber": "0012793",
+   "status": "Current / Active",
+   "licensed": "06/15/2020",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "PRUSE, FRANK S III",
+   "city": "Seminole",
+   "zip": "33772",
+   "license": "HI2133",
+   "licenseNumber": "0002133",
+   "status": "Current / Active",
+   "licensed": "02/28/2011",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "RACHAL, WYATT",
+   "city": "Seminole",
+   "zip": "33777",
+   "license": "HI12186",
+   "licenseNumber": "0012186",
+   "status": "Current / Active",
+   "licensed": "08/15/2019",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "SALIBA, SAMI",
+   "city": "Seminole",
+   "zip": "33777",
+   "license": "HI19045",
+   "licenseNumber": "0019045",
+   "status": "Current / Active",
+   "licensed": "09/03/2026",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "SEKERES, SETH F",
+   "city": "Seminole",
+   "zip": "33776",
+   "license": "HI13281",
+   "licenseNumber": "0013281",
+   "status": "Current / Active",
+   "licensed": "12/10/2020",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "SKUTECKY, ROBERT",
+   "city": "Seminole",
+   "zip": "33776",
+   "license": "HI13485",
+   "licenseNumber": "0013485",
+   "status": "Current / Active",
+   "licensed": "02/15/2021",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "SMITH, EDWARD FRANCIS",
+   "city": "Seminole",
+   "zip": "33775",
+   "license": "HI3793",
+   "licenseNumber": "0003793",
+   "status": "Current / Active",
+   "licensed": "03/23/2011",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "SMITH, ERIC D",
+   "city": "Seminole",
+   "zip": "33772",
+   "license": "HI19158",
+   "licenseNumber": "0019158",
+   "status": "Current / Active",
+   "licensed": "10/26/2026",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "STINSON, JEFFREY W",
+   "city": "Seminole",
+   "zip": "33772",
+   "license": "HI14206",
+   "licenseNumber": "0014206",
+   "status": "Current / Active",
+   "licensed": "08/24/2021",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "WHEELER, SHANE T",
+   "city": "Seminole",
+   "zip": "33776",
+   "license": "HI5519",
+   "licenseNumber": "0005519",
+   "status": "Current / Active",
+   "licensed": "03/03/2012",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "KELLY, SEAN",
+   "city": "South Pasadena",
+   "zip": "33707",
+   "license": "HI19164",
+   "licenseNumber": "0019164",
+   "status": "Current / Active",
+   "licensed": "10/28/2026",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "BOOK, TYLER",
+   "city": "St. Pete Beach",
+   "zip": "33736",
+   "license": "HI12183",
+   "licenseNumber": "0012183",
+   "status": "Current / Active",
+   "licensed": "08/13/2019",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "ACCOLA, STEPHEN CHARLES",
+   "city": "St. Petersburg",
+   "zip": "33702",
+   "license": "HI7189",
+   "licenseNumber": "0007189",
+   "status": "Current / Active",
+   "licensed": "07/09/2012",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "AMBROSE, MATTHEW JOSEPH",
+   "city": "St. Petersburg",
+   "zip": "33705",
+   "license": "HI11869",
+   "licenseNumber": "0011869",
+   "status": "Current / Active",
+   "licensed": "03/15/2019",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "ANDERSON, NIKELAS AARON",
+   "city": "St. Petersburg",
+   "zip": "33710",
+   "license": "HI13206",
+   "licenseNumber": "0013206",
+   "status": "Current / Active",
+   "licensed": "11/19/2020",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "AREND, BASIL JAMES",
+   "city": "St. Petersburg",
+   "zip": "33710",
+   "license": "HI1631",
+   "licenseNumber": "0001631",
+   "status": "Current / Active",
+   "licensed": "02/16/2011",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "BAULDREE, RANDALL STEVEN",
+   "city": "St. Petersburg",
+   "zip": "33709",
+   "license": "HI13204",
+   "licenseNumber": "0013204",
+   "status": "Current / Active",
+   "licensed": "11/18/2020",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "BOGGINI, DOMINIC CHARLES",
+   "city": "St. Petersburg",
+   "zip": "33703",
+   "license": "HI17117",
+   "licenseNumber": "0017117",
+   "status": "Current / Active",
+   "licensed": "03/29/2024",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "BONNER, JOHN",
+   "city": "St. Petersburg",
+   "zip": "33710",
+   "license": "HI18481",
+   "licenseNumber": "0018481",
+   "status": "Current / Active",
+   "licensed": "12/19/2025",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "BRONSON, RICHARD JEFFREY",
+   "city": "St. Petersburg",
+   "zip": "33709",
+   "license": "HI11355",
+   "licenseNumber": "0011355",
+   "status": "Current / Active",
+   "licensed": "08/08/2018",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "BROWN, JERRY SCOTT",
+   "city": "St. Petersburg",
+   "zip": "33743",
+   "license": "HI6933",
+   "licenseNumber": "0006933",
+   "status": "Current / Active",
+   "licensed": "07/03/2012",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "BRYANT, RANDALL",
+   "city": "St. Petersburg",
+   "zip": "33710",
+   "license": "HI16637",
+   "licenseNumber": "0016637",
+   "status": "Current / Active",
+   "licensed": "09/20/2023",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "BUDZISZ, JOHN MATTHEW",
+   "city": "St. Petersburg",
+   "zip": "33708",
+   "license": "HI7804",
+   "licenseNumber": "0007804",
+   "status": "Current / Active",
+   "licensed": "05/07/2013",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "BULLOCK, ABBY",
+   "city": "St. Petersburg",
+   "zip": "33716",
+   "license": "HI16182",
+   "licenseNumber": "0016182",
+   "status": "Current / Active",
+   "licensed": "04/26/2023",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "CASAGNI, JOHN D",
+   "city": "St. Petersburg",
+   "zip": "33713",
+   "license": "HI18355",
+   "licenseNumber": "0018355",
+   "status": "Current / Active",
+   "licensed": "10/13/2025",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "CECEZ, MILENA",
+   "city": "St. Petersburg",
+   "zip": "33714",
+   "license": "HI15136",
+   "licenseNumber": "0015136",
+   "status": "Current / Active",
+   "licensed": "05/04/2022",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "CESARE, BRIAN S.",
+   "city": "St. Petersburg",
+   "zip": "33704",
+   "license": "HI2770",
+   "licenseNumber": "0002770",
+   "status": "Current / Active",
+   "licensed": "03/08/2011",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "CESARE, PAYTON B",
+   "city": "St. Petersburg",
+   "zip": "33713",
+   "license": "HI10981",
+   "licenseNumber": "0010981",
+   "status": "Current / Active",
+   "licensed": "03/28/2018",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "COLEMAN, JOSHUA",
+   "city": "St. Petersburg",
+   "zip": "33702",
+   "license": "HI18015",
+   "licenseNumber": "0018015",
+   "status": "Current / Active",
+   "licensed": "05/14/2025",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "COLLINS, BRIAN FRANCIS",
+   "city": "St. Petersburg",
+   "zip": "33703",
+   "license": "HI8026",
+   "licenseNumber": "0008026",
+   "status": "Current / Active",
+   "licensed": "10/24/2013",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "CORNISH, CANDICE BROOKE",
+   "city": "St. Petersburg",
+   "zip": "33708",
+   "license": "HI15752",
+   "licenseNumber": "0015752",
+   "status": "Current / Active",
+   "licensed": "11/22/2022",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "CRUZ ROSARIO, THOMAS MANUEL",
+   "city": "St. Petersburg",
+   "zip": "33713",
+   "license": "HI18742",
+   "licenseNumber": "0018742",
+   "status": "Current / Active",
+   "licensed": "04/29/2026",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "DE ROSA, REESE MARSHALL",
+   "city": "St. Petersburg",
+   "zip": "33709",
+   "license": "HI18192",
+   "licenseNumber": "0018192",
+   "status": "Current / Active",
+   "licensed": "07/23/2025",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "DEARING, HENRY NELSON",
+   "city": "St. Petersburg",
+   "zip": "33701",
+   "license": "HI18613",
+   "licenseNumber": "0018613",
+   "status": "Current / Active",
+   "licensed": "03/06/2026",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "DELLAGATTA, ROBERT",
+   "city": "St. Petersburg",
+   "zip": "33701",
+   "license": "HI6314",
+   "licenseNumber": "0006314",
+   "status": "Current / Active",
+   "licensed": "06/06/2012",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "DUNN, JAMES RONALD SR",
+   "city": "St. Petersburg",
+   "zip": "33709",
+   "license": "HI4923",
+   "licenseNumber": "0004923",
+   "status": "Current / Active",
+   "licensed": "10/14/2011",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "EVANICKI, STEPHAN ALEX",
+   "city": "St. Petersburg",
+   "zip": "33709",
+   "license": "HI15617",
+   "licenseNumber": "0015617",
+   "status": "Current / Active",
+   "licensed": "09/28/2022",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "FALLEN, CHARLES HOWARD IV",
+   "city": "St. Petersburg",
+   "zip": "33703",
+   "license": "HI16628",
+   "licenseNumber": "0016628",
+   "status": "Current / Active",
+   "licensed": "09/19/2023",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "FARMER, RUSSELL LUKE",
+   "city": "St. Petersburg",
+   "zip": "33710",
+   "license": "HI17024",
+   "licenseNumber": "0017024",
+   "status": "Current / Active",
+   "licensed": "02/26/2024",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "FORAN, BRENT GREGORY",
+   "city": "St. Petersburg",
+   "zip": "33714",
+   "license": "HI19103",
+   "licenseNumber": "0019103",
+   "status": "Current / Active",
+   "licensed": "09/28/2026",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "FRAME, JAMES II",
+   "city": "St. Petersburg",
+   "zip": "33743",
+   "license": "HI14198",
+   "licenseNumber": "0014198",
+   "status": "Current / Active",
+   "licensed": "08/20/2021",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "FRICKE, DANIEL G",
+   "city": "St. Petersburg",
+   "zip": "33713",
+   "license": "HI1806",
+   "licenseNumber": "0001806",
+   "status": "Current / Active",
+   "licensed": "02/21/2011",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "GARBER, NAFTALI",
+   "city": "St. Petersburg",
+   "zip": "33710",
+   "license": "HI17991",
+   "licenseNumber": "0017991",
+   "status": "Current / Active",
+   "licensed": "05/02/2025",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "GARRIS, WILLIAM STEPHEN",
+   "city": "St. Petersburg",
+   "zip": "33713",
+   "license": "HI7661",
+   "licenseNumber": "0007661",
+   "status": "Current / Active",
+   "licensed": "12/04/2012",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "GOMEZ, YOHAN DARIO",
+   "city": "St. Petersburg",
+   "zip": "33710",
+   "license": "HI11286",
+   "licenseNumber": "0011286",
+   "status": "Current / Active",
+   "licensed": "07/09/2018",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "GRANT, MICHAEL ROBERT",
+   "city": "St. Petersburg",
+   "zip": "33712",
+   "license": "HI17350",
+   "licenseNumber": "0017350",
+   "status": "Current / Active",
+   "licensed": "06/28/2024",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "GRINDLEY, STEVEN PAUL",
+   "city": "St. Petersburg",
+   "zip": "33708",
+   "license": "HI11220",
+   "licenseNumber": "0011220",
+   "status": "Current / Active",
+   "licensed": "06/13/2018",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "HANSON, THOMAS BENJAMIN III",
+   "city": "St. Petersburg",
+   "zip": "33703",
+   "license": "HI12334",
+   "licenseNumber": "0012334",
+   "status": "Current / Active",
+   "licensed": "10/25/2019",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "HARTLEY, BRIAN",
+   "city": "St. Petersburg",
+   "zip": "33734",
+   "license": "HI5231",
+   "licenseNumber": "0005231",
+   "status": "Current / Active",
+   "licensed": "01/11/2012",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "HEBERT, GEORGE WALKER JAMES",
+   "city": "St. Petersburg",
+   "zip": "33712",
+   "license": "HI127",
+   "licenseNumber": "0000127",
+   "status": "Current / Active",
+   "licensed": "08/11/2010",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "HEBERT, JASON VANDOMO",
+   "city": "St. Petersburg",
+   "zip": "33702",
+   "license": "HI1422",
+   "licenseNumber": "0001422",
+   "status": "Current / Active",
+   "licensed": "02/08/2011",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "HILDITCH, JONATHAN",
+   "city": "St. Petersburg",
+   "zip": "33710",
+   "license": "HI18773",
+   "licenseNumber": "0018773",
+   "status": "Current / Active",
+   "licensed": "05/11/2026",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "JACKSON, JAMES HILTON",
+   "city": "St. Petersburg",
+   "zip": "33714",
+   "license": "HI13901",
+   "licenseNumber": "0013901",
+   "status": "Current / Active",
+   "licensed": "05/28/2021",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "JOHNS, ROBERT",
+   "city": "St. Petersburg",
+   "zip": "33707",
+   "license": "HI10630",
+   "licenseNumber": "0010630",
+   "status": "Current / Active",
+   "licensed": "09/20/2017",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "JONES, JEFFREY ALLEN",
+   "city": "St. Petersburg",
+   "zip": "33714",
+   "license": "HI3861",
+   "licenseNumber": "0003861",
+   "status": "Current / Active",
+   "licensed": "03/24/2011",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "JONES, NOELLE LOREN",
+   "city": "St. Petersburg",
+   "zip": "33712",
+   "license": "HI17639",
+   "licenseNumber": "0017639",
+   "status": "Current / Active",
+   "licensed": "11/05/2024",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "JOYA, ERNESTO",
+   "city": "St. Petersburg",
+   "zip": "33704",
+   "license": "HI7301",
+   "licenseNumber": "0007301",
+   "status": "Current / Active",
+   "licensed": "07/10/2012",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "KADERABEK, MACKENZIE",
+   "city": "St. Petersburg",
+   "zip": "33712",
+   "license": "HI15001",
+   "licenseNumber": "0015001",
+   "status": "Current / Active",
+   "licensed": "03/29/2022",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "KASSIS, JOHN WADIH",
+   "city": "St. Petersburg",
+   "zip": "33702",
+   "license": "HI2838",
+   "licenseNumber": "0002838",
+   "status": "Current / Active",
+   "licensed": "03/08/2011",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "KAZNOWSKI, JOE",
+   "city": "St. Petersburg",
+   "zip": "33705",
+   "license": "HI17989",
+   "licenseNumber": "0017989",
+   "status": "Current / Active",
+   "licensed": "05/02/2025",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "KRISCHE, ALEX RYAN",
+   "city": "St. Petersburg",
+   "zip": "33702",
+   "license": "HI14178",
+   "licenseNumber": "0014178",
+   "status": "Current / Active",
+   "licensed": "08/18/2021",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "LAMBETH, CHARLES CHRISTOPHER",
+   "city": "St. Petersburg",
+   "zip": "33703",
+   "license": "HI7617",
+   "licenseNumber": "0007617",
+   "status": "Current / Active",
+   "licensed": "10/30/2012",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "LAROSE, ALBERT CHRISTOPHER",
+   "city": "St. Petersburg",
+   "zip": "33708",
+   "license": "HI11418",
+   "licenseNumber": "0011418",
+   "status": "Current / Active",
+   "licensed": "09/06/2018",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "LEININGER, BENJAMIN",
+   "city": "St. Petersburg",
+   "zip": "33705",
+   "license": "HI18800",
+   "licenseNumber": "0018800",
+   "status": "Current / Active",
+   "licensed": "05/21/2026",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "LISHAMER, MICHAEL JOSEPH",
+   "city": "St. Petersburg",
+   "zip": "33711",
+   "license": "HI17235",
+   "licenseNumber": "0017235",
+   "status": "Current / Active",
+   "licensed": "05/21/2024",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "LOBDELL, HENRY LELAND JR",
+   "city": "St. Petersburg",
+   "zip": "33701",
+   "license": "HI7619",
+   "licenseNumber": "0007619",
+   "status": "Current / Active",
+   "licensed": "10/30/2012",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "LOMBARDI, WILL",
+   "city": "St. Petersburg",
+   "zip": "33709",
+   "license": "HI18766",
+   "licenseNumber": "0018766",
+   "status": "Current / Active",
+   "licensed": "05/07/2026",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "LUGO, LUIS ANTONIO",
+   "city": "St. Petersburg",
+   "zip": "33714",
+   "license": "HI12016",
+   "licenseNumber": "0012016",
+   "status": "Current / Active",
+   "licensed": "05/20/2019",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "MALLETT, BENJAMIN LEE",
+   "city": "St. Petersburg",
+   "zip": "33707",
+   "license": "HI3032",
+   "licenseNumber": "0003032",
+   "status": "Current / Active",
+   "licensed": "03/10/2011",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "MANGELS, ANDREW R",
+   "city": "St. Petersburg",
+   "zip": "33710",
+   "license": "HI18760",
+   "licenseNumber": "0018760",
+   "status": "Current / Active",
+   "licensed": "05/04/2026",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "MILLER, PRESTON EDWARD",
+   "city": "St. Petersburg",
+   "zip": "33703",
+   "license": "HI14925",
+   "licenseNumber": "0014925",
+   "status": "Current / Active",
+   "licensed": "03/09/2022",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "OHANIAN, JAMES M",
+   "city": "St. Petersburg",
+   "zip": "33704",
+   "license": "HI7758",
+   "licenseNumber": "0007758",
+   "status": "Current / Active",
+   "licensed": "03/27/2013",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "ORTIZ, EVAN RICHARD",
+   "city": "St. Petersburg",
+   "zip": "33703",
+   "license": "HI13620",
+   "licenseNumber": "0013620",
+   "status": "Current / Active",
+   "licensed": "03/19/2021",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "PADILLA COPPOLA, SALVADOR FRANCISCO",
+   "city": "St. Petersburg",
+   "zip": "33702",
+   "license": "HI19034",
+   "licenseNumber": "0019034",
+   "status": "Current / Active",
+   "licensed": "08/27/2026",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "PARSONS, JAMES W II",
+   "city": "St. Petersburg",
+   "zip": "33713",
+   "license": "HI11953",
+   "licenseNumber": "0011953",
+   "status": "Current / Active",
+   "licensed": "04/16/2019",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "PEREZ, JAVIER",
+   "city": "St. Petersburg",
+   "zip": "33709",
+   "license": "HI8571",
+   "licenseNumber": "0008571",
+   "status": "Current / Active",
+   "licensed": "10/21/2014",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "PHILLIPS, PAUL ALAN",
+   "city": "St. Petersburg",
+   "zip": "33713",
+   "license": "HI8205",
+   "licenseNumber": "0008205",
+   "status": "Current / Active",
+   "licensed": "03/03/2014",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "PORRAO, HUNTER JAMES",
+   "city": "St. Petersburg",
+   "zip": "33712",
+   "license": "HI18281",
+   "licenseNumber": "0018281",
+   "status": "Current / Active",
+   "licensed": "09/11/2025",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "POTCHERNICK, TRAVIS J.",
+   "city": "St. Petersburg",
+   "zip": "33713",
+   "license": "HI16770",
+   "licenseNumber": "0016770",
+   "status": "Current / Active",
+   "licensed": "11/21/2023",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "PRESTON, ANTHONY CURTIS",
+   "city": "St. Petersburg",
+   "zip": "33713",
+   "license": "HI18992",
+   "licenseNumber": "0018992",
+   "status": "Current / Active",
+   "licensed": "08/10/2026",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "QUIGLEY, ROBERT THOMAS",
+   "city": "St. Petersburg",
+   "zip": "33713",
+   "license": "HI2267",
+   "licenseNumber": "0002267",
+   "status": "Current / Active",
+   "licensed": "03/02/2011",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "REGENHARDT, WILLIAM ROBERT",
+   "city": "St. Petersburg",
+   "zip": "33710",
+   "license": "HI2031",
+   "licenseNumber": "0002031",
+   "status": "Current / Active",
+   "licensed": "02/25/2011",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "RIPLEY, RANDAL LEE",
+   "city": "St. Petersburg",
+   "zip": "33702",
+   "license": "HI15106",
+   "licenseNumber": "0015106",
+   "status": "Current / Active",
+   "licensed": "04/28/2022",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "ROBERTS, JOSHUA",
+   "city": "St. Petersburg",
+   "zip": "33713",
+   "license": "HI13260",
+   "licenseNumber": "0013260",
+   "status": "Current / Active",
+   "licensed": "12/04/2020",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "ROBINSON , FRANK VANCE IV",
+   "city": "St. Petersburg",
+   "zip": "33707",
+   "license": "HI15978",
+   "licenseNumber": "0015978",
+   "status": "Current / Active",
+   "licensed": "02/27/2023",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "ROBINSON, BRIAN",
+   "city": "St. Petersburg",
+   "zip": "33708",
+   "license": "HI10864",
+   "licenseNumber": "0010864",
+   "status": "Current / Active",
+   "licensed": "02/06/2018",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "ROGERS, ROBERT JAMES",
+   "city": "St. Petersburg",
+   "zip": "33713",
+   "license": "HI2861",
+   "licenseNumber": "0002861",
+   "status": "Current / Active",
+   "licensed": "03/08/2011",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "ROJAS, ABIEL",
+   "city": "St. Petersburg",
+   "zip": "33702",
+   "license": "HI18143",
+   "licenseNumber": "0018143",
+   "status": "Current / Active",
+   "licensed": "07/01/2025",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "RUBINO, TONI EELLANA",
+   "city": "St. Petersburg",
+   "zip": "33708",
+   "license": "HI15855",
+   "licenseNumber": "0015855",
+   "status": "Current / Active",
+   "licensed": "01/12/2023",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "RUFFO, VINCENT MICHAEL",
+   "city": "St. Petersburg",
+   "zip": "33704",
+   "license": "HI13098",
+   "licenseNumber": "0013098",
+   "status": "Current / Active",
+   "licensed": "10/23/2020",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "RUSH, ROBERT E",
+   "city": "St. Petersburg",
+   "zip": "33715",
+   "license": "HI4947",
+   "licenseNumber": "0004947",
+   "status": "Current / Active",
+   "licensed": "10/20/2011",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "SANTINI, MARCUS ANTHONY",
+   "city": "St. Petersburg",
+   "zip": "33710",
+   "license": "HI1405",
+   "licenseNumber": "0001405",
+   "status": "Current / Active",
+   "licensed": "02/08/2011",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "SAXTON, LANE",
+   "city": "St. Petersburg",
+   "zip": "33703",
+   "license": "HI10463",
+   "licenseNumber": "0010463",
+   "status": "Current / Active",
+   "licensed": "06/29/2017",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "SCHROMM, DANIEL ROSS",
+   "city": "St. Petersburg",
+   "zip": "33709",
+   "license": "HI6283",
+   "licenseNumber": "0006283",
+   "status": "Current / Active",
+   "licensed": "06/04/2012",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "SCHULTZ, JOSEPH S",
+   "city": "St. Petersburg",
+   "zip": "33734",
+   "license": "HI5425",
+   "licenseNumber": "0005425",
+   "status": "Current / Active",
+   "licensed": "02/21/2012",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "SHELTON, MARK ALAN",
+   "city": "St. Petersburg",
+   "zip": "33714",
+   "license": "HI2876",
+   "licenseNumber": "0002876",
+   "status": "Current / Active",
+   "licensed": "03/08/2011",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "SHELTON, RASHAD",
+   "city": "St. Petersburg",
+   "zip": "33702",
+   "license": "HI19142",
+   "licenseNumber": "0019142",
+   "status": "Current / Active",
+   "licensed": "10/19/2026",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "SHELTON, STEPHEN EDWARD",
+   "city": "St. Petersburg",
+   "zip": "33703",
+   "license": "HI709",
+   "licenseNumber": "0000709",
+   "status": "Current / Active",
+   "licensed": "11/30/2010",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "SHONE, GREGORY",
+   "city": "St. Petersburg",
+   "zip": "33710",
+   "license": "HI16683",
+   "licenseNumber": "0016683",
+   "status": "Current / Active",
+   "licensed": "10/06/2023",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "SNYDER, JOSEPH DAVID",
+   "city": "St. Petersburg",
+   "zip": "33703",
+   "license": "HI18778",
+   "licenseNumber": "0018778",
+   "status": "Current / Active",
+   "licensed": "05/13/2026",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "STABILE, VINCENT GREGORY",
+   "city": "St. Petersburg",
+   "zip": "33702",
+   "license": "HI2528",
+   "licenseNumber": "0002528",
+   "status": "Current / Active",
+   "licensed": "03/04/2011",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "TANNER, MATTHEW ALLEN",
+   "city": "St. Petersburg",
+   "zip": "33713",
+   "license": "HI10404",
+   "licenseNumber": "0010404",
+   "status": "Current / Active",
+   "licensed": "06/05/2017",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "TONE, SCOTT ALAN",
+   "city": "St. Petersburg",
+   "zip": "33703",
+   "license": "HI12765",
+   "licenseNumber": "0012765",
+   "status": "Current / Active",
+   "licensed": "06/01/2020",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "TURNER , CLIFFORD WAYNE III",
+   "city": "St. Petersburg",
+   "zip": "33708",
+   "license": "HI17075",
+   "licenseNumber": "0017075",
+   "status": "Current / Active",
+   "licensed": "03/11/2024",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "TURNER, CLIFFORD WAYNE",
+   "city": "St. Petersburg",
+   "zip": "33708",
+   "license": "HI13106",
+   "licenseNumber": "0013106",
+   "status": "Current / Active",
+   "licensed": "10/26/2020",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "TURNER, JUDITH LYNN",
+   "city": "St. Petersburg",
+   "zip": "33711",
+   "license": "HI1211",
+   "licenseNumber": "0001211",
+   "status": "Current / Active",
+   "licensed": "01/27/2011",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "VAN ALLEN, CHASE PATRICK",
+   "city": "St. Petersburg",
+   "zip": "33713",
+   "license": "HI13446",
+   "licenseNumber": "0013446",
+   "status": "Current / Active",
+   "licensed": "02/05/2021",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "VOYLES, ANGELA KRYSTIN",
+   "city": "St. Petersburg",
+   "zip": "33701",
+   "license": "HI16859",
+   "licenseNumber": "0016859",
+   "status": "Current / Active",
+   "licensed": "12/28/2023",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "WATERS, ANDREW",
+   "city": "St. Petersburg",
+   "zip": "33713",
+   "license": "HI9039",
+   "licenseNumber": "0009039",
+   "status": "Current / Active",
+   "licensed": "07/31/2015",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "WEATHERFORD, LEIGH ANN",
+   "city": "St. Petersburg",
+   "zip": "33702",
+   "license": "HI14964",
+   "licenseNumber": "0014964",
+   "status": "Current / Active",
+   "licensed": "03/21/2022",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "WEIR, DANNY RICHARD",
+   "city": "St. Petersburg",
+   "zip": "33747",
+   "license": "HI385",
+   "licenseNumber": "0000385",
+   "status": "Current / Active",
+   "licensed": "10/11/2010",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "WENTWORTH, MITCHEL CAINE",
+   "city": "St. Petersburg",
+   "zip": "33705",
+   "license": "HI18382",
+   "licenseNumber": "0018382",
+   "status": "Current / Active",
+   "licensed": "10/24/2025",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "WINSOR, MICHAEL",
+   "city": "St. Petersburg",
+   "zip": "33709",
+   "license": "HI12751",
+   "licenseNumber": "0012751",
+   "status": "Current / Active",
+   "licensed": "05/22/2020",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "WINSTEAD, WENDELL MORRIS",
+   "city": "St. Petersburg",
+   "zip": "33703",
+   "license": "HI327",
+   "licenseNumber": "0000327",
+   "status": "Current / Active",
+   "licensed": "09/28/2010",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "CAIMI, BRIAN",
+   "city": "Tarpon Springs",
+   "zip": "34689",
+   "license": "HI15777",
+   "licenseNumber": "0015777",
+   "status": "Current / Active",
+   "licensed": "12/01/2022",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "COLUMBO, RICHARD",
+   "city": "Tarpon Springs",
+   "zip": "34688",
+   "license": "HI9299",
+   "licenseNumber": "0009299",
+   "status": "Current / Active",
+   "licensed": "12/02/2015",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "DENICOLA, JOHN",
+   "city": "Tarpon Springs",
+   "zip": "34689",
+   "license": "HI9554",
+   "licenseNumber": "0009554",
+   "status": "Current / Active",
+   "licensed": "04/07/2016",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "DICKEL, TODD W",
+   "city": "Tarpon Springs",
+   "zip": "34689",
+   "license": "HI14896",
+   "licenseNumber": "0014896",
+   "status": "Current / Active",
+   "licensed": "03/01/2022",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "DOBIES, JOSEPH W",
+   "city": "Tarpon Springs",
+   "zip": "34689",
+   "license": "HI2324",
+   "licenseNumber": "0002324",
+   "status": "Current / Active",
+   "licensed": "03/02/2011",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "DOYLE, CALVIN CHARLES",
+   "city": "Tarpon Springs",
+   "zip": "34689",
+   "license": "HI2914",
+   "licenseNumber": "0002914",
+   "status": "Current / Active",
+   "licensed": "03/09/2011",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "DOYLE, CARL F",
+   "city": "Tarpon Springs",
+   "zip": "34689",
+   "license": "HI3180",
+   "licenseNumber": "0003180",
+   "status": "Current / Active",
+   "licensed": "03/11/2011",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "DURSO, DAVID RYAN",
+   "city": "Tarpon Springs",
+   "zip": "34689",
+   "license": "HI17960",
+   "licenseNumber": "0017960",
+   "status": "Current / Active",
+   "licensed": "04/22/2025",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "HASS, JONATHAN CURTIS",
+   "city": "Tarpon Springs",
+   "zip": "34689",
+   "license": "HI12361",
+   "licenseNumber": "0012361",
+   "status": "Current / Active",
+   "licensed": "11/04/2019",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "JAMES, NICHOLAS ANGELO",
+   "city": "Tarpon Springs",
+   "zip": "34688",
+   "license": "HI14822",
+   "licenseNumber": "0014822",
+   "status": "Current / Active",
+   "licensed": "02/11/2022",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "KAMPOUROGLOU, STEVEN",
+   "city": "Tarpon Springs",
+   "zip": "34688",
+   "license": "HI5291",
+   "licenseNumber": "0005291",
+   "status": "Current / Active",
+   "licensed": "01/26/2012",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "LOGUE, TRAVIS JAMES",
+   "city": "Tarpon Springs",
+   "zip": "34688",
+   "license": "HI18176",
+   "licenseNumber": "0018176",
+   "status": "Current / Active",
+   "licensed": "07/16/2025",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "MARAKAS, IOANNIS EMMANUEL",
+   "city": "Tarpon Springs",
+   "zip": "34689",
+   "license": "HI11673",
+   "licenseNumber": "0011673",
+   "status": "Current / Active",
+   "licensed": "12/13/2018",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "NELLENBACH, TODD MATTHEW",
+   "city": "Tarpon Springs",
+   "zip": "34689",
+   "license": "HI17753",
+   "licenseNumber": "0017753",
+   "status": "Current / Active",
+   "licensed": "01/08/2025",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "PRICE, SHAWN C",
+   "city": "Tarpon Springs",
+   "zip": "34688",
+   "license": "HI2532",
+   "licenseNumber": "0002532",
+   "status": "Current / Active",
+   "licensed": "03/04/2011",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "ROTH, DANIEL E",
+   "city": "Tarpon Springs",
+   "zip": "34689",
+   "license": "HI5560",
+   "licenseNumber": "0005560",
+   "status": "Current / Active",
+   "licensed": "03/09/2012",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "STAPF, GARY DAVID",
+   "city": "Tarpon Springs",
+   "zip": "34688",
+   "license": "HI1633",
+   "licenseNumber": "0001633",
+   "status": "Current / Active",
+   "licensed": "02/16/2011",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "STAVROPOULOS, JIM P",
+   "city": "Tarpon Springs",
+   "zip": "34689",
+   "license": "HI542",
+   "licenseNumber": "0000542",
+   "status": "Current / Active",
+   "licensed": "11/01/2010",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "SWEENEY, CHRISTOPHER D",
+   "city": "Tarpon Springs",
+   "zip": "34689",
+   "license": "HI12519",
+   "licenseNumber": "0012519",
+   "status": "Current / Active",
+   "licensed": "01/29/2020",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "ZISSIMOPULOS, GUY N",
+   "city": "Tarpon Springs",
+   "zip": "34689",
+   "license": "HI5646",
+   "licenseNumber": "0005646",
+   "status": "Current / Active",
+   "licensed": "03/21/2012",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "BODEWIG, NORMAN E",
+   "city": "Tierra Verde",
+   "zip": "33715",
+   "license": "HI1651",
+   "licenseNumber": "0001651",
+   "status": "Current / Active",
+   "licensed": "02/16/2011",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "CRAMER, MARK A",
+   "city": "Tierra Verde",
+   "zip": "33715",
+   "license": "HI69",
+   "licenseNumber": "0000069",
+   "status": "Current / Active",
+   "licensed": "07/28/2010",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "STUENKEL, JOHN RICHARD",
+   "city": "Tierra Verde",
+   "zip": "33715",
+   "license": "HI5490",
+   "licenseNumber": "0005490",
+   "status": "Current / Active",
+   "licensed": "02/29/2012",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "LESLIE, ALEXANDER MYERS",
+   "city": "Treasure Island",
+   "zip": "33706",
+   "license": "HI17260",
+   "licenseNumber": "0017260",
+   "status": "Current / Active",
+   "licensed": "05/30/2024",
+   "expires": "07/31/2028"
+  },
+  {
+   "name": "SIMM, STUART CRAIG",
+   "city": "Treasure Island",
+   "zip": "33706",
+   "license": "HI4530",
+   "licenseNumber": "0004530",
+   "status": "Current / Active",
+   "licensed": "06/09/2011",
+   "expires": "07/31/2028"
+  }
+ ],
+ "flagged": [
+  {
+   "name": "DUNN, MICHAEL JOHN",
+   "city": "Bradenton",
+   "zip": "34205",
+   "license": "HI11007",
+   "licenseNumber": "0011007",
+   "status": "Current / Active",
+   "licensed": "04/03/2018",
+   "expires": "07/31/2028",
+   "otherCounty": "Manatee"
+  },
+  {
+   "name": "BIANCO, VITO",
+   "city": "Hudson",
+   "zip": "34669",
+   "license": "HI10210",
+   "licenseNumber": "0010210",
+   "status": "Current / Active",
+   "licensed": "03/10/2017",
+   "expires": "07/31/2028",
+   "otherCounty": "Pasco"
+  },
+  {
+   "name": "VILCHEZ GALLARDO, LUIS ANTONIO",
+   "city": "Riverview",
+   "zip": "33579",
+   "license": "HI19188",
+   "licenseNumber": "0019188",
+   "status": "Current / Active",
+   "licensed": "11/09/2026",
+   "expires": "07/31/2028",
+   "otherCounty": "Hillsborough"
+  },
+  {
+   "name": "DRAKE, CRAIG C",
+   "city": "Sarasota",
+   "zip": "34234",
+   "license": "HI7347",
+   "licenseNumber": "0007347",
+   "status": "Current / Active",
+   "licensed": "07/16/2012",
+   "expires": "07/31/2028",
+   "otherCounty": "Sarasota"
+  },
+  {
+   "name": "SOLT, MATTHEW ANGELLO",
+   "city": "St Augustine",
+   "zip": "32084",
+   "license": "HI16966",
+   "licenseNumber": "0016966",
+   "status": "Current / Active",
+   "licensed": "02/06/2024",
+   "expires": "07/31/2028",
+   "otherCounty": "St. Johns"
+  }
+ ]
+}

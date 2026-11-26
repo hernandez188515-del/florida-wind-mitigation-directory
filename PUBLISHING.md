@@ -13,6 +13,7 @@ It is live on GitHub Pages at https://hernandez188515-del.github.io/florida-wind
 - `hillsborough/index.html` — fourth county directory (Hillsborough), added November 21, 2026
 - `lee/index.html` — fifth county directory (Lee), added November 22, 2026
 - `orange/index.html` — sixth county directory (Orange), added November 24, 2026
+- `pinellas/index.html` — seventh county directory (Pinellas), added November 25, 2026
 - `guides/wind-mitigation-vs-4-point-vs-roof-certification/index.html` — first hand-written explainer (wind mitigation vs. 4-point vs. roof certification; signers, April 1, 2026 OIR-B1-1802 change, wind credits, published prices), added November 20, 2026
 - `guides/2026-wind-mitigation-form-question-by-question/index.html` — second hand-written explainer (all nine questions on OIR-B1-1802 Rev. 04/26, changes from Rev. 01/12, documentation checklist, rule status), added November 23, 2026
 - `assets/styles.css`
@@ -24,6 +25,7 @@ It is live on GitHub Pages at https://hernandez188515-del.github.io/florida-wind
 - `data/hillsborough-inspectors.json` — the filtered Hillsborough table (no street addresses)
 - `data/lee-inspectors.json` — the filtered Lee table (no street addresses)
 - `data/orange-inspectors.json` — the filtered Orange table (no street addresses)
+- `data/pinellas-inspectors.json` — the filtered Pinellas table (no street addresses)
 - `data/companies/<slug>.html` — hand-verified company write-ups; `scripts/next_county.py` includes them verbatim and shows a “verification pending” stub when the file is missing
 - `CHANGELOG.md` — dated log of each nightly run
 - `sitemap.xml`, `robots.txt`
@@ -32,7 +34,7 @@ It is live on GitHub Pages at https://hernandez188515-del.github.io/florida-wind
 
 Add **one new HTML page per night**, in this order of priority:
 
-1. **County directory pages** — one page per Florida county that has at least one current, active home-inspector license in the extract. The Miami-Dade page is the template. After Miami-Dade, the next largest counties in the November 18, 2026 extract were Broward (673), Palm Beach (482), Hillsborough (408), Lee (360), Orange (346), and Pinellas (334). Sixty-five of Florida’s 67 counties had at least one current/active record; Glades and Taylor had none in this file.
+1. **County directory pages** — one page per Florida county that has at least one current, active home-inspector license in the extract. The Miami-Dade page is the template. After Miami-Dade, the next largest counties in the November 18, 2026 extract were Broward (673), Palm Beach (482), Hillsborough (408), Lee (360), Orange (346), Pinellas (334), Duval (256), and Brevard and Pasco (249 each). Sixty-five of Florida’s 67 counties had at least one current/active record; Glades and Taylor had none in this file.
 2. **City directory pages** — only after the county page for that city exists. In the same extract there were 657 unique Florida city+county combinations; 259 had five or more current/active inspectors.
 3. **Explainer pages** (less often, and written by hand rather than generated): what a wind mitigation form covers, 4-point vs. full home inspection, the April 1, 2026 OIR-B1-1802 form change, and “who is legally allowed to sign.”
 
@@ -71,7 +73,7 @@ A simple scheduled job (GitHub Actions, Netlify scheduled function, or a cron us
 
 1. Download a fresh `lic04home.csv` and store it as `data/lic04home-YYYY-MM-DD.csv`.
 2. Parse it with the filters above.
-3. Look at existing county folders (today: `miami-dade/`, `broward/`, `palm-beach/`, `hillsborough/`, `lee/`, `orange/`). Choose the next unpublished county, preferably the remaining county with the most current/active inspectors.
+3. Look at existing county folders (today: `miami-dade/`, `broward/`, `palm-beach/`, `hillsborough/`, `lee/`, `orange/`, `pinellas/`). Choose the next unpublished county, preferably the remaining county with the most current/active inspectors.
 4. Generate that county’s `index.html` from the same layout as Miami-Dade: intro and caveats, then the license table (name, mailing city, ZIP, license number, status, first licensed, expiration). Leave the “companies that advertise these inspections” section as a stub unless someone has verified companies for that county.
 5. Refresh previously generated **tables** if license status changed, but do not silently overwrite hand-verified company write-ups.
 6. Update the homepage so the new county is linked (the “Live now” / “What’s next” area).
