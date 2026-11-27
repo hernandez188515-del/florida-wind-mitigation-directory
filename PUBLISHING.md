@@ -16,9 +16,11 @@ It is live on GitHub Pages at https://hernandez188515-del.github.io/florida-wind
 - `pinellas/index.html` — seventh county directory (Pinellas), added November 25, 2026
 - `guides/wind-mitigation-vs-4-point-vs-roof-certification/index.html` — first hand-written explainer (wind mitigation vs. 4-point vs. roof certification; signers, April 1, 2026 OIR-B1-1802 change, wind credits, published prices), added November 20, 2026
 - `guides/2026-wind-mitigation-form-question-by-question/index.html` — second hand-written explainer (all nine questions on OIR-B1-1802 Rev. 04/26, changes from Rev. 01/12, documentation checklist, rule status), added November 23, 2026
+- `guides/citizens-4-point-and-roof-age-requirements/index.html` — third hand-written explainer (Citizens Property Insurance 4-point rule for homes over 20 years old, 25/50-year roof-age limits, 5-year remaining-useful-life rule, proof of replacement, current Insp4pt 03 25 / RCF-1 03 25 forms and signers, s. 627.7011(5), 2026 status), added November 26, 2026
 - `assets/styles.css`
 - `data/lic04home-2026-11-18.csv` — official Florida DBPR home-inspector extract downloaded November 18, 2026 (America/New_York)
 - `data/lic04home-2026-11-19.csv` — re-download on November 19, 2026; byte-identical to the November 18 file (same SHA-256)
+- `data/lic04home-2026-11-26.csv` — re-download on November 26, 2026; differs from the November 19 file (SHA-256 `a66628f1913aea3997a38b101d742b61fd5f50906674d6631ba9723827f4f880`; 9,184 lines vs. 9,133; 7,857 current/active HI vs. 7,816). Published county tables were still generated from the November 19 file
 - `data/miami-dade-inspectors.json` — the filtered Miami-Dade table (no street addresses)
 - `data/broward-inspectors.json` — the filtered Broward table (no street addresses)
 - `data/palm-beach-inspectors.json` — the filtered Palm Beach table (no street addresses)

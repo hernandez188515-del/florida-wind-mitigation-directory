@@ -28,6 +28,7 @@ SKIP_DIRS = {"assets", "data", "scripts", "guides", "advertise", ".git"}
 NAV_GUIDES = {
     "guides/wind-mitigation-vs-4-point-vs-roof-certification/": "Which inspection?",
     "guides/2026-wind-mitigation-form-question-by-question/": "The 2026 form",
+    "guides/citizens-4-point-and-roof-age-requirements/": "Citizens rules",
 }
 
 
