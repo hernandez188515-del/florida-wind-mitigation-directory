@@ -1,0 +1,2604 @@
+{
+  "source": {
+    "agency": "Florida Department of Business and Professional Regulation",
+    "professionPage": "https://www2.myfloridalicense.com/home-inspectors/public-records/",
+    "file": "https://www2.myfloridalicense.com/sto/file_download/extracts/lic04home.csv",
+    "readme": "https://www2.myfloridalicense.com/sto/documents/readme.pdf",
+    "downloaded": "2026-11-26",
+    "reusedOn": "2026-11-27",
+    "timezone": "America/New_York",
+    "sha256": "a66628f1913aea3997a38b101d742b61fd5f50906674d6631ba9723827f4f880",
+    "bytes": 1633623,
+    "filters": "Occupation HI; Primary Status C (Current); Secondary Status A (Active); County Code 26 (Duval). Street addresses omitted. Rows whose city is predominantly coded to another county in the statewide file are listed separately.",
+    "statewideCurrentActiveHI": 7857,
+    "duvalCountyCode26": 258,
+    "duvalInTable": 256,
+    "flaggedCityMismatch": 2
+  },
+  "inspectors": [
+    {
+      "name": "DEMARCO, JEFF",
+      "city": "Atlantic Beach",
+      "zip": "32233",
+      "license": "HI11085",
+      "licenseNumber": "0011085",
+      "status": "Current / Active",
+      "licensed": "04/26/2018",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MUNN, MICHAEL JOHN",
+      "city": "Atlantic Beach",
+      "zip": "32233",
+      "license": "HI4086",
+      "licenseNumber": "0004086",
+      "status": "Current / Active",
+      "licensed": "03/31/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ROBINSON, JONATHAN",
+      "city": "Atlantic Beach",
+      "zip": "32233",
+      "license": "HI18129",
+      "licenseNumber": "0018129",
+      "status": "Current / Active",
+      "licensed": "06/26/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "THIBEAULT, RYAN MATHEW",
+      "city": "Atlantic Beach",
+      "zip": "32233",
+      "license": "HI12078",
+      "licenseNumber": "0012078",
+      "status": "Current / Active",
+      "licensed": "06/19/2019",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "THOMASSY, CHRISTOPHER KERR",
+      "city": "Atlantic Beach",
+      "zip": "32233",
+      "license": "HI1074",
+      "licenseNumber": "0001074",
+      "status": "Current / Active",
+      "licensed": "01/14/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ABREU, EDUARDO",
+      "city": "Jacksonville",
+      "zip": "32207",
+      "license": "HI17428",
+      "licenseNumber": "0017428",
+      "status": "Current / Active",
+      "licensed": "08/06/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ALEXANDER, GLENN RICHMOND",
+      "city": "Jacksonville",
+      "zip": "32211",
+      "license": "HI6788",
+      "licenseNumber": "0006788",
+      "status": "Current / Active",
+      "licensed": "06/27/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ALLEN, DAVID MICHAEL",
+      "city": "Jacksonville",
+      "zip": "32277",
+      "license": "HI3482",
+      "licenseNumber": "0003482",
+      "status": "Current / Active",
+      "licensed": "03/17/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ANDERSON, JOHN ANTON SR",
+      "city": "Jacksonville",
+      "zip": "32202",
+      "license": "HI2021",
+      "licenseNumber": "0002021",
+      "status": "Current / Active",
+      "licensed": "02/25/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ANDREWS, RICHARD SCOTT",
+      "city": "Jacksonville",
+      "zip": "32216",
+      "license": "HI14119",
+      "licenseNumber": "0014119",
+      "status": "Current / Active",
+      "licensed": "07/30/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ARIZZI, DOMINIC ANTHONY JR",
+      "city": "Jacksonville",
+      "zip": "32234",
+      "license": "HI14035",
+      "licenseNumber": "0014035",
+      "status": "Current / Active",
+      "licensed": "07/09/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "AUCOIN, TRAVONN RASHARD",
+      "city": "Jacksonville",
+      "zip": "32244",
+      "license": "HI12236",
+      "licenseNumber": "0012236",
+      "status": "Current / Active",
+      "licensed": "09/06/2019",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "AYOUB GIRGIS, MAHER Z",
+      "city": "Jacksonville",
+      "zip": "32216",
+      "license": "HI9866",
+      "licenseNumber": "0009866",
+      "status": "Current / Active",
+      "licensed": "09/20/2016",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BAKER, EUGENE RICHARD JR",
+      "city": "Jacksonville",
+      "zip": "32221",
+      "license": "HI13453",
+      "licenseNumber": "0013453",
+      "status": "Current / Active",
+      "licensed": "02/09/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BALZ, DAVID D",
+      "city": "Jacksonville",
+      "zip": "32257",
+      "license": "HI6541",
+      "licenseNumber": "0006541",
+      "status": "Current / Active",
+      "licensed": "06/20/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BARKER, BRUCE ALLEN",
+      "city": "Jacksonville",
+      "zip": "32256",
+      "license": "HI15179",
+      "licenseNumber": "0015179",
+      "status": "Current / Active",
+      "licensed": "05/16/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BARKMAN, TERRY",
+      "city": "Jacksonville",
+      "zip": "32256",
+      "license": "HI13400",
+      "licenseNumber": "0013400",
+      "status": "Current / Active",
+      "licensed": "01/21/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BARRON, JONATHAN CHARLES",
+      "city": "Jacksonville",
+      "zip": "32207",
+      "license": "HI2699",
+      "licenseNumber": "0002699",
+      "status": "Current / Active",
+      "licensed": "03/07/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BATSHONE, BASSAM FOUAD",
+      "city": "Jacksonville",
+      "zip": "32257",
+      "license": "HI5838",
+      "licenseNumber": "0005838",
+      "status": "Current / Active",
+      "licensed": "04/12/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BELL, MAX FREEMAN",
+      "city": "Jacksonville",
+      "zip": "32256",
+      "license": "HI18731",
+      "licenseNumber": "0018731",
+      "status": "Current / Active",
+      "licensed": "04/24/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BENNETT, EARL TRAVIS JR",
+      "city": "Jacksonville",
+      "zip": "32244",
+      "license": "HI5624",
+      "licenseNumber": "0005624",
+      "status": "Current / Active",
+      "licensed": "03/20/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BENYOWITZ, AHARON",
+      "city": "Jacksonville",
+      "zip": "32257",
+      "license": "HI18133",
+      "licenseNumber": "0018133",
+      "status": "Current / Active",
+      "licensed": "06/27/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BERMAN, JORDAN",
+      "city": "Jacksonville",
+      "zip": "32258",
+      "license": "HI9212",
+      "licenseNumber": "0009212",
+      "status": "Current / Active",
+      "licensed": "10/19/2015",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BOREE, DAVID DANIEL",
+      "city": "Jacksonville",
+      "zip": "32207",
+      "license": "HI526",
+      "licenseNumber": "0000526",
+      "status": "Current / Active",
+      "licensed": "10/27/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BOWMAN, SEAN ERIC",
+      "city": "Jacksonville",
+      "zip": "32247",
+      "license": "HI2117",
+      "licenseNumber": "0002117",
+      "status": "Current / Active",
+      "licensed": "02/28/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BRIER, DAVEN ANTWANN",
+      "city": "Jacksonville",
+      "zip": "32225",
+      "license": "HI11812",
+      "licenseNumber": "0011812",
+      "status": "Current / Active",
+      "licensed": "02/15/2019",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BRITT, DANIEL LAMAR III",
+      "city": "Jacksonville",
+      "zip": "32257",
+      "license": "HI16574",
+      "licenseNumber": "0016574",
+      "status": "Current / Active",
+      "licensed": "09/01/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BROWN, ARNOLD",
+      "city": "Jacksonville",
+      "zip": "32256",
+      "license": "HI14209",
+      "licenseNumber": "0014209",
+      "status": "Current / Active",
+      "licensed": "08/24/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BROWN, CRAIG ALLEN",
+      "city": "Jacksonville",
+      "zip": "32224",
+      "license": "HI690",
+      "licenseNumber": "0000690",
+      "status": "Current / Active",
+      "licensed": "11/29/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BROWN, DARIUS",
+      "city": "Jacksonville",
+      "zip": "32222",
+      "license": "HI18825",
+      "licenseNumber": "0018825",
+      "status": "Current / Active",
+      "licensed": "06/04/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BROWN, STEPHEN CHRISTOPHER",
+      "city": "Jacksonville",
+      "zip": "32210",
+      "license": "HI7508",
+      "licenseNumber": "0007508",
+      "status": "Current / Active",
+      "licensed": "08/14/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BROWNING, TISHANNA T",
+      "city": "Jacksonville",
+      "zip": "32257",
+      "license": "HI17477",
+      "licenseNumber": "0017477",
+      "status": "Current / Active",
+      "licensed": "08/23/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BUFORD, KENNETH RODNEY",
+      "city": "Jacksonville",
+      "zip": "32222",
+      "license": "HI3030",
+      "licenseNumber": "0003030",
+      "status": "Current / Active",
+      "licensed": "03/10/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BURBAGE, GARY ROBERT",
+      "city": "Jacksonville",
+      "zip": "32256",
+      "license": "HI13766",
+      "licenseNumber": "0013766",
+      "status": "Current / Active",
+      "licensed": "04/26/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "BYRD, WAYNE THOMAS",
+      "city": "Jacksonville",
+      "zip": "32210",
+      "license": "HI1019",
+      "licenseNumber": "0001019",
+      "status": "Current / Active",
+      "licensed": "01/11/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CANDLER, AUSTIN AUDRAVIOUS JR",
+      "city": "Jacksonville",
+      "zip": "32254",
+      "license": "HI16743",
+      "licenseNumber": "0016743",
+      "status": "Current / Active",
+      "licensed": "11/09/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CAULDER, JACE AUGUST",
+      "city": "Jacksonville",
+      "zip": "32221",
+      "license": "HI12021",
+      "licenseNumber": "0012021",
+      "status": "Current / Active",
+      "licensed": "05/22/2019",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CHRISTOS, CHRISTOPHER JASON",
+      "city": "Jacksonville",
+      "zip": "32211",
+      "license": "HI16285",
+      "licenseNumber": "0016285",
+      "status": "Current / Active",
+      "licensed": "05/31/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "COBB, KYLE LOUIS",
+      "city": "Jacksonville",
+      "zip": "32205",
+      "license": "HI12141",
+      "licenseNumber": "0012141",
+      "status": "Current / Active",
+      "licensed": "07/17/2019",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "COE, KYLE ALAN",
+      "city": "Jacksonville",
+      "zip": "32218",
+      "license": "HI15625",
+      "licenseNumber": "0015625",
+      "status": "Current / Active",
+      "licensed": "10/03/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "COLLIER, MICHAEL THOMAS",
+      "city": "Jacksonville",
+      "zip": "32210",
+      "license": "HI12010",
+      "licenseNumber": "0012010",
+      "status": "Current / Active",
+      "licensed": "05/17/2019",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "COLON, ANTHONY",
+      "city": "Jacksonville",
+      "zip": "32210",
+      "license": "HI18466",
+      "licenseNumber": "0018466",
+      "status": "Current / Active",
+      "licensed": "12/09/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CONWAY, WALLACE JOSEPH",
+      "city": "Jacksonville",
+      "zip": "32210",
+      "license": "HI437",
+      "licenseNumber": "0000437",
+      "status": "Current / Active",
+      "licensed": "10/14/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "COOK, LEE",
+      "city": "Jacksonville",
+      "zip": "32208",
+      "license": "HI14786",
+      "licenseNumber": "0014786",
+      "status": "Current / Active",
+      "licensed": "02/04/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "COPPEDGE, JOSEPH THOMAS",
+      "city": "Jacksonville",
+      "zip": "32223",
+      "license": "HI1839",
+      "licenseNumber": "0001839",
+      "status": "Current / Active",
+      "licensed": "02/22/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "COPPER, THOMAS ROBERT",
+      "city": "Jacksonville",
+      "zip": "32258",
+      "license": "HI1023",
+      "licenseNumber": "0001023",
+      "status": "Current / Active",
+      "licensed": "01/11/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "COX, ERIC",
+      "city": "Jacksonville",
+      "zip": "32221",
+      "license": "HI15644",
+      "licenseNumber": "0015644",
+      "status": "Current / Active",
+      "licensed": "10/07/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CRAWFORD, JAMES COREY",
+      "city": "Jacksonville",
+      "zip": "32210",
+      "license": "HI12885",
+      "licenseNumber": "0012885",
+      "status": "Current / Active",
+      "licensed": "07/27/2020",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "CUTLER, BRETT",
+      "city": "Jacksonville",
+      "zip": "32210",
+      "license": "HI8421",
+      "licenseNumber": "0008421",
+      "status": "Current / Active",
+      "licensed": "07/11/2014",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "DARNELL, GREG",
+      "city": "Jacksonville",
+      "zip": "32256",
+      "license": "HI17457",
+      "licenseNumber": "0017457",
+      "status": "Current / Active",
+      "licensed": "08/15/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "DARROW, JAMIE SCOTT",
+      "city": "Jacksonville",
+      "zip": "32218",
+      "license": "HI17643",
+      "licenseNumber": "0017643",
+      "status": "Current / Active",
+      "licensed": "11/07/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "DAVIS, KENNETH ARTHUR",
+      "city": "Jacksonville",
+      "zip": "32221",
+      "license": "HI18360",
+      "licenseNumber": "0018360",
+      "status": "Current / Active",
+      "licensed": "10/15/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "DELLA PENTA, MICHAEL PAUL",
+      "city": "Jacksonville",
+      "zip": "32257",
+      "license": "HI4395",
+      "licenseNumber": "0004395",
+      "status": "Current / Active",
+      "licensed": "04/22/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "DENIS, LARRY G",
+      "city": "Jacksonville",
+      "zip": "32250",
+      "license": "HI3851",
+      "licenseNumber": "0003851",
+      "status": "Current / Active",
+      "licensed": "03/24/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "DEWITT, DUSTIN",
+      "city": "Jacksonville",
+      "zip": "32217",
+      "license": "HI18405",
+      "licenseNumber": "0018405",
+      "status": "Current / Active",
+      "licensed": "11/10/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "DIVRA, JEAN WALLY",
+      "city": "Jacksonville",
+      "zip": "32218",
+      "license": "HI18988",
+      "licenseNumber": "0018988",
+      "status": "Current / Active",
+      "licensed": "08/07/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "DOWLING, CHANDLER",
+      "city": "Jacksonville",
+      "zip": "32218",
+      "license": "HI18392",
+      "licenseNumber": "0018392",
+      "status": "Current / Active",
+      "licensed": "10/31/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "DREW, ALEXANDER JAMES",
+      "city": "Jacksonville",
+      "zip": "32226",
+      "license": "HI17561",
+      "licenseNumber": "0017561",
+      "status": "Current / Active",
+      "licensed": "10/02/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "DYKES, JAMES L",
+      "city": "Jacksonville",
+      "zip": "32221",
+      "license": "HI3514",
+      "licenseNumber": "0003514",
+      "status": "Current / Active",
+      "licensed": "03/17/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "EDWARDS, DAVID SELLS",
+      "city": "Jacksonville",
+      "zip": "32241",
+      "license": "HI9327",
+      "licenseNumber": "0009327",
+      "status": "Current / Active",
+      "licensed": "12/17/2015",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ELDREDGE, GEORGE ALLEN",
+      "city": "Jacksonville",
+      "zip": "32244",
+      "license": "HI10335",
+      "licenseNumber": "0010335",
+      "status": "Current / Active",
+      "licensed": "05/05/2017",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "EMERY, ROBERT EUGENE",
+      "city": "Jacksonville",
+      "zip": "32277",
+      "license": "HI18291",
+      "licenseNumber": "0018291",
+      "status": "Current / Active",
+      "licensed": "09/16/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ESPINOZA, ASENSION JR",
+      "city": "Jacksonville",
+      "zip": "32206",
+      "license": "HI14411",
+      "licenseNumber": "0014411",
+      "status": "Current / Active",
+      "licensed": "10/14/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ETHRIDGE, AL JR",
+      "city": "Jacksonville",
+      "zip": "32219",
+      "license": "HI8996",
+      "licenseNumber": "0008996",
+      "status": "Current / Active",
+      "licensed": "07/07/2015",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "FALASCO, LAWRENCE MICHAEL",
+      "city": "Jacksonville",
+      "zip": "32258",
+      "license": "HI2779",
+      "licenseNumber": "0002779",
+      "status": "Current / Active",
+      "licensed": "03/08/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "FERNANDEZ, JUAN TRINIDAD",
+      "city": "Jacksonville",
+      "zip": "32205",
+      "license": "HI4116",
+      "licenseNumber": "0004116",
+      "status": "Current / Active",
+      "licensed": "04/01/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "FIELDS, RAYMOND ELLIS",
+      "city": "Jacksonville",
+      "zip": "32224",
+      "license": "HI4069",
+      "licenseNumber": "0004069",
+      "status": "Current / Active",
+      "licensed": "03/31/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "FISHER, DELROY A",
+      "city": "Jacksonville",
+      "zip": "32256",
+      "license": "HI11553",
+      "licenseNumber": "0011553",
+      "status": "Current / Active",
+      "licensed": "10/29/2018",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "FOLLMAN, BRIAN WILLIAM",
+      "city": "Jacksonville",
+      "zip": "32220",
+      "license": "HI15484",
+      "licenseNumber": "0015484",
+      "status": "Current / Active",
+      "licensed": "08/25/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "FRYER, DANIEL REX",
+      "city": "Jacksonville",
+      "zip": "32210",
+      "license": "HI1796",
+      "licenseNumber": "0001796",
+      "status": "Current / Active",
+      "licensed": "02/21/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "FULTS, DANIEL",
+      "city": "Jacksonville",
+      "zip": "32277",
+      "license": "HI11329",
+      "licenseNumber": "0011329",
+      "status": "Current / Active",
+      "licensed": "07/30/2018",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "FURLONG, STANTON",
+      "city": "Jacksonville",
+      "zip": "32258",
+      "license": "HI18144",
+      "licenseNumber": "0018144",
+      "status": "Current / Active",
+      "licensed": "07/01/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "GAUVIN, RAYMOND PHILLIP",
+      "city": "Jacksonville",
+      "zip": "32221",
+      "license": "HI1064",
+      "licenseNumber": "0001064",
+      "status": "Current / Active",
+      "licensed": "01/14/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "GEIGER, JUSTIN",
+      "city": "Jacksonville",
+      "zip": "32258",
+      "license": "HI16752",
+      "licenseNumber": "0016752",
+      "status": "Current / Active",
+      "licensed": "11/15/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "GILLEAN, CLAY SCOT",
+      "city": "Jacksonville",
+      "zip": "32258",
+      "license": "HI3219",
+      "licenseNumber": "0003219",
+      "status": "Current / Active",
+      "licensed": "03/11/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "GODBOLT, ANTHONY F",
+      "city": "Jacksonville",
+      "zip": "32246",
+      "license": "HI18710",
+      "licenseNumber": "0018710",
+      "status": "Current / Active",
+      "licensed": "04/20/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "GOETHE, BRONSON",
+      "city": "Jacksonville",
+      "zip": "32258",
+      "license": "HI15457",
+      "licenseNumber": "0015457",
+      "status": "Current / Active",
+      "licensed": "08/16/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "GONZALEZ, ORLANDO",
+      "city": "Jacksonville",
+      "zip": "32082",
+      "license": "HI17011",
+      "licenseNumber": "0017011",
+      "status": "Current / Active",
+      "licensed": "02/20/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "GORHAM, RICHARD JOSEPH",
+      "city": "Jacksonville",
+      "zip": "32258",
+      "license": "HI6077",
+      "licenseNumber": "0006077",
+      "status": "Current / Active",
+      "licensed": "05/10/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HAGA, CHRISTOPHER LEE",
+      "city": "Jacksonville",
+      "zip": "32216",
+      "license": "HI8757",
+      "licenseNumber": "0008757",
+      "status": "Current / Active",
+      "licensed": "02/26/2015",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HALL, KENNETH MARK",
+      "city": "Jacksonville",
+      "zip": "32206",
+      "license": "HI360",
+      "licenseNumber": "0000360",
+      "status": "Current / Active",
+      "licensed": "10/06/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HARRIS, JOHN SIMPSON",
+      "city": "Jacksonville",
+      "zip": "32223",
+      "license": "HI6893",
+      "licenseNumber": "0006893",
+      "status": "Current / Active",
+      "licensed": "07/03/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HART, DONALD ANDREW",
+      "city": "Jacksonville",
+      "zip": "32220",
+      "license": "HI527",
+      "licenseNumber": "0000527",
+      "status": "Current / Active",
+      "licensed": "10/27/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HATTAWAY, JAMES ROBERT JR",
+      "city": "Jacksonville",
+      "zip": "32223",
+      "license": "HI1715",
+      "licenseNumber": "0001715",
+      "status": "Current / Active",
+      "licensed": "02/18/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HAYES, SHAUN EDWARD",
+      "city": "Jacksonville",
+      "zip": "32217",
+      "license": "HI13067",
+      "licenseNumber": "0013067",
+      "status": "Current / Active",
+      "licensed": "09/30/2020",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HAYNES, AUSTIN",
+      "city": "Jacksonville",
+      "zip": "32225",
+      "license": "HI18846",
+      "licenseNumber": "0018846",
+      "status": "Current / Active",
+      "licensed": "06/11/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HAYNES, RICHARD LEE",
+      "city": "Jacksonville",
+      "zip": "32210",
+      "license": "HI311",
+      "licenseNumber": "0000311",
+      "status": "Current / Active",
+      "licensed": "09/22/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HENTZELL, TIMOTHY ASHER",
+      "city": "Jacksonville",
+      "zip": "32217",
+      "license": "HI9506",
+      "licenseNumber": "0009506",
+      "status": "Current / Active",
+      "licensed": "03/15/2016",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HERNDON, JONATHAN RYAN",
+      "city": "Jacksonville",
+      "zip": "32226",
+      "license": "HI13383",
+      "licenseNumber": "0013383",
+      "status": "Current / Active",
+      "licensed": "01/19/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HERRERA, DAVID",
+      "city": "Jacksonville",
+      "zip": "32226",
+      "license": "HI1571",
+      "licenseNumber": "0001571",
+      "status": "Current / Active",
+      "licensed": "02/14/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HILDRETH, DANIEL LAMAR",
+      "city": "Jacksonville",
+      "zip": "32277",
+      "license": "HI11733",
+      "licenseNumber": "0011733",
+      "status": "Current / Active",
+      "licensed": "01/15/2019",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HILL, RONALD G",
+      "city": "Jacksonville",
+      "zip": "32256",
+      "license": "HI12859",
+      "licenseNumber": "0012859",
+      "status": "Current / Active",
+      "licensed": "07/14/2020",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HOLDEN, JEFFREY LYNN",
+      "city": "Jacksonville",
+      "zip": "32246",
+      "license": "HI9062",
+      "licenseNumber": "0009062",
+      "status": "Current / Active",
+      "licensed": "08/10/2015",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HOLKA, SCOTT A",
+      "city": "Jacksonville",
+      "zip": "32257",
+      "license": "HI6622",
+      "licenseNumber": "0006622",
+      "status": "Current / Active",
+      "licensed": "06/22/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HOSSEINI, WADE",
+      "city": "Jacksonville",
+      "zip": "32217",
+      "license": "HI13639",
+      "licenseNumber": "0013639",
+      "status": "Current / Active",
+      "licensed": "03/24/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HOUSE, MATTHEW MICHAEL",
+      "city": "Jacksonville",
+      "zip": "32224",
+      "license": "HI8731",
+      "licenseNumber": "0008731",
+      "status": "Current / Active",
+      "licensed": "02/12/2015",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HOUSE, MICHAEL EUGENE",
+      "city": "Jacksonville",
+      "zip": "32224",
+      "license": "HI9524",
+      "licenseNumber": "0009524",
+      "status": "Current / Active",
+      "licensed": "03/23/2016",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HOVEY, CHARLES W",
+      "city": "Jacksonville",
+      "zip": "32258",
+      "license": "HI422",
+      "licenseNumber": "0000422",
+      "status": "Current / Active",
+      "licensed": "10/13/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HUFFMAN, ANTHONY",
+      "city": "Jacksonville",
+      "zip": "32219",
+      "license": "HI16830",
+      "licenseNumber": "0016830",
+      "status": "Current / Active",
+      "licensed": "12/08/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HUGHES, RANDALL SCOTT",
+      "city": "Jacksonville",
+      "zip": "32241",
+      "license": "HI1296",
+      "licenseNumber": "0001296",
+      "status": "Current / Active",
+      "licensed": "02/01/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "HUME, DAVID",
+      "city": "Jacksonville",
+      "zip": "32225",
+      "license": "HI18943",
+      "licenseNumber": "0018943",
+      "status": "Current / Active",
+      "licensed": "07/17/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "JAMALUDDIN, RUQAYAH M",
+      "city": "Jacksonville",
+      "zip": "32258",
+      "license": "HI14754",
+      "licenseNumber": "0014754",
+      "status": "Current / Active",
+      "licensed": "01/25/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "JOHNSON, BERNARR FRANK JR",
+      "city": "Jacksonville",
+      "zip": "32256",
+      "license": "HI8005",
+      "licenseNumber": "0008005",
+      "status": "Current / Active",
+      "licensed": "10/08/2013",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "JOHNSON, DEVIN",
+      "city": "Jacksonville",
+      "zip": "32250",
+      "license": "HI11278",
+      "licenseNumber": "0011278",
+      "status": "Current / Active",
+      "licensed": "07/05/2018",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "JOLLY, DAVID B",
+      "city": "Jacksonville",
+      "zip": "32257",
+      "license": "HI522",
+      "licenseNumber": "0000522",
+      "status": "Current / Active",
+      "licensed": "10/27/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "JONES, RONALD EDWARD",
+      "city": "Jacksonville",
+      "zip": "32222",
+      "license": "HI10626",
+      "licenseNumber": "0010626",
+      "status": "Current / Active",
+      "licensed": "09/18/2017",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "JOSEPH, RAYMOND FORREST",
+      "city": "Jacksonville",
+      "zip": "32225",
+      "license": "HI1132",
+      "licenseNumber": "0001132",
+      "status": "Current / Active",
+      "licensed": "01/21/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "JOYCE, JOHN K",
+      "city": "Jacksonville",
+      "zip": "32258",
+      "license": "HI1511",
+      "licenseNumber": "0001511",
+      "status": "Current / Active",
+      "licensed": "02/11/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "KEENON, DWAYNE LEVON SR",
+      "city": "Jacksonville",
+      "zip": "32208",
+      "license": "HI10036",
+      "licenseNumber": "0010036",
+      "status": "Current / Active",
+      "licensed": "12/19/2016",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "KELLY, JASON",
+      "city": "Jacksonville",
+      "zip": "32217",
+      "license": "HI11534",
+      "licenseNumber": "0011534",
+      "status": "Current / Active",
+      "licensed": "10/22/2018",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "KHIRSUKHANI, ROOP L",
+      "city": "Jacksonville",
+      "zip": "32224",
+      "license": "HI3261",
+      "licenseNumber": "0003261",
+      "status": "Current / Active",
+      "licensed": "03/14/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "KNOEPFEL, ALVIN ERNEST JR",
+      "city": "Jacksonville",
+      "zip": "32210",
+      "license": "HI1299",
+      "licenseNumber": "0001299",
+      "status": "Current / Active",
+      "licensed": "02/01/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "KNUDSEN, MARCUS D",
+      "city": "Jacksonville",
+      "zip": "32256",
+      "license": "HI13012",
+      "licenseNumber": "0013012",
+      "status": "Current / Active",
+      "licensed": "09/11/2020",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "KOLA, SAIRO",
+      "city": "Jacksonville",
+      "zip": "32224",
+      "license": "HI18664",
+      "licenseNumber": "0018664",
+      "status": "Current / Active",
+      "licensed": "04/01/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "KUNKLE, DENNIS",
+      "city": "Jacksonville",
+      "zip": "32224",
+      "license": "HI170",
+      "licenseNumber": "0000170",
+      "status": "Current / Active",
+      "licensed": "08/17/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "LATIMER, MYREON PIERRE",
+      "city": "Jacksonville",
+      "zip": "32218",
+      "license": "HI12668",
+      "licenseNumber": "0012668",
+      "status": "Current / Active",
+      "licensed": "04/01/2020",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "LAWLESS, JAMES STEPHEN",
+      "city": "Jacksonville",
+      "zip": "32221",
+      "license": "HI19029",
+      "licenseNumber": "0019029",
+      "status": "Current / Active",
+      "licensed": "08/25/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "LEV, SHAWN",
+      "city": "Jacksonville",
+      "zip": "32211",
+      "license": "HI16040",
+      "licenseNumber": "0016040",
+      "status": "Current / Active",
+      "licensed": "03/22/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "LEWIS, HENRY RICHARD",
+      "city": "Jacksonville",
+      "zip": "32216",
+      "license": "HI15183",
+      "licenseNumber": "0015183",
+      "status": "Current / Active",
+      "licensed": "05/17/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "LLOYD, ALEXANDER SAMUEL",
+      "city": "Jacksonville",
+      "zip": "32226",
+      "license": "HI16254",
+      "licenseNumber": "0016254",
+      "status": "Current / Active",
+      "licensed": "05/17/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "LLOYD, DANIEL BRAXTON",
+      "city": "Jacksonville",
+      "zip": "32207",
+      "license": "HI9483",
+      "licenseNumber": "0009483",
+      "status": "Current / Active",
+      "licensed": "03/08/2016",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "LOGAN, JOE",
+      "city": "Jacksonville",
+      "zip": "32216",
+      "license": "HI11552",
+      "licenseNumber": "0011552",
+      "status": "Current / Active",
+      "licensed": "10/29/2018",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "LONG, JOHN RANDALL",
+      "city": "Jacksonville",
+      "zip": "32257",
+      "license": "HI1673",
+      "licenseNumber": "0001673",
+      "status": "Current / Active",
+      "licensed": "02/17/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "LUNA, JOSE MAURICIO",
+      "city": "Jacksonville",
+      "zip": "32209",
+      "license": "HI17112",
+      "licenseNumber": "0017112",
+      "status": "Current / Active",
+      "licensed": "03/27/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MACK, FREDERICK W",
+      "city": "Jacksonville",
+      "zip": "32225",
+      "license": "HI1570",
+      "licenseNumber": "0001570",
+      "status": "Current / Active",
+      "licensed": "02/14/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MAIMON, OREN",
+      "city": "Jacksonville",
+      "zip": "32246",
+      "license": "HI15327",
+      "licenseNumber": "0015327",
+      "status": "Current / Active",
+      "licensed": "07/05/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MALONE, KEVIN THOMAS",
+      "city": "Jacksonville",
+      "zip": "32216",
+      "license": "HI18101",
+      "licenseNumber": "0018101",
+      "status": "Current / Active",
+      "licensed": "06/12/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MANSBERGER, NICHOLAS T",
+      "city": "Jacksonville",
+      "zip": "32223",
+      "license": "HI18546",
+      "licenseNumber": "0018546",
+      "status": "Current / Active",
+      "licensed": "01/29/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MARTIN, JOHN TILLMAN",
+      "city": "Jacksonville",
+      "zip": "32210",
+      "license": "HI19005",
+      "licenseNumber": "0019005",
+      "status": "Current / Active",
+      "licensed": "08/14/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MARTIN, LEE JASON",
+      "city": "Jacksonville",
+      "zip": "32216",
+      "license": "HI15255",
+      "licenseNumber": "0015255",
+      "status": "Current / Active",
+      "licensed": "06/13/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MARTIN, TERRY LYNN",
+      "city": "Jacksonville",
+      "zip": "32244",
+      "license": "HI17923",
+      "licenseNumber": "0017923",
+      "status": "Current / Active",
+      "licensed": "04/09/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MATTOX, ORVILLE ALEXANDER III",
+      "city": "Jacksonville",
+      "zip": "32225",
+      "license": "HI12008",
+      "licenseNumber": "0012008",
+      "status": "Current / Active",
+      "licensed": "05/17/2019",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MAY, RONALD GENE",
+      "city": "Jacksonville",
+      "zip": "32256",
+      "license": "HI5771",
+      "licenseNumber": "0005771",
+      "status": "Current / Active",
+      "licensed": "04/04/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MAYES, DAVID",
+      "city": "Jacksonville",
+      "zip": "32246",
+      "license": "HI10738",
+      "licenseNumber": "0010738",
+      "status": "Current / Active",
+      "licensed": "11/28/2017",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MC FARLAND, ROGER EUGENE",
+      "city": "Jacksonville",
+      "zip": "32244",
+      "license": "HI6641",
+      "licenseNumber": "0006641",
+      "status": "Current / Active",
+      "licensed": "06/25/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MCCAUGHEY, JAMES S",
+      "city": "Jacksonville",
+      "zip": "32225",
+      "license": "HI639",
+      "licenseNumber": "0000639",
+      "status": "Current / Active",
+      "licensed": "11/17/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MCCORVEY, STEPHEN LEIGH",
+      "city": "Jacksonville",
+      "zip": "32210",
+      "license": "HI11438",
+      "licenseNumber": "0011438",
+      "status": "Current / Active",
+      "licensed": "09/12/2018",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MCDERMOTT, PETER H",
+      "city": "Jacksonville",
+      "zip": "32216",
+      "license": "HI2715",
+      "licenseNumber": "0002715",
+      "status": "Current / Active",
+      "licensed": "03/07/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MCDERMOTT, ROBIN G",
+      "city": "Jacksonville",
+      "zip": "32216",
+      "license": "HI3545",
+      "licenseNumber": "0003545",
+      "status": "Current / Active",
+      "licensed": "03/18/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MCDONALD, GARRIE RONALD",
+      "city": "Jacksonville",
+      "zip": "32225",
+      "license": "HI13291",
+      "licenseNumber": "0013291",
+      "status": "Current / Active",
+      "licensed": "12/14/2020",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MCGRATH, MICHAEL J",
+      "city": "Jacksonville",
+      "zip": "32217",
+      "license": "HI12781",
+      "licenseNumber": "0012781",
+      "status": "Current / Active",
+      "licensed": "06/09/2020",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MCGUINNESS, SCOTT ANTHONY",
+      "city": "Jacksonville",
+      "zip": "32246",
+      "license": "HI2114",
+      "licenseNumber": "0002114",
+      "status": "Current / Active",
+      "licensed": "02/28/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MCMILLAN, WILLIAM GLENN",
+      "city": "Jacksonville",
+      "zip": "32225",
+      "license": "HI1206",
+      "licenseNumber": "0001206",
+      "status": "Current / Active",
+      "licensed": "01/27/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MELLON, JOSEPH EDWARD JR",
+      "city": "Jacksonville",
+      "zip": "32207",
+      "license": "HI9984",
+      "licenseNumber": "0009984",
+      "status": "Current / Active",
+      "licensed": "11/16/2016",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MERCADO, EDWIN",
+      "city": "Jacksonville",
+      "zip": "32257",
+      "license": "HI17237",
+      "licenseNumber": "0017237",
+      "status": "Current / Active",
+      "licensed": "05/21/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "METZLER, NATHAN",
+      "city": "Jacksonville",
+      "zip": "32211",
+      "license": "HI18400",
+      "licenseNumber": "0018400",
+      "status": "Current / Active",
+      "licensed": "11/07/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MINCEY, JOSHUA NEHEMIAH SR",
+      "city": "Jacksonville",
+      "zip": "32219",
+      "license": "HI18668",
+      "licenseNumber": "0018668",
+      "status": "Current / Active",
+      "licensed": "04/03/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MOCK, CHRISTOPHER",
+      "city": "Jacksonville",
+      "zip": "32221",
+      "license": "HI12718",
+      "licenseNumber": "0012718",
+      "status": "Current / Active",
+      "licensed": "05/01/2020",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MULLEN, FORD NELSON",
+      "city": "Jacksonville",
+      "zip": "32210",
+      "license": "HI12856",
+      "licenseNumber": "0012856",
+      "status": "Current / Active",
+      "licensed": "07/10/2020",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "NASH, CHARLES",
+      "city": "Jacksonville",
+      "zip": "32225",
+      "license": "HI9246",
+      "licenseNumber": "0009246",
+      "status": "Current / Active",
+      "licensed": "10/30/2015",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "NELSON, WAYNE FRANKLIN",
+      "city": "Jacksonville",
+      "zip": "32207",
+      "license": "HI15396",
+      "licenseNumber": "0015396",
+      "status": "Current / Active",
+      "licensed": "07/27/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "NEWSOME, KEVIN WAYNE",
+      "city": "Jacksonville",
+      "zip": "32226",
+      "license": "HI3346",
+      "licenseNumber": "0003346",
+      "status": "Current / Active",
+      "licensed": "03/15/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "NGUYEN, QUANG V",
+      "city": "Jacksonville",
+      "zip": "32246",
+      "license": "HI15734",
+      "licenseNumber": "0015734",
+      "status": "Current / Active",
+      "licensed": "11/14/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "NICHOLAS, RYAN",
+      "city": "Jacksonville",
+      "zip": "32220",
+      "license": "HI18372",
+      "licenseNumber": "0018372",
+      "status": "Current / Active",
+      "licensed": "10/17/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "O DONNELL, DAVID ALAN",
+      "city": "Jacksonville",
+      "zip": "32277",
+      "license": "HI16392",
+      "licenseNumber": "0016392",
+      "status": "Current / Active",
+      "licensed": "07/05/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "OLDRING, JOSEPH LEE",
+      "city": "Jacksonville",
+      "zip": "32257",
+      "license": "HI15791",
+      "licenseNumber": "0015791",
+      "status": "Current / Active",
+      "licensed": "12/06/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "OLORUNJU, MURISEQ OLALEKAN",
+      "city": "Jacksonville",
+      "zip": "32244",
+      "license": "HI12414",
+      "licenseNumber": "0012414",
+      "status": "Current / Active",
+      "licensed": "11/25/2019",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "OSGARD, JEFFREY L",
+      "city": "Jacksonville",
+      "zip": "32224",
+      "license": "HI13460",
+      "licenseNumber": "0013460",
+      "status": "Current / Active",
+      "licensed": "02/09/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "PARENIO, CHRISTIAN RAPHAEL",
+      "city": "Jacksonville",
+      "zip": "32250",
+      "license": "HI13679",
+      "licenseNumber": "0013679",
+      "status": "Current / Active",
+      "licensed": "04/07/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "PARLATO, THERESA V",
+      "city": "Jacksonville",
+      "zip": "32205",
+      "license": "HI6947",
+      "licenseNumber": "0006947",
+      "status": "Current / Active",
+      "licensed": "07/03/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "PARSON, RICHARD LEE",
+      "city": "Jacksonville",
+      "zip": "32223",
+      "license": "HI12144",
+      "licenseNumber": "0012144",
+      "status": "Current / Active",
+      "licensed": "07/23/2019",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "PENNINGTON, MARK BRIAN",
+      "city": "Jacksonville",
+      "zip": "32210",
+      "license": "HI9555",
+      "licenseNumber": "0009555",
+      "status": "Current / Active",
+      "licensed": "04/08/2016",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "PESSOLANO, VINCENT CARL III",
+      "city": "Jacksonville",
+      "zip": "32224",
+      "license": "HI9635",
+      "licenseNumber": "0009635",
+      "status": "Current / Active",
+      "licensed": "05/12/2016",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "PITMAN, JERE FORD",
+      "city": "Jacksonville",
+      "zip": "32210",
+      "license": "HI14496",
+      "licenseNumber": "0014496",
+      "status": "Current / Active",
+      "licensed": "11/10/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "PRINZI, LOUIS ANTHONY",
+      "city": "Jacksonville",
+      "zip": "32224",
+      "license": "HI282",
+      "licenseNumber": "0000282",
+      "status": "Current / Active",
+      "licensed": "09/15/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "PUENTES, ELIESER",
+      "city": "Jacksonville",
+      "zip": "32211",
+      "license": "HI18349",
+      "licenseNumber": "0018349",
+      "status": "Current / Active",
+      "licensed": "10/08/2025",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "QUILES, NELSON M",
+      "city": "Jacksonville",
+      "zip": "32225",
+      "license": "HI18724",
+      "licenseNumber": "0018724",
+      "status": "Current / Active",
+      "licensed": "04/21/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "QUINTERO, RICARDO E",
+      "city": "Jacksonville",
+      "zip": "32256",
+      "license": "HI19210",
+      "licenseNumber": "0019210",
+      "status": "Current / Active",
+      "licensed": "11/17/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "RAHIMI, RAHMAN",
+      "city": "Jacksonville",
+      "zip": "32277",
+      "license": "HI464",
+      "licenseNumber": "0000464",
+      "status": "Current / Active",
+      "licensed": "10/19/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "RANSOM, SHAUN EDWARD SR",
+      "city": "Jacksonville",
+      "zip": "32209",
+      "license": "HI17459",
+      "licenseNumber": "0017459",
+      "status": "Current / Active",
+      "licensed": "08/15/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "RASO, ANTHONY MICHAEL",
+      "city": "Jacksonville",
+      "zip": "32256",
+      "license": "HI4506",
+      "licenseNumber": "0004506",
+      "status": "Current / Active",
+      "licensed": "06/01/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "RENFRO, WILLIAM ERIC",
+      "city": "Jacksonville",
+      "zip": "32223",
+      "license": "HI14713",
+      "licenseNumber": "0014713",
+      "status": "Current / Active",
+      "licensed": "01/12/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "RICHARDSON, ANTWAN",
+      "city": "Jacksonville",
+      "zip": "32256",
+      "license": "HI8295",
+      "licenseNumber": "0008295",
+      "status": "Current / Active",
+      "licensed": "04/23/2014",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "RICHARDSON, CORTEZ",
+      "city": "Jacksonville",
+      "zip": "32218",
+      "license": "HI19181",
+      "licenseNumber": "0019181",
+      "status": "Current / Active",
+      "licensed": "11/06/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "RIOS SUAREZ, OSBEL",
+      "city": "Jacksonville",
+      "zip": "32210",
+      "license": "HI18881",
+      "licenseNumber": "0018881",
+      "status": "Current / Active",
+      "licensed": "06/26/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ROBINSON, DANIEL",
+      "city": "Jacksonville",
+      "zip": "32256",
+      "license": "HI16261",
+      "licenseNumber": "0016261",
+      "status": "Current / Active",
+      "licensed": "05/19/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ROOFF, MICHAEL JAMES",
+      "city": "Jacksonville",
+      "zip": "32258",
+      "license": "HI9761",
+      "licenseNumber": "0009761",
+      "status": "Current / Active",
+      "licensed": "07/30/2016",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ROQUE, ANTHONY RENE",
+      "city": "Jacksonville",
+      "zip": "32221",
+      "license": "HI5572",
+      "licenseNumber": "0005572",
+      "status": "Current / Active",
+      "licensed": "03/12/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ROSADO, ANGEL MANUEL JR",
+      "city": "Jacksonville",
+      "zip": "32225",
+      "license": "HI4663",
+      "licenseNumber": "0004663",
+      "status": "Current / Active",
+      "licensed": "07/28/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ROWAN, MICHAEL MARTIN",
+      "city": "Jacksonville",
+      "zip": "32246",
+      "license": "HI265",
+      "licenseNumber": "0000265",
+      "status": "Current / Active",
+      "licensed": "09/10/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "RUIZ, LUIS ANTONIO",
+      "city": "Jacksonville",
+      "zip": "32216",
+      "license": "HI15034",
+      "licenseNumber": "0015034",
+      "status": "Current / Active",
+      "licensed": "04/08/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "RUTHERFORD, BRAD AARON",
+      "city": "Jacksonville",
+      "zip": "32223",
+      "license": "HI15419",
+      "licenseNumber": "0015419",
+      "status": "Current / Active",
+      "licensed": "08/08/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SCHLEGEL, PETER",
+      "city": "Jacksonville",
+      "zip": "32210",
+      "license": "HI11840",
+      "licenseNumber": "0011840",
+      "status": "Current / Active",
+      "licensed": "03/01/2019",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SCHMIDT, CHRISTOPHER J",
+      "city": "Jacksonville",
+      "zip": "32205",
+      "license": "HI9856",
+      "licenseNumber": "0009856",
+      "status": "Current / Active",
+      "licensed": "09/15/2016",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SCHREIBER, ANTHONY MODESTO",
+      "city": "Jacksonville",
+      "zip": "32241",
+      "license": "HI834",
+      "licenseNumber": "0000834",
+      "status": "Current / Active",
+      "licensed": "12/17/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SHELLABARGER, JARED",
+      "city": "Jacksonville",
+      "zip": "32256",
+      "license": "HI9369",
+      "licenseNumber": "0009369",
+      "status": "Current / Active",
+      "licensed": "01/12/2016",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SHYKEN, JOSEPH YARONE",
+      "city": "Jacksonville",
+      "zip": "32257",
+      "license": "HI10016",
+      "licenseNumber": "0010016",
+      "status": "Current / Active",
+      "licensed": "12/07/2016",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SIEWERT, BRIAN DARYL",
+      "city": "Jacksonville",
+      "zip": "32217",
+      "license": "HI6936",
+      "licenseNumber": "0006936",
+      "status": "Current / Active",
+      "licensed": "07/03/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SILCOX, WILLIAM S JR",
+      "city": "Jacksonville",
+      "zip": "32210",
+      "license": "HI3291",
+      "licenseNumber": "0003291",
+      "status": "Current / Active",
+      "licensed": "03/15/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SMITH, DAWAUN ALFRED",
+      "city": "Jacksonville",
+      "zip": "32221",
+      "license": "HI15257",
+      "licenseNumber": "0015257",
+      "status": "Current / Active",
+      "licensed": "06/14/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SMITH, DYLAN",
+      "city": "Jacksonville",
+      "zip": "32256",
+      "license": "HI18905",
+      "licenseNumber": "0018905",
+      "status": "Current / Active",
+      "licensed": "07/08/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SMITH, JEFFREY SCOTT",
+      "city": "Jacksonville",
+      "zip": "32207",
+      "license": "HI8854",
+      "licenseNumber": "0008854",
+      "status": "Current / Active",
+      "licensed": "04/16/2015",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SMITH, KEVIN D",
+      "city": "Jacksonville",
+      "zip": "32225",
+      "license": "HI13822",
+      "licenseNumber": "0013822",
+      "status": "Current / Active",
+      "licensed": "05/11/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SMOAK, JAMES M JR",
+      "city": "Jacksonville",
+      "zip": "32223",
+      "license": "HI4678",
+      "licenseNumber": "0004678",
+      "status": "Current / Active",
+      "licensed": "08/04/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SNOW, BRIAN A",
+      "city": "Jacksonville",
+      "zip": "32225",
+      "license": "HI2659",
+      "licenseNumber": "0002659",
+      "status": "Current / Active",
+      "licensed": "03/07/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SOBALVARRO, JAIME ANTONIO",
+      "city": "Jacksonville",
+      "zip": "32259",
+      "license": "HI18945",
+      "licenseNumber": "0018945",
+      "status": "Current / Active",
+      "licensed": "07/20/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SONNEY, ROBERT DOUGLAS",
+      "city": "Jacksonville",
+      "zip": "32224",
+      "license": "HI18841",
+      "licenseNumber": "0018841",
+      "status": "Current / Active",
+      "licensed": "06/10/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SORENSEN, HENRY SCOTT",
+      "city": "Jacksonville",
+      "zip": "32218",
+      "license": "HI3638",
+      "licenseNumber": "0003638",
+      "status": "Current / Active",
+      "licensed": "03/18/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SOSA, MICHAEL",
+      "city": "Jacksonville",
+      "zip": "32246",
+      "license": "HI13715",
+      "licenseNumber": "0013715",
+      "status": "Current / Active",
+      "licensed": "04/14/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SOUTHWELL, JASON JACOB",
+      "city": "Jacksonville",
+      "zip": "32223",
+      "license": "HI12409",
+      "licenseNumber": "0012409",
+      "status": "Current / Active",
+      "licensed": "11/22/2019",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SPAULDING, NATHAN DANIEL",
+      "city": "Jacksonville",
+      "zip": "32221",
+      "license": "HI9187",
+      "licenseNumber": "0009187",
+      "status": "Current / Active",
+      "licensed": "10/06/2015",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SPAULDING, NATHAN DANIEL JR",
+      "city": "Jacksonville",
+      "zip": "32221",
+      "license": "HI10288",
+      "licenseNumber": "0010288",
+      "status": "Current / Active",
+      "licensed": "04/13/2017",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SPENCER, LAVERNE L",
+      "city": "Jacksonville",
+      "zip": "32246",
+      "license": "HI581",
+      "licenseNumber": "0000581",
+      "status": "Current / Active",
+      "licensed": "11/04/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "STORNIOLO, CARALEE",
+      "city": "Jacksonville",
+      "zip": "32258",
+      "license": "HI17513",
+      "licenseNumber": "0017513",
+      "status": "Current / Active",
+      "licensed": "09/10/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "STORNIOLO, LAWRENCE JOSEPH II",
+      "city": "Jacksonville",
+      "zip": "32258",
+      "license": "HI10103",
+      "licenseNumber": "0010103",
+      "status": "Current / Active",
+      "licensed": "01/19/2017",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "SWINT, COY",
+      "city": "Jacksonville",
+      "zip": "32211",
+      "license": "HI2477",
+      "licenseNumber": "0002477",
+      "status": "Current / Active",
+      "licensed": "03/03/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "TARASHIK, GAGE",
+      "city": "Jacksonville",
+      "zip": "32216",
+      "license": "HI17416",
+      "licenseNumber": "0017416",
+      "status": "Current / Active",
+      "licensed": "07/31/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "THOMAS, LARRY WENDELL",
+      "city": "Jacksonville",
+      "zip": "32208",
+      "license": "HI586",
+      "licenseNumber": "0000586",
+      "status": "Current / Active",
+      "licensed": "11/08/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "THOMPSON, HAROLD ALVIN III",
+      "city": "Jacksonville",
+      "zip": "32256",
+      "license": "HI9531",
+      "licenseNumber": "0009531",
+      "status": "Current / Active",
+      "licensed": "03/28/2016",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "THWING, JOSHUA LEE",
+      "city": "Jacksonville",
+      "zip": "32258",
+      "license": "HI18953",
+      "licenseNumber": "0018953",
+      "status": "Current / Active",
+      "licensed": "07/22/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "TILLMAN, TERRY LEWIS II",
+      "city": "Jacksonville",
+      "zip": "32220",
+      "license": "HI3359",
+      "licenseNumber": "0003359",
+      "status": "Current / Active",
+      "licensed": "03/15/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "TOWERS, CHARLES ROBERT II",
+      "city": "Jacksonville",
+      "zip": "32221",
+      "license": "HI925",
+      "licenseNumber": "0000925",
+      "status": "Current / Active",
+      "licensed": "12/28/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "TRAHAN, SHANNON CHARLES SR",
+      "city": "Jacksonville",
+      "zip": "32216",
+      "license": "HI12247",
+      "licenseNumber": "0012247",
+      "status": "Current / Active",
+      "licensed": "09/12/2019",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "TRAUGOT, JOHN",
+      "city": "Jacksonville",
+      "zip": "32244",
+      "license": "HI18917",
+      "licenseNumber": "0018917",
+      "status": "Current / Active",
+      "licensed": "07/13/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "TURNER, RICHARD STEVEN",
+      "city": "Jacksonville",
+      "zip": "32225",
+      "license": "HI756",
+      "licenseNumber": "0000756",
+      "status": "Current / Active",
+      "licensed": "12/07/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "VAJIHUDDIN, ALIASGER SHABBIR",
+      "city": "Jacksonville",
+      "zip": "32258",
+      "license": "HI16758",
+      "licenseNumber": "0016758",
+      "status": "Current / Active",
+      "licensed": "11/15/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "VANARSDALE, MATTHEW BRYAN",
+      "city": "Jacksonville",
+      "zip": "32257",
+      "license": "HI13238",
+      "licenseNumber": "0013238",
+      "status": "Current / Active",
+      "licensed": "12/02/2020",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "VENTURA, MANUEL ALEJANDRO",
+      "city": "Jacksonville",
+      "zip": "32223",
+      "license": "HI14891",
+      "licenseNumber": "0014891",
+      "status": "Current / Active",
+      "licensed": "03/01/2022",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "WALKER, BRIAN JOSEPH",
+      "city": "Jacksonville",
+      "zip": "32207",
+      "license": "HI14111",
+      "licenseNumber": "0014111",
+      "status": "Current / Active",
+      "licensed": "07/29/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "WALKER, JOSEPH",
+      "city": "Jacksonville",
+      "zip": "32226",
+      "license": "HI16833",
+      "licenseNumber": "0016833",
+      "status": "Current / Active",
+      "licensed": "12/11/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "WALLACE, JAMES H SR",
+      "city": "Jacksonville",
+      "zip": "32218",
+      "license": "HI7484",
+      "licenseNumber": "0007484",
+      "status": "Current / Active",
+      "licensed": "08/10/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "WALTON, LOTOICE DENEAL",
+      "city": "Jacksonville",
+      "zip": "32210",
+      "license": "HI8706",
+      "licenseNumber": "0008706",
+      "status": "Current / Active",
+      "licensed": "01/29/2015",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "WATSON, JOHN MARION JR",
+      "city": "Jacksonville",
+      "zip": "32224",
+      "license": "HI16551",
+      "licenseNumber": "0016551",
+      "status": "Current / Active",
+      "licensed": "08/24/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "WEST, JERRY",
+      "city": "Jacksonville",
+      "zip": "32254",
+      "license": "HI3288",
+      "licenseNumber": "0003288",
+      "status": "Current / Active",
+      "licensed": "03/15/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "WHEELER, ADAM C",
+      "city": "Jacksonville",
+      "zip": "32205",
+      "license": "HI4289",
+      "licenseNumber": "0004289",
+      "status": "Current / Active",
+      "licensed": "04/08/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "WHEELER, JAMES W",
+      "city": "Jacksonville",
+      "zip": "32205",
+      "license": "HI3714",
+      "licenseNumber": "0003714",
+      "status": "Current / Active",
+      "licensed": "03/22/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "WHITE, ROBERT G",
+      "city": "Jacksonville",
+      "zip": "32244",
+      "license": "HI397",
+      "licenseNumber": "0000397",
+      "status": "Current / Active",
+      "licensed": "10/11/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "WIGGINS, DAVID WAYNE JR",
+      "city": "Jacksonville",
+      "zip": "32226",
+      "license": "HI1346",
+      "licenseNumber": "0001346",
+      "status": "Current / Active",
+      "licensed": "02/03/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "WILLIAMS, ANDRE M",
+      "city": "Jacksonville",
+      "zip": "32277",
+      "license": "HI1928",
+      "licenseNumber": "0001928",
+      "status": "Current / Active",
+      "licensed": "02/23/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "WILLIAMS, ANGIE DAMITA",
+      "city": "Jacksonville",
+      "zip": "32258",
+      "license": "HI603",
+      "licenseNumber": "0000603",
+      "status": "Current / Active",
+      "licensed": "11/10/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "WILLIAMS, BRADLEY BEATTIE JR",
+      "city": "Jacksonville",
+      "zip": "32210",
+      "license": "HI8783",
+      "licenseNumber": "0008783",
+      "status": "Current / Active",
+      "licensed": "03/16/2015",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "WILSON, BERNARD AUGUSTUS",
+      "city": "Jacksonville",
+      "zip": "32216",
+      "license": "HI5076",
+      "licenseNumber": "0005076",
+      "status": "Current / Active",
+      "licensed": "11/23/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "WILSON, WILLIAM RUFUS",
+      "city": "Jacksonville",
+      "zip": "32225",
+      "license": "HI5251",
+      "licenseNumber": "0005251",
+      "status": "Current / Active",
+      "licensed": "01/18/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "WINTERS, EDWARD JR",
+      "city": "Jacksonville",
+      "zip": "32241",
+      "license": "HI375",
+      "licenseNumber": "0000375",
+      "status": "Current / Active",
+      "licensed": "10/08/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "WOLLITZ, MARK LOUIS",
+      "city": "Jacksonville",
+      "zip": "32220",
+      "license": "HI1066",
+      "licenseNumber": "0001066",
+      "status": "Current / Active",
+      "licensed": "01/14/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "WOOD, MICHAEL",
+      "city": "Jacksonville",
+      "zip": "32205",
+      "license": "HI9859",
+      "licenseNumber": "0009859",
+      "status": "Current / Active",
+      "licensed": "09/15/2016",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "WOOLFE, DANE CAREY",
+      "city": "Jacksonville",
+      "zip": "32257",
+      "license": "HI16324",
+      "licenseNumber": "0016324",
+      "status": "Current / Active",
+      "licensed": "06/15/2023",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "WORKMAN, PAUL HOWARD",
+      "city": "Jacksonville",
+      "zip": "32223",
+      "license": "HI3804",
+      "licenseNumber": "0003804",
+      "status": "Current / Active",
+      "licensed": "03/23/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "YU, TAEHEUNG",
+      "city": "Jacksonville",
+      "zip": "32256",
+      "license": "HI18615",
+      "licenseNumber": "0018615",
+      "status": "Current / Active",
+      "licensed": "03/09/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ZALUSKY, RAYMOND III",
+      "city": "Jacksonville",
+      "zip": "32225",
+      "license": "HI17549",
+      "licenseNumber": "0017549",
+      "status": "Current / Active",
+      "licensed": "09/25/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ZEAITER, RON JOHN",
+      "city": "Jacksonville",
+      "zip": "32277",
+      "license": "HI11215",
+      "licenseNumber": "0011215",
+      "status": "Current / Active",
+      "licensed": "06/12/2018",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ZIMMERMAN, LOGAN",
+      "city": "Jacksonville",
+      "zip": "32246",
+      "license": "HI17690",
+      "licenseNumber": "0017690",
+      "status": "Current / Active",
+      "licensed": "12/02/2024",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "COLLEY, WALTER BYRON JR",
+      "city": "Jacksonville Beach",
+      "zip": "32250",
+      "license": "HI4024",
+      "licenseNumber": "0004024",
+      "status": "Current / Active",
+      "licensed": "03/30/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "DENISEN, DAVID BRIAN",
+      "city": "Jacksonville Beach",
+      "zip": "32250",
+      "license": "HI5591",
+      "licenseNumber": "0005591",
+      "status": "Current / Active",
+      "licensed": "03/14/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "DICK, DAVID B",
+      "city": "Jacksonville Beach",
+      "zip": "32250",
+      "license": "HI5430",
+      "licenseNumber": "0005430",
+      "status": "Current / Active",
+      "licensed": "02/21/2012",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "GRUBER, JAMES RUSSELL",
+      "city": "Jacksonville Beach",
+      "zip": "32250",
+      "license": "HI18956",
+      "licenseNumber": "0018956",
+      "status": "Current / Active",
+      "licensed": "07/22/2026",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "KENNELLY, GEORGE MARTIN",
+      "city": "Jacksonville Beach",
+      "zip": "32250",
+      "license": "HI719",
+      "licenseNumber": "0000719",
+      "status": "Current / Active",
+      "licensed": "12/01/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "MANLEY, ROBERT H II",
+      "city": "Jacksonville Beach",
+      "zip": "32250",
+      "license": "HI1282",
+      "licenseNumber": "0001282",
+      "status": "Current / Active",
+      "licensed": "02/01/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "RAINS, ROBERT LESTER",
+      "city": "Jacksonville Beach",
+      "zip": "32250",
+      "license": "HI12085",
+      "licenseNumber": "0012085",
+      "status": "Current / Active",
+      "licensed": "06/24/2019",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "RUD, LUKE JOSEPH",
+      "city": "Jacksonville Beach",
+      "zip": "32250",
+      "license": "HI14314",
+      "licenseNumber": "0014314",
+      "status": "Current / Active",
+      "licensed": "09/16/2021",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "RUEHL, KEITH GARY",
+      "city": "Jacksonville Beach",
+      "zip": "32250",
+      "license": "HI634",
+      "licenseNumber": "0000634",
+      "status": "Current / Active",
+      "licensed": "11/16/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "TUCKER, FRANK MARK",
+      "city": "Jacksonville Beach",
+      "zip": "32250",
+      "license": "HI1390",
+      "licenseNumber": "0001390",
+      "status": "Current / Active",
+      "licensed": "02/07/2011",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "ALLBRITTEN, WILLIAM AUGUSTUS JR",
+      "city": "Neptune Beach",
+      "zip": "32266",
+      "license": "HI132",
+      "licenseNumber": "0000132",
+      "status": "Current / Active",
+      "licensed": "08/11/2010",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "LUNSFORD, HORACE LAMAR JR",
+      "city": "Neptune Beach",
+      "zip": "32266",
+      "license": "HI9365",
+      "licenseNumber": "0009365",
+      "status": "Current / Active",
+      "licensed": "01/11/2016",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "STEIN, KURT W",
+      "city": "Neptune Beach",
+      "zip": "32266",
+      "license": "HI10548",
+      "licenseNumber": "0010548",
+      "status": "Current / Active",
+      "licensed": "08/04/2017",
+      "expires": "07/31/2028"
+    },
+    {
+      "name": "WRENN, COREY M",
+      "city": "Neptune Beach",
+      "zip": "32266",
+      "license": "HI19023",
+      "licenseNumber": "0019023",
+      "status": "Current / Active",
+      "licensed": "08/24/2026",
+      "expires": "07/31/2028"
+    }
+  ],
+  "flagged": [
+    {
+      "name": "ZOBROSKY, JAMES ROBERT",
+      "city": "Fleming Island",
+      "zip": "32003",
+      "license": "HI12249",
+      "licenseNumber": "0012249",
+      "status": "Current / Active",
+      "licensed": "09/12/2019",
+      "expires": "07/31/2028",
+      "otherCounty": "Clay"
+    },
+    {
+      "name": "MANGE, JOSEPH WOODRUFF JR",
+      "city": "Keystone Heights",
+      "zip": "32656",
+      "license": "HI3035",
+      "licenseNumber": "0003035",
+      "status": "Current / Active",
+      "licensed": "03/10/2011",
+      "expires": "07/31/2028",
+      "otherCounty": "Clay"
+    }
+  ]
+}

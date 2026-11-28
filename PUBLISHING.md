@@ -14,13 +14,14 @@ It is live on GitHub Pages at https://hernandez188515-del.github.io/florida-wind
 - `lee/index.html` — fifth county directory (Lee), added November 22, 2026
 - `orange/index.html` — sixth county directory (Orange), added November 24, 2026
 - `pinellas/index.html` — seventh county directory (Pinellas), added November 25, 2026
+- `duval/index.html` — eighth county directory (Duval), added November 27, 2026 (first county generated from the November 26 extract)
 - `guides/wind-mitigation-vs-4-point-vs-roof-certification/index.html` — first hand-written explainer (wind mitigation vs. 4-point vs. roof certification; signers, April 1, 2026 OIR-B1-1802 change, wind credits, published prices), added November 20, 2026
 - `guides/2026-wind-mitigation-form-question-by-question/index.html` — second hand-written explainer (all nine questions on OIR-B1-1802 Rev. 04/26, changes from Rev. 01/12, documentation checklist, rule status), added November 23, 2026
 - `guides/citizens-4-point-and-roof-age-requirements/index.html` — third hand-written explainer (Citizens Property Insurance 4-point rule for homes over 20 years old, 25/50-year roof-age limits, 5-year remaining-useful-life rule, proof of replacement, current Insp4pt 03 25 / RCF-1 03 25 forms and signers, s. 627.7011(5), 2026 status), added November 26, 2026
 - `assets/styles.css`
 - `data/lic04home-2026-11-18.csv` — official Florida DBPR home-inspector extract downloaded November 18, 2026 (America/New_York)
 - `data/lic04home-2026-11-19.csv` — re-download on November 19, 2026; byte-identical to the November 18 file (same SHA-256)
-- `data/lic04home-2026-11-26.csv` — re-download on November 26, 2026; differs from the November 19 file (SHA-256 `a66628f1913aea3997a38b101d742b61fd5f50906674d6631ba9723827f4f880`; 9,184 lines vs. 9,133; 7,857 current/active HI vs. 7,816). Published county tables were still generated from the November 19 file
+- `data/lic04home-2026-11-26.csv` — re-download on November 26, 2026; differs from the November 19 file (SHA-256 `a66628f1913aea3997a38b101d742b61fd5f50906674d6631ba9723827f4f880`; 9,184 lines vs. 9,133; 7,857 current/active HI vs. 7,816). The seven county tables published through November 25 were generated from the November 19 file; Duval (November 27) uses this file
 - `data/miami-dade-inspectors.json` — the filtered Miami-Dade table (no street addresses)
 - `data/broward-inspectors.json` — the filtered Broward table (no street addresses)
 - `data/palm-beach-inspectors.json` — the filtered Palm Beach table (no street addresses)
@@ -28,6 +29,7 @@ It is live on GitHub Pages at https://hernandez188515-del.github.io/florida-wind
 - `data/lee-inspectors.json` — the filtered Lee table (no street addresses)
 - `data/orange-inspectors.json` — the filtered Orange table (no street addresses)
 - `data/pinellas-inspectors.json` — the filtered Pinellas table (no street addresses)
+- `data/duval-inspectors.json` — the filtered Duval table (no street addresses; from `data/lic04home-2026-11-26.csv`)
 - `data/companies/<slug>.html` — hand-verified company write-ups; `scripts/next_county.py` includes them verbatim and shows a “verification pending” stub when the file is missing
 - `CHANGELOG.md` — dated log of each nightly run
 - `sitemap.xml`, `robots.txt`
@@ -36,7 +38,7 @@ It is live on GitHub Pages at https://hernandez188515-del.github.io/florida-wind
 
 Add **one new HTML page per night**, in this order of priority:
 
-1. **County directory pages** — one page per Florida county that has at least one current, active home-inspector license in the extract. The Miami-Dade page is the template. After Miami-Dade, the next largest counties in the November 18, 2026 extract were Broward (673), Palm Beach (482), Hillsborough (408), Lee (360), Orange (346), Pinellas (334), Duval (256), and Brevard and Pasco (249 each). Sixty-five of Florida’s 67 counties had at least one current/active record; Glades and Taylor had none in this file.
+1. **County directory pages** — one page per Florida county that has at least one current, active home-inspector license in the extract. The Miami-Dade page is the template. After Miami-Dade, the next largest counties in the November 18, 2026 extract were Broward (673), Palm Beach (482), Hillsborough (408), Lee (360), Orange (346), Pinellas (334), Duval (256), and Brevard and Pasco (249 each). Sixty-five of Florida’s 67 counties had at least one current/active record; Glades and Taylor had none in this file. In the November 26, 2026 extract, the next unpublished counties after Duval are Pasco (250), Brevard (249), Sarasota (241), Volusia (212), and Polk (192).
 2. **City directory pages** — only after the county page for that city exists. In the same extract there were 657 unique Florida city+county combinations; 259 had five or more current/active inspectors.
 3. **Explainer pages** (less often, and written by hand rather than generated): what a wind mitigation form covers, 4-point vs. full home inspection, the April 1, 2026 OIR-B1-1802 form change, and “who is legally allowed to sign.”
 
@@ -75,7 +77,7 @@ A simple scheduled job (GitHub Actions, Netlify scheduled function, or a cron us
 
 1. Download a fresh `lic04home.csv` and store it as `data/lic04home-YYYY-MM-DD.csv`.
 2. Parse it with the filters above.
-3. Look at existing county folders (today: `miami-dade/`, `broward/`, `palm-beach/`, `hillsborough/`, `lee/`, `orange/`, `pinellas/`). Choose the next unpublished county, preferably the remaining county with the most current/active inspectors.
+3. Look at existing county folders (today: `miami-dade/`, `broward/`, `palm-beach/`, `hillsborough/`, `lee/`, `orange/`, `pinellas/`, `duval/`). Choose the next unpublished county, preferably the remaining county with the most current/active inspectors.
 4. Generate that county’s `index.html` from the same layout as Miami-Dade: intro and caveats, then the license table (name, mailing city, ZIP, license number, status, first licensed, expiration). Leave the “companies that advertise these inspections” section as a stub unless someone has verified companies for that county.
 5. Refresh previously generated **tables** if license status changed, but do not silently overwrite hand-verified company write-ups.
 6. Update the homepage so the new county is linked (the “Live now” / “What’s next” area).
